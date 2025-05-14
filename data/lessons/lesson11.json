@@ -1,0 +1,2299 @@
+{
+  "id": 11,
+  "title": {
+    "english": "Modal Verbs",
+    "russian": "Модальные глаголы в английском языке",
+    "spanish": "Verbos modales",
+    "french": "Verbes modaux",
+    "german": "Modalverben"
+  },
+  "description": {
+    "english": "In this lesson, we'll learn about modal verbs in English.",
+    "russian": "В этом уроке мы изучим модальные глаголы в английском языке.",
+    "spanish": "En esta lección, aprenderemos los verbos modales en inglés.",
+    "french": "Dans cette leçon, nous apprendrons les verbes modaux en anglais.",
+    "german": "In dieser Lektion lernen wir die Modalverben im Englischen."
+  },
+  "detailedDescription": {
+    "russian": {
+      "title": "Урок 11 — Модальные глаголы в английском языке",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Модальные глаголы в английском языке"
+        },
+        {
+          "type": "text",
+          "content": "Модальные глаголы — это глаголы, которые выражают возможность, необходимость, обязанность или отношение говорящего к действию.\n\nПроще говоря — они показывают, что вы думаете о действии:\n • I can do it. — Я могу это сделать.\n • I must do it. — Я должен это сделать.\n • I should do it. — Мне нужно это сделать."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Особенности модальных глаголов:"
+        },
+        {
+          "type": "text",
+          "content": " 1. После них глагол ставится без \"to\"\n→ I can help. (не to help)\n 2. Они сами образуют вопросительную и отрицательную форму\n→ Can you help?\n→ He cannot help.\n 3. Используются в настоящем времени, чтобы говорить о будущем\n→ I can do it tomorrow."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Модальный глагол can — могу, умею"
+        },
+        {
+          "type": "text",
+          "content": "Означает физическую или умственную способность что-то сделать.\n\nПримеры:\n • I can run fast. — Я могу бегать быстро.\n • She can play the piano. — Она умеет играть на пианино."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Модальный глагол must — должен, обязан"
+        },
+        {
+          "type": "text",
+          "content": "Обозначает необходимость, обязанность или приказ. Может звучать как строгий совет.\n\nПримеры:\n • You must help me. — Ты должен мне помочь.\n • I must read this book. — Я обязан прочитать эту книгу."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Модальный глагол should — нужно (желательно)"
+        },
+        {
+          "type": "text",
+          "content": "Означает, что что-то желательно сделать, но это не строго обязательно.\n\nПримеры:\n • I should discuss it with you. — Мне нужно обсудить это с тобой.\n • I should read this book. — Мне стоит прочитать эту книгу."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Вопросительная форма"
+        },
+        {
+          "type": "text",
+          "content": "Модальный глагол переносится в начало предложения:\n • Can you help me? — Можешь мне помочь?\n • Should I go there? — Мне стоит туда пойти?"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Отрицательная форма"
+        },
+        {
+          "type": "text",
+          "content": "К модальному глаголу добавляется \"not\":\n • He can not help me. — Он не может помочь мне.\n • Visitors must not park here. — Посетителям нельзя парковаться здесь.\n\nВажно:\nУ can not есть несколько форм:\n • cannot — официальная форма (употребляется чаще в письме)\n • can't — сокращённая форма (разговорная)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Таблица использования can"
+        },
+        {
+          "type": "table",
+          "headers": ["Вопрос", "Утверждение", "Отрицание"],
+          "rows": [
+            ["Can I help?", "I can help", "I cannot help"],
+            ["Can you help?", "You can help", "You cannot help"],
+            ["Can we help?", "We can help", "We cannot help"],
+            ["Can they help?", "They can help", "They cannot help"],
+            ["Can he help?", "He can help", "He cannot help"],
+            ["Can she help?", "She can help", "She cannot help"]
+          ]
+        }
+      ]
+    },
+    "spanish": {
+      "title": "Lección 11 — Los verbos modales en inglés",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Los verbos modales en inglés"
+        },
+        {
+          "type": "text",
+          "content": "En inglés, existen unos verbos especiales llamados verbos modales. Se usan para expresar posibilidad, capacidad, obligación o una recomendación. Es decir, muestran la actitud del hablante hacia la acción.\n\nEn español usamos formas como puedo, debo, debería. En inglés, usamos:\n • can → puedo / sé / soy capaz\n • must → debo / tengo que\n • should → debería / convendría"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Ejemplos básicos:"
+        },
+        {
+          "type": "text",
+          "content": " • I can do it. — Puedo hacerlo.\n • I must do it. — Debo hacerlo.\n • I should do it. — Debería hacerlo."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Lo que debes saber sobre los verbos modales en inglés:"
+        },
+        {
+          "type": "text",
+          "content": " 1. Nunca van seguidos por \"to\" + verbo\n • Se dice: I can help, no *I can to help\n 2. Forman preguntas y negaciones por sí mismos\n • Can you help?\n • He cannot help.\n 3. Aunque están en presente, también se usan para hablar del futuro\n • I can meet you tomorrow."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Can – poder, saber, ser capaz"
+        },
+        {
+          "type": "text",
+          "content": "Expresa capacidad física o mental.\nEquivale a poder o saber hacer algo.\n\nEjemplos:\n • I can run fast. — Puedo correr rápido.\n • She can play the piano. — Ella sabe tocar el piano."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Must – deber (con obligación fuerte)"
+        },
+        {
+          "type": "text",
+          "content": "Expresa una obligación fuerte o necesidad, muchas veces por norma, situación o autoridad.\nMás fuerte que \"should\".\n\nEjemplos:\n • You must help me. — Debes ayudarme.\n • I must read this book. — Tengo que leer este libro."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Should – deberías, sería bueno que…"
+        },
+        {
+          "type": "text",
+          "content": "Expresa una recomendación o consejo.\nNo es una obligación estricta, sino algo que conviene hacer.\n\nEjemplos:\n • I should discuss it with you. — Debería hablarlo contigo.\n • I should read this book. — Me convendría leer este libro."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Forma interrogativa"
+        },
+        {
+          "type": "text",
+          "content": "El verbo modal va al principio de la oración, no necesitas usar auxiliares como \"do\" o \"does\".\n\nEjemplos:\n • Can you help me? — ¿Puedes ayudarme?\n • Should I go now? — ¿Debería irme ahora?"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Forma negativa"
+        },
+        {
+          "type": "text",
+          "content": "Solo añades \"not\" después del verbo modal:\n\nEjemplos:\n • He cannot help me. — No puede ayudarme.\n • Visitors must not park here. — Los visitantes no deben aparcar aquí.\n\nNota:\n\"Can not\" tiene tres formas:\n • cannot (formal, escrita)\n • can not (menos común)\n • can't (forma contraída, coloquial)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Errores comunes de hispanohablantes:"
+        },
+        {
+          "type": "text",
+          "content": " • Poner \"to\" después del verbo modal: can to go (incorrecto)\n • Usar auxiliares innecesarios: Do you can…? (incorrecto)\n • Usar mal el orden en preguntas\n • No usar la contracción \"can't\" en el habla informal"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Resumen (can):"
+        },
+        {
+          "type": "table",
+          "headers": ["Pregunta", "Afirmación", "Negación"],
+          "rows": [
+            ["Can I help?", "I can help", "I cannot help"],
+            ["Can you help?", "You can help", "You can't help"],
+            ["Can he/she help?", "He can help", "He can't help"]
+          ]
+        }
+      ]
+    },
+    "french": {
+      "title": "Leçon 11 — Les verbes modaux en anglais",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Les verbes modaux en anglais"
+        },
+        {
+          "type": "text",
+          "content": "En anglais, il existe des verbes spéciaux appelés \"verbes modaux\". Ils servent à exprimer la possibilité, la capacité, l'obligation ou le conseil.\nAutrement dit, ils montrent l'attitude du locuteur par rapport à l'action.\n\nEn français, on utilise des expressions comme je peux, je dois, je devrais.\nEn anglais, on utilise les verbes modaux :\n • can → pouvoir / savoir faire\n • must → devoir (obligation forte)\n • should → devoir au conditionnel / conseil"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Exemples simples :"
+        },
+        {
+          "type": "text",
+          "content": " • I can do it. — Je peux le faire.\n • I must do it. — Je dois le faire.\n • I should do it. — Je devrais le faire."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "À retenir sur les verbes modaux en anglais :"
+        },
+        {
+          "type": "text",
+          "content": " 1. Le verbe qui suit est à l'infinitif sans \"to\"\n • I can help (et non *can to help)\n 2. Ils forment eux-mêmes les phrases interrogatives et négatives\n • Can you help? — Peux-tu m'aider ?\n • He cannot help. — Il ne peut pas aider.\n 3. Ils s'utilisent au présent pour parler aussi du futur\n • I can see her tomorrow. — Je peux la voir demain."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Can – pouvoir / savoir faire"
+        },
+        {
+          "type": "text",
+          "content": "Ce verbe modal indique une capacité physique ou mentale.\nIl équivaut à pouvoir ou savoir faire quelque chose.\n\nExemples :\n • I can run fast. — Je peux courir vite.\n • She can play the piano. — Elle sait jouer du piano."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Must – devoir (forte obligation)"
+        },
+        {
+          "type": "text",
+          "content": "Ce verbe indique une nécessité absolue, une règle, ou un ordre.\nPlus fort que \"should\".\n\nExemples :\n • You must help me. — Tu dois m'aider.\n • I must read this book. — Je dois lire ce livre."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Should – devoir au conditionnel / il vaut mieux"
+        },
+        {
+          "type": "text",
+          "content": "Indique un conseil ou une recommandation, mais pas une obligation stricte.\n\nExemples :\n • I should discuss it with you. — Je devrais en parler avec toi.\n • I should read this book. — Il vaudrait mieux que je lise ce livre."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Forme interrogative"
+        },
+        {
+          "type": "text",
+          "content": "En anglais, on place directement le verbe modal au début de la question, sans utiliser d'auxiliaire comme do/does.\n\nExemples :\n • Can you help me? — Peux-tu m'aider ?\n • Should I go now? — Devrais-je y aller maintenant ?"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Forme négative"
+        },
+        {
+          "type": "text",
+          "content": "On ajoute simplement \"not\" après le verbe modal.\n\nExemples :\n • He cannot help me. — Il ne peut pas m'aider.\n • Visitors must not park here. — Les visiteurs ne doivent pas se garer ici.\n\nRemarque :\nLe verbe can peut s'écrire sous plusieurs formes à la forme négative :\n • cannot (forme longue, plus formelle)\n • can't (forme contractée, plus utilisée à l'oral)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Erreurs fréquentes chez les francophones :"
+        },
+        {
+          "type": "text",
+          "content": " • Ajouter \"to\" après un modal : can to go (incorrect)\n • Utiliser un auxiliaire en trop : Do you can…? (incorrect)\n • Oublier \"not\" ou le mettre au mauvais endroit\n • Traduire trop littéralement et mélanger \"must\" et \"should\""
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Résumé du verbe can :"
+        },
+        {
+          "type": "table",
+          "headers": ["Question", "Affirmation", "Négation"],
+          "rows": [
+            ["Can I help?", "I can help", "I cannot help"],
+            ["Can you help?", "You can help", "You can't help"],
+            ["Can he/she help?", "He can help", "He can't help"]
+          ]
+        }
+      ]
+    },
+    "german": {
+      "title": "Lektion 11 — Modale Hilfsverben im Englischen",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Modale Hilfsverben im Englischen"
+        },
+        {
+          "type": "text",
+          "content": "Im Englischen gibt es besondere Verben, die man modale Hilfsverben nennt.\nSie drücken aus, ob man etwas tun kann, tun muss oder tun sollte – also die Haltung des Sprechers zur Handlung.\n\nIm Deutschen haben wir ähnliche Formen wie:\nkann, muss, sollte\nIm Englischen sind die wichtigsten modalen Verben:\n • can → können\n • must → müssen\n • should → sollen / sollten (Empfehlung)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Einfache Beispiele:"
+        },
+        {
+          "type": "text",
+          "content": " • I can do it. — Ich kann es tun.\n • I must do it. — Ich muss es tun.\n • I should do it. — Ich sollte es tun."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Wichtige Merkmale der modalen Verben im Englischen:"
+        },
+        {
+          "type": "text",
+          "content": " 1. Das Verb danach steht im Infinitiv – aber ohne \"to\"\n→ I can help (nicht to help)\n 2. Fragen und Verneinungen werden direkt mit dem Modalverb gebildet\n→ Can you help?\n→ He cannot help.\n 3. Sie stehen im Präsens, können aber zukünftige Handlungen ausdrücken\n→ I can meet you tomorrow."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Can – können / fähig sein"
+        },
+        {
+          "type": "text",
+          "content": "Drückt Fähigkeit oder Möglichkeit aus.\nKann sich auf körperliche oder geistige Fähigkeiten beziehen.\n\nBeispiele:\n • I can run fast. — Ich kann schnell rennen.\n • She can play the piano. — Sie kann Klavier spielen."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Must – müssen"
+        },
+        {
+          "type": "text",
+          "content": "Drückt eine Notwendigkeit, Verpflichtung oder ein Verbot aus.\nOft ist es stärker als im Deutschen sollen oder dürfen nicht.\n\nBeispiele:\n • You must help me. — Du musst mir helfen.\n • I must read this book. — Ich muss dieses Buch lesen."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Should – sollen / sollten"
+        },
+        {
+          "type": "text",
+          "content": "Drückt eine Empfehlung oder einen Ratschlag aus – also etwas, das sinnvoll oder angebracht ist, aber nicht verpflichtend.\n\nBeispiele:\n • I should discuss it with you. — Ich sollte das mit dir besprechen.\n • I should read this book. — Ich sollte dieses Buch lesen."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Frageform"
+        },
+        {
+          "type": "text",
+          "content": "Im Gegensatz zum Deutschen wird das Modalverb an den Satzanfang gestellt, kein Hilfsverb wie \"do\" wird benötigt.\n\nBeispiele:\n • Can you help me? — Kannst du mir helfen?\n • Should I go? — Soll ich gehen?"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Verneinung"
+        },
+        {
+          "type": "text",
+          "content": "Einfach \"not\" nach dem Modalverb setzen.\n\nBeispiele:\n • He cannot help me. — Er kann mir nicht helfen.\n • Visitors must not park here. — Besucher dürfen hier nicht parken.\n\nHinweis:\nBeim Verb can gibt es mehrere Schreibweisen in der Verneinung:\n • cannot – formelle Schreibweise\n • can't – Kurzform, oft in der gesprochenen Sprache\n • can not – grammatikalisch korrekt, aber selten benutzt"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Typische Fehler deutscher Lerner:"
+        },
+        {
+          "type": "text",
+          "content": " • \"to\" nach dem Modalverb setzen: can to go → falsch\n • \"do\" in Fragen mit Modalverb verwenden: Do you can…? → falsch\n • Verwechslung von \"must\" und \"should\" im Sinn\n • Fehlender Artikel im Hauptverb: go to cinema → sollte sein go to the cinema"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Zusammenfassung – can im Überblick:"
+        },
+        {
+          "type": "table",
+          "headers": ["Frage", "Aussage", "Verneinung"],
+          "rows": [
+            ["Can I help?", "I can help", "I cannot help"],
+            ["Can you help?", "You can help", "You can't help"],
+            ["Can he/she help?", "He can help", "He can't help"]
+          ]
+        }
+      ]
+    }
+  },
+  "vocabulary": {
+    "firstList": [
+      {
+        "number": 1,
+        "english": "leg",
+        "russian": "нога",
+        "spanish": "pierna",
+        "french": "jambe",
+        "german": "Bein"
+      },
+      {
+        "number": 2,
+        "english": "fish",
+        "russian": "рыба",
+        "spanish": "pez",
+        "french": "poisson",
+        "german": "Fisch"
+      },
+      {
+        "number": 3,
+        "english": "parcel",
+        "russian": "посылка",
+        "spanish": "paquete",
+        "french": "colis",
+        "german": "Paket"
+      },
+      {
+        "number": 4,
+        "english": "truth",
+        "russian": "правда",
+        "spanish": "verdad",
+        "french": "vérité",
+        "german": "Wahrheit"
+      },
+      {
+        "number": 5,
+        "english": "bill",
+        "russian": "счет",
+        "spanish": "factura",
+        "french": "facture",
+        "german": "Rechnung"
+      },
+      {
+        "number": 6,
+        "english": "poem",
+        "russian": "стихотворение",
+        "spanish": "poema",
+        "french": "poème",
+        "german": "Gedicht"
+      },
+      {
+        "number": 7,
+        "english": "shirt",
+        "russian": "рубашка",
+        "spanish": "camisa",
+        "french": "chemise",
+        "german": "Hemd"
+      },
+      {
+        "number": 8,
+        "english": "meat",
+        "russian": "мясо",
+        "spanish": "carne",
+        "french": "viande",
+        "german": "Fleisch"
+      },
+      {
+        "number": 9,
+        "english": "box",
+        "russian": "коробка",
+        "spanish": "caja",
+        "french": "boîte",
+        "german": "Kiste"
+      },
+      {
+        "number": 10,
+        "english": "family",
+        "russian": "семья",
+        "spanish": "familia",
+        "french": "famille",
+        "german": "Familie"
+      },
+      {
+        "number": 11,
+        "english": "envelope",
+        "russian": "конверт",
+        "spanish": "sobre",
+        "french": "enveloppe",
+        "german": "Umschlag"
+      },
+      {
+        "number": 12,
+        "english": "document",
+        "russian": "документ",
+        "spanish": "documento",
+        "french": "document",
+        "german": "Dokument"
+      },
+      {
+        "number": 13,
+        "english": "cold",
+        "russian": "холодный",
+        "spanish": "frío",
+        "french": "froid",
+        "german": "kalt"
+      },
+      {
+        "number": 14,
+        "english": "warm",
+        "russian": "тёплый",
+        "spanish": "cálido",
+        "french": "chaud",
+        "german": "warm"
+      },
+      {
+        "number": 15,
+        "english": "hard",
+        "russian": "тяжело, упорно",
+        "spanish": "duro",
+        "french": "difficilement",
+        "german": "hart"
+      },
+      {
+        "number": 16,
+        "english": "easy",
+        "russian": "легко",
+        "spanish": "fácil",
+        "french": "facile",
+        "german": "einfach"
+      },
+      {
+        "number": 17,
+        "english": "loud",
+        "russian": "громко",
+        "spanish": "ruidoso",
+        "french": "fort",
+        "german": "laut"
+      },
+      {
+        "number": 18,
+        "english": "quiet",
+        "russian": "тихо",
+        "spanish": "silencioso",
+        "french": "silencieux",
+        "german": "leise"
+      },
+      {
+        "number": 19,
+        "english": "now",
+        "russian": "сейчас",
+        "spanish": "ahora",
+        "french": "maintenant",
+        "german": "jetzt"
+      },
+      {
+        "number": 20,
+        "english": "immediately",
+        "russian": "немедленно",
+        "spanish": "inmediatamente",
+        "french": "immédiatement",
+        "german": "sofort"
+      },
+      {
+        "number": 21,
+        "english": "all",
+        "russian": "все",
+        "spanish": "todo",
+        "french": "tout",
+        "german": "alle"
+      },
+      {
+        "number": 22,
+        "english": "several",
+        "russian": "несколько",
+        "spanish": "varios",
+        "french": "plusieurs",
+        "german": "mehrere"
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "english": "We must work.",
+      "russian": "Мы должны работать.",
+      "spanish": "Debemos trabajar.",
+      "german": "Wir müssen arbeiten.",
+      "french": "Nous devons travailler."
+    },
+    {
+      "id": 2,
+      "english": "You must answer all questions.",
+      "russian": "Ты должен ответить на все вопросы.",
+      "spanish": "Debes responder a todas las preguntas.",
+      "german": "Du musst alle Fragen beantworten.",
+      "french": "Tu dois répondre à toutes les questions."
+    },
+    {
+      "id": 3,
+      "english": "They must give us their books.",
+      "russian": "Они должны дать нам свои книги.",
+      "spanish": "Deben darnos sus libros.",
+      "german": "Sie müssen uns ihre Bücher geben.",
+      "french": "Ils doivent nous donner leurs livres."
+    },
+    {
+      "id": 4,
+      "english": "Can he stand?",
+      "russian": "Он может стоять?",
+      "spanish": "¿Puede él estar de pie?",
+      "german": "Kann er stehen?",
+      "french": "Peut-il se tenir debout ?"
+    },
+    {
+      "id": 5,
+      "english": "She can't pay.",
+      "russian": "Она не может заплатить.",
+      "spanish": "Ella no puede pagar.",
+      "german": "Sie kann nicht bezahlen.",
+      "french": "Elle ne peut pas payer."
+    },
+    {
+      "id": 6,
+      "english": "Must they pay?",
+      "russian": "Они должны заплатить?",
+      "spanish": "¿Deben pagar?",
+      "german": "Müssen sie bezahlen?",
+      "french": "Doivent-ils payer ?"
+    },
+    {
+      "id": 7,
+      "english": "Can she sit here?",
+      "russian": "Она может сидеть здесь?",
+      "spanish": "¿Puede ella sentarse aquí?",
+      "german": "Kann sie hier sitzen?",
+      "french": "Peut-elle s'asseoir ici ?"
+    },
+    {
+      "id": 8,
+      "english": "I can't come.",
+      "russian": "Я не могу прийти.",
+      "spanish": "No puedo venir.",
+      "german": "Ich kann nicht kommen.",
+      "french": "Je ne peux pas venir."
+    },
+    {
+      "id": 9,
+      "english": "They should meet today.",
+      "russian": "Им нужно встретиться сегодня.",
+      "spanish": "Deberían reunirse hoy.",
+      "german": "Sie sollten sich heute treffen.",
+      "french": "Ils devraient se rencontrer aujourd'hui."
+    },
+    {
+      "id": 10,
+      "english": "You can't travel this year.",
+      "russian": "Ты не можешь путешествовать в этом году.",
+      "spanish": "No puedes viajar este año.",
+      "german": "Du kannst dieses Jahr nicht reisen.",
+      "french": "Tu ne peux pas voyager cette année."
+    },
+    {
+      "id": 11,
+      "english": "We should write several letters.",
+      "russian": "Нам нужно написать несколько писем.",
+      "spanish": "Deberíamos escribir varias cartas.",
+      "german": "Wir sollten mehrere Briefe schreiben.",
+      "french": "Nous devrions écrire plusieurs lettres."
+    },
+    {
+      "id": 12,
+      "english": "Can we meet?",
+      "russian": "Мы можем встретиться?",
+      "spanish": "¿Podemos reunirnos?",
+      "german": "Können wir uns treffen?",
+      "french": "Pouvons-nous nous rencontrer ?"
+    },
+    {
+      "id": 13,
+      "english": "Can they bring their books?",
+      "russian": "Они могут принести свои книги?",
+      "spanish": "¿Pueden traer sus libros?",
+      "german": "Können sie ihre Bücher mitbringen?",
+      "french": "Peuvent-ils apporter leurs livres ?"
+    },
+    {
+      "id": 14,
+      "english": "They can't understand.",
+      "russian": "Они не могут понять.",
+      "spanish": "No pueden entender.",
+      "german": "Sie können nicht verstehen.",
+      "french": "Ils ne peuvent pas comprendre."
+    },
+    {
+      "id": 15,
+      "english": "You should sleep more.",
+      "russian": "Тебе нужно спать больше.",
+      "spanish": "Deberías dormir más.",
+      "german": "Du solltest mehr schlafen.",
+      "french": "Tu devrais dormir plus."
+    },
+    {
+      "id": 16,
+      "english": "They must help.",
+      "russian": "Они должны помочь.",
+      "spanish": "Deben ayudar.",
+      "german": "Sie müssen helfen.",
+      "french": "Ils doivent aider."
+    },
+    {
+      "id": 17,
+      "english": "Can we take?",
+      "russian": "Мы можем взять?",
+      "spanish": "¿Podemos tomar?",
+      "german": "Können wir nehmen?",
+      "french": "Pouvons-nous prendre ?"
+    },
+    {
+      "id": 18,
+      "english": "Must they hear?",
+      "russian": "Они должны слышать?",
+      "spanish": "¿Deben oír?",
+      "german": "Müssen sie hören?",
+      "french": "Doivent-ils entendre ?"
+    },
+    {
+      "id": 19,
+      "english": "She mustn't start.",
+      "russian": "Она не должна начинать.",
+      "spanish": "Ella no debe empezar.",
+      "german": "Sie darf nicht anfangen.",
+      "french": "Elle ne doit pas commencer."
+    },
+    {
+      "id": 20,
+      "english": "Can we finish?",
+      "russian": "Мы можем закончить?",
+      "spanish": "¿Podemos terminar?",
+      "german": "Können wir fertig machen?",
+      "french": "Pouvons-nous finir ?"
+    },
+    {
+      "id": 21,
+      "english": "They mustn't see.",
+      "russian": "Они не должны видеть.",
+      "spanish": "No deben ver.",
+      "german": "Sie dürfen nicht sehen.",
+      "french": "Ils ne doivent pas voir."
+    },
+    {
+      "id": 22,
+      "english": "Must he ask anything?",
+      "russian": "Он должен спросить что-нибудь?",
+      "spanish": "¿Debe él preguntar algo?",
+      "german": "Muss er etwas fragen?",
+      "french": "Doit-il demander quelque chose ?"
+    },
+    {
+      "id": 23,
+      "english": "She must finish her work now.",
+      "russian": "Она должна закончить свою работу сейчас.",
+      "spanish": "Ella debe terminar su trabajo ahora.",
+      "german": "Sie muss jetzt ihre Arbeit beenden.",
+      "french": "Elle doit terminer son travail maintenant."
+    },
+    {
+      "id": 24,
+      "english": "We must tell them the truth.",
+      "russian": "Мы должны рассказать им правду.",
+      "spanish": "Debemos decirles la verdad.",
+      "german": "Wir müssen ihnen die Wahrheit sagen.",
+      "french": "Nous devons leur dire la vérité."
+    },
+    {
+      "id": 25,
+      "english": "They can't take.",
+      "russian": "Они не могут взять.",
+      "spanish": "No pueden tomar.",
+      "german": "Sie können nicht nehmen.",
+      "french": "Ils ne peuvent pas prendre."
+    },
+    {
+      "id": 26,
+      "english": "You should start.",
+      "russian": "Тебе нужно начать.",
+      "spanish": "Deberías empezar.",
+      "german": "Du solltest anfangen.",
+      "french": "Tu devrais commencer."
+    },
+    {
+      "id": 27,
+      "english": "Must she bring anything?",
+      "russian": "Она должна принести что-нибудь?",
+      "spanish": "¿Debe traer algo?",
+      "german": "Muss sie etwas mitbringen?",
+      "french": "Doit-elle apporter quelque chose ?"
+    },
+    {
+      "id": 28,
+      "english": "Should we drink more water?",
+      "russian": "Нам нужно пить больше воды?",
+      "spanish": "¿Deberíamos beber más agua?",
+      "german": "Sollten wir mehr Wasser trinken?",
+      "french": "Devons-nous boire plus d'eau ?"
+    },
+    {
+      "id": 29,
+      "english": "Must you work here?",
+      "russian": "Ты должен работать здесь?",
+      "spanish": "¿Debes trabajar aquí?",
+      "german": "Musst du hier arbeiten?",
+      "french": "Dois-tu travailler ici ?"
+    },
+    {
+      "id": 30,
+      "english": "He can't break his leg.",
+      "russian": "Он не может сломать свою ногу.",
+      "spanish": "Él no puede romperse la pierna.",
+      "german": "Er kann sich nicht das Bein brechen.",
+      "french": "Il ne peut pas se casser la jambe."
+    },
+    {
+      "id": 31,
+      "english": "Must you stand here?",
+      "russian": "Ты должен стоять здесь?",
+      "spanish": "¿Debes estar de pie aquí?",
+      "german": "Musst du hier stehen?",
+      "french": "Dois-tu rester debout ici ?"
+    },
+    {
+      "id": 32,
+      "english": "I must go now.",
+      "russian": "Я должен уйти сейчас.",
+      "spanish": "Debo irme ahora.",
+      "german": "Ich muss jetzt gehen.",
+      "french": "Je dois partir maintenant."
+    },
+    {
+      "id": 33,
+      "english": "Must she tell the truth?",
+      "russian": "Она должна рассказать правду?",
+      "spanish": "¿Debe decir la verdad?",
+      "german": "Muss sie die Wahrheit sagen?",
+      "french": "Doit-elle dire la vérité ?"
+    },
+    {
+      "id": 34,
+      "english": "Can she fly?",
+      "russian": "Она может летать?",
+      "spanish": "¿Puede ella volar?",
+      "german": "Kann sie fliegen?",
+      "french": "Peut-elle voler ?"
+    },
+    {
+      "id": 35,
+      "english": "You can't pay.",
+      "russian": "Ты не можешь заплатить.",
+      "spanish": "No puedes pagar.",
+      "german": "Du kannst nicht bezahlen.",
+      "french": "Tu ne peux pas payer."
+    },
+    {
+      "id": 36,
+      "english": "We must say something.",
+      "russian": "Мы должны сказать что-нибудь.",
+      "spanish": "Debemos decir algo.",
+      "german": "Wir müssen etwas sagen.",
+      "french": "Nous devons dire quelque chose."
+    },
+    {
+      "id": 37,
+      "english": "We can think.",
+      "russian": "Мы можем думать.",
+      "spanish": "Podemos pensar.",
+      "german": "Wir können denken.",
+      "french": "Nous pouvons penser."
+    },
+    {
+      "id": 38,
+      "english": "They can't understand anything.",
+      "russian": "Они не могут понять ничего.",
+      "spanish": "No pueden entender nada.",
+      "german": "Sie können nichts verstehen.",
+      "french": "Ils ne peuvent rien comprendre."
+    },
+    {
+      "id": 39,
+      "english": "They can show.",
+      "russian": "Они могут показать.",
+      "spanish": "Ellos pueden mostrar.",
+      "german": "Sie können zeigen.",
+      "french": "Ils peuvent montrer."
+    },
+    {
+      "id": 40,
+      "english": "She must open this envelope.",
+      "russian": "Она должна открыть этот конверт.",
+      "spanish": "Ella debe abrir este sobre.",
+      "german": "Sie muss diesen Umschlag öffnen.",
+      "french": "Elle doit ouvrir cette enveloppe."
+    },
+    {
+      "id": 41,
+      "english": "They can take my money.",
+      "russian": "Они могут взять мои деньги.",
+      "spanish": "Ellos pueden tomar mi dinero.",
+      "german": "Sie können mein Geld nehmen.",
+      "french": "Ils peuvent prendre mon argent."
+    },
+    {
+      "id": 42,
+      "english": "He can't run fast.",
+      "russian": "Он не может бежать быстро.",
+      "spanish": "Él no puede correr rápido.",
+      "german": "Er kann nicht schnell rennen.",
+      "french": "Il ne peut pas courir vite."
+    },
+    {
+      "id": 43,
+      "english": "You must answer.",
+      "russian": "Ты должен ответить.",
+      "spanish": "Debes responder.",
+      "german": "Du musst antworten.",
+      "french": "Tu dois répondre."
+    },
+    {
+      "id": 44,
+      "english": "They can't feel cold.",
+      "russian": "Они не могут чувствовать холод.",
+      "spanish": "No pueden sentir frío.",
+      "german": "Sie können keine Kälte spüren.",
+      "french": "Ils ne peuvent pas sentir le froid."
+    },
+    {
+      "id": 45,
+      "english": "You can't sleep for so long.",
+      "russian": "Ты не можешь спать так долго.",
+      "spanish": "No puedes dormir tanto tiempo.",
+      "german": "Du kannst nicht so lange schlafen.",
+      "french": "Tu ne peux pas dormir si longtemps."
+    },
+    {
+      "id": 46,
+      "english": "I must finish my work.",
+      "russian": "Я должен закончить свою работу.",
+      "spanish": "Debo terminar mi trabajo.",
+      "german": "Ich muss meine Arbeit beenden.",
+      "french": "Je dois finir mon travail."
+    },
+    {
+      "id": 47,
+      "english": "Can you open?",
+      "russian": "Ты можешь открыть?",
+      "spanish": "¿Puedes abrir?",
+      "german": "Kannst du öffnen?",
+      "french": "Peux-tu ouvrir ?"
+    },
+    {
+      "id": 48,
+      "english": "I can't take it.",
+      "russian": "Я не могу взять это.",
+      "spanish": "No puedo tomarlo.",
+      "german": "Ich kann es nicht nehmen.",
+      "french": "Je ne peux pas le prendre."
+    },
+    {
+      "id": 49,
+      "english": "Must she bring?",
+      "russian": "Она должна принести?",
+      "spanish": "¿Debe traer?",
+      "german": "Muss sie bringen?",
+      "french": "Doit-elle apporter ?"
+    },
+    {
+      "id": 50,
+      "english": "They should set.",
+      "russian": "Им нужно установить.",
+      "spanish": "Deben configurar.",
+      "german": "Sie sollten einstellen.",
+      "french": "Ils devraient installer."
+    },
+    {
+      "id": 51,
+      "english": "She can sit.",
+      "russian": "Она может сидеть.",
+      "spanish": "Ella puede sentarse.",
+      "german": "Sie kann sitzen.",
+      "french": "Elle peut s'asseoir."
+    },
+    {
+      "id": 52,
+      "english": "She must help her family.",
+      "russian": "Она должна помочь своей семье.",
+      "spanish": "Ella debe ayudar a su familia.",
+      "german": "Sie muss ihrer Familie helfen.",
+      "french": "Elle doit aider sa famille."
+    },
+    {
+      "id": 53,
+      "english": "He mustn't help.",
+      "russian": "Он не должен помочь.",
+      "spanish": "Él no debe ayudar.",
+      "german": "Er darf nicht helfen.",
+      "french": "Il ne doit pas aider."
+    },
+    {
+      "id": 54,
+      "english": "We mustn't speak loud.",
+      "russian": "Мы не должны разговаривать громко.",
+      "spanish": "No debemos hablar fuerte.",
+      "german": "Wir dürfen nicht laut sprechen.",
+      "french": "Nous ne devons pas parler fort."
+    },
+    {
+      "id": 55,
+      "english": "He must turn here.",
+      "russian": "Он должен повернуть здесь.",
+      "spanish": "Él debe girar aquí.",
+      "german": "Er muss hier abbiegen.",
+      "french": "Il doit tourner ici."
+    },
+    {
+      "id": 56,
+      "english": "You can meet her today.",
+      "russian": "Ты можешь встретиться с ней сегодня.",
+      "spanish": "Puedes verla hoy.",
+      "german": "Du kannst sie heute treffen.",
+      "french": "Tu peux la rencontrer aujourd'hui."
+    },
+    {
+      "id": 57,
+      "english": "They must help us.",
+      "russian": "Они должны помочь нам.",
+      "spanish": "Deben ayudarnos.",
+      "german": "Sie müssen uns helfen.",
+      "french": "Ils doivent nous aider."
+    },
+    {
+      "id": 58,
+      "english": "They can sit.",
+      "russian": "Они могут сидеть.",
+      "spanish": "Pueden sentarse.",
+      "german": "Sie können sitzen.",
+      "french": "Ils peuvent s'asseoir."
+    },
+    {
+      "id": 59,
+      "english": "They mustn't feel cold.",
+      "russian": "Они не должны чувствовать холод.",
+      "spanish": "No deben sentir frío.",
+      "german": "Sie dürfen keine Kälte empfinden.",
+      "french": "Ils ne doivent pas avoir froid."
+    },
+    {
+      "id": 60,
+      "english": "You can answer this question.",
+      "russian": "Ты можешь ответить на этот вопрос.",
+      "spanish": "Puedes responder esta pregunta.",
+      "german": "Du kannst diese Frage beantworten.",
+      "french": "Tu peux répondre à cette question."
+    },
+    {
+      "id": 61,
+      "english": "We should go now.",
+      "russian": "Нам нужно идти сейчас.",
+      "spanish": "Deberíamos irnos ahora.",
+      "german": "Wir sollten jetzt gehen.",
+      "french": "Nous devrions partir maintenant."
+    },
+    {
+      "id": 62,
+      "english": "We must come today.",
+      "russian": "Мы должны прийти сегодня.",
+      "spanish": "Debemos venir hoy.",
+      "german": "Wir müssen heute kommen.",
+      "french": "Nous devons venir aujourd'hui."
+    },
+    {
+      "id": 63,
+      "english": "Can you eat?",
+      "russian": "Ты можешь есть?",
+      "spanish": "¿Puedes comer?",
+      "german": "Kannst du essen?",
+      "french": "Peux-tu manger ?"
+    },
+    {
+      "id": 64,
+      "english": "Can they show?",
+      "russian": "Они могут показать?",
+      "spanish": "¿Pueden mostrar?",
+      "german": "Können sie zeigen?",
+      "french": "Peuvent-ils montrer ?"
+    },
+    {
+      "id": 65,
+      "english": "She can answer.",
+      "russian": "Она может ответить.",
+      "spanish": "Ella puede responder.",
+      "german": "Sie kann antworten.",
+      "french": "Elle peut répondre."
+    },
+    {
+      "id": 66,
+      "english": "They should answer.",
+      "russian": "Им нужно ответить.",
+      "spanish": "Deben responder.",
+      "german": "Sie sollten antworten.",
+      "french": "Ils devraient répondre."
+    },
+    {
+      "id": 67,
+      "english": "Can he take?",
+      "russian": "Он может взять?",
+      "spanish": "¿Puede él tomar?",
+      "german": "Kann er nehmen?",
+      "french": "Peut-il prendre ?"
+    },
+    {
+      "id": 68,
+      "english": "We can't go.",
+      "russian": "Мы не можем идти.",
+      "spanish": "No podemos ir.",
+      "german": "Wir können nicht gehen.",
+      "french": "Nous ne pouvons pas y aller."
+    },
+    {
+      "id": 69,
+      "english": "He should understand it.",
+      "russian": "Ему нужно понять это.",
+      "spanish": "Él debería entenderlo.",
+      "german": "Er sollte es verstehen.",
+      "french": "Il devrait le comprendre."
+    }
+  ],
+  "exam": {
+    "sentences": [
+      {
+        "id": 1,
+        "sentence_en": "We must work.",
+        "translations": {
+          "ru": "Мы должны работать.",
+          "es": "Debemos trabajar.",
+          "fr": "Nous devons travailler.",
+          "de": "Wir müssen arbeiten."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "He"] },
+          { "correct": "must", "alternatives": ["can", "should", "will"] },
+          { "correct": "work", "alternatives": ["play", "rest", "wait"] }
+        ]
+      },
+      {
+        "id": 2,
+        "sentence_en": "You must answer all questions.",
+        "translations": {
+          "ru": "Ты должен ответить на все вопросы.",
+          "es": "Debes responder a todas las preguntas.",
+          "fr": "Tu dois répondre à toutes les questions.",
+          "de": "Du musst alle Fragen beantworten."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "She"] },
+          { "correct": "must", "alternatives": ["can", "should", "may"] },
+          { "correct": "answer", "alternatives": ["ask", "write", "read"] },
+          { "correct": "all", "alternatives": ["some", "few", "many"] },
+          { "correct": "questions", "alternatives": ["letters", "books", "tasks"] }
+        ]
+      },
+      {
+        "id": 3,
+        "sentence_en": "They must give us their books.",
+        "translations": {
+          "ru": "Они должны дать нам свои книги.",
+          "es": "Deben darnos sus libros.",
+          "fr": "Ils doivent nous donner leurs livres.",
+          "de": "Sie müssen uns ihre Bücher geben."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "must", "alternatives": ["can", "should", "might"] },
+          { "correct": "give", "alternatives": ["take", "show", "find"] },
+          { "correct": "us", "alternatives": ["them", "him", "her"] },
+          { "correct": "their", "alternatives": ["our", "your", "his"] },
+          { "correct": "books", "alternatives": ["letters", "boxes", "bags"] }
+        ]
+      },
+      {
+        "id": 4,
+        "sentence_en": "Can he stand?",
+        "translations": {
+          "ru": "Он может стоять?",
+          "es": "¿Puede él estar de pie?",
+          "fr": "Peut-il se tenir debout ?",
+          "de": "Kann er stehen?"
+        },
+        "words": [
+          { "correct": "Can", "alternatives": ["Must", "Should", "Will"] },
+          { "correct": "he", "alternatives": ["she", "they", "we"] },
+          { "correct": "stand", "alternatives": ["sit", "run", "jump"] }
+        ]
+      },
+      {
+        "id": 5,
+        "sentence_en": "She can't pay.",
+        "translations": {
+          "ru": "Она не может заплатить.",
+          "es": "Ella no puede pagar.",
+          "fr": "Elle ne peut pas payer.",
+          "de": "Sie kann nicht bezahlen."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "can't", "alternatives": ["mustn't", "shouldn't", "won't"] },
+          { "correct": "pay", "alternatives": ["buy", "sell", "show"] }
+        ]
+      },
+      {
+        "id": 6,
+        "sentence_en": "Must they pay?",
+        "translations": {
+          "ru": "Они должны заплатить?",
+          "es": "¿Deben pagar?",
+          "fr": "Doivent-ils payer ?",
+          "de": "Müssen sie bezahlen?"
+        },
+        "words": [
+          { "correct": "Must", "alternatives": ["Can", "Should", "Will"] },
+          { "correct": "they", "alternatives": ["he", "we", "you"] },
+          { "correct": "pay", "alternatives": ["buy", "bring", "show"] }
+        ]
+      },
+      {
+        "id": 7,
+        "sentence_en": "Can she sit here?",
+        "translations": {
+          "ru": "Она может сидеть здесь?",
+          "es": "¿Puede ella sentarse aquí?",
+          "fr": "Peut-elle s'asseoir ici ?",
+          "de": "Kann sie hier sitzen?"
+        },
+        "words": [
+          { "correct": "Can", "alternatives": ["Must", "Should", "Will"] },
+          { "correct": "she", "alternatives": ["he", "they", "we"] },
+          { "correct": "sit", "alternatives": ["stand", "run", "jump"] },
+          { "correct": "here", "alternatives": ["there", "now", "soon"] }
+        ]
+      },
+      {
+        "id": 8,
+        "sentence_en": "I can't come.",
+        "translations": {
+          "ru": "Я не могу прийти.",
+          "es": "No puedo venir.",
+          "fr": "Je ne peux pas venir.",
+          "de": "Ich kann nicht kommen."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["We", "They", "He"] },
+          { "correct": "can't", "alternatives": ["mustn't", "shouldn't", "won't"] },
+          { "correct": "come", "alternatives": ["go", "run", "wait"] }
+        ]
+      },
+      {
+        "id": 9,
+        "sentence_en": "They should meet today.",
+        "translations": {
+          "ru": "Им нужно встретиться сегодня.",
+          "es": "Deberían reunirse hoy.",
+          "fr": "Ils devraient se rencontrer aujourd'hui.",
+          "de": "Sie sollten sich heute treffen."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "should", "alternatives": ["must", "can", "will"] },
+          { "correct": "meet", "alternatives": ["call", "write", "read"] },
+          { "correct": "today", "alternatives": ["tomorrow", "soon", "later"] }
+        ]
+      },
+      {
+        "id": 10,
+        "sentence_en": "You can't travel this year.",
+        "translations": {
+          "ru": "Ты не можешь путешествовать в этом году.",
+          "es": "No puedes viajar este año.",
+          "fr": "Tu ne peux pas voyager cette année.",
+          "de": "Du kannst dieses Jahr nicht reisen."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "can't", "alternatives": ["mustn't", "shouldn't", "won't"] },
+          { "correct": "travel", "alternatives": ["work", "rest", "wait"] },
+          { "correct": "this", "alternatives": ["last", "next", "every"] },
+          { "correct": "year", "alternatives": ["month", "week", "day"] }
+        ]
+      },
+      {
+        "id": 11,
+        "sentence_en": "We should write several letters.",
+        "translations": {
+          "ru": "Нам нужно написать несколько писем.",
+          "es": "Deberíamos escribir varias cartas.",
+          "fr": "Nous devrions écrire plusieurs lettres.",
+          "de": "Wir sollten mehrere Briefe schreiben."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "He"] },
+          { "correct": "should", "alternatives": ["must", "can", "may"] },
+          { "correct": "write", "alternatives": ["read", "draw", "find"] },
+          { "correct": "several", "alternatives": ["few", "many", "all"] },
+          { "correct": "letters", "alternatives": ["books", "boxes", "tasks"] }
+        ]
+      },
+      {
+        "id": 12,
+        "sentence_en": "Can we meet?",
+        "translations": {
+          "ru": "Мы можем встретиться?",
+          "es": "¿Podemos reunirnos?",
+          "fr": "Pouvons-nous nous rencontrer ?",
+          "de": "Können wir uns treffen?"
+        },
+        "words": [
+          { "correct": "Can", "alternatives": ["Must", "Should", "Will"] },
+          { "correct": "we", "alternatives": ["they", "he", "you"] },
+          { "correct": "meet", "alternatives": ["call", "write", "read"] }
+        ]
+      },
+      {
+        "id": 13,
+        "sentence_en": "Can they bring their books?",
+        "translations": {
+          "ru": "Они могут принести свои книги?",
+          "es": "¿Pueden traer sus libros?",
+          "fr": "Peuvent-ils apporter leurs livres ?",
+          "de": "Können sie ihre Bücher mitbringen?"
+        },
+        "words": [
+          { "correct": "Can", "alternatives": ["Must", "Should", "Will"] },
+          { "correct": "they", "alternatives": ["he", "we", "you"] },
+          { "correct": "bring", "alternatives": ["take", "show", "find"] },
+          { "correct": "their", "alternatives": ["our", "your", "his"] },
+          { "correct": "books", "alternatives": ["letters", "boxes", "bags"] }
+        ]
+      },
+      {
+        "id": 14,
+        "sentence_en": "They can't understand.",
+        "translations": {
+          "ru": "Они не могут понять.",
+          "es": "No pueden entender.",
+          "fr": "Ils ne peuvent pas comprendre.",
+          "de": "Sie können nicht verstehen."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "can't", "alternatives": ["mustn't", "shouldn't", "won't"] },
+          { "correct": "understand", "alternatives": ["see", "hear", "touch"] }
+        ]
+      },
+      {
+        "id": 15,
+        "sentence_en": "You should sleep more.",
+        "translations": {
+          "ru": "Тебе нужно спать больше.",
+          "es": "Deberías dormir más.",
+          "fr": "Tu devrais dormir plus.",
+          "de": "Du solltest mehr schlafen."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "should", "alternatives": ["must", "can", "may"] },
+          { "correct": "sleep", "alternatives": ["eat", "read", "run"] },
+          { "correct": "more", "alternatives": ["less", "soon", "late"] }
+        ]
+      },
+      {
+        "id": 16,
+        "sentence_en": "They must help.",
+        "translations": {
+          "ru": "Они должны помочь.",
+          "es": "Deben ayudar.",
+          "fr": "Ils doivent aider.",
+          "de": "Sie müssen helfen."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "must", "alternatives": ["can", "should", "will"] },
+          { "correct": "help", "alternatives": ["wait", "play", "show"] }
+        ]
+      },
+      {
+        "id": 17,
+        "sentence_en": "Can we take?",
+        "translations": {
+          "ru": "Мы можем взять?",
+          "es": "¿Podemos tomar?",
+          "fr": "Pouvons-nous prendre ?",
+          "de": "Können wir nehmen?"
+        },
+        "words": [
+          { "correct": "Can", "alternatives": ["Must", "Should", "Will"] },
+          { "correct": "we", "alternatives": ["they", "he", "you"] },
+          { "correct": "take", "alternatives": ["give", "show", "find"] }
+        ]
+      },
+      {
+        "id": 18,
+        "sentence_en": "Must they hear?",
+        "translations": {
+          "ru": "Они должны слышать?",
+          "es": "¿Deben oír?",
+          "fr": "Doivent-ils entendre ?",
+          "de": "Müssen sie hören?"
+        },
+        "words": [
+          { "correct": "Must", "alternatives": ["Can", "Should", "Will"] },
+          { "correct": "they", "alternatives": ["he", "we", "you"] },
+          { "correct": "hear", "alternatives": ["see", "touch", "find"] }
+        ]
+      },
+      {
+        "id": 19,
+        "sentence_en": "She mustn't start.",
+        "translations": {
+          "ru": "Она не должна начинать.",
+          "es": "Ella no debe empezar.",
+          "fr": "Elle ne doit pas commencer.",
+          "de": "Sie darf nicht anfangen."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "mustn't", "alternatives": ["can't", "shouldn't", "won't"] },
+          { "correct": "start", "alternatives": ["finish", "wait", "show"] }
+        ]
+      },
+      {
+        "id": 20,
+        "sentence_en": "Can we finish?",
+        "translations": {
+          "ru": "Мы можем закончить?",
+          "es": "¿Podemos terminar?",
+          "fr": "Pouvons-nous finir ?",
+          "de": "Können wir fertig machen?"
+        },
+        "words": [
+          { "correct": "Can", "alternatives": ["Must", "Should", "Will"] },
+          { "correct": "we", "alternatives": ["they", "he", "you"] },
+          { "correct": "finish", "alternatives": ["start", "wait", "show"] }
+        ]
+      },
+      {
+        "id": 21,
+        "sentence_en": "They mustn't see.",
+        "translations": {
+          "ru": "Они не должны видеть.",
+          "es": "No deben ver.",
+          "fr": "Ils ne doivent pas voir.",
+          "de": "Sie dürfen nicht sehen."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "mustn't", "alternatives": ["can't", "shouldn't", "won't"] },
+          { "correct": "see", "alternatives": ["hear", "touch", "find"] }
+        ]
+      },
+      {
+        "id": 22,
+        "sentence_en": "Must he ask anything?",
+        "translations": {
+          "ru": "Он должен спросить что-нибудь?",
+          "es": "¿Debe él preguntar algo?",
+          "fr": "Doit-il demander quelque chose ?",
+          "de": "Muss er etwas fragen?"
+        },
+        "words": [
+          { "correct": "Must", "alternatives": ["Can", "Should", "Will"] },
+          { "correct": "he", "alternatives": ["she", "they", "we"] },
+          { "correct": "ask", "alternatives": ["answer", "show", "find"] },
+          { "correct": "anything", "alternatives": ["nothing", "something", "everything"] }
+        ]
+      },
+      {
+        "id": 23,
+        "sentence_en": "She must finish her work now.",
+        "translations": {
+          "ru": "Она должна закончить свою работу сейчас.",
+          "es": "Ella debe terminar su trabajo ahora.",
+          "fr": "Elle doit terminer son travail maintenant.",
+          "de": "Sie muss jetzt ihre Arbeit beenden."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "must", "alternatives": ["can", "should", "may"] },
+          { "correct": "finish", "alternatives": ["start", "wait", "show"] },
+          { "correct": "her", "alternatives": ["his", "their", "our"] },
+          { "correct": "work", "alternatives": ["play", "rest", "wait"] },
+          { "correct": "now", "alternatives": ["soon", "later", "today"] }
+        ]
+      },
+      {
+        "id": 24,
+        "sentence_en": "We must tell them the truth.",
+        "translations": {
+          "ru": "Мы должны рассказать им правду.",
+          "es": "Debemos decirles la verdad.",
+          "fr": "Nous devons leur dire la vérité.",
+          "de": "Wir müssen ihnen die Wahrheit sagen."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "He"] },
+          { "correct": "must", "alternatives": ["can", "should", "will"] },
+          { "correct": "tell", "alternatives": ["ask", "show", "find"] },
+          { "correct": "them", "alternatives": ["us", "him", "her"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "truth", "alternatives": ["story", "plan", "idea"] }
+        ]
+      },
+      {
+        "id": 25,
+        "sentence_en": "They can't take.",
+        "translations": {
+          "ru": "Они не могут взять.",
+          "es": "No pueden tomar.",
+          "fr": "Ils ne peuvent pas prendre.",
+          "de": "Sie können nicht nehmen."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "can't", "alternatives": ["mustn't", "shouldn't", "won't"] },
+          { "correct": "take", "alternatives": ["give", "show", "find"] }
+        ]
+      },
+      {
+        "id": 26,
+        "sentence_en": "You should start.",
+        "translations": {
+          "ru": "Тебе нужно начать.",
+          "es": "Deberías empezar.",
+          "fr": "Tu devrais commencer.",
+          "de": "Du solltest anfangen."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "should", "alternatives": ["must", "can", "may"] },
+          { "correct": "start", "alternatives": ["finish", "wait", "show"] }
+        ]
+      },
+      {
+        "id": 27,
+        "sentence_en": "Must she bring anything?",
+        "translations": {
+          "ru": "Она должна принести что-нибудь?",
+          "es": "¿Debe traer algo?",
+          "fr": "Doit-elle apporter quelque chose ?",
+          "de": "Muss sie etwas mitbringen?"
+        },
+        "words": [
+          { "correct": "Must", "alternatives": ["Can", "Should", "Will"] },
+          { "correct": "she", "alternatives": ["he", "they", "we"] },
+          { "correct": "bring", "alternatives": ["take", "show", "find"] },
+          { "correct": "anything", "alternatives": ["nothing", "something", "everything"] }
+        ]
+      },
+      {
+        "id": 28,
+        "sentence_en": "Should we drink more water?",
+        "translations": {
+          "ru": "Нам нужно пить больше воды?",
+          "es": "¿Deberíamos beber más agua?",
+          "fr": "Devons-nous boire plus d'eau ?",
+          "de": "Sollten wir mehr Wasser trinken?"
+        },
+        "words": [
+          { "correct": "Should", "alternatives": ["Must", "Can", "Will"] },
+          { "correct": "we", "alternatives": ["they", "he", "you"] },
+          { "correct": "drink", "alternatives": ["eat", "read", "run"] },
+          { "correct": "more", "alternatives": ["less", "soon", "late"] },
+          { "correct": "water", "alternatives": ["milk", "juice", "tea"] }
+        ]
+      },
+      {
+        "id": 29,
+        "sentence_en": "Must you work here?",
+        "translations": {
+          "ru": "Ты должен работать здесь?",
+          "es": "¿Debes trabajar aquí?",
+          "fr": "Dois-tu travailler ici ?",
+          "de": "Musst du hier arbeiten?"
+        },
+        "words": [
+          { "correct": "Must", "alternatives": ["Can", "Should", "Will"] },
+          { "correct": "you", "alternatives": ["we", "they", "he"] },
+          { "correct": "work", "alternatives": ["play", "rest", "wait"] },
+          { "correct": "here", "alternatives": ["there", "now", "soon"] }
+        ]
+      },
+      {
+        "id": 30,
+        "sentence_en": "He can't break his leg.",
+        "translations": {
+          "ru": "Он не может сломать свою ногу.",
+          "es": "Él no puede romperse la pierna.",
+          "fr": "Il ne peut pas se casser la jambe.",
+          "de": "Er kann sich nicht das Bein brechen."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "can't", "alternatives": ["mustn't", "shouldn't", "won't"] },
+          { "correct": "break", "alternatives": ["fix", "find", "show"] },
+          { "correct": "his", "alternatives": ["her", "their", "our"] },
+          { "correct": "leg", "alternatives": ["arm", "hand", "foot"] }
+        ]
+      },
+      {
+        "id": 31,
+        "sentence_en": "Must you stand here?",
+        "translations": {
+          "ru": "Ты должен стоять здесь?",
+          "es": "¿Debes estar de pie aquí?",
+          "fr": "Dois-tu rester debout ici ?",
+          "de": "Musst du hier stehen?"
+        },
+        "words": [
+          { "correct": "Must", "alternatives": ["Can", "Should", "Will"] },
+          { "correct": "you", "alternatives": ["we", "they", "he"] },
+          { "correct": "stand", "alternatives": ["sit", "run", "jump"] },
+          { "correct": "here", "alternatives": ["there", "now", "soon"] }
+        ]
+      },
+      {
+        "id": 32,
+        "sentence_en": "I must go now.",
+        "translations": {
+          "ru": "Я должен уйти сейчас.",
+          "es": "Debo irme ahora.",
+          "fr": "Je dois partir maintenant.",
+          "de": "Ich muss jetzt gehen."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["We", "They", "He"] },
+          { "correct": "must", "alternatives": ["can", "should", "may"] },
+          { "correct": "go", "alternatives": ["stay", "wait", "show"] },
+          { "correct": "now", "alternatives": ["soon", "later", "today"] }
+        ]
+      },
+      {
+        "id": 33,
+        "sentence_en": "Must she tell the truth?",
+        "translations": {
+          "ru": "Она должна рассказать правду?",
+          "es": "¿Debe decir la verdad?",
+          "fr": "Doit-elle dire la vérité ?",
+          "de": "Muss sie die Wahrheit sagen?"
+        },
+        "words": [
+          { "correct": "Must", "alternatives": ["Can", "Should", "Will"] },
+          { "correct": "she", "alternatives": ["he", "they", "we"] },
+          { "correct": "tell", "alternatives": ["ask", "show", "find"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "truth", "alternatives": ["story", "plan", "idea"] }
+        ]
+      },
+      {
+        "id": 34,
+        "sentence_en": "Can she fly?",
+        "translations": {
+          "ru": "Она может летать?",
+          "es": "¿Puede ella volar?",
+          "fr": "Peut-elle voler ?",
+          "de": "Kann sie fliegen?"
+        },
+        "words": [
+          { "correct": "Can", "alternatives": ["Must", "Should", "Will"] },
+          { "correct": "she", "alternatives": ["he", "they", "we"] },
+          { "correct": "fly", "alternatives": ["run", "jump", "swim"] }
+        ]
+      },
+      {
+        "id": 35,
+        "sentence_en": "You can't pay.",
+        "translations": {
+          "ru": "Ты не можешь заплатить.",
+          "es": "No puedes pagar.",
+          "fr": "Tu ne peux pas payer.",
+          "de": "Du kannst nicht bezahlen."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "can't", "alternatives": ["mustn't", "shouldn't", "won't"] },
+          { "correct": "pay", "alternatives": ["buy", "sell", "show"] }
+        ]
+      },
+      {
+        "id": 36,
+        "sentence_en": "We must say something.",
+        "translations": {
+          "ru": "Мы должны сказать что-нибудь.",
+          "es": "Debemos decir algo.",
+          "fr": "Nous devons dire quelque chose.",
+          "de": "Wir müssen etwas sagen."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "He"] },
+          { "correct": "must", "alternatives": ["can", "should", "may"] },
+          { "correct": "say", "alternatives": ["ask", "show", "find"] },
+          { "correct": "something", "alternatives": ["nothing", "anything", "everything"] }
+        ]
+      },
+      {
+        "id": 37,
+        "sentence_en": "We can think.",
+        "translations": {
+          "ru": "Мы можем думать.",
+          "es": "Podemos pensar.",
+          "fr": "Nous pouvons penser.",
+          "de": "Wir können denken."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "He"] },
+          { "correct": "can", "alternatives": ["must", "should", "may"] },
+          { "correct": "think", "alternatives": ["run", "read", "wait"] }
+        ]
+      },
+      {
+        "id": 38,
+        "sentence_en": "They can't understand anything.",
+        "translations": {
+          "ru": "Они не могут понять ничего.",
+          "es": "No pueden entender nada.",
+          "fr": "Ils ne peuvent rien comprendre.",
+          "de": "Sie können nichts verstehen."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "can't", "alternatives": ["mustn't", "shouldn't", "won't"] },
+          { "correct": "understand", "alternatives": ["see", "hear", "touch"] },
+          { "correct": "anything", "alternatives": ["nothing", "something", "everything"] }
+        ]
+      },
+      {
+        "id": 39,
+        "sentence_en": "They can show.",
+        "translations": {
+          "ru": "Они могут показать.",
+          "es": "Ellos pueden mostrar.",
+          "fr": "Ils peuvent montrer.",
+          "de": "Sie können zeigen."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "can", "alternatives": ["must", "should", "may"] },
+          { "correct": "show", "alternatives": ["find", "wait", "read"] }
+        ]
+      },
+      {
+        "id": 40,
+        "sentence_en": "She must open this envelope.",
+        "translations": {
+          "ru": "Она должна открыть этот конверт.",
+          "es": "Ella debe abrir este sobre.",
+          "fr": "Elle doit ouvrir cette enveloppe.",
+          "de": "Sie muss diesen Umschlag öffnen."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "must", "alternatives": ["can", "should", "may"] },
+          { "correct": "open", "alternatives": ["close", "find", "show"] },
+          { "correct": "this", "alternatives": ["that", "these", "those"] },
+          { "correct": "envelope", "alternatives": ["box", "letter", "bag"] }
+        ]
+      },
+      {
+        "id": 41,
+        "sentence_en": "They can take my money.",
+        "translations": {
+          "ru": "Они могут взять мои деньги.",
+          "es": "Ellos pueden tomar mi dinero.",
+          "fr": "Ils peuvent prendre mon argent.",
+          "de": "Sie können mein Geld nehmen."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "can", "alternatives": ["must", "should", "may"] },
+          { "correct": "take", "alternatives": ["give", "show", "find"] },
+          { "correct": "my", "alternatives": ["your", "his", "her"] },
+          { "correct": "money", "alternatives": ["box", "bag", "book"] }
+        ]
+      },
+      {
+        "id": 42,
+        "sentence_en": "He can't run fast.",
+        "translations": {
+          "ru": "Он не может бежать быстро.",
+          "es": "Él no puede correr rápido.",
+          "fr": "Il ne peut pas courir vite.",
+          "de": "Er kann nicht schnell rennen."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "can't", "alternatives": ["mustn't", "shouldn't", "won't"] },
+          { "correct": "run", "alternatives": ["walk", "wait", "read"] },
+          { "correct": "fast", "alternatives": ["slowly", "quietly", "early"] }
+        ]
+      },
+      {
+        "id": 43,
+        "sentence_en": "You must answer.",
+        "translations": {
+          "ru": "Ты должен ответить.",
+          "es": "Debes responder.",
+          "fr": "Tu dois répondre.",
+          "de": "Du musst antworten."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "must", "alternatives": ["can", "should", "may"] },
+          { "correct": "answer", "alternatives": ["ask", "write", "read"] }
+        ]
+      },
+      {
+        "id": 44,
+        "sentence_en": "They can't feel cold.",
+        "translations": {
+          "ru": "Они не могут чувствовать холод.",
+          "es": "No pueden sentir frío.",
+          "fr": "Ils ne peuvent pas sentir le froid.",
+          "de": "Sie können keine Kälte spüren."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "can't", "alternatives": ["mustn't", "shouldn't", "won't"] },
+          { "correct": "feel", "alternatives": ["see", "hear", "find"] },
+          { "correct": "cold", "alternatives": ["warm", "hard", "quiet"] }
+        ]
+      },
+      {
+        "id": 45,
+        "sentence_en": "You can't sleep for so long.",
+        "translations": {
+          "ru": "Ты не можешь спать так долго.",
+          "es": "No puedes dormir tanto tiempo.",
+          "fr": "Tu ne peux pas dormir si longtemps.",
+          "de": "Du kannst nicht so lange schlafen."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "can't", "alternatives": ["mustn't", "shouldn't", "won't"] },
+          { "correct": "sleep", "alternatives": ["eat", "read", "run"] },
+          { "correct": "for", "alternatives": ["with", "by", "at"] },
+          { "correct": "so", "alternatives": ["too", "very", "just"] },
+          { "correct": "long", "alternatives": ["short", "early", "late"] }
+        ]
+      },
+      {
+        "id": 46,
+        "sentence_en": "I must finish my work.",
+        "translations": {
+          "ru": "Я должен закончить свою работу.",
+          "es": "Debo terminar mi trabajo.",
+          "fr": "Je dois finir mon travail.",
+          "de": "Ich muss meine Arbeit beenden."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["We", "They", "He"] },
+          { "correct": "must", "alternatives": ["can", "should", "may"] },
+          { "correct": "finish", "alternatives": ["start", "wait", "show"] },
+          { "correct": "my", "alternatives": ["your", "his", "her"] },
+          { "correct": "work", "alternatives": ["play", "rest", "wait"] }
+        ]
+      },
+      {
+        "id": 47,
+        "sentence_en": "Can you open?",
+        "translations": {
+          "ru": "Ты можешь открыть?",
+          "es": "¿Puedes abrir?",
+          "fr": "Peux-tu ouvrir ?",
+          "de": "Kannst du öffnen?"
+        },
+        "words": [
+          { "correct": "Can", "alternatives": ["Must", "Should", "Will"] },
+          { "correct": "you", "alternatives": ["we", "they", "he"] },
+          { "correct": "open", "alternatives": ["close", "find", "show"] }
+        ]
+      },
+      {
+        "id": 48,
+        "sentence_en": "I can't take it.",
+        "translations": {
+          "ru": "Я не могу взять это.",
+          "es": "No puedo tomarlo.",
+          "fr": "Je ne peux pas le prendre.",
+          "de": "Ich kann es nicht nehmen."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["We", "They", "He"] },
+          { "correct": "can't", "alternatives": ["mustn't", "shouldn't", "won't"] },
+          { "correct": "take", "alternatives": ["give", "show", "find"] },
+          { "correct": "it", "alternatives": ["him", "her", "them"] }
+        ]
+      },
+      {
+        "id": 49,
+        "sentence_en": "Must she bring?",
+        "translations": {
+          "ru": "Она должна принести?",
+          "es": "¿Debe traer?",
+          "fr": "Doit-elle apporter ?",
+          "de": "Muss sie bringen?"
+        },
+        "words": [
+          { "correct": "Must", "alternatives": ["Can", "Should", "Will"] },
+          { "correct": "she", "alternatives": ["he", "they", "we"] },
+          { "correct": "bring", "alternatives": ["take", "show", "find"] }
+        ]
+      },
+      {
+        "id": 50,
+        "sentence_en": "They should set.",
+        "translations": {
+          "ru": "Им нужно установить.",
+          "es": "Deben configurar.",
+          "fr": "Ils devraient installer.",
+          "de": "Sie sollten einstellen."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "should", "alternatives": ["must", "can", "may"] },
+          { "correct": "set", "alternatives": ["find", "show", "wait"] }
+        ]
+      },
+      {
+        "id": 51,
+        "sentence_en": "She can sit.",
+        "translations": {
+          "ru": "Она может сидеть.",
+          "es": "Ella puede sentarse.",
+          "fr": "Elle peut s'asseoir.",
+          "de": "Sie kann sitzen."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "can", "alternatives": ["must", "should", "may"] },
+          { "correct": "sit", "alternatives": ["stand", "run", "jump"] }
+        ]
+      },
+      {
+        "id": 52,
+        "sentence_en": "She must help her family.",
+        "translations": {
+          "ru": "Она должна помочь своей семье.",
+          "es": "Ella debe ayudar a su familia.",
+          "fr": "Elle doit aider sa famille.",
+          "de": "Sie muss ihrer Familie helfen."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "must", "alternatives": ["can", "should", "may"] },
+          { "correct": "help", "alternatives": ["wait", "play", "show"] },
+          { "correct": "her", "alternatives": ["his", "their", "our"] },
+          { "correct": "family", "alternatives": ["box", "group", "team"] }
+        ]
+      },
+      {
+        "id": 53,
+        "sentence_en": "He mustn't help.",
+        "translations": {
+          "ru": "Он не должен помочь.",
+          "es": "Él no debe ayudar.",
+          "fr": "Il ne doit pas aider.",
+          "de": "Er darf nicht helfen."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "mustn't", "alternatives": ["can't", "shouldn't", "won't"] },
+          { "correct": "help", "alternatives": ["wait", "play", "show"] }
+        ]
+      },
+      {
+        "id": 54,
+        "sentence_en": "We mustn't speak loud.",
+        "translations": {
+          "ru": "Мы не должны разговаривать громко.",
+          "es": "No debemos hablar fuerte.",
+          "fr": "Nous ne devons pas parler fort.",
+          "de": "Wir dürfen nicht laut sprechen."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "He"] },
+          { "correct": "mustn't", "alternatives": ["can't", "shouldn't", "won't"] },
+          { "correct": "speak", "alternatives": ["write", "read", "wait"] },
+          { "correct": "loud", "alternatives": ["quiet", "hard", "early"] }
+        ]
+      },
+      {
+        "id": 55,
+        "sentence_en": "He must turn here.",
+        "translations": {
+          "ru": "Он должен повернуть здесь.",
+          "es": "Él debe girar aquí.",
+          "fr": "Il doit tourner ici.",
+          "de": "Er muss hier abbiegen."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "must", "alternatives": ["can", "should", "may"] },
+          { "correct": "turn", "alternatives": ["wait", "show", "find"] },
+          { "correct": "here", "alternatives": ["there", "now", "soon"] }
+        ]
+      },
+      {
+        "id": 56,
+        "sentence_en": "You can meet her today.",
+        "translations": {
+          "ru": "Ты можешь встретиться с ней сегодня.",
+          "es": "Puedes verla hoy.",
+          "fr": "Tu peux la rencontrer aujourd'hui.",
+          "de": "Du kannst sie heute treffen."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "can", "alternatives": ["must", "should", "may"] },
+          { "correct": "meet", "alternatives": ["call", "write", "read"] },
+          { "correct": "her", "alternatives": ["him", "them", "us"] },
+          { "correct": "today", "alternatives": ["tomorrow", "soon", "later"] }
+        ]
+      },
+      {
+        "id": 57,
+        "sentence_en": "They must help us.",
+        "translations": {
+          "ru": "Они должны помочь нам.",
+          "es": "Deben ayudarnos.",
+          "fr": "Ils doivent nous aider.",
+          "de": "Sie müssen uns helfen."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "must", "alternatives": ["can", "should", "may"] },
+          { "correct": "help", "alternatives": ["wait", "play", "show"] },
+          { "correct": "us", "alternatives": ["them", "him", "her"] }
+        ]
+      },
+      {
+        "id": 58,
+        "sentence_en": "They can sit.",
+        "translations": {
+          "ru": "Они могут сидеть.",
+          "es": "Pueden sentarse.",
+          "fr": "Ils peuvent s'asseoir.",
+          "de": "Sie können sitzen."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "can", "alternatives": ["must", "should", "may"] },
+          { "correct": "sit", "alternatives": ["stand", "run", "jump"] }
+        ]
+      },
+      {
+        "id": 59,
+        "sentence_en": "They mustn't feel cold.",
+        "translations": {
+          "ru": "Они не должны чувствовать холод.",
+          "es": "No deben sentir frío.",
+          "fr": "Ils ne doivent pas avoir froid.",
+          "de": "Sie dürfen keine Kälte empfinden."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "mustn't", "alternatives": ["can't", "shouldn't", "won't"] },
+          { "correct": "feel", "alternatives": ["see", "hear", "find"] },
+          { "correct": "cold", "alternatives": ["warm", "hard", "quiet"] }
+        ]
+      },
+      {
+        "id": 60,
+        "sentence_en": "You can answer this question.",
+        "translations": {
+          "ru": "Ты можешь ответить на этот вопрос.",
+          "es": "Puedes responder esta pregunta.",
+          "fr": "Tu peux répondre à cette question.",
+          "de": "Du kannst diese Frage beantworten."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "can", "alternatives": ["must", "should", "may"] },
+          { "correct": "answer", "alternatives": ["ask", "write", "read"] },
+          { "correct": "this", "alternatives": ["that", "these", "those"] },
+          { "correct": "question", "alternatives": ["letter", "book", "task"] }
+        ]
+      },
+      {
+        "id": 61,
+        "sentence_en": "We should go now.",
+        "translations": {
+          "ru": "Нам нужно идти сейчас.",
+          "es": "Deberíamos irnos ahora.",
+          "fr": "Nous devrions partir maintenant.",
+          "de": "Wir sollten jetzt gehen."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "He"] },
+          { "correct": "should", "alternatives": ["must", "can", "may"] },
+          { "correct": "go", "alternatives": ["stay", "wait", "show"] },
+          { "correct": "now", "alternatives": ["soon", "later", "today"] }
+        ]
+      },
+      {
+        "id": 62,
+        "sentence_en": "We must come today.",
+        "translations": {
+          "ru": "Мы должны прийти сегодня.",
+          "es": "Debemos venir hoy.",
+          "fr": "Nous devons venir aujourd'hui.",
+          "de": "Wir müssen heute kommen."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "He"] },
+          { "correct": "must", "alternatives": ["can", "should", "may"] },
+          { "correct": "come", "alternatives": ["go", "run", "wait"] },
+          { "correct": "today", "alternatives": ["tomorrow", "soon", "later"] }
+        ]
+      },
+      {
+        "id": 63,
+        "sentence_en": "Can you eat?",
+        "translations": {
+          "ru": "Ты можешь есть?",
+          "es": "¿Puedes comer?",
+          "fr": "Peux-tu manger ?",
+          "de": "Kannst du essen?"
+        },
+        "words": [
+          { "correct": "Can", "alternatives": ["Must", "Should", "Will"] },
+          { "correct": "you", "alternatives": ["we", "they", "he"] },
+          { "correct": "eat", "alternatives": ["drink", "read", "run"] }
+        ]
+      },
+      {
+        "id": 64,
+        "sentence_en": "Can they show?",
+        "translations": {
+          "ru": "Они могут показать?",
+          "es": "¿Pueden mostrar?",
+          "fr": "Peuvent-ils montrer ?",
+          "de": "Können sie zeigen?"
+        },
+        "words": [
+          { "correct": "Can", "alternatives": ["Must", "Should", "Will"] },
+          { "correct": "they", "alternatives": ["he", "we", "you"] },
+          { "correct": "show", "alternatives": ["find", "wait", "read"] }
+        ]
+      },
+      {
+        "id": 65,
+        "sentence_en": "She can answer.",
+        "translations": {
+          "ru": "Она может ответить.",
+          "es": "Ella puede responder.",
+          "fr": "Elle peut répondre.",
+          "de": "Sie kann antworten."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "can", "alternatives": ["must", "should", "may"] },
+          { "correct": "answer", "alternatives": ["ask", "write", "read"] }
+        ]
+      },
+      {
+        "id": 66,
+        "sentence_en": "They should answer.",
+        "translations": {
+          "ru": "Им нужно ответить.",
+          "es": "Deben responder.",
+          "fr": "Ils devraient répondre.",
+          "de": "Sie sollten antworten."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "should", "alternatives": ["must", "can", "may"] },
+          { "correct": "answer", "alternatives": ["ask", "write", "read"] }
+        ]
+      },
+      {
+        "id": 67,
+        "sentence_en": "Can he take?",
+        "translations": {
+          "ru": "Он может взять?",
+          "es": "¿Puede él tomar?",
+          "fr": "Peut-il prendre ?",
+          "de": "Kann er nehmen?"
+        },
+        "words": [
+          { "correct": "Can", "alternatives": ["Must", "Should", "Will"] },
+          { "correct": "he", "alternatives": ["she", "they", "we"] },
+          { "correct": "take", "alternatives": ["give", "show", "find"] }
+        ]
+      },
+      {
+        "id": 68,
+        "sentence_en": "We can't go.",
+        "translations": {
+          "ru": "Мы не можем идти.",
+          "es": "No podemos ir.",
+          "fr": "Nous ne pouvons pas y aller.",
+          "de": "Wir können nicht gehen."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "He"] },
+          { "correct": "can't", "alternatives": ["mustn't", "shouldn't", "won't"] },
+          { "correct": "go", "alternatives": ["stay", "wait", "show"] }
+        ]
+      },
+      {
+        "id": 69,
+        "sentence_en": "He should understand it.",
+        "translations": {
+          "ru": "Ему нужно понять это.",
+          "es": "Él debería entenderlo.",
+          "fr": "Il devrait le comprendre.",
+          "de": "Er sollte es verstehen."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "should", "alternatives": ["must", "can", "may"] },
+          { "correct": "understand", "alternatives": ["see", "hear", "touch"] },
+          { "correct": "it", "alternatives": ["him", "her", "them"] }
+        ]
+      }
+    ]
+  }
+}

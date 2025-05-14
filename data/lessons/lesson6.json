@@ -1,0 +1,2110 @@
+{
+  "id": 6,
+  "title": {
+    "english": "Comparatives and Demonstratives",
+    "russian": "Степени сравнения прилагательных и указательные местоимения",
+    "spanish": "Comparativos y Demostrativos",
+    "french": "Comparatifs et Démonstratifs",
+    "german": "Komparativ und Demonstrativpronomen"
+  },
+  "description": {
+    "english": "In this lesson we will learn about comparative and superlative adjectives, and demonstrative pronouns.",
+    "russian": "В этом уроке мы рассмотрим степени сравнения прилагательных и указательные местоимения.",
+    "spanish": "En esta lección aprenderemos sobre adjetivos comparativos y superlativos, y pronombres demostrativos.",
+    "french": "Dans cette leçon, nous apprendrons les adjectifs comparatifs et superlatifs, et les pronoms démonstratifs.",
+    "german": "In dieser Lektion lernen wir Steigerungsformen der Adjektive und Demonstrativpronomen."
+  },
+  "detailedDescription": {
+    "russian": {
+      "title": "Урок 6 — Степени сравнения прилагательных и указательные местоимения",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Что такое прилагательное?"
+        },
+        {
+          "type": "text",
+          "content": "Прилагательное отвечает на вопрос «какой? / какая?» и описывает предмет."
+        },
+        {
+          "type": "text",
+          "content": "Примеры:\n- A **good** boy — хороший мальчик\n- An **interesting** book — интересная книга"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Степени сравнения прилагательных"
+        },
+        {
+          "type": "text",
+          "content": "В английском языке есть три степени прилагательных:"
+        },
+        {
+          "type": "text",
+          "content": "• Положительная степень — описывает предмет (**tall** — высокий, **beautiful** — красивый)\n• Сравнительная степень — сравнивает два предмета (**taller** — выше, **more beautiful** — красивее)\n• Превосходная степень — выделяет один предмет как самый (**the tallest** — самый высокий, **the most beautiful** — самый красивый)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Как образуются степени сравнения"
+        },
+        {
+          "type": "heading",
+          "content": "Короткие прилагательные (1 слог)"
+        },
+        {
+          "type": "text",
+          "content": "Примеры: **tall**, **short**, **old**"
+        },
+        {
+          "type": "text",
+          "content": "• Положительная:\nMy brother is **tall**.\n— Мой брат высокий.\n\n• Сравнительная:\nHe is **taller** than me.\n— Он выше меня.\n\n• Превосходная:\nHe is **the tallest** in the class.\n— Он самый высокий в классе."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Длинные прилагательные (2 и более слога)"
+        },
+        {
+          "type": "text",
+          "content": "Примеры: **interesting**, **beautiful**"
+        },
+        {
+          "type": "text",
+          "content": "• Положительная:\nThis book is **interesting**.\n— Эта книга интересная.\n\n• Сравнительная:\nThis book is **more interesting** than that one.\n— Эта книга интереснее той.\n\n• Превосходная:\nIt's **the most interesting** book I've ever read.\n— Это самая интересная книга, которую я когда-либо читал."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Исключения (нерегулярные формы)"
+        },
+        {
+          "type": "text",
+          "content": "• **good** → **better** → **the best**\n\nHe is a **good** player. — Он хороший игрок.\nHe is **better** than me. — Он лучше меня.\nHe is **the best** in the team. — Он лучший в команде."
+        },
+        {
+          "type": "text",
+          "content": "• **bad** → **worse** → **the worst**\n\nThis movie is **bad**. — Этот фильм плохой.\nThat movie was **worse**. — Тот фильм был хуже.\nIt's **the worst** movie I've ever seen. — Это худший фильм, что я видел."
+        },
+        {
+          "type": "text",
+          "content": "• **many/much** → **more** → **the most**\n\nWe have **much** time. — У нас много времени.\nThey have **more** time than us. — У них больше времени, чем у нас.\nShe has **the most** time. — У неё больше всего времени."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Указательные местоимения (This / That / These / Those)"
+        },
+        {
+          "type": "table",
+          "headers": ["Кол-во", "Рядом", "Далеко"],
+          "rows": [
+            ["Один", "this — этот", "that — тот"],
+            ["Много", "these — эти", "those — те"]
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Примеры:"
+        },
+        {
+          "type": "text",
+          "content": "• **This** car is the fastest.\n— Эта машина самая быстрая.\n\n• **That** house is old.\n— Тот дом старый.\n\n• **These** apples are sweet.\n— Эти яблоки сладкие.\n\n• **Those** dogs are loud.\n— Те собаки шумные."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Слово \"one / ones\" для замены существительных"
+        },
+        {
+          "type": "text",
+          "content": "Если существительное повторяется, его можно заменить:\n\n• **one** — для единственного числа\n• **ones** — для множественного числа"
+        },
+        {
+          "type": "text",
+          "content": "Примеры:\n\n• This book is more difficult than that **one**.\n— Эта книга сложнее, чем та (книга).\n\n• These buns are tastier than those **ones**.\n— Эти булочки вкуснее, чем те (булочки)."
+        }
+      ]
+    },
+    "french": {
+      "title": "Leçon 6 — Comprendre les comparatifs et les pronoms démonstratifs en anglais",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Qu'est-ce qu'un adjectif en anglais ?"
+        },
+        {
+          "type": "text",
+          "content": "Un adjectif est un mot qui décrit un nom : il répond à la question « Quel genre ? Quelle qualité ? »\nEn anglais, comme en français, les adjectifs qualifient quelque chose ou quelqu'un."
+        },
+        {
+          "type": "text",
+          "content": "Exemples :\n• A **good** boy → un bon garçon\n• An **interesting** book → un livre intéressant"
+        },
+        {
+          "type": "text",
+          "content": "Attention :\nContrairement au français, en anglais, l'adjectif ne s'accorde jamais en genre ni en nombre avec le nom.\nExemple :\n• a big apple / big apples → \"big\" ne change jamais."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Les degrés de comparaison des adjectifs"
+        },
+        {
+          "type": "text",
+          "content": "En anglais, les adjectifs peuvent changer pour exprimer la comparaison.\nIl y a trois degrés, qu'on retrouve aussi en français, mais qu'on exprime différemment."
+        },
+        {
+          "type": "text",
+          "content": "1. Positif — la qualité simple\n• He is **tall** → Il est grand\n\n2. Comparatif — pour comparer deux éléments\n• He is **taller** than me → Il est plus grand que moi\n\n3. Superlatif — pour dire que quelque chose est au maximum\n• He is **the tallest** in the class → Il est le plus grand de la classe"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Comment former les comparatifs en anglais ?"
+        },
+        {
+          "type": "heading",
+          "content": "1. Pour les adjectifs courts (1 syllabe)"
+        },
+        {
+          "type": "text",
+          "content": "On ajoute :\n• -er au comparatif\n• -est au superlatif"
+        },
+        {
+          "type": "text",
+          "content": "Exemple avec \"**tall**\" (grand) :\n• **tall** → **taller** → **the tallest**"
+        },
+        {
+          "type": "text",
+          "content": "Phrases :\n• My brother is **tall**. — Mon frère est grand.\n• He is **taller** than me. — Il est plus grand que moi.\n• He is **the tallest** in the class. — Il est le plus grand de la classe."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "2. Pour les adjectifs longs (2 syllabes ou plus)"
+        },
+        {
+          "type": "text",
+          "content": "On ne modifie pas l'adjectif. On ajoute des mots devant :\n• more + adjectif → comparatif\n• the most + adjectif → superlatif"
+        },
+        {
+          "type": "text",
+          "content": "Exemple avec \"**interesting**\" (intéressant) :\n• **interesting** → **more interesting** → **the most interesting**"
+        },
+        {
+          "type": "text",
+          "content": "Phrases :\n• This book is **interesting**. — Ce livre est intéressant.\n• This book is **more interesting** than that one. — Il est plus intéressant que l'autre.\n• It's **the most interesting** book I've read. — C'est le livre le plus intéressant que j'ai lu."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "3. Les adjectifs irréguliers (cas particuliers)"
+        },
+        {
+          "type": "text",
+          "content": "Certains adjectifs changent complètement de forme :"
+        },
+        {
+          "type": "table",
+          "headers": ["Français", "Positif", "Comparatif", "Superlatif"],
+          "rows": [
+            ["bon", "good", "better", "the best"],
+            ["mauvais", "bad", "worse", "the worst"],
+            ["beaucoup (de)", "many/much", "more", "the most"]
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Phrases :\n• He is a **good** player. — C'est un bon joueur.\n• He is **better** than me. — Il est meilleur que moi.\n• He is **the best** in the team. — Il est le meilleur de l'équipe."
+        },
+        {
+          "type": "text",
+          "content": "• This film is **bad**. — Ce film est mauvais.\n• That one was **worse**. — Celui-là était pire.\n• It's **the worst** movie I've ever seen. — C'est le pire film que j'ai jamais vu."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Les pronoms démonstratifs en anglais (This / That / These / Those)"
+        },
+        {
+          "type": "text",
+          "content": "En anglais, on utilise des mots spécifiques pour montrer ou désigner quelque chose."
+        },
+        {
+          "type": "table",
+          "headers": ["Nombre", "Proche (ici)", "Loin (là-bas)"],
+          "rows": [
+            ["Singulier", "this — ceci, cet(te)", "that — cela, ce(tte)-là"],
+            ["Pluriel", "these — ceux-ci", "those — ceux-là"]
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Phrases :\n• **This** car is the fastest. — Cette voiture est la plus rapide.\n• **That** house is old. — Cette maison-là est ancienne.\n• **These** apples are sweet. — Ces pommes-ci sont sucrées.\n• **Those** dogs are loud. — Ces chiens-là sont bruyants."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Utiliser \"one / ones\" pour éviter la répétition"
+        },
+        {
+          "type": "text",
+          "content": "En anglais, quand un nom est répété, on peut le remplacer par :\n• **one** (au singulier) → comme \"celui\" en français\n• **ones** (au pluriel) → comme \"ceux\" / \"celles\""
+        },
+        {
+          "type": "text",
+          "content": "Exemples :\n• This book is more difficult than that **one**.\n— Ce livre est plus difficile que celui-là.\n• These buns are tastier than those **ones**.\n— Ces brioches sont plus savoureuses que celles-là."
+        }
+      ]
+    },
+    "spanish": {
+      "title": "Lección 6 — Grados de comparación de adjetivos y pronombres demostrativos en inglés",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "¿Qué es un adjetivo en inglés?"
+        },
+        {
+          "type": "text",
+          "content": "Un adjetivo describe una característica o cualidad de un sustantivo. Responde a preguntas como:\n¿Cómo es? ¿Qué tipo? ¿Qué tan grande/bonito/interesante?"
+        },
+        {
+          "type": "text",
+          "content": "Ejemplos:\n• A **good** boy — un buen chico\n• An **interesting** book — un libro interesante"
+        },
+        {
+          "type": "text",
+          "content": "Importante:\nA diferencia del español, los adjetivos en inglés no cambian según el género (masculino/femenino) ni el número (singular/plural).\nEjemplo:\n• a big apple / big apples → \"big\" no cambia."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Los grados de comparación en inglés"
+        },
+        {
+          "type": "text",
+          "content": "En inglés usamos tres grados para comparar cualidades:"
+        },
+        {
+          "type": "text",
+          "content": "1. Grado positivo — Describe una cualidad sin comparar.\nHe is **tall** → Él es alto\n\n2. Grado comparativo — Compara dos cosas o personas.\nHe is **taller** than me → Él es más alto que yo\n\n3. Grado superlativo — Indica el grado más alto entre varios.\nHe is **the tallest** in the class → Él es el más alto de la clase"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "¿Cómo se forman los comparativos y superlativos?"
+        },
+        {
+          "type": "heading",
+          "content": "1. Con adjetivos cortos (de una sílaba)"
+        },
+        {
+          "type": "text",
+          "content": "Se añade:\n• -er al comparativo\n• -est al superlativo"
+        },
+        {
+          "type": "text",
+          "content": "Ejemplo con \"**tall**\" (alto):\n• **tall** → **taller** → **the tallest**"
+        },
+        {
+          "type": "text",
+          "content": "Frases:\n• My brother is **tall**. — Mi hermano es alto.\n• He is **taller** than me. — Él es más alto que yo.\n• He is **the tallest** in the class. — Él es el más alto de la clase."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "2. Con adjetivos largos (dos o más sílabas)"
+        },
+        {
+          "type": "text",
+          "content": "No se cambia el adjetivo, se usan palabras adicionales:\n• more + adjetivo → comparativo\n• the most + adjetivo → superlativo"
+        },
+        {
+          "type": "text",
+          "content": "Ejemplo con \"**interesting**\" (interesante):\n• **interesting** → **more interesting** → **the most interesting**"
+        },
+        {
+          "type": "text",
+          "content": "Frases:\n• This book is **interesting**. — Este libro es interesante.\n• This book is **more interesting** than that one. — Este libro es más interesante que ese.\n• It's **the most interesting** book I've ever read. — Es el libro más interesante que he leído."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "3. Casos irregulares (formas especiales)"
+        },
+        {
+          "type": "text",
+          "content": "Algunos adjetivos cambian completamente:"
+        },
+        {
+          "type": "table",
+          "headers": ["Español", "Positivo", "Comparativo", "Superlativo"],
+          "rows": [
+            ["bueno", "good", "better", "the best"],
+            ["malo", "bad", "worse", "the worst"],
+            ["mucho/muchos", "much/many", "more", "the most"]
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Frases:\n• He is a **good** player. — Él es un buen jugador.\n• He is **better** than me. — Él es mejor que yo.\n• He is **the best** in the team. — Él es el mejor del equipo."
+        },
+        {
+          "type": "text",
+          "content": "• This film is **bad**. — Esta película es mala.\n• That one was **worse**. — Esa fue peor.\n• It's **the worst** movie I've ever seen. — Es la peor película que he visto."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Los pronombres demostrativos en inglés (This / That / These / Those)"
+        },
+        {
+          "type": "text",
+          "content": "En inglés usamos estas palabras para señalar o indicar cosas, dependiendo de la distancia y el número."
+        },
+        {
+          "type": "table",
+          "headers": ["Cantidad", "Cerca (aquí)", "Lejos (allí)"],
+          "rows": [
+            ["Singular", "this — este/esta", "that — ese/esa"],
+            ["Plural", "these — estos/estas", "those — esos/esas"]
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Frases:\n• **This** car is the fastest. — Este coche es el más rápido.\n• **That** house is old. — Esa casa es antigua.\n• **These** apples are sweet. — Estas manzanas son dulces.\n• **Those** dogs are loud. — Esos perros son ruidosos."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Uso de \"one / ones\" para evitar repeticiones"
+        },
+        {
+          "type": "text",
+          "content": "En inglés, cuando se repite un sustantivo, se puede sustituir por:\n• **one** → cuando es singular\n• **ones** → cuando es plural"
+        },
+        {
+          "type": "text",
+          "content": "Ejemplos:\n• This book is more difficult than that **one**.\n— Este libro es más difícil que ese (libro).\n• These buns are tastier than those **ones**.\n— Estos bollos son más sabrosos que esos (bollos)."
+        }
+      ]
+    },
+    "german": {
+      "title": "Lektion 6 – Vergleichsformen von Adjektiven und Demonstrativpronomen im Englischen",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Was ist ein Adjektiv im Englischen?"
+        },
+        {
+          "type": "text",
+          "content": "Ein Adjektiv beschreibt, wie etwas oder jemand ist. Es beantwortet Fragen wie:\n\"Wie ist etwas?\" / \"Was für ein ...?\""
+        },
+        {
+          "type": "text",
+          "content": "Beispiele:\n• A **good** boy — ein guter Junge\n• An **interesting** book — ein interessantes Buch"
+        },
+        {
+          "type": "text",
+          "content": "Wichtig:\nIm Gegensatz zum Deutschen wird ein Adjektiv im Englischen nicht dekliniert. Es bleibt immer gleich, unabhängig von Geschlecht oder Zahl.\n\nBeispiel:\n• a big car / big cars — \"big\" bleibt unverändert"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Die drei Vergleichsformen im Englischen"
+        },
+        {
+          "type": "text",
+          "content": "Im Englischen gibt es drei Formen, um Eigenschaften zu vergleichen:"
+        },
+        {
+          "type": "text",
+          "content": "1. Positiv (Grundform) – einfache Beschreibung\nHe is **tall** — Er ist groß\n\n2. Komparativ (Vergleich zwischen zwei Dingen)\nHe is **taller** than me — Er ist größer als ich\n\n3. Superlatif (höchster Grad einer Eigenschaft)\nHe is **the tallest** in the class — Er ist der größte in der Klasse"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Wie werden die Formen gebildet?"
+        },
+        {
+          "type": "heading",
+          "content": "1. Bei kurzen Adjektiven (meist 1 Silbe)"
+        },
+        {
+          "type": "text",
+          "content": "Man hängt einfach an:\n• -er für den Komparativ\n• -est für den Superlatif"
+        },
+        {
+          "type": "text",
+          "content": "Beispiel mit \"**tall**\" (groß):\n• **tall** → **taller** → **the tallest**"
+        },
+        {
+          "type": "text",
+          "content": "Sätze:\n• My brother is **tall**. — Mein Bruder ist groß.\n• He is **taller** than me. — Er ist größer als ich.\n• He is **the tallest** in the class. — Er ist der größte in der Klasse."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "2. Bei längeren Adjektiven (2 oder mehr Silben)"
+        },
+        {
+          "type": "text",
+          "content": "Man benutzt zusätzliche Wörter:\n• more + Adjektiv für den Komparativ\n• the most + Adjektiv für den Superlativ"
+        },
+        {
+          "type": "text",
+          "content": "Beispiel mit \"**interesting**\" (interessant):\n• **interesting** → **more interesting** → **the most interesting**"
+        },
+        {
+          "type": "text",
+          "content": "Sätze:\n• This book is **interesting**. — Dieses Buch ist interessant.\n• This book is **more interesting** than that one. — Dieses Buch ist interessanter als das andere.\n• It's **the most interesting** book I've ever read. — Es ist das interessanteste Buch, das ich je gelesen habe."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "3. Unregelmäßige Formen"
+        },
+        {
+          "type": "text",
+          "content": "Einige Adjektive bilden Komparativ und Superlativ nicht regelmäßig, sondern haben eigene Formen:"
+        },
+        {
+          "type": "table",
+          "headers": ["Deutsch", "Positiv", "Komparativ", "Superlativ"],
+          "rows": [
+            ["gut", "good", "better", "the best"],
+            ["schlecht", "bad", "worse", "the worst"],
+            ["viel/viele", "much/many", "more", "the most"]
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Sätze:\n• He is a **good** player. — Er ist ein guter Spieler.\n• He is **better** than me. — Er ist besser als ich.\n• He is **the best** in the team. — Er ist der Beste im Team."
+        },
+        {
+          "type": "text",
+          "content": "• This film is **bad**. — Dieser Film ist schlecht.\n• That one was **worse**. — Der andere war schlechter.\n• It's **the worst** movie I've ever seen. — Es ist der schlechteste Film, den ich je gesehen habe."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Demonstrativpronomen im Englischen (This / That / These / Those)"
+        },
+        {
+          "type": "text",
+          "content": "Mit diesen Wörtern zeigt man auf etwas oder jemanden, je nachdem ob es nah oder fern ist und ob es Singular oder Plural ist."
+        },
+        {
+          "type": "table",
+          "headers": ["Anzahl", "Nah (hier)", "Entfernt (dort)"],
+          "rows": [
+            ["Singular", "this — dieses", "that — jenes"],
+            ["Plural", "these — diese", "those — jene"]
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Beispiele:\n• **This** car is the fastest. — Dieses Auto ist das schnellste.\n• **That** house is old. — Jenes Haus ist alt.\n• **These** apples are sweet. — Diese Äpfel sind süß.\n• **Those** dogs are loud. — Jene Hunde sind laut."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "\"one / ones\" zur Vermeidung von Wiederholungen"
+        },
+        {
+          "type": "text",
+          "content": "Im Englischen nutzt man \"one\" oder \"ones\", um ein schon genanntes Nomen nicht zu wiederholen.\n• **one** → für Einzahl (Singular)\n• **ones** → für Mehrzahl (Plural)"
+        },
+        {
+          "type": "text",
+          "content": "Beispiele:\n• This book is more difficult than that **one**.\n— Dieses Buch ist schwieriger als jenes (Buch).\n• These buns are tastier than those **ones**.\n— Diese Brötchen sind leckerer als jene (Brötchen)."
+        }
+      ]
+    }
+  },
+  "vocabulary": {
+    "firstList": [
+      {
+        "number": 1,
+        "english": "bad",
+        "russian": "плохой",
+        "spanish": "malo",
+        "french": "mauvais",
+        "german": "schlecht"
+      },
+      {
+        "number": 2,
+        "english": "good",
+        "russian": "хороший",
+        "spanish": "bueno",
+        "french": "bon",
+        "german": "gut"
+      },
+      {
+        "number": 3,
+        "english": "short",
+        "russian": "низкий, короткий",
+        "spanish": "bajo, corto",
+        "french": "court, petit",
+        "german": "kurz, niedrig"
+      },
+      {
+        "number": 4,
+        "english": "long",
+        "russian": "длинный",
+        "spanish": "largo",
+        "french": "long",
+        "german": "lang"
+      },
+      {
+        "number": 5,
+        "english": "tall",
+        "russian": "высокий",
+        "spanish": "alto",
+        "french": "grand",
+        "german": "groß"
+      },
+      {
+        "number": 6,
+        "english": "boring",
+        "russian": "скучный",
+        "spanish": "aburrido",
+        "french": "ennuyeux",
+        "german": "langweilig"
+      },
+      {
+        "number": 7,
+        "english": "cheerful",
+        "russian": "весёлый",
+        "spanish": "alegre",
+        "french": "joyeux",
+        "german": "fröhlich"
+      },
+      {
+        "number": 8,
+        "english": "new",
+        "russian": "новый",
+        "spanish": "nuevo",
+        "french": "nouveau",
+        "german": "neu"
+      },
+      {
+        "number": 9,
+        "english": "old",
+        "russian": "старый",
+        "spanish": "viejo",
+        "french": "vieux",
+        "german": "alt"
+      },
+      {
+        "number": 10,
+        "english": "young",
+        "russian": "молодой",
+        "spanish": "joven",
+        "french": "jeune",
+        "german": "jung"
+      },
+      {
+        "number": 11,
+        "english": "fast",
+        "russian": "быстрый",
+        "spanish": "rápido",
+        "french": "rapide",
+        "german": "schnell"
+      },
+      {
+        "number": 12,
+        "english": "slow",
+        "russian": "медленный",
+        "spanish": "lento",
+        "french": "lent",
+        "german": "langsam"
+      },
+      {
+        "number": 13,
+        "english": "slim",
+        "russian": "худой",
+        "spanish": "delgado",
+        "french": "mince",
+        "german": "schlank"
+      },
+      {
+        "number": 14,
+        "english": "small",
+        "russian": "маленький",
+        "spanish": "pequeño",
+        "french": "petit",
+        "german": "klein"
+      },
+      {
+        "number": 15,
+        "english": "large",
+        "russian": "крупный",
+        "spanish": "grande",
+        "french": "grand",
+        "german": "groß"
+      },
+      {
+        "number": 16,
+        "english": "busy",
+        "russian": "занятый",
+        "spanish": "ocupado",
+        "french": "occupé",
+        "german": "beschäftigt"
+      },
+      {
+        "number": 17,
+        "english": "free",
+        "russian": "свободный",
+        "spanish": "libre",
+        "french": "libre",
+        "german": "frei"
+      },
+      {
+        "number": 18,
+        "english": "big",
+        "russian": "большой",
+        "spanish": "grande",
+        "french": "grand",
+        "german": "groß"
+      },
+      {
+        "number": 19,
+        "english": "beautiful",
+        "russian": "красивый",
+        "spanish": "hermoso",
+        "french": "beau",
+        "german": "schön"
+      },
+      {
+        "number": 20,
+        "english": "poor",
+        "russian": "бедный",
+        "spanish": "pobre",
+        "french": "pauvre",
+        "german": "arm"
+      },
+      {
+        "number": 21,
+        "english": "fresh",
+        "russian": "свежий",
+        "spanish": "fresco",
+        "french": "frais",
+        "german": "frisch"
+      },
+      {
+        "number": 22,
+        "english": "tasty",
+        "russian": "вкусный",
+        "spanish": "sabroso",
+        "french": "délicieux",
+        "german": "lecker"
+      },
+      {
+        "number": 23,
+        "english": "expensive",
+        "russian": "дорогой",
+        "spanish": "caro",
+        "french": "cher",
+        "german": "teuer"
+      },
+      {
+        "number": 24,
+        "english": "cheap",
+        "russian": "дешёвый",
+        "spanish": "barato",
+        "french": "bon marché",
+        "german": "billig"
+      },
+      {
+        "number": 25,
+        "english": "this",
+        "russian": "этот",
+        "spanish": "este",
+        "french": "ce",
+        "german": "dieser"
+      },
+      {
+        "number": 26,
+        "english": "that",
+        "russian": "тот",
+        "spanish": "ese",
+        "french": "cela",
+        "german": "jener"
+      },
+      {
+        "number": 27,
+        "english": "these",
+        "russian": "эти",
+        "spanish": "estos",
+        "french": "ces",
+        "german": "diese"
+      },
+      {
+        "number": 28,
+        "english": "those",
+        "russian": "те",
+        "spanish": "esos",
+        "french": "ceux-là",
+        "german": "jene"
+      },
+      {
+        "number": 29,
+        "english": "apple",
+        "russian": "яблоко",
+        "spanish": "manzana",
+        "french": "pomme",
+        "german": "Apfel"
+      },
+      {
+        "number": 30,
+        "english": "article",
+        "russian": "статья",
+        "spanish": "artículo",
+        "french": "article",
+        "german": "Artikel"
+      },
+      {
+        "number": 31,
+        "english": "banana",
+        "russian": "банан",
+        "spanish": "plátano",
+        "french": "banane",
+        "german": "Banane"
+      },
+      {
+        "number": 32,
+        "english": "book",
+        "russian": "книга",
+        "spanish": "libro",
+        "french": "livre",
+        "german": "Buch"
+      },
+      {
+        "number": 33,
+        "english": "bun",
+        "russian": "булочка",
+        "spanish": "bollo",
+        "french": "petit pain",
+        "german": "Brötchen"
+      },
+      {
+        "number": 34,
+        "english": "game",
+        "russian": "игра",
+        "spanish": "juego",
+        "french": "jeu",
+        "german": "Spiel"
+      },
+      {
+        "number": 35,
+        "english": "note",
+        "russian": "заметка",
+        "spanish": "nota",
+        "french": "note",
+        "german": "Notiz"
+      },
+      {
+        "number": 36,
+        "english": "letter",
+        "russian": "письмо",
+        "spanish": "carta",
+        "french": "lettre",
+        "german": "Brief"
+      },
+      {
+        "number": 37,
+        "english": "orange",
+        "russian": "апельсин",
+        "spanish": "naranja",
+        "french": "orange",
+        "german": "Orange"
+      },
+      {
+        "number": 38,
+        "english": "peach",
+        "russian": "персик",
+        "spanish": "melocotón",
+        "french": "pêche",
+        "german": "Pfirsich"
+      },
+      {
+        "number": 39,
+        "english": "pear",
+        "russian": "груша",
+        "spanish": "pera",
+        "french": "poire",
+        "german": "Birne"
+      },
+      {
+        "number": 40,
+        "english": "poster",
+        "russian": "плакат",
+        "spanish": "póster",
+        "french": "affiche",
+        "german": "Plakat"
+      },
+      {
+        "number": 41,
+        "english": "tomato",
+        "russian": "помидор",
+        "spanish": "tomate",
+        "french": "tomate",
+        "german": "Tomate"
+      },
+      {
+        "number": 42,
+        "english": "camera",
+        "russian": "фотоаппарат",
+        "spanish": "cámara",
+        "french": "appareil photo",
+        "german": "Kamera"
+      },
+      {
+        "number": 43,
+        "english": "car",
+        "russian": "машина",
+        "spanish": "coche",
+        "french": "voiture",
+        "german": "Auto"
+      },
+      {
+        "number": 44,
+        "english": "carpet",
+        "russian": "ковёр",
+        "spanish": "alfombra",
+        "french": "tapis",
+        "german": "Teppich"
+      },
+      {
+        "number": 45,
+        "english": "chair",
+        "russian": "стул",
+        "spanish": "silla",
+        "french": "chaise",
+        "german": "Stuhl"
+      },
+      {
+        "number": 46,
+        "english": "cupboard",
+        "russian": "шкаф",
+        "spanish": "armario",
+        "french": "placard",
+        "german": "Schrank"
+      },
+      {
+        "number": 47,
+        "english": "phone",
+        "russian": "телефон",
+        "spanish": "teléfono",
+        "french": "téléphone",
+        "german": "Telefon"
+      },
+      {
+        "number": 48,
+        "english": "sofa",
+        "russian": "диван",
+        "spanish": "sofá",
+        "french": "canapé",
+        "german": "Sofa"
+      },
+      {
+        "number": 49,
+        "english": "table",
+        "russian": "стол",
+        "spanish": "mesa",
+        "french": "table",
+        "german": "Tisch"
+      },
+      {
+        "number": 50,
+        "english": "tablet",
+        "russian": "планшет",
+        "spanish": "tableta",
+        "french": "tablette",
+        "german": "Tablet"
+      },
+      {
+        "number": 51,
+        "english": "fruit",
+        "russian": "фрукт, фрукты",
+        "spanish": "fruta",
+        "french": "fruit",
+        "german": "Obst"
+      }
+    ]
+  },
+  "sentences": [
+    { "id": 1,  "english": "She isn't the youngest.",           "russian": "Она не самая молодая.",                     "spanish": "Ella no es la más joven.",                      "german": "Sie ist nicht die Jüngste.",                         "french": "Elle n'est pas la plus jeune." },
+    { "id": 2,  "english": "We're beautiful.",                  "russian": "Мы красивые.",                               "spanish": "Somos hermosos.",                                 "german": "Wir sind schön.",                                   "french": "Nous sommes beaux." },
+    { "id": 3,  "english": "He'll be taller than us.",          "russian": "Он будет выше нас.",                         "spanish": "Él será más alto que nosotros.",                  "german": "Er wird größer als wir sein.",                      "french": "Il sera plus grand que nous." },
+    { "id": 4,  "english": "Is this note old?",                 "russian": "Эта заметка старая?",                        "spanish": "¿Esta nota es antigua?",                          "german": "Ist diese Notiz alt?",                              "french": "Cette note est-elle ancienne ?" },
+    { "id": 5,  "english": "This phone isn't more expensive than that one.", "russian": "Этот телефон не дороже того.",         "spanish": "Este teléfono no es más caro que ese.",           "german": "Dieses Telefon ist nicht teurer als jenes.",        "french": "Ce téléphone n'est pas plus cher que celui-là." },
+    { "id": 6,  "english": "Is this pencil big?",               "russian": "Этот карандаш большой?",                     "spanish": "¿Este lápiz es grande?",                          "german": "Ist dieser Bleistift groß?",                        "french": "Ce crayon est-il grand ?" },
+    { "id": 7,  "english": "This camera is the most beautiful.", "russian": "Этот фотоаппарат самый красивый.",           "spanish": "Esta cámara es la más bonita.",                   "german": "Diese Kamera ist die schönste.",                    "french": "Cet appareil photo est le plus beau." },
+    { "id": 8,  "english": "Are these games the oldest?",       "russian": "Эти игры самые старые?",                     "spanish": "¿Estos juegos son los más antiguos?",             "german": "Sind diese Spiele die ältesten?",                   "french": "Ces jeux sont-ils les plus anciens ?" },
+    { "id": 9,  "english": "This sofa isn't the most expensive.", "russian": "Этот диван не самый дорогой.",             "spanish": "Este sofá no es el más caro.",                    "german": "Dieses Sofa ist nicht das teuerste.",               "french": "Ce canapé n'est pas le plus cher." },
+    { "id": 10, "english": "These fruit are the smallest.",      "russian": "Эти фрукты самые маленькие.",                "spanish": "Estas frutas son las más pequeñas.",              "german": "Diese Früchte sind die kleinsten.",                 "french": "Ces fruits sont les plus petits." },
+    { "id": 11, "english": "They're more cheerful than him.",   "russian": "Они более весёлые, чем он.",                  "spanish": "Ellos son más alegres que él.",                   "german": "Sie sind fröhlicher als er.",                       "french": "Ils sont plus joyeux que lui." },
+    { "id": 12, "english": "Are you slim?",                      "russian": "Ты худой?",                                  "spanish": "¿Eres delgado?",                                   "german": "Bist du schlank?",                                  "french": "Es-tu mince ?" },
+    { "id": 13, "english": "We're busier than him.",            "russian": "Мы более занятые, чем он.",                   "spanish": "Somos más ocupados que él.",                       "german": "Wir sind beschäftigter als er.",                    "french": "Nous sommes plus occupés que lui." },
+    { "id": 14, "english": "Are these pears tasty?",             "russian": "Эти груши вкусные?",                          "spanish": "¿Estas peras son sabrosas?",                      "german": "Sind diese Birnen lecker?",                         "french": "Ces poires sont-elles savoureuses ?" },
+    { "id": 15, "english": "This poster isn't the most boring.", "russian": "Этот плакат не самый скучный.",             "spanish": "Este póster no es el más aburrido.",               "german": "Dieses Poster ist nicht das langweiligste.",        "french": "Cette affiche n'est pas la plus ennuyeuse." },
+    { "id": 16, "english": "This article is older than that one.", "russian": "Эта статья старее той.",                    "spanish": "Este artículo es más antiguo que aquel.",          "german": "Dieser Artikel ist älter als jener.",               "french": "Cet article est plus ancien que celui-là." },
+    { "id": 17, "english": "Is this pen cheaper than that one?", "russian": "Эта ручка дешевле той?",                      "spanish": "¿Este bolígrafo es más barato que ese?",           "german": "Ist dieser Stift billiger als jener?",              "french": "Ce stylo est-il moins cher que celui-là ?" },
+    { "id": 18, "english": "Is this camera the shortest?",       "russian": "Этот фотоаппарат самый короткий?",            "spanish": "¿Esta cámara es la más corta?",                    "german": "Ist diese Kamera die kürzeste?",                    "french": "Cet appareil photo est-il le plus court ?" },
+    { "id": 19, "english": "She wasn't busier than us.",        "russian": "Она не была более занятая, чем мы.",          "spanish": "Ella no estaba más ocupada que nosotros.",         "german": "Sie war nicht beschäftigter als wir.",              "french": "Elle n'était pas plus occupée que nous." },
+    { "id": 20, "english": "These tomatoes aren't the most expensive.", "russian": "Эти помидоры не самые дорогие.",       "spanish": "Estos tomates no son los más caros.",              "german": "Diese Tomaten sind nicht die teuersten.",           "french": "Ces tomates ne sont pas les plus chères." },
+    { "id": 21, "english": "We aren't slim.",                   "russian": "Мы не худые.",                                 "spanish": "No somos delgados.",                               "german": "Wir sind nicht schlank.",                           "french": "Nous ne sommes pas minces." },
+    { "id": 22, "english": "They're big.",                      "russian": "Они большие.",                                 "spanish": "Ellos son grandes.",                               "german": "Sie sind groß.",                                    "french": "Ils sont grands." },
+    { "id": 23, "english": "These notes are the most boring.",   "russian": "Эти заметки самые скучные.",                   "spanish": "Estas notas son las más aburridas.",               "german": "Diese Notizen sind die langweiligsten.",            "french": "Ces notes sont les plus ennuyeuses." },
+    { "id": 24, "english": "Will she be taller than me?",        "russian": "Она будет выше меня?",                        "spanish": "¿Será ella más alta que yo?",                      "german": "Wird sie größer sein als ich?",                     "french": "Sera-t-elle plus grande que moi ?" },
+    { "id": 25, "english": "I'm not busy.",                     "russian": "Я не занятой.",                                "spanish": "No estoy ocupado.",                                "german": "Ich bin nicht beschäftigt.",                        "french": "Je ne suis pas occupé." },
+    { "id": 26, "english": "This TV isn't old.",                "russian": "Этот телевизор не старый.",                    "spanish": "Este televisor no es viejo.",                      "german": "Dieser Fernseher ist nicht alt.",                   "french": "Cette télé n'est pas vieille." },
+    { "id": 27, "english": "We're the largest.",                "russian": "Мы крупнейшие.",                               "spanish": "Somos los más grandes.",                           "german": "Wir sind die größten.",                             "french": "Nous sommes les plus grands." },
+    { "id": 28, "english": "These tomatoes are tasty.",          "russian": "Эти помидоры вкусные.",                        "spanish": "Estos tomates son sabrosos.",                      "german": "Diese Tomaten sind lecker.",                        "french": "Ces tomates sont savoureuses." },
+    { "id": 29, "english": "He isn't poor.",                    "russian": "Он не бедный.",                                "spanish": "Él no es pobre.",                                  "german": "Er ist nicht arm.",                                 "french": "Il n'est pas pauvre." },
+    { "id": 30, "english": "They'll be more beautiful than you.", "russian": "Они будут красивее тебя.",                  "spanish": "Serán más hermosos que tú.",                       "german": "Sie werden schöner sein als du.",                   "french": "Ils seront plus beaux que toi." },
+    { "id": 31, "english": "He wasn't bigger than them.",       "russian": "Он не был больше их.",                         "spanish": "Él no era más grande que ellos.",                  "german": "Er war nicht größer als sie.",                      "french": "Il n'était pas plus grand qu'eux." },
+    { "id": 32, "english": "This phone is the smallest.",        "russian": "Этот телефон самый маленький.",                "spanish": "Este teléfono es el más pequeño.",                 "german": "Dieses Telefon ist das kleinste.",                  "french": "Ce téléphone est le plus petit." },
+    { "id": 33, "english": "Are these oranges cheaper than those ones?", "russian": "Эти апельсины дешевле тех?",            "spanish": "¿Estas naranjas son más baratas que aquellas?",    "german": "Sind diese Orangen billiger als jene?",             "french": "Ces oranges sont-elles moins chères que celles-là ?" },
+    { "id": 34, "english": "Are they the biggest?",              "russian": "Они самые большие?",                           "spanish": "¿Son ellos los más grandes?",                      "german": "Sind sie die größten?",                             "french": "Sont-ils les plus grands ?" },
+    { "id": 35, "english": "He isn't taller than them.",                     "russian": "Он не выше их.",                                   "spanish": "Él no es más alto que ellos.",                       "german": "Er ist nicht größer als sie.",                         "french": "Il n'est pas plus grand qu'eux." },
+    { "id": 36, "english": "Are these notes boring?",                         "russian": "Эти заметки скучные?",                              "spanish": "¿Estas notas son aburridas?",                         "german": "Sind diese Notizen langweilig?",                       "french": "Ces notes sont-elles ennuyeuses ?" },
+    { "id": 37, "english": "These fruit aren't the biggest.",                "russian": "Эти фрукты не самые большие.",                      "spanish": "Estas frutas no son las más grandes.",                "german": "Diese Früchte sind nicht die größten.",                "french": "Ces fruits ne sont pas les plus gros." },
+    { "id": 38, "english": "These tomatoes aren't expensive.",               "russian": "Эти помидоры не дорогие.",                          "spanish": "Estos tomates no son caros.",                         "german": "Diese Tomaten sind nicht teuer.",                      "french": "Ces tomates ne sont pas chères." },
+    { "id": 39, "english": "She wasn't more boring than them.",              "russian": "Она не была скучнее их.",                            "spanish": "Ella no era más aburrida que ellos.",                 "german": "Sie war nicht langweiliger als sie.",                  "french": "Elle n'était pas plus ennuyeuse qu'eux." },
+    { "id": 40, "english": "Are these pears the biggest?",                    "russian": "Эти груши самые большие?",                          "spanish": "¿Estas peras son las más grandes?",                   "german": "Sind diese Birnen die größten?",                       "french": "Ces poires sont-elles les plus grosses ?" },
+    { "id": 41, "english": "This table isn't smaller than that one.",        "russian": "Этот стол не меньше того.",                          "spanish": "Esta mesa no es más pequeña que aquella.",            "german": "Dieser Tisch ist nicht kleiner als jener.",            "french": "Cette table n'est pas plus petite que celle-là." },
+    { "id": 42, "english": "Is this pencil old?",                             "russian": "Этот карандаш старый?",                              "spanish": "¿Este lápiz es viejo?",                               "german": "Ist dieser Bleistift alt?",                            "french": "Ce crayon est-il vieux ?" },
+    { "id": 43, "english": "Are they boring?",                                "russian": "Они скучные?",                                       "spanish": "¿Son aburridos?",                                     "german": "Sind sie langweilig?",                                 "french": "Sont-ils ennuyeux ?" },
+    { "id": 44, "english": "She's the poorest.",                             "russian": "Она самая бедная.",                                  "spanish": "Ella es la más pobre.",                               "german": "Sie ist die Ärmste.",                                  "french": "Elle est la plus pauvre." },
+    { "id": 45, "english": "Is she good?",                                    "russian": "Она хорошая?",                                       "spanish": "¿Ella es buena?",                                     "german": "Ist sie gut?",                                          "french": "Est-elle bonne ?" },
+    { "id": 46, "english": "These articles are new.",                         "russian": "Эти статьи новые.",                                  "spanish": "Estos artículos son nuevos.",                         "german": "Diese Artikel sind neu.",                              "french": "Ces articles sont nouveaux." },
+    { "id": 47, "english": "She's old.",                                     "russian": "Она старая.",                                         "spanish": "Ella es vieja.",                                      "german": "Sie ist alt.",                                          "french": "Elle est vieille." },
+    { "id": 48, "english": "They aren't the largest.",                       "russian": "Они не крупнейшие.",                                 "spanish": "Ellos no son los más grandes.",                       "german": "Sie sind nicht die größten.",                          "french": "Ils ne sont pas les plus grands." },
+    { "id": 49, "english": "This pen isn't the cheapest.",                   "russian": "Эта ручка не самая дешёвая.",                        "spanish": "Este bolígrafo no es el más barato.",                 "german": "Dieser Stift ist nicht der billigste.",                "french": "Ce stylo n'est pas le moins cher." },
+    { "id": 50, "english": "Is he old?",                                      "russian": "Он старый?",                                          "spanish": "¿Él es viejo?",                                       "german": "Ist er alt?",                                           "french": "Est-il vieux ?" },
+    { "id": 51, "english": "You'll be busier than us.",                     "russian": "Ты будешь более занятой, чем мы.",                   "spanish": "Estarás más ocupado que nosotros.",                   "german": "Du wirst beschäftigter sein als wir.",                 "french": "Tu seras plus occupé que nous." },
+    { "id": 52, "english": "They aren't the youngest.",                      "russian": "Они не самые молодые.",                               "spanish": "Ellos no son los más jóvenes.",                       "german": "Sie sind nicht die Jüngsten.",                         "french": "Ils ne sont pas les plus jeunes." },
+    { "id": 53, "english": "He isn't tall.",                                "russian": "Он не высокий.",                                     "spanish": "Él no es alto.",                                      "german": "Er ist nicht groß.",                                   "french": "Il n'est pas grand." },
+    { "id": 54, "english": "She isn't tall.",                               "russian": "Она не высокая.",                                    "spanish": "Ella no es alta.",                                    "german": "Sie ist nicht groß.",                                  "french": "Elle n'est pas grande." },
+    { "id": 55, "english": "We aren't slim.",                               "russian": "Мы не худые.",                                       "spanish": "No somos delgados.",                                  "german": "Wir sind nicht schlank.",                              "french": "Nous ne sommes pas minces." },
+    { "id": 56, "english": "I'm not the busiest.",                          "russian": "Я не самый занятой.",                                 "spanish": "No soy el más ocupado.",                              "german": "Ich bin nicht der Beschäftigste.",                     "french": "Je ne suis pas le plus occupé." },
+    { "id": 57, "english": "This magazine is the smallest.",                 "russian": "Этот журнал самый маленький.",                        "spanish": "Esta revista es la más pequeña.",                     "german": "Dieses Magazin ist das kleinste.",                     "french": "Ce magazine est le plus petit." },
+    { "id": 58, "english": "He's good.",                                    "russian": "Он хороший.",                                        "spanish": "Él es bueno.",                                        "german": "Er ist gut.",                                          "french": "Il est bon." },
+    { "id": 59, "english": "Is this article more boring than that one?",     "russian": "Эта статья скучнее той?",                             "spanish": "¿Este artículo es más aburrido que aquel?",           "german": "Ist dieser Artikel langweiliger als jener?",           "french": "Cet article est-il plus ennuyeux que celui-là ?" },
+    { "id": 60, "english": "We aren't the busiest.",                        "russian": "Мы не самые занятые.",                                "spanish": "No somos los más ocupados.",                          "german": "Wir sind nicht die Beschäftigsten.",                   "french": "Nous ne sommes pas les plus occupés." },
+    { "id": 61, "english": "Are you faster than them?",                      "russian": "Ты быстрее их?",                                     "spanish": "¿Eres más rápido que ellos?",                         "german": "Bist du schneller als sie?",                           "french": "Es-tu plus rapide qu'eux ?" },
+    { "id": 62, "english": "Is this sofa older than that one?",              "russian": "Этот диван старее того?",                             "spanish": "¿Este sofá es más viejo que aquel?",                  "german": "Ist dieses Sofa älter als jenes?",                     "french": "Ce canapé est-il plus ancien que celui-là ?" },
+    { "id": 63, "english": "This pen is smaller than that one.",             "russian": "Эта ручка меньше той.",                               "spanish": "Este bolígrafo es más pequeño que ese.",              "german": "Dieser Stift ist kleiner als jener.",                  "french": "Ce stylo est plus petit que celui-là." },
+    { "id": 64, "english": "He wasn't taller than them.",                   "russian": "Он не был выше их.",                                  "spanish": "Él no era más alto que ellos.",                       "german": "Er war nicht größer als sie.",                         "french": "Il n'était pas plus grand qu'eux." },
+    { "id": 65, "english": "They're busy.",                                 "russian": "Они занятые.",                                       "spanish": "Ellos están ocupados.",                               "german": "Sie sind beschäftigt.",                                "french": "Ils sont occupés." },
+    { "id": 66, "english": "This phone isn't the most beautiful.",          "russian": "Этот телефон не самый красивый.",                     "spanish": "Este teléfono no es el más bonito.",                  "german": "Dieses Telefon ist nicht das schönste.",               "french": "Ce téléphone n'est pas le plus beau." },
+    { "id": 67, "english": "We're bad.",                                    "russian": "Мы плохие.",                                         "spanish": "Somos malos.",                                        "german": "Wir sind schlecht.",                                   "french": "Nous sommes mauvais." }
+  ],
+  "exam": {
+    "sentences": [
+      {
+        "id": 1,
+        "sentence_en": "She isn't the youngest.",
+        "translations": {
+          "ru": "Она не самая молодая.",
+          "es": "Ella no es la más joven.",
+          "fr": "Elle n'est pas la plus jeune.",
+          "de": "Sie ist nicht die Jüngste."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "isn't", "alternatives": ["aren't", "wasn't", "won't be"] },
+          { "correct": "the youngest", "alternatives": ["the oldest", "the tallest", "the smallest"] }
+        ]
+      },
+      {
+        "id": 2,
+        "sentence_en": "We're beautiful.",
+        "translations": {
+          "ru": "Мы красивые.",
+          "es": "Somos hermosos.",
+          "fr": "Nous sommes beaux.",
+          "de": "Wir sind schön."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "You"] },
+          { "correct": "are", "alternatives": ["were", "is", "am"] },
+          { "correct": "beautiful", "alternatives": ["cheerful", "boring", "busy"] }
+        ]
+      },
+      {
+        "id": 3,
+        "sentence_en": "He'll be taller than us.",
+        "translations": {
+          "ru": "Он будет выше нас.",
+          "es": "Él será más alto que nosotros.",
+          "fr": "Il sera plus grand que nous.",
+          "de": "Er wird größer als wir sein."
+        },
+        "words": [
+          { "correct": "He'll", "alternatives": ["She'll", "They'll", "We'll"] },
+          { "correct": "be", "alternatives": ["is", "was", "are"] },
+          { "correct": "taller", "alternatives": ["shorter", "older", "slimmer"] },
+          { "correct": "than us", "alternatives": ["than them", "than you", "than me"] }
+        ]
+      },
+      {
+        "id": 4,
+        "sentence_en": "Is this note old?",
+        "translations": {
+          "ru": "Эта заметка старая?",
+          "es": "¿Esta nota es antigua?",
+          "fr": "Cette note est-elle ancienne ?",
+          "de": "Ist diese Notiz alt?"
+        },
+        "words": [
+          { "correct": "Is", "alternatives": ["Are", "Was", "Does"] },
+          { "correct": "this", "alternatives": ["that", "these", "those"] },
+          { "correct": "note", "alternatives": ["article", "book", "letter"] },
+          { "correct": "old", "alternatives": ["new", "big", "boring"] }
+        ]
+      },
+      {
+        "id": 5,
+        "sentence_en": "This phone isn't more expensive than that one.",
+        "translations": {
+          "ru": "Этот телефон не дороже того.",
+          "es": "Este teléfono no es más caro que ese.",
+          "fr": "Ce téléphone n'est pas plus cher que celui-là.",
+          "de": "Dieses Telefon ist nicht teurer als jenes."
+        },
+        "words": [
+          { "correct": "This", "alternatives": ["That", "These", "Those"] },
+          { "correct": "phone", "alternatives": ["tablet", "sofa", "car"] },
+          { "correct": "isn't", "alternatives": ["wasn't", "aren't", "won't be"] },
+          { "correct": "more expensive", "alternatives": ["cheaper", "bigger", "older"] },
+          { "correct": "than that one", "alternatives": ["than this one", "than those", "than these"] }
+        ]
+      },
+      {
+        "id": 6,
+        "sentence_en": "Is this pencil big?",
+        "translations": {
+          "ru": "Этот карандаш большой?",
+          "es": "¿Este lápiz es grande?",
+          "fr": "Ce crayon est-il grand ?",
+          "de": "Ist dieser Bleistift groß?"
+        },
+        "words": [
+          { "correct": "Is", "alternatives": ["Are", "Was", "Does"] },
+          { "correct": "this", "alternatives": ["that", "these", "those"] },
+          { "correct": "pencil", "alternatives": ["pen", "note", "book"] },
+          { "correct": "big", "alternatives": ["small", "short", "long"] }
+        ]
+      },
+      {
+        "id": 7,
+        "sentence_en": "This camera is the most beautiful.",
+        "translations": {
+          "ru": "Этот фотоаппарат самый красивый.",
+          "es": "Esta cámara es la más bonita.",
+          "fr": "Cet appareil photo est le plus beau.",
+          "de": "Diese Kamera ist die schönste."
+        },
+        "words": [
+          { "correct": "This", "alternatives": ["That", "These", "Those"] },
+          { "correct": "camera", "alternatives": ["phone", "tablet", "sofa"] },
+          { "correct": "is", "alternatives": ["was", "will be", "are"] },
+          { "correct": "the most beautiful", "alternatives": ["the most boring", "the biggest", "the smallest"] }
+        ]
+      },
+      {
+        "id": 8,
+        "sentence_en": "Are these games the oldest?",
+        "translations": {
+          "ru": "Эти игры самые старые?",
+          "es": "¿Estos juegos son los más antiguos?",
+          "fr": "Ces jeux sont-ils les plus anciens ?",
+          "de": "Sind diese Spiele die ältesten?"
+        },
+        "words": [
+          { "correct": "Are", "alternatives": ["Is", "Were", "Do"] },
+          { "correct": "these", "alternatives": ["those", "this", "that"] },
+          { "correct": "games", "alternatives": ["notes", "books", "articles"] },
+          { "correct": "the oldest", "alternatives": ["the newest", "the biggest", "the most boring"] }
+        ]
+      },
+      {
+        "id": 9,
+        "sentence_en": "This sofa isn't the most expensive.",
+        "translations": {
+          "ru": "Этот диван не самый дорогой.",
+          "es": "Este sofá no es el más caro.",
+          "fr": "Ce canapé n'est pas le plus cher.",
+          "de": "Dieses Sofa ist nicht das teuerste."
+        },
+        "words": [
+          { "correct": "This", "alternatives": ["That", "These", "Those"] },
+          { "correct": "sofa", "alternatives": ["table", "carpet", "chair"] },
+          { "correct": "isn't", "alternatives": ["wasn't", "aren't", "won't be"] },
+          { "correct": "the most expensive", "alternatives": ["the cheapest", "the biggest", "the smallest"] }
+        ]
+      },
+      {
+        "id": 10,
+        "sentence_en": "These fruits are the smallest.",
+        "translations": {
+          "ru": "Эти фрукты самые маленькие.",
+          "es": "Estas frutas son las más pequeñas.",
+          "fr": "Ces fruits sont les plus petits.",
+          "de": "Diese Früchte sind die kleinsten."
+        },
+        "words": [
+          { "correct": "These", "alternatives": ["Those", "This", "That"] },
+          { "correct": "fruits", "alternatives": ["buns", "apples", "pears"] },
+          { "correct": "are", "alternatives": ["is", "were", "will be"] },
+          { "correct": "the smallest", "alternatives": ["the biggest", "the oldest", "the most beautiful"] }
+        ]
+      },
+      {
+        "id": 11,
+        "sentence_en": "They're more cheerful than him.",
+        "translations": {
+          "ru": "Они более весёлые, чем он.",
+          "es": "Ellos son más alegres que él.",
+          "fr": "Ils sont plus joyeux que lui.",
+          "de": "Sie sind fröhlicher als er."
+        },
+        "words": [
+          { "correct": "They're", "alternatives": ["We're", "He's", "I'm"] },
+          { "correct": "more cheerful", "alternatives": ["busier", "boring", "beautiful"] },
+          { "correct": "than him", "alternatives": ["than us", "than her", "than me"] }
+        ]
+      },
+      {
+        "id": 12,
+        "sentence_en": "Are you slim?",
+        "translations": {
+          "ru": "Ты худой?",
+          "es": "¿Eres delgado?",
+          "fr": "Es-tu mince ?",
+          "de": "Bist du schlank?"
+        },
+        "words": [
+          { "correct": "Are", "alternatives": ["Is", "Were", "Do"] },
+          { "correct": "you", "alternatives": ["they", "he", "we"] },
+          { "correct": "slim", "alternatives": ["busy", "big", "old"] }
+        ]
+      },
+      {
+        "id": 13,
+        "sentence_en": "We're busier than him.",
+        "translations": {
+          "ru": "Мы более занятые, чем он.",
+          "es": "Somos más ocupados que él.",
+          "fr": "Nous sommes plus occupés que lui.",
+          "de": "Wir sind beschäftigter als er."
+        },
+        "words": [
+          { "correct": "We're", "alternatives": ["They're", "He's", "You're"] },
+          { "correct": "busier", "alternatives": ["cheerful", "boring", "beautiful"] },
+          { "correct": "than him", "alternatives": ["than us", "than her", "than me"] }
+        ]
+      },
+      {
+        "id": 14,
+        "sentence_en": "Are these pears tasty?",
+        "translations": {
+          "ru": "Эти груши вкусные?",
+          "es": "¿Estas peras son sabrosas?",
+          "fr": "Ces poires sont-elles savoureuses ?",
+          "de": "Sind diese Birnen lecker?"
+        },
+        "words": [
+          { "correct": "Are", "alternatives": ["Is", "Were", "Do"] },
+          { "correct": "these", "alternatives": ["those", "this", "that"] },
+          { "correct": "pears", "alternatives": ["apples", "buns", "fruit"] },
+          { "correct": "tasty", "alternatives": ["boring", "expensive", "old"] }
+        ]
+      },
+      {
+        "id": 15,
+        "sentence_en": "This poster isn't the most boring.",
+        "translations": {
+          "ru": "Этот плакат не самый скучный.",
+          "es": "Este póster no es el más aburrido.",
+          "fr": "Cette affiche n'est pas la plus ennuyeuse.",
+          "de": "Dieses Poster ist nicht das langweiligste."
+        },
+        "words": [
+          { "correct": "This", "alternatives": ["That", "These", "Those"] },
+          { "correct": "poster", "alternatives": ["note", "article", "carpet"] },
+          { "correct": "isn't", "alternatives": ["wasn't", "aren't", "won't be"] },
+          { "correct": "the most boring", "alternatives": ["the most beautiful", "the biggest", "the smallest"] }
+        ]
+      },
+      {
+        "id": 16,
+        "sentence_en": "This article is older than that one.",
+        "translations": {
+          "ru": "Эта статья старее той.",
+          "es": "Este artículo es más antiguo que aquel.",
+          "fr": "Cet article est plus ancien que celui-là.",
+          "de": "Dieser Artikel ist älter als jener."
+        },
+        "words": [
+          { "correct": "This", "alternatives": ["That", "These", "Those"] },
+          { "correct": "article", "alternatives": ["note", "book", "poster"] },
+          { "correct": "is", "alternatives": ["was", "will be", "are"] },
+          { "correct": "older", "alternatives": ["newer", "bigger", "cheaper"] },
+          { "correct": "than that one", "alternatives": ["than this one", "than those", "than these"] }
+        ]
+      },
+      {
+        "id": 17,
+        "sentence_en": "Is this pen cheaper than that one?",
+        "translations": {
+          "ru": "Эта ручка дешевле той?",
+          "es": "¿Este bolígrafo es más barato que ese?",
+          "fr": "Ce stylo est-il moins cher que celui-là ?",
+          "de": "Ist dieser Stift billiger als jener?"
+        },
+        "words": [
+          { "correct": "Is", "alternatives": ["Are", "Was", "Does"] },
+          { "correct": "this", "alternatives": ["that", "these", "those"] },
+          { "correct": "pen", "alternatives": ["pencil", "note", "book"] },
+          { "correct": "cheaper", "alternatives": ["more expensive", "older", "bigger"] },
+          { "correct": "than that one", "alternatives": ["than this one", "than those", "than these"] }
+        ]
+      },
+      {
+        "id": 18,
+        "sentence_en": "Is this camera the shortest?",
+        "translations": {
+          "ru": "Этот фотоаппарат самый короткий?",
+          "es": "¿Esta cámara es la más corta?",
+          "fr": "Cet appareil photo est-il le plus court ?",
+          "de": "Ist diese Kamera die kürzeste?"
+        },
+        "words": [
+          { "correct": "Is", "alternatives": ["Are", "Was", "Does"] },
+          { "correct": "this", "alternatives": ["that", "these", "those"] },
+          { "correct": "camera", "alternatives": ["phone", "tablet", "sofa"] },
+          { "correct": "the shortest", "alternatives": ["the tallest", "the biggest", "the most beautiful"] }
+        ]
+      },
+      {
+        "id": 19,
+        "sentence_en": "She wasn't busier than us.",
+        "translations": {
+          "ru": "Она не была более занятая, чем мы.",
+          "es": "Ella no estaba más ocupada que nosotros.",
+          "fr": "Elle n'était pas plus occupée que nous.",
+          "de": "Sie war nicht beschäftigter als wir."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "wasn't", "alternatives": ["isn't", "aren't", "won't be"] },
+          { "correct": "busier", "alternatives": ["cheerful", "boring", "beautiful"] },
+          { "correct": "than us", "alternatives": ["than them", "than you", "than me"] }
+        ]
+      },
+      {
+        "id": 20,
+        "sentence_en": "These tomatoes aren't the most expensive.",
+        "translations": {
+          "ru": "Эти помидоры не самые дорогие.",
+          "es": "Estos tomates no son los más caros.",
+          "fr": "Ces tomates ne sont pas les plus chères.",
+          "de": "Diese Tomaten sind nicht die teuersten."
+        },
+        "words": [
+          { "correct": "These", "alternatives": ["Those", "This", "That"] },
+          { "correct": "tomatoes", "alternatives": ["pears", "apples", "buns"] },
+          { "correct": "aren't", "alternatives": ["isn't", "wasn't", "won't be"] },
+          { "correct": "the most expensive", "alternatives": ["the cheapest", "the biggest", "the smallest"] }
+        ]
+      },
+      {
+        "id": 21,
+        "sentence_en": "We aren't slim.",
+        "translations": {
+          "ru": "Мы не худые.",
+          "es": "No somos delgados.",
+          "fr": "Nous ne sommes pas minces.",
+          "de": "Wir sind nicht schlank."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "I"] },
+          { "correct": "aren't", "alternatives": ["isn't", "wasn't", "won't be"] },
+          { "correct": "slim", "alternatives": ["busy", "big", "old"] }
+        ]
+      },
+      {
+        "id": 22,
+        "sentence_en": "They're big.",
+        "translations": {
+          "ru": "Они большие.",
+          "es": "Ellos son grandes.",
+          "fr": "Ils sont grands.",
+          "de": "Sie sind groß."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "He", "I"] },
+          { "correct": "are", "alternatives": ["were", "is", "am"] },
+          { "correct": "big", "alternatives": ["small", "short", "old"] }
+        ]
+      },
+      {
+        "id": 23,
+        "sentence_en": "These notes are the most boring.",
+        "translations": {
+          "ru": "Эти заметки самые скучные.",
+          "es": "Estas notas son las más aburridas.",
+          "fr": "Ces notes sont les plus ennuyeuses.",
+          "de": "Diese Notizen sind die langweiligsten."
+        },
+        "words": [
+          { "correct": "These", "alternatives": ["Those", "This", "That"] },
+          { "correct": "notes", "alternatives": ["books", "articles", "games"] },
+          { "correct": "are", "alternatives": ["is", "were", "will be"] },
+          { "correct": "the most boring", "alternatives": ["the most beautiful", "the biggest", "the smallest"] }
+        ]
+      },
+      {
+        "id": 24,
+        "sentence_en": "Will she be taller than me?",
+        "translations": {
+          "ru": "Она будет выше меня?",
+          "es": "¿Será ella más alta que yo?",
+          "fr": "Sera-t-elle plus grande que moi ?",
+          "de": "Wird sie größer sein als ich?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Does", "Is", "Was"] },
+          { "correct": "she", "alternatives": ["he", "they", "we"] },
+          { "correct": "be", "alternatives": ["is", "was", "are"] },
+          { "correct": "taller", "alternatives": ["shorter", "older", "slimmer"] },
+          { "correct": "than me", "alternatives": ["than you", "than us", "than them"] }
+        ]
+      },
+      {
+        "id": 25,
+        "sentence_en": "I'm not busy.",
+        "translations": {
+          "ru": "Я не занятой.",
+          "es": "No estoy ocupado.",
+          "fr": "Je ne suis pas occupé.",
+          "de": "Ich bin nicht beschäftigt."
+        },
+        "words": [
+          { "correct": "I'm", "alternatives": ["You're", "He's", "They're"] },
+          { "correct": "not", "alternatives": ["never", "always", "often"] },
+          { "correct": "busy", "alternatives": ["slim", "cheerful", "boring"] }
+        ]
+      },
+      {
+        "id": 26,
+        "sentence_en": "This TV isn't old.",
+        "translations": {
+          "ru": "Этот телевизор не старый.",
+          "es": "Este televisor no es viejo.",
+          "fr": "Cette télé n'est pas vieille.",
+          "de": "Dieser Fernseher ist nicht alt."
+        },
+        "words": [
+          { "correct": "This", "alternatives": ["That", "These", "Those"] },
+          { "correct": "TV", "alternatives": ["phone", "tablet", "sofa"] },
+          { "correct": "isn't", "alternatives": ["wasn't", "aren't", "won't be"] },
+          { "correct": "old", "alternatives": ["new", "big", "boring"] }
+        ]
+      },
+      {
+        "id": 27,
+        "sentence_en": "We're the largest.",
+        "translations": {
+          "ru": "Мы крупнейшие.",
+          "es": "Somos los más grandes.",
+          "fr": "Nous sommes les plus grands.",
+          "de": "Wir sind die größten."
+        },
+        "words": [
+          { "correct": "We're", "alternatives": ["They're", "I'm", "You're"] },
+          { "correct": "the largest", "alternatives": ["the smallest", "the oldest", "the most boring"] }
+        ]
+      },
+      {
+        "id": 28,
+        "sentence_en": "These tomatoes are tasty.",
+        "translations": {
+          "ru": "Эти помидоры вкусные.",
+          "es": "Estos tomates son sabrosos.",
+          "fr": "Ces tomates sont savoureuses.",
+          "de": "Diese Tomaten sind lecker."
+        },
+        "words": [
+          { "correct": "These", "alternatives": ["Those", "This", "That"] },
+          { "correct": "tomatoes", "alternatives": ["pears", "apples", "buns"] },
+          { "correct": "are", "alternatives": ["is", "were", "will be"] },
+          { "correct": "tasty", "alternatives": ["boring", "expensive", "old"] }
+        ]
+      },
+      {
+        "id": 29,
+        "sentence_en": "He isn't poor.",
+        "translations": {
+          "ru": "Он не бедный.",
+          "es": "Él no es pobre.",
+          "fr": "Il n'est pas pauvre.",
+          "de": "Er ist nicht arm."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "isn't", "alternatives": ["aren't", "wasn't", "won't be"] },
+          { "correct": "poor", "alternatives": ["rich", "busy", "boring"] }
+        ]
+      },
+      {
+        "id": 30,
+        "sentence_en": "They'll be more beautiful than you.",
+        "translations": {
+          "ru": "Они будут красивее тебя.",
+          "es": "Serán más hermosos que tú.",
+          "fr": "Ils seront plus beaux que toi.",
+          "de": "Sie werden schöner sein als du."
+        },
+        "words": [
+          { "correct": "They'll", "alternatives": ["We'll", "He'll", "She'll"] },
+          { "correct": "be", "alternatives": ["is", "was", "are"] },
+          { "correct": "more beautiful", "alternatives": ["busier", "boring", "cheerful"] },
+          { "correct": "than you", "alternatives": ["than me", "than us", "than them"] }
+        ]
+      },
+      {
+        "id": 31,
+        "sentence_en": "He wasn't bigger than them.",
+        "translations": {
+          "ru": "Он не был больше их.",
+          "es": "Él no era más grande que ellos.",
+          "fr": "Il n'était pas plus grand qu'eux.",
+          "de": "Er war nicht größer als sie."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "wasn't", "alternatives": ["isn't", "aren't", "won't be"] },
+          { "correct": "bigger", "alternatives": ["smaller", "older", "slimmer"] },
+          { "correct": "than them", "alternatives": ["than us", "than you", "than me"] }
+        ]
+      },
+      {
+        "id": 32,
+        "sentence_en": "This phone is the smallest.",
+        "translations": {
+          "ru": "Этот телефон самый маленький.",
+          "es": "Este teléfono es el más pequeño.",
+          "fr": "Ce téléphone est le plus petit.",
+          "de": "Dieses Telefon ist das kleinste."
+        },
+        "words": [
+          { "correct": "This", "alternatives": ["That", "These", "Those"] },
+          { "correct": "phone", "alternatives": ["tablet", "sofa", "car"] },
+          { "correct": "is", "alternatives": ["was", "will be", "are"] },
+          { "correct": "the smallest", "alternatives": ["the biggest", "the oldest", "the most beautiful"] }
+        ]
+      },
+      {
+        "id": 33,
+        "sentence_en": "Are these oranges cheaper than those ones?",
+        "translations": {
+          "ru": "Эти апельсины дешевле тех?",
+          "es": "¿Estas naranjas son más baratas que aquellas?",
+          "fr": "Ces oranges sont-elles moins chères que celles-là ?",
+          "de": "Sind diese Orangen billiger als jene?"
+        },
+        "words": [
+          { "correct": "Are", "alternatives": ["Is", "Were", "Do"] },
+          { "correct": "these", "alternatives": ["those", "this", "that"] },
+          { "correct": "oranges", "alternatives": ["apples", "buns", "fruit"] },
+          { "correct": "cheaper", "alternatives": ["more expensive", "older", "bigger"] },
+          { "correct": "than those ones", "alternatives": ["than these ones", "than that one", "than this one"] }
+        ]
+      },
+      {
+        "id": 34,
+        "sentence_en": "Are they the biggest?",
+        "translations": {
+          "ru": "Они самые большие?",
+          "es": "¿Son ellos los más grandes?",
+          "fr": "Sont-ils les plus grands ?",
+          "de": "Sind sie die größten?"
+        },
+        "words": [
+          { "correct": "Are", "alternatives": ["Is", "Were", "Do"] },
+          { "correct": "they", "alternatives": ["we", "he", "she"] },
+          { "correct": "the biggest", "alternatives": ["the smallest", "the oldest", "the most boring"] }
+        ]
+      },
+      {
+        "id": 35,
+        "sentence_en": "He isn't taller than them.",
+        "translations": {
+          "ru": "Он не выше их.",
+          "es": "Él no es más alto que ellos.",
+          "fr": "Il n'est pas plus grand qu'eux.",
+          "de": "Er ist nicht größer als sie."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "isn't", "alternatives": ["aren't", "wasn't", "won't be"] },
+          { "correct": "taller", "alternatives": ["shorter", "older", "slimmer"] },
+          { "correct": "than them", "alternatives": ["than us", "than you", "than me"] }
+        ]
+      },
+      {
+        "id": 36,
+        "sentence_en": "Are these notes boring?",
+        "translations": {
+          "ru": "Эти заметки скучные?",
+          "es": "¿Estas notas son aburridas?",
+          "fr": "Ces notes sont-elles ennuyeuses ?",
+          "de": "Sind diese Notizen langweilig?"
+        },
+        "words": [
+          { "correct": "Are", "alternatives": ["Is", "Were", "Do"] },
+          { "correct": "these", "alternatives": ["those", "this", "that"] },
+          { "correct": "notes", "alternatives": ["books", "articles", "games"] },
+          { "correct": "boring", "alternatives": ["beautiful", "cheerful", "busy"] }
+        ]
+      },
+      {
+        "id": 37,
+        "sentence_en": "These fruit aren't the biggest.",
+        "translations": {
+          "ru": "Эти фрукты не самые большие.",
+          "es": "Estas frutas no son las más grandes.",
+          "fr": "Ces fruits ne sont pas les plus gros.",
+          "de": "Diese Früchte sind nicht die größten."
+        },
+        "words": [
+          { "correct": "These", "alternatives": ["Those", "This", "That"] },
+          { "correct": "fruit", "alternatives": ["buns", "apples", "pears"] },
+          { "correct": "aren't", "alternatives": ["isn't", "wasn't", "won't be"] },
+          { "correct": "the biggest", "alternatives": ["the smallest", "the oldest", "the most beautiful"] }
+        ]
+      },
+      {
+        "id": 38,
+        "sentence_en": "These tomatoes aren't expensive.",
+        "translations": {
+          "ru": "Эти помидоры не дорогие.",
+          "es": "Estos tomates no son caros.",
+          "fr": "Ces tomates ne sont pas chères.",
+          "de": "Diese Tomaten sind nicht teuer."
+        },
+        "words": [
+          { "correct": "These", "alternatives": ["Those", "This", "That"] },
+          { "correct": "tomatoes", "alternatives": ["pears", "apples", "buns"] },
+          { "correct": "aren't", "alternatives": ["isn't", "wasn't", "won't be"] },
+          { "correct": "expensive", "alternatives": ["cheap", "tasty", "boring"] }
+        ]
+      },
+      {
+        "id": 39,
+        "sentence_en": "She wasn't more boring than them.",
+        "translations": {
+          "ru": "Она не была скучнее их.",
+          "es": "Ella no era más aburrida que ellos.",
+          "fr": "Elle n'était pas plus ennuyeuse qu'eux.",
+          "de": "Sie war nicht langweiliger als sie."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "wasn't", "alternatives": ["isn't", "aren't", "won't be"] },
+          { "correct": "more boring", "alternatives": ["cheerful", "beautiful", "busy"] },
+          { "correct": "than them", "alternatives": ["than us", "than you", "than me"] }
+        ]
+      },
+      {
+        "id": 40,
+        "sentence_en": "Are these pears the biggest?",
+        "translations": {
+          "ru": "Эти груши самые большие?",
+          "es": "¿Estas peras son las más grandes?",
+          "fr": "Ces poires sont-elles les plus grosses ?",
+          "de": "Sind diese Birnen die größten?"
+        },
+        "words": [
+          { "correct": "Are", "alternatives": ["Is", "Were", "Do"] },
+          { "correct": "these", "alternatives": ["those", "this", "that"] },
+          { "correct": "pears", "alternatives": ["apples", "buns", "fruit"] },
+          { "correct": "the biggest", "alternatives": ["the smallest", "the oldest", "the most boring"] }
+        ]
+      },
+      {
+        "id": 41,
+        "sentence_en": "This table isn't smaller than that one.",
+        "translations": {
+          "ru": "Этот стол не меньше того.",
+          "es": "Esta mesa no es más pequeña que aquella.",
+          "fr": "Cette table n'est pas plus petite que celle-là.",
+          "de": "Dieser Tisch ist nicht kleiner als jener."
+        },
+        "words": [
+          { "correct": "This", "alternatives": ["That", "These", "Those"] },
+          { "correct": "table", "alternatives": ["sofa", "carpet", "chair"] },
+          { "correct": "isn't", "alternatives": ["wasn't", "aren't", "won't be"] },
+          { "correct": "smaller", "alternatives": ["bigger", "older", "cheaper"] },
+          { "correct": "than that one", "alternatives": ["than this one", "than those", "than these"] }
+        ]
+      },
+      {
+        "id": 42,
+        "sentence_en": "Is this pencil old?",
+        "translations": {
+          "ru": "Этот карандаш старый?",
+          "es": "¿Este lápiz es viejo?",
+          "fr": "Ce crayon est-il vieux ?",
+          "de": "Ist dieser Bleistift alt?"
+        },
+        "words": [
+          { "correct": "Is", "alternatives": ["Are", "Was", "Does"] },
+          { "correct": "this", "alternatives": ["that", "these", "those"] },
+          { "correct": "pencil", "alternatives": ["pen", "note", "book"] },
+          { "correct": "old", "alternatives": ["new", "big", "boring"] }
+        ]
+      },
+      {
+        "id": 43,
+        "sentence_en": "Are they boring?",
+        "translations": {
+          "ru": "Они скучные?",
+          "es": "¿Son aburridos?",
+          "fr": "Sont-ils ennuyeux ?",
+          "de": "Sind sie langweilig?"
+        },
+        "words": [
+          { "correct": "Are", "alternatives": ["Is", "Were", "Do"] },
+          { "correct": "they", "alternatives": ["we", "he", "she"] },
+          { "correct": "boring", "alternatives": ["beautiful", "cheerful", "busy"] }
+        ]
+      },
+      {
+        "id": 44,
+        "sentence_en": "She's the poorest.",
+        "translations": {
+          "ru": "Она самая бедная.",
+          "es": "Ella es la más pobre.",
+          "fr": "Elle est la plus pauvre.",
+          "de": "Sie ist die Ärmste."
+        },
+        "words": [
+          { "correct": "She's", "alternatives": ["He's", "They're", "We're"] },
+          { "correct": "the poorest", "alternatives": ["the richest", "the oldest", "the biggest"] }
+        ]
+      },
+      {
+        "id": 45,
+        "sentence_en": "Is she good?",
+        "translations": {
+          "ru": "Она хорошая?",
+          "es": "¿Ella es buena?",
+          "fr": "Est-elle bonne ?",
+          "de": "Ist sie gut?"
+        },
+        "words": [
+          { "correct": "Is", "alternatives": ["Are", "Was", "Does"] },
+          { "correct": "she", "alternatives": ["he", "they", "we"] },
+          { "correct": "good", "alternatives": ["bad", "busy", "boring"] }
+        ]
+      },
+      {
+        "id": 46,
+        "sentence_en": "These articles are new.",
+        "translations": {
+          "ru": "Эти статьи новые.",
+          "es": "Estos artículos son nuevos.",
+          "fr": "Ces articles sont nouveaux.",
+          "de": "Diese Artikel sind neu."
+        },
+        "words": [
+          { "correct": "These", "alternatives": ["Those", "This", "That"] },
+          { "correct": "articles", "alternatives": ["notes", "books", "games"] },
+          { "correct": "are", "alternatives": ["is", "were", "will be"] },
+          { "correct": "new", "alternatives": ["old", "big", "boring"] }
+        ]
+      },
+      {
+        "id": 47,
+        "sentence_en": "She's old.",
+        "translations": {
+          "ru": "Она старая.",
+          "es": "Ella es vieja.",
+          "fr": "Elle est vieille.",
+          "de": "Sie ist alt."
+        },
+        "words": [
+          { "correct": "She's", "alternatives": ["He's", "They're", "We're"] },
+          { "correct": "old", "alternatives": ["young", "big", "boring"] }
+        ]
+      },
+      {
+        "id": 48,
+        "sentence_en": "They aren't the largest.",
+        "translations": {
+          "ru": "Они не крупнейшие.",
+          "es": "Ellos no son los más grandes.",
+          "fr": "Ils ne sont pas les plus grands.",
+          "de": "Sie sind nicht die größten."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "aren't", "alternatives": ["isn't", "wasn't", "won't be"] },
+          { "correct": "the largest", "alternatives": ["the smallest", "the oldest", "the most boring"] }
+        ]
+      },
+      {
+        "id": 49,
+        "sentence_en": "This pen isn't the cheapest.",
+        "translations": {
+          "ru": "Эта ручка не самая дешёвая.",
+          "es": "Este bolígrafo no es el más barato.",
+          "fr": "Ce stylo n'est pas le moins cher.",
+          "de": "Dieser Stift ist nicht der billigste."
+        },
+        "words": [
+          { "correct": "This", "alternatives": ["That", "These", "Those"] },
+          { "correct": "pen", "alternatives": ["pencil", "note", "book"] },
+          { "correct": "isn't", "alternatives": ["wasn't", "aren't", "won't be"] },
+          { "correct": "the cheapest", "alternatives": ["the most expensive", "the biggest", "the smallest"] }
+        ]
+      },
+      {
+        "id": 50,
+        "sentence_en": "Is he old?",
+        "translations": {
+          "ru": "Он старый?",
+          "es": "¿Él es viejo?",
+          "fr": "Est-il vieux ?",
+          "de": "Ist er alt?"
+        },
+        "words": [
+          { "correct": "Is", "alternatives": ["Are", "Was", "Does"] },
+          { "correct": "he", "alternatives": ["she", "they", "we"] },
+          { "correct": "old", "alternatives": ["young", "big", "boring"] }
+        ]
+      },
+      {
+        "id": 51,
+        "sentence_en": "You'll be busier than us.",
+        "translations": {
+          "ru": "Ты будешь более занятой, чем мы.",
+          "es": "Estarás más ocupado que nosotros.",
+          "fr": "Tu seras plus occupé que nous.",
+          "de": "Du wirst beschäftigter sein als wir."
+        },
+        "words": [
+          { "correct": "You'll", "alternatives": ["He'll", "They'll", "We'll"] },
+          { "correct": "be", "alternatives": ["is", "was", "are"] },
+          { "correct": "busier", "alternatives": ["cheerful", "boring", "beautiful"] },
+          { "correct": "than us", "alternatives": ["than them", "than you", "than me"] }
+        ]
+      },
+      {
+        "id": 52,
+        "sentence_en": "They aren't the youngest.",
+        "translations": {
+          "ru": "Они не самые молодые.",
+          "es": "Ellos no son los más jóvenes.",
+          "fr": "Ils ne sont pas les plus jeunes.",
+          "de": "Sie sind nicht die Jüngsten."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "aren't", "alternatives": ["isn't", "wasn't", "won't be"] },
+          { "correct": "the youngest", "alternatives": ["the oldest", "the tallest", "the smallest"] }
+        ]
+      },
+      {
+        "id": 53,
+        "sentence_en": "He isn't tall.",
+        "translations": {
+          "ru": "Он не высокий.",
+          "es": "Él no es alto.",
+          "fr": "Il n'est pas grand.",
+          "de": "Er ist nicht groß."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "isn't", "alternatives": ["aren't", "wasn't", "won't be"] },
+          { "correct": "tall", "alternatives": ["short", "slim", "old"] }
+        ]
+      },
+      {
+        "id": 54,
+        "sentence_en": "She isn't tall.",
+        "translations": {
+          "ru": "Она не высокая.",
+          "es": "Ella no es alta.",
+          "fr": "Elle n'est pas grande.",
+          "de": "Sie ist nicht groß."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "isn't", "alternatives": ["aren't", "wasn't", "won't be"] },
+          { "correct": "tall", "alternatives": ["short", "slim", "old"] }
+        ]
+      },
+      {
+        "id": 55,
+        "sentence_en": "We aren't slim.",
+        "translations": {
+          "ru": "Мы не худые.",
+          "es": "No somos delgados.",
+          "fr": "Nous ne sommes pas minces.",
+          "de": "Wir sind nicht schlank."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "I"] },
+          { "correct": "aren't", "alternatives": ["isn't", "wasn't", "won't be"] },
+          { "correct": "slim", "alternatives": ["busy", "big", "old"] }
+        ]
+      },
+      {
+        "id": 56,
+        "sentence_en": "I'm not the busiest.",
+        "translations": {
+          "ru": "Я не самый занятой.",
+          "es": "No soy el más ocupado.",
+          "fr": "Je ne suis pas le plus occupé.",
+          "de": "Ich bin nicht der Beschäftigste."
+        },
+        "words": [
+          { "correct": "I'm", "alternatives": ["You're", "He's", "They're"] },
+          { "correct": "not", "alternatives": ["never", "always", "often"] },
+          { "correct": "the busiest", "alternatives": ["the laziest", "the oldest", "the biggest"] }
+        ]
+      },
+      {
+        "id": 57,
+        "sentence_en": "This magazine is the smallest.",
+        "translations": {
+          "ru": "Этот журнал самый маленький.",
+          "es": "Esta revista es la más pequeña.",
+          "fr": "Ce magazine est le plus petit.",
+          "de": "Dieses Magazin ist das kleinste."
+        },
+        "words": [
+          { "correct": "This", "alternatives": ["That", "These", "Those"] },
+          { "correct": "magazine", "alternatives": ["book", "note", "article"] },
+          { "correct": "is", "alternatives": ["was", "will be", "are"] },
+          { "correct": "the smallest", "alternatives": ["the biggest", "the oldest", "the most beautiful"] }
+        ]
+      },
+      {
+        "id": 58,
+        "sentence_en": "He's good.",
+        "translations": {
+          "ru": "Он хороший.",
+          "es": "Él es bueno.",
+          "fr": "Il est bon.",
+          "de": "Er ist gut."
+        },
+        "words": [
+          { "correct": "He's", "alternatives": ["She's", "They're", "We're"] },
+          { "correct": "good", "alternatives": ["bad", "busy", "boring"] }
+        ]
+      },
+      {
+        "id": 59,
+        "sentence_en": "Is this article more boring than that one?",
+        "translations": {
+          "ru": "Эта статья скучнее той?",
+          "es": "¿Este artículo es más aburrido que aquel?",
+          "fr": "Cet article est-il plus ennuyeux que celui-là ?",
+          "de": "Ist dieser Artikel langweiliger als jener?"
+        },
+        "words": [
+          { "correct": "Is", "alternatives": ["Are", "Was", "Does"] },
+          { "correct": "this", "alternatives": ["that", "these", "those"] },
+          { "correct": "article", "alternatives": ["note", "book", "poster"] },
+          { "correct": "more boring", "alternatives": ["cheerful", "beautiful", "busy"] },
+          { "correct": "than that one", "alternatives": ["than this one", "than those", "than these"] }
+        ]
+      },
+      {
+        "id": 60,
+        "sentence_en": "We aren't the busiest.",
+        "translations": {
+          "ru": "Мы не самые занятые.",
+          "es": "No somos los más ocupados.",
+          "fr": "Nous ne sommes pas les plus occupés.",
+          "de": "Wir sind nicht die Beschäftigsten."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "I"] },
+          { "correct": "aren't", "alternatives": ["isn't", "wasn't", "won't be"] },
+          { "correct": "the busiest", "alternatives": ["the laziest", "the oldest", "the biggest"] }
+        ]
+      },
+      {
+        "id": 61,
+        "sentence_en": "Are you faster than them?",
+        "translations": {
+          "ru": "Ты быстрее их?",
+          "es": "¿Eres más rápido que ellos?",
+          "fr": "Es-tu plus rapide qu'eux ?",
+          "de": "Bist du schneller als sie?"
+        },
+        "words": [
+          { "correct": "Are", "alternatives": ["Is", "Were", "Do"] },
+          { "correct": "you", "alternatives": ["they", "he", "we"] },
+          { "correct": "faster", "alternatives": ["slower", "older", "bigger"] },
+          { "correct": "than them", "alternatives": ["than us", "than you", "than me"] }
+        ]
+      },
+      {
+        "id": 62,
+        "sentence_en": "Is this sofa older than that one?",
+        "translations": {
+          "ru": "Этот диван старее того?",
+          "es": "¿Este sofá es más viejo que aquel?",
+          "fr": "Ce canapé est-il plus ancien que celui-là ?",
+          "de": "Ist dieses Sofa älter als jenes?"
+        },
+        "words": [
+          { "correct": "Is", "alternatives": ["Are", "Was", "Does"] },
+          { "correct": "this", "alternatives": ["that", "these", "those"] },
+          { "correct": "sofa", "alternatives": ["table", "carpet", "chair"] },
+          { "correct": "older", "alternatives": ["newer", "bigger", "cheaper"] },
+          { "correct": "than that one", "alternatives": ["than this one", "than those", "than these"] }
+        ]
+      },
+      {
+        "id": 63,
+        "sentence_en": "This pen is smaller than that one.",
+        "translations": {
+          "ru": "Эта ручка меньше той.",
+          "es": "Este bolígrafo es más pequeño que ese.",
+          "fr": "Ce stylo est plus petit que celui-là.",
+          "de": "Dieser Stift ist kleiner als jener."
+        },
+        "words": [
+          { "correct": "This", "alternatives": ["That", "These", "Those"] },
+          { "correct": "pen", "alternatives": ["pencil", "note", "book"] },
+          { "correct": "is", "alternatives": ["was", "will be", "are"] },
+          { "correct": "smaller", "alternatives": ["bigger", "older", "cheaper"] },
+          { "correct": "than that one", "alternatives": ["than this one", "than those", "than these"] }
+        ]
+      },
+      {
+        "id": 64,
+        "sentence_en": "He wasn't taller than them.",
+        "translations": {
+          "ru": "Он не был выше их.",
+          "es": "Él no era más alto que ellos.",
+          "fr": "Il n'était pas plus grand qu'eux.",
+          "de": "Er war nicht größer als sie."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "wasn't", "alternatives": ["isn't", "aren't", "won't be"] },
+          { "correct": "taller", "alternatives": ["shorter", "older", "slimmer"] },
+          { "correct": "than them", "alternatives": ["than us", "than you", "than me"] }
+        ]
+      },
+      {
+        "id": 65,
+        "sentence_en": "They're busy.",
+        "translations": {
+          "ru": "Они занятые.",
+          "es": "Ellos están ocupados.",
+          "fr": "Ils sont occupés.",
+          "de": "Sie sind beschäftigt."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "He", "I"] },
+          { "correct": "are", "alternatives": ["were", "is", "am"] },
+          { "correct": "busy", "alternatives": ["slim", "cheerful", "boring"] }
+        ]
+      },
+      {
+        "id": 66,
+        "sentence_en": "This phone isn't the most beautiful.",
+        "translations": {
+          "ru": "Этот телефон не самый красивый.",
+          "es": "Este teléfono no es el más bonito.",
+          "fr": "Ce téléphone n'est pas le plus beau.",
+          "de": "Dieses Telefon ist nicht das schönste."
+        },
+        "words": [
+          { "correct": "This", "alternatives": ["That", "These", "Those"] },
+          { "correct": "phone", "alternatives": ["tablet", "sofa", "car"] },
+          { "correct": "isn't", "alternatives": ["wasn't", "aren't", "won't be"] },
+          { "correct": "the most beautiful", "alternatives": ["the most boring", "the biggest", "the smallest"] }
+        ]
+      },
+      {
+        "id": 67,
+        "sentence_en": "We're bad.",
+        "translations": {
+          "ru": "Мы плохие.",
+          "es": "Somos malos.",
+          "fr": "Nous sommes mauvais.",
+          "de": "Wir sind schlecht."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "You"] },
+          { "correct": "are", "alternatives": ["were", "is", "am"] },
+          { "correct": "bad", "alternatives": ["good", "busy", "boring"] }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2644 @@
+{
+  "id": 9,
+  "title": {
+    "english": "There is / There are",
+    "russian": "Конструкции There is / There are",
+    "spanish": "Construcciones There is / There are",
+    "french": "Constructions There is / There are",
+    "german": "Konstruktionen There is / There are"
+  },
+  "description": {
+    "english": "In this lesson, we will learn how to use 'There is / There are' structures and prepositions of place.",
+    "russian": "В этом уроке мы изучим конструкции 'There is / There are' и предлоги места.",
+    "spanish": "En esta lección, aprenderemos a usar las estructuras 'Hay / Está / Están' y las preposiciones de lugar.",
+    "french": "Dans cette leçon, nous apprendrons à utiliser les structures 'Il y a' et les prépositions de lieu.",
+    "german": "In dieser Lektion lernen wir die Strukturen 'Es gibt / Es ist / Es sind' und Ortsangaben kennen."
+  },
+  "detailedDescription": {
+    "russian": {
+      "title": "Урок 9 — Конструкции There is / There are",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "There is / There are"
+        },
+        {
+          "type": "text",
+          "content": "Обороты there is / there are (или в общем виде there + to be в нужном времени) используются, чтобы подчеркнуть наличие или отсутствие чего-либо в конкретном месте."
+        },
+        {
+          "type": "text",
+          "content": "Пример для понимания:\n • Книга на столе.\n • На столе книга.\n\nРазница:\n• В первом случае — «книга» уже известна, и мы уточняем, где она.\n• Во втором — подчеркивается, что на столе есть именно книга, некая новая информация.\n\n→ Именно во втором случае мы используем There is:\nThere is a book on the table.\nНа столе (есть) книга.\n\nОбратите внимание на артикли:\n • a book — любая книга (неопределённый артикль)\n • the table — конкретный стол (определённый артикль)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Настоящее время"
+        },
+        {
+          "type": "text",
+          "content": " • There is — для одного предмета:\nThere is a ball under the chair. — Под стулом мяч.\n • There are — для нескольких предметов:\nThere are balls under the table. — Под столом мячи.\n(артикль a не используется с множественным числом)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Прошедшее время"
+        },
+        {
+          "type": "text",
+          "content": " • There was — один предмет:\nThere was a ball under the chair. — Под стулом был мяч.\n • There were — несколько предметов:\nThere were balls under the table. — Под столом были мячи."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Будущее время"
+        },
+        {
+          "type": "text",
+          "content": "(всегда используется there will be, независимо от числа предметов):\n • There will be a ball under the chair. — Под стулом будет мяч.\n • There will be balls under the table. — Под столом будут мячи."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Отрицательные предложения"
+        },
+        {
+          "type": "text",
+          "content": "Добавляем not после глагола to be:\n • There isn't a ball under the chair. — Под стулом нет мяча.\n • There weren't balls under the table. — Под столом не было мячей.\n • There won't be a ball under the chair. — Под стулом не будет мяча."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Вопросительные предложения"
+        },
+        {
+          "type": "text",
+          "content": "Меняем местами there и форму to be:\n • Is there a ball under the chair? — Под стулом есть мяч?\n • Were there balls under the table? — Под столом были мячи?\n • Will there be a ball under the chair? — Под стулом будет мяч?"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Зачем это нужно знать?"
+        },
+        {
+          "type": "text",
+          "content": " 1. Чтобы точно передавать или понимать смысл — разницу между \"книга на столе\" и \"на столе книга\".\n 2. Чтобы избежать дословного перевода слов типа: стоит, лежит, находится, существует и т.д."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Предлоги из урока:"
+        },
+        {
+          "type": "table",
+          "headers": ["Предлог", "Перевод", "Пример"],
+          "rows": [
+            ["on", "на (поверхности)", "on the table — на столе"],
+            ["in", "в (внутри)", "in the room — в комнате"],
+            ["under", "под", "under the table — под столом"],
+            ["near", "возле / рядом", "near the house — около дома"],
+            ["behind", "за / позади", "behind the sofa — за диваном"],
+            ["for", "для", "for me — для меня"]
+          ]
+        }
+      ]
+    },
+    "spanish": {
+      "title": "Lección 9 — There is / There are",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "There is / There are"
+        },
+        {
+          "type": "text",
+          "content": "En inglés, las expresiones \"there is\" y \"there are\" se utilizan para indicar la existencia o presencia de algo en un lugar específico."
+        },
+        {
+          "type": "heading",
+          "content": "¿Por qué no usamos simplemente \"hay\"?"
+        },
+        {
+          "type": "text",
+          "content": "En español decimos:\n • El libro está en la mesa.\n • Hay un libro en la mesa.\n\nAmbas frases son correctas, pero no significan lo mismo.\n • En \"el libro está en la mesa\", hablamos de un libro conocido, probablemente ya mencionado.\n • En \"hay un libro en la mesa\", introducimos un nuevo elemento: informamos que existe un libro en la mesa, sin importar cuál.\n\nEn inglés, cuando queremos introducir algo nuevo o enfatizar su presencia en un lugar, usamos \"there is\" o \"there are\".\n\nEjemplo:\n • There is a book on the table.\n(Hay un libro en la mesa / En la mesa hay un libro.)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Uso de los artículos"
+        },
+        {
+          "type": "text",
+          "content": " • \"a book\" → usamos el artículo \"a\" porque se refiere a un libro cualquiera, no uno específico.\n • \"the table\" → usamos \"the\" porque hablamos de una mesa concreta, conocida por los hablantes."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Presente simple"
+        },
+        {
+          "type": "text",
+          "content": " • There is → se usa con sustantivos contables en singular o con sustantivos incontables:\n • There is a ball under the chair.\n(Hay una pelota debajo de la silla.)\n • There are → se usa con sustantivos contables en plural:\n • There are balls under the table.\n(Hay pelotas debajo de la mesa.)\n\nNota: en plural no usamos el artículo \"a\"."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Pasado"
+        },
+        {
+          "type": "text",
+          "content": " • There was → para un solo elemento en el pasado:\n • There was a ball under the chair.\n(Había una pelota debajo de la silla.)\n • There were → para varios elementos:\n • There were balls under the table.\n(Había pelotas debajo de la mesa.)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Futuro"
+        },
+        {
+          "type": "text",
+          "content": " • Para todos los casos usamos \"there will be\", ya sea singular o plural:\n • There will be a ball under the chair.\n(Habrá una pelota debajo de la silla.)\n • There will be balls under the table.\n(Habrá pelotas debajo de la mesa.)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Formas negativas"
+        },
+        {
+          "type": "text",
+          "content": "Para negar, añadimos \"not\" después del verbo to be:\n • There isn't a ball under the chair.\n(No hay una pelota debajo de la silla.)\n • There weren't balls under the table.\n(No había pelotas debajo de la mesa.)\n • There won't be a ball under the chair.\n(No habrá pelota debajo de la silla.)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Formas interrogativas"
+        },
+        {
+          "type": "text",
+          "content": "Invertimos el orden entre there y el verbo to be:\n • Is there a ball under the chair?\n(¿Hay una pelota debajo de la silla?)\n • Were there balls under the table?\n(¿Había pelotas debajo de la mesa?)\n • Will there be a ball under the chair?\n(¿Habrá una pelota debajo de la silla?)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "¿Por qué es importante aprender esto?"
+        },
+        {
+          "type": "text",
+          "content": " 1. Para expresar mejor tus ideas: en inglés es muy común empezar frases con \"there is / there are\" para introducir información nueva.\n 2. Porque muchas veces evitamos traducir literalmente \"hay\", \"está\", \"existe\", \"se encuentra\", etc. con estas estructuras."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Preposiciones útiles de lugar (usadas en este tipo de frases):"
+        },
+        {
+          "type": "table",
+          "headers": ["Inglés", "Español", "Ejemplo"],
+          "rows": [
+            ["on", "sobre / encima de", "on the table — sobre la mesa"],
+            ["in", "en (dentro de)", "in the room — en la habitación"],
+            ["under", "debajo de", "under the table — debajo de la mesa"],
+            ["near", "cerca de", "near the house — cerca de la casa"],
+            ["behind", "detrás de", "behind the sofa — detrás del sofá"],
+            ["for", "para / por", "for me — para mí"]
+          ]
+        }
+      ]
+    },
+    "french": {
+      "title": "Leçon 9 — There is / There are",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "There is / There are"
+        },
+        {
+          "type": "text",
+          "content": "En anglais, on utilise les expressions \"there is\" (singulier) et \"there are\" (pluriel) pour indiquer la présence ou l'existence de quelque chose à un endroit précis."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Pourquoi ne pas dire simplement \"il y a\" ?"
+        },
+        {
+          "type": "text",
+          "content": "En français, on utilise souvent \"il y a\", mais en anglais, les formes there is / there are sont plus précises pour introduire quelque chose de nouveau ou attirer l'attention sur le lieu où se trouve l'objet.\n\nComparons deux phrases françaises :\n • Le livre est sur la table.\n • Il y a un livre sur la table.\n\nDans la première, on parle d'un livre déjà connu, on précise où il est.\nDans la seconde, on introduit le fait qu'il y a un livre (n'importe lequel) à cet endroit.\n\n→ En anglais, la deuxième phrase correspond à :\nThere is a book on the table.\n(Il y a un livre sur la table.)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Articles en anglais"
+        },
+        {
+          "type": "text",
+          "content": " • a book → article indéfini, car le livre n'est pas identifié, c'est n'importe quel livre.\n • the table → article défini, car on parle d'une table spécifique, connue des deux interlocuteurs."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Présent simple"
+        },
+        {
+          "type": "text",
+          "content": " • There is → utilisé avec un nom au singulier ou un nom incomptable :\nThere is a ball under the chair.\n(Il y a un ballon sous la chaise.)\n • There are → utilisé avec un nom au pluriel :\nThere are balls under the table.\n(Il y a des ballons sous la table.)\n\nRemarque : En anglais, on n'utilise jamais l'article \"a\" devant un nom pluriel."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Passé"
+        },
+        {
+          "type": "text",
+          "content": " • There was → pour un seul objet :\nThere was a ball under the chair.\n(Il y avait un ballon sous la chaise.)\n • There were → pour plusieurs objets :\nThere were balls under the table.\n(Il y avait des ballons sous la table.)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Futur"
+        },
+        {
+          "type": "text",
+          "content": "Au futur, on utilise toujours there will be, que ce soit singulier ou pluriel :\n • There will be a ball under the chair.\n(Il y aura un ballon sous la chaise.)\n • There will be balls under the table.\n(Il y aura des ballons sous la table.)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Formes négatives"
+        },
+        {
+          "type": "text",
+          "content": "On ajoute simplement not après le verbe to be :\n • There isn't a ball under the chair.\n(Il n'y a pas de ballon sous la chaise.)\n • There weren't balls under the table.\n(Il n'y avait pas de ballons sous la table.)\n • There won't be a ball under the chair.\n(Il n'y aura pas de ballon sous la chaise.)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Formes interrogatives"
+        },
+        {
+          "type": "text",
+          "content": "On inverse l'ordre du verbe to be et de there :\n • Is there a ball under the chair?\n(Y a-t-il un ballon sous la chaise ?)\n • Were there balls under the table?\n(Y avait-il des ballons sous la table ?)\n • Will there be a ball under the chair?\n(Y aura-t-il un ballon sous la chaise ?)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Pourquoi c'est important ?"
+        },
+        {
+          "type": "text",
+          "content": " 1. Pour introduire des informations nouvelles, comme \"il y a\" en français.\n 2. Pour éviter de traduire mot à mot des verbes comme \"être, exister, se trouver, se situer, reposer, pendre\", etc."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Prépositions de lieu utilisées dans ce cours :"
+        },
+        {
+          "type": "table",
+          "headers": ["Anglais", "Français", "Exemple"],
+          "rows": [
+            ["on", "sur (posé sur une surface)", "on the table — sur la table"],
+            ["in", "dans", "in the room — dans la pièce"],
+            ["under", "sous", "under the table — sous la table"],
+            ["near", "près de", "near the house — près de la maison"],
+            ["behind", "derrière", "behind the sofa — derrière le canapé"],
+            ["for", "pour", "for me — pour moi"]
+          ]
+        }
+      ]
+    },
+    "german": {
+      "title": "Lektion 9 — There is / There are",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "There is / There are"
+        },
+        {
+          "type": "text",
+          "content": "Im Englischen benutzt man die Ausdrücke \"there is\" (Singular) und \"there are\" (Plural), um das Vorhandensein oder die Existenz von etwas an einem bestimmten Ort auszudrücken."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Warum nicht einfach \"es gibt\"?"
+        },
+        {
+          "type": "text",
+          "content": "Im Deutschen sagen wir:\n • Das Buch liegt auf dem Tisch.\n • Es gibt ein Buch auf dem Tisch.\n\nBeide Sätze sind grammatikalisch korrekt, aber sie betonen unterschiedliche Dinge.\n • Bei \"Das Buch liegt auf dem Tisch\" sprechen wir von einem bereits bekannten Buch und beschreiben seinen Ort.\n • Bei \"Es gibt ein Buch auf dem Tisch\" führen wir etwas Neues ein – wir informieren, dass ein Buch vorhanden ist, ohne zu sagen, welches.\n\nIm Englischen verwenden wir in solchen Fällen:\n • There is a book on the table.\n(Es gibt ein Buch auf dem Tisch / Auf dem Tisch liegt ein Buch.)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Artikel im Englischen"
+        },
+        {
+          "type": "text",
+          "content": " • a book → unbestimmter Artikel, weil es ein beliebiges Buch ist.\n • the table → bestimmter Artikel, da es ein konkreter Tisch ist, über den man schon Bescheid weiß."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Gegenwart (Present Simple)"
+        },
+        {
+          "type": "text",
+          "content": " • There is → bei einem einzelnen Objekt oder nicht zählbaren Substantiven:\nThere is a ball under the chair.\n(Unter dem Stuhl liegt ein Ball.)\n • There are → bei mehreren zählbaren Objekten:\nThere are balls under the table.\n(Unter dem Tisch liegen Bälle.)\n\nWichtig: Im Plural verwendet man keinen unbestimmten Artikel (\"a\")."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Vergangenheit (Past Simple)"
+        },
+        {
+          "type": "text",
+          "content": " • There was → für ein Objekt in der Vergangenheit:\nThere was a ball under the chair.\n(Unter dem Stuhl lag ein Ball.)\n • There were → für mehrere Objekte:\nThere were balls under the table.\n(Unter dem Tisch lagen Bälle.)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Zukunft (Future Simple)"
+        },
+        {
+          "type": "text",
+          "content": "Im Englischen verwendet man für Singular und Plural immer \"there will be\":\n • There will be a ball under the chair.\n(Unter dem Stuhl wird ein Ball liegen.)\n • There will be balls under the table.\n(Unter dem Tisch werden Bälle liegen.)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Verneinung"
+        },
+        {
+          "type": "text",
+          "content": "Einfach not nach dem Verb to be einfügen:\n • There isn't a ball under the chair.\n(Unter dem Stuhl liegt kein Ball.)\n • There weren't balls under the table.\n(Unter dem Tisch lagen keine Bälle.)\n • There won't be a ball under the chair.\n(Unter dem Stuhl wird kein Ball liegen.)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Fragen (Interrogativform)"
+        },
+        {
+          "type": "text",
+          "content": "Subjekt und Verb werden vertauscht:\n • Is there a ball under the chair?\n(Liegt ein Ball unter dem Stuhl?)\n • Were there balls under the table?\n(Lagen Bälle unter dem Tisch?)\n • Will there be a ball under the chair?\n(Wird ein Ball unter dem Stuhl liegen?)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Warum ist das wichtig?"
+        },
+        {
+          "type": "text",
+          "content": " 1. Um neue Informationen einzuführen oder zu fragen, ob etwas vorhanden ist.\n 2. Weil man mit diesen Konstruktionen viele Verben im Deutschen wie liegen, stehen, hängen, sich befinden, existieren nicht direkt ins Englische übersetzen muss."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Präpositionen aus dieser Lektion:"
+        },
+        {
+          "type": "table",
+          "headers": ["Englisch", "Deutsch", "Beispiel"],
+          "rows": [
+            ["on", "auf (Oberfläche)", "on the table — auf dem Tisch"],
+            ["in", "in (Innenraum)", "in the room — im Zimmer"],
+            ["under", "unter", "under the table — unter dem Tisch"],
+            ["near", "in der Nähe von / neben", "near the house — neben dem Haus"],
+            ["behind", "hinter", "behind the sofa — hinter dem Sofa"],
+            ["for", "für", "for me — für mich"]
+          ]
+        }
+      ]
+    }
+  },
+  "vocabulary": {
+    "firstList": [
+      {
+        "number": 1,
+        "english": "on",
+        "russian": "на",
+        "spanish": "sobre",
+        "french": "sur",
+        "german": "auf"
+      },
+      {
+        "number": 2,
+        "english": "under",
+        "russian": "под",
+        "spanish": "debajo de",
+        "french": "sous",
+        "german": "unter"
+      },
+      {
+        "number": 3,
+        "english": "near",
+        "russian": "рядом, возле",
+        "spanish": "cerca de",
+        "french": "près de",
+        "german": "in der Nähe"
+      },
+      {
+        "number": 4,
+        "english": "in",
+        "russian": "в",
+        "spanish": "en",
+        "french": "dans",
+        "german": "in"
+      },
+      {
+        "number": 5,
+        "english": "behind",
+        "russian": "за, позади",
+        "spanish": "detrás de",
+        "french": "derrière",
+        "german": "hinter"
+      },
+      {
+        "number": 6,
+        "english": "for",
+        "russian": "для",
+        "spanish": "para",
+        "french": "pour",
+        "german": "für"
+      },
+      {
+        "number": 7,
+        "english": "with",
+        "russian": "с",
+        "spanish": "con",
+        "french": "avec",
+        "german": "mit"
+      },
+      {
+        "number": 8,
+        "english": "dish",
+        "russian": "блюдо",
+        "spanish": "plato",
+        "french": "assiette",
+        "german": "Gericht"
+      },
+      {
+        "number": 9,
+        "english": "glass",
+        "russian": "стакан",
+        "spanish": "vaso",
+        "french": "verre",
+        "german": "Glas"
+      },
+      {
+        "number": 10,
+        "english": "spoon",
+        "russian": "ложка",
+        "spanish": "cuchara",
+        "french": "cuillère",
+        "german": "Löffel"
+      },
+      {
+        "number": 11,
+        "english": "knife",
+        "russian": "нож",
+        "spanish": "cuchillo",
+        "french": "couteau",
+        "german": "Messer"
+      },
+      {
+        "number": 12,
+        "english": "ball",
+        "russian": "мяч",
+        "spanish": "pelota",
+        "french": "balle",
+        "german": "Ball"
+      },
+      {
+        "number": 13,
+        "english": "key",
+        "russian": "ключ",
+        "spanish": "llave",
+        "french": "clé",
+        "german": "Schlüssel"
+      },
+      {
+        "number": 14,
+        "english": "notepad",
+        "russian": "блокнот",
+        "spanish": "bloc de notas",
+        "french": "carnet",
+        "german": "Notizblock"
+      },
+      {
+        "number": 15,
+        "english": "signboard",
+        "russian": "вывеска",
+        "spanish": "cartel",
+        "french": "enseigne",
+        "german": "Schild"
+      },
+      {
+        "number": 16,
+        "english": "tree",
+        "russian": "дерево",
+        "spanish": "árbol",
+        "french": "arbre",
+        "german": "Baum"
+      },
+      {
+        "number": 17,
+        "english": "armchair",
+        "russian": "кресло",
+        "spanish": "sillón",
+        "french": "fauteuil",
+        "german": "Sessel"
+      },
+      {
+        "number": 18,
+        "english": "bed",
+        "russian": "кровать",
+        "spanish": "cama",
+        "french": "lit",
+        "german": "Bett"
+      },
+      {
+        "number": 19,
+        "english": "nightstand",
+        "russian": "тумбочка",
+        "spanish": "mesita de noche",
+        "french": "table de nuit",
+        "german": "Nachttisch"
+      },
+      {
+        "number": 20,
+        "english": "floor",
+        "russian": "пол",
+        "spanish": "suelo",
+        "french": "sol",
+        "german": "Boden"
+      },
+      {
+        "number": 21,
+        "english": "bench",
+        "russian": "скамейка",
+        "spanish": "banco",
+        "french": "banc",
+        "german": "Bank"
+      },
+      {
+        "number": 22,
+        "english": "house",
+        "russian": "дом",
+        "spanish": "casa",
+        "french": "maison",
+        "german": "Haus"
+      },
+      {
+        "number": 23,
+        "english": "office",
+        "russian": "офис",
+        "spanish": "oficina",
+        "french": "bureau",
+        "german": "Büro"
+      },
+      {
+        "number": 24,
+        "english": "windowsill",
+        "russian": "подоконник",
+        "spanish": "alféizar",
+        "french": "rebord de fenêtre",
+        "german": "Fensterbrett"
+      },
+      {
+        "number": 25,
+        "english": "flat",
+        "russian": "квартира",
+        "spanish": "piso",
+        "french": "appartement",
+        "german": "Wohnung"
+      },
+      {
+        "number": 26,
+        "english": "nursery",
+        "russian": "детская",
+        "spanish": "habitación infantil",
+        "french": "chambre d'enfant",
+        "german": "Kinderzimmer"
+      },
+      {
+        "number": 27,
+        "english": "bedroom",
+        "russian": "спальня",
+        "spanish": "dormitorio",
+        "french": "chambre",
+        "german": "Schlafzimmer"
+      },
+      {
+        "number": 28,
+        "english": "bank",
+        "russian": "банк",
+        "spanish": "banco",
+        "french": "banque",
+        "german": "Bank"
+      },
+      {
+        "number": 29,
+        "english": "cafe",
+        "russian": "кафе",
+        "spanish": "café",
+        "french": "café",
+        "german": "Café"
+      },
+      {
+        "number": 30,
+        "english": "confectionery",
+        "russian": "кондитерская",
+        "spanish": "pastelería",
+        "french": "pâtisserie",
+        "german": "Konditorei"
+      },
+      {
+        "number": 31,
+        "english": "bakery",
+        "russian": "булочная",
+        "spanish": "panadería",
+        "french": "boulangerie",
+        "german": "Bäckerei"
+      },
+      {
+        "number": 32,
+        "english": "drugstore",
+        "russian": "аптека",
+        "spanish": "farmacia",
+        "french": "pharmacie",
+        "german": "Apotheke"
+      },
+      {
+        "number": 33,
+        "english": "shop",
+        "russian": "магазин",
+        "spanish": "tienda",
+        "french": "magasin",
+        "german": "Geschäft"
+      },
+      {
+        "number": 34,
+        "english": "parking",
+        "russian": "парковка",
+        "spanish": "estacionamiento",
+        "french": "parking",
+        "german": "Parkplatz"
+      },
+      {
+        "number": 35,
+        "english": "lane",
+        "russian": "переулок",
+        "spanish": "callejón",
+        "french": "ruelle",
+        "german": "Gasse"
+      },
+      {
+        "number": 36,
+        "english": "job",
+        "russian": "работа",
+        "spanish": "trabajo",
+        "french": "emploi",
+        "german": "Arbeit"
+      },
+      {
+        "number": 37,
+        "english": "notice",
+        "russian": "уведомление",
+        "spanish": "aviso",
+        "french": "avis",
+        "german": "Benachrichtigung"
+      },
+      {
+        "number": 38,
+        "english": "task",
+        "russian": "задание",
+        "spanish": "tarea",
+        "french": "tâche",
+        "german": "Aufgabe"
+      },
+      {
+        "number": 39,
+        "english": "plate",
+        "russian": "тарелка",
+        "spanish": "plato",
+        "french": "assiette",
+        "german": "Teller"
+      }
+
+      
+    ]
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "english": "There's a car near the cafe.",
+      "russian": "Рядом с кафе есть машина.",
+      "spanish": "Hay un coche cerca del café.",
+      "german": "In der Nähe des Cafés steht ein Auto.",
+      "french": "Il y a une voiture près du café."
+    },
+    {
+      "id": 2,
+      "english": "There won't be cups on the armchair.",
+      "russian": "На кресле не будет чашек.",
+      "spanish": "No habrá tazas en el sillón.",
+      "german": "Es werden keine Tassen auf dem Sessel sein.",
+      "french": "Il n'y aura pas de tasses sur le fauteuil."
+    },
+    {
+      "id": 3,
+      "english": "There wasn't a carpet in the nursery.",
+      "russian": "В детской не было ковра.",
+      "spanish": "No había alfombra en la habitación infantil.",
+      "german": "Es gab keinen Teppich im Kinderzimmer.",
+      "french": "Il n'y avait pas de tapis dans la chambre d'enfant."
+    },
+    {
+      "id": 4,
+      "english": "There weren't cups on the table.",
+      "russian": "На столе не было чашек.",
+      "spanish": "No había tazas en la mesa.",
+      "german": "Es standen keine Tassen auf dem Tisch.",
+      "french": "Il n'y avait pas de tasses sur la table."
+    },
+    {
+      "id": 5,
+      "english": "There wasn't a cupboard in the office.",
+      "russian": "В офисе не было шкафа.",
+      "spanish": "No había un armario en la oficina.",
+      "german": "Es gab keinen Schrank im Büro.",
+      "french": "Il n'y avait pas de placard dans le bureau."
+    },
+    {
+      "id": 6,
+      "english": "There weren't pens on the floor.",
+      "russian": "На полу не было ручек.",
+      "spanish": "No había bolígrafos en el suelo.",
+      "german": "Es lagen keine Stifte auf dem Boden.",
+      "french": "Il n'y avait pas de stylos sur le sol."
+    },
+    {
+      "id": 7,
+      "english": "There won't be keys under the sofa.",
+      "russian": "Под диваном не будет ключей.",
+      "spanish": "No habrá llaves debajo del sofá.",
+      "german": "Es werden keine Schlüssel unter dem Sofa sein.",
+      "french": "Il n'y aura pas de clés sous le canapé."
+    },
+    {
+      "id": 8,
+      "english": "There won't be knives under the chair.",
+      "russian": "Под стулом не будет ножей.",
+      "spanish": "No habrá cuchillos debajo de la silla.",
+      "german": "Es werden keine Messer unter dem Stuhl sein.",
+      "french": "Il n'y aura pas de couteaux sous la chaise."
+    },
+    {
+      "id": 9,
+      "english": "There'll be keys under the table.",
+      "russian": "Под столом будут ключи.",
+      "spanish": "Habrá llaves debajo de la mesa.",
+      "german": "Es werden Schlüssel unter dem Tisch sein.",
+      "french": "Il y aura des clés sous la table."
+    },
+    {
+      "id": 10,
+      "english": "There were pencils under the cupboard.",
+      "russian": "Под шкафом были карандаши.",
+      "spanish": "Había lápices debajo del armario.",
+      "german": "Es lagen Bleistifte unter dem Schrank.",
+      "french": "Il y avait des crayons sous le placard."
+    },
+    {
+      "id": 11,
+      "english": "There wasn't a lane near the drugstore.",
+      "russian": "Около аптеки не было переулка.",
+      "spanish": "No había un callejón cerca de la farmacia.",
+      "german": "Es gab keine Gasse in der Nähe der Apotheke.",
+      "french": "Il n'y avait pas de ruelle près de la pharmacie."
+    },
+    {
+      "id": 12,
+      "english": "There was a plate on the armchair.",
+      "russian": "На кресле была тарелка.",
+      "spanish": "Había un plato en el sillón.",
+      "german": "Auf dem Sessel lag ein Teller.",
+      "french": "Il y avait une assiette sur le fauteuil."
+    },
+    {
+      "id": 13,
+      "english": "Is there a tree near the cafe?",
+      "russian": "Рядом с кафе есть дерево?",
+      "spanish": "¿Hay un árbol cerca del café?",
+      "german": "Gibt es einen Baum in der Nähe des Cafés?",
+      "french": "Y a-t-il un arbre près du café ?"
+    },
+    {
+      "id": 14,
+      "english": "There weren't tables in the room.",
+      "russian": "В комнате не было столов.",
+      "spanish": "No había mesas en la habitación.",
+      "german": "Es standen keine Tische im Zimmer.",
+      "french": "Il n'y avait pas de tables dans la pièce."
+    },
+    {
+      "id": 15,
+      "english": "There weren't pens on the chair.",
+      "russian": "На стуле не было ручек.",
+      "spanish": "No había bolígrafos en la silla.",
+      "german": "Es lagen keine Stifte auf dem Stuhl.",
+      "french": "Il n'y avait pas de stylos sur la chaise."
+    },
+    {
+      "id": 16,
+      "english": "There were plates on the nightstand.",
+      "russian": "На тумбочке были тарелки.",
+      "spanish": "Había platos en la mesita de noche.",
+      "german": "Auf dem Nachttisch standen Teller.",
+      "french": "Il y avait des assiettes sur la table de nuit."
+    },
+    {
+      "id": 17,
+      "english": "Is there a tree near the drugstore?",
+      "russian": "Рядом с аптекой есть дерево?",
+      "spanish": "¿Hay un árbol cerca de la farmacia?",
+      "german": "Gibt es einen Baum in der Nähe der Apotheke?",
+      "french": "Y a-t-il un arbre près de la pharmacie ?"
+    },
+    {
+      "id": 18,
+      "english": "There wasn't a plate on the floor.",
+      "russian": "На полу не было тарелки.",
+      "spanish": "No había un plato en el suelo.",
+      "german": "Es lag kein Teller auf dem Boden.",
+      "french": "Il n'y avait pas d'assiette sur le sol."
+    },
+    {
+      "id": 19,
+      "english": "Are there knives under the sofa?",
+      "russian": "Под диваном есть ножи?",
+      "spanish": "¿Hay cuchillos debajo del sofá?",
+      "german": "Gibt es Messer unter dem Sofa?",
+      "french": "Y a-t-il des couteaux sous le canapé ?"
+    },
+    {
+      "id": 20,
+      "english": "There's a note for them.",
+      "russian": "Для них есть записка.",
+      "spanish": "Hay una nota para ellos.",
+      "german": "Es gibt eine Notiz für sie.",
+      "french": "Il y a une note pour eux."
+    },
+    {
+      "id": 21,
+      "english": "Is there a key under the bed?",
+      "russian": "Под кроватью есть ключ?",
+      "spanish": "¿Hay una llave debajo de la cama?",
+      "german": "Gibt es einen Schlüssel unter dem Bett?",
+      "french": "Y a-t-il une clé sous le lit ?"
+    },
+    {
+      "id": 22,
+      "english": "There isn't a TV in the nursery.",
+      "russian": "В детской нет телевизора.",
+      "spanish": "No hay televisión en la habitación infantil.",
+      "german": "Es gibt keinen Fernseher im Kinderzimmer.",
+      "french": "Il n'y a pas de télévision dans la chambre d'enfant."
+    },
+    {
+      "id": 23,
+      "english": "There aren't spoons on the windowsill.",
+      "russian": "На подоконнике нет ложек.",
+      "spanish": "No hay cucharas en el alféizar.",
+      "german": "Auf der Fensterbank liegen keine Löffel.",
+      "french": "Il n'y a pas de cuillères sur le rebord de la fenêtre."
+    },
+    {
+      "id": 24,
+      "english": "There are glasses under the table.",
+      "russian": "Под столом есть стаканы.",
+      "spanish": "Hay vasos debajo de la mesa.",
+      "german": "Unter dem Tisch stehen Gläser.",
+      "french": "Il y a des verres sous la table."
+    },
+    {
+      "id": 25,
+      "english": "There isn't a task for me.",
+      "russian": "Для меня нет задания.",
+      "spanish": "No hay tarea para mí.",
+      "german": "Es gibt keine Aufgabe für mich.",
+      "french": "Il n'y a pas de tâche pour moi."
+    },
+    {
+      "id": 26,
+      "english": "There was a table in the office.",
+      "russian": "В офисе был стол.",
+      "spanish": "Había una mesa en la oficina.",
+      "german": "Es gab einen Tisch im Büro.",
+      "french": "Il y avait une table dans le bureau."
+    },
+    {
+      "id": 27,
+      "english": "There's a parking near the shop.",
+      "russian": "Рядом с магазином есть парковка.",
+      "spanish": "Hay un aparcamiento cerca de la tienda.",
+      "german": "Es gibt einen Parkplatz in der Nähe des Ladens.",
+      "french": "Il y a un parking près du magasin."
+    },
+    {
+      "id": 28,
+      "english": "Were there balls under the chair?",
+      "russian": "Под стулом были мячи?",
+      "spanish": "¿Había pelotas debajo de la silla?",
+      "german": "Lagen Bälle unter dem Stuhl?",
+      "french": "Y avait-il des balles sous la chaise ?"
+    },
+    {
+      "id": 29,
+      "english": "Was there a sofa in the office?",
+      "russian": "В офисе был диван?",
+      "spanish": "¿Había un sofá en la oficina?",
+      "german": "Gab es ein Sofa im Büro?",
+      "french": "Y avait-il un canapé dans le bureau ?"
+    },
+    {
+      "id": 30,
+      "english": "There isn't a car near the bakery.",
+      "russian": "Около булочной нет машины.",
+      "spanish": "No hay coche cerca de la panadería.",
+      "german": "In der Nähe der Bäckerei steht kein Auto.",
+      "french": "Il n'y a pas de voiture près de la boulangerie."
+    },
+    {
+      "id": 31,
+      "english": "Is there a cupboard in the nursery?",
+      "russian": "В детской есть шкаф?",
+      "spanish": "¿Hay un armario en la habitación infantil?",
+      "german": "Gibt es einen Schrank im Kinderzimmer?",
+      "french": "Y a-t-il une armoire dans la chambre d'enfant ?"
+    },
+    {
+      "id": 32,
+      "english": "There's a book on the nightstand.",
+      "russian": "На тумбочке есть книга.",
+      "spanish": "Hay un libro en la mesita de noche.",
+      "german": "Auf dem Nachttisch liegt ein Buch.",
+      "french": "Il y a un livre sur la table de nuit."
+    },
+    {
+      "id": 33,
+      "english": "There won't be a pencil under the table.",
+      "russian": "Под столом не будет карандаша.",
+      "spanish": "No habrá un lápiz debajo de la mesa.",
+      "german": "Es wird keinen Bleistift unter dem Tisch geben.",
+      "french": "Il n'y aura pas de crayon sous la table."
+    },
+    {
+      "id": 34,
+      "english": "Is there a parking near the bank?",
+      "russian": "Рядом с банком есть парковка?",
+      "spanish": "¿Hay un aparcamiento cerca del banco?",
+      "german": "Gibt es einen Parkplatz in der Nähe der Bank?",
+      "french": "Y a-t-il un parking près de la banque ?"
+    },
+    {
+      "id": 35,
+      "english": "There won't be a table in the office.",
+      "russian": "В офисе не будет стола.",
+      "spanish": "No habrá una mesa en la oficina.",
+      "german": "Es wird keinen Tisch im Büro geben.",
+      "french": "Il n'y aura pas de table dans le bureau."
+    },
+    {
+      "id": 36,
+      "english": "There were knives under the bed.",
+      "russian": "Под кроватью были ножи.",
+      "spanish": "Había cuchillos debajo de la cama.",
+      "german": "Unter dem Bett lagen Messer.",
+      "french": "Il y avait des couteaux sous le lit."
+    },
+    {
+      "id": 37,
+      "english": "Was there a cup on the armchair?",
+      "russian": "На кресле была чашка?",
+      "spanish": "¿Había una taza en el sillón?",
+      "german": "War eine Tasse auf dem Sessel?",
+      "french": "Y avait-il une tasse sur le fauteuil ?"
+    },
+    {
+      "id": 38,
+      "english": "There weren't chairs in the bedroom.",
+      "russian": "В спальне не было стульев.",
+      "spanish": "No había sillas en el dormitorio.",
+      "german": "Im Schlafzimmer standen keine Stühle.",
+      "french": "Il n'y avait pas de chaises dans la chambre."
+    },
+    {
+      "id": 39,
+      "english": "Are there plates on the armchair?",
+      "russian": "На кресле есть тарелки?",
+      "spanish": "¿Hay platos en el sillón?",
+      "german": "Gibt es Teller auf dem Sessel?",
+      "french": "Y a-t-il des assiettes sur le fauteuil ?"
+    },
+    {
+      "id": 40,
+      "english": "There weren't glasses under the chair.",
+      "russian": "Под стулом не было стаканов.",
+      "spanish": "No había vasos debajo de la silla.",
+      "german": "Unter dem Stuhl standen keine Gläser.",
+      "french": "Il n'y avait pas de verres sous la chaise."
+    },
+    {
+      "id": 41,
+      "english": "There isn't a key under the table.",
+      "russian": "Под столом нет ключа.",
+      "spanish": "No hay una llave debajo de la mesa.",
+      "german": "Unter dem Tisch liegt kein Schlüssel.",
+      "french": "Il n'y a pas de clé sous la table."
+    },
+    {
+      "id": 42,
+      "english": "There's a message for them.",
+      "russian": "Для них есть сообщение.",
+      "spanish": "Hay un mensaje para ellos.",
+      "german": "Es gibt eine Nachricht für sie.",
+      "french": "Il y a un message pour eux."
+    },
+    {
+      "id": 43,
+      "english": "There isn't a sofa in the bedroom.",
+      "russian": "В спальне нет дивана.",
+      "spanish": "No hay un sofá en el dormitorio.",
+      "german": "Im Schlafzimmer steht kein Sofa.",
+      "french": "Il n'y a pas de canapé dans la chambre."
+    },
+    {
+      "id": 44,
+      "english": "Was there a cup on the windowsill?",
+      "russian": "На подоконнике была чашка?",
+      "spanish": "¿Había una taza en el alféizar?",
+      "german": "War eine Tasse auf der Fensterbank?",
+      "french": "Y avait-il une tasse sur le rebord de la fenêtre ?"
+    },
+    {
+      "id": 45,
+      "english": "There's a task for them.",
+      "russian": "Для них есть задание.",
+      "spanish": "Hay una tarea para ellos.",
+      "german": "Es gibt eine Aufgabe für sie.",
+      "french": "Il y a une tâche pour eux."
+    },
+    {
+      "id": 46,
+      "english": "There isn't a car near the cafe.",
+      "russian": "Около кафе нет машины.",
+      "spanish": "No hay un coche cerca del café.",
+      "german": "In der Nähe des Cafés steht kein Auto.",
+      "french": "Il n'y a pas de voiture près du café."
+    },
+    {
+      "id": 47,
+      "english": "There weren't chairs in the office.",
+      "russian": "В офисе не было стульев.",
+      "spanish": "No había sillas en la oficina.",
+      "german": "Im Büro standen keine Stühle.",
+      "french": "Il n'y avait pas de chaises dans le bureau."
+    },
+    {
+      "id": 48,
+      "english": "There was a ball under the sofa.",
+      "russian": "Под диваном был мяч.",
+      "spanish": "Había una pelota debajo del sofá.",
+      "german": "Unter dem Sofa lag ein Ball.",
+      "french": "Il y avait un ballon sous le canapé."
+    },
+    {
+      "id": 49,
+      "english": "There's a signboard near the drugstore.",
+      "russian": "Рядом с аптекой есть вывеска.",
+      "spanish": "Hay un letrero cerca de la farmacia.",
+      "german": "In der Nähe der Apotheke gibt es ein Schild.",
+      "french": "Il y a une enseigne près de la pharmacie."
+    },
+    {
+      "id": 50,
+      "english": "There isn't a book on the floor.",
+      "russian": "На полу нет книги.",
+      "spanish": "No hay un libro en el suelo.",
+      "german": "Auf dem Boden liegt kein Buch.",
+      "french": "Il n'y a pas de livre sur le sol."
+    },
+    {
+      "id": 51,
+      "english": "There was a ball under the armchair.",
+      "russian": "Под креслом был мяч.",
+      "spanish": "Había una pelota debajo del sillón.",
+      "german": "Unter dem Sessel lag ein Ball.",
+      "french": "Il y avait un ballon sous le fauteuil."
+    },
+    {
+      "id": 52,
+      "english": "There isn't a pencil under the table.",
+      "russian": "Под столом нет карандаша.",
+      "spanish": "No hay un lápiz debajo de la mesa.",
+      "german": "Unter dem Tisch liegt kein Bleistift.",
+      "french": "Il n'y a pas de crayon sous la table."
+    },
+    {
+      "id": 53,
+      "english": "There's a knife under the sofa.",
+      "russian": "Под диваном есть нож.",
+      "spanish": "Hay un cuchillo debajo del sofá.",
+      "german": "Unter dem Sofa liegt ein Messer.",
+      "french": "Il y a un couteau sous le canapé."
+    },
+    {
+      "id": 54,
+      "english": "There's a lane near the drugstore.",
+      "russian": "Рядом с аптекой есть переулок.",
+      "spanish": "Hay un callejón cerca de la farmacia.",
+      "german": "In der Nähe der Apotheke gibt es eine Gasse.",
+      "french": "Il y a une ruelle près de la pharmacie."
+    },
+    {
+      "id": 55,
+      "english": "There'll be a plate on the windowsill.",
+      "russian": "На подоконнике будет тарелка.",
+      "spanish": "Habrá un plato en el alféizar.",
+      "german": "Auf der Fensterbank wird ein Teller sein.",
+      "french": "Il y aura une assiette sur le rebord de la fenêtre."
+    },
+    {
+      "id": 56,
+      "english": "There'll be a notepad under the armchair.",
+      "russian": "Под креслом будет блокнот.",
+      "spanish": "Habrá un bloc de notas debajo del sillón.",
+      "german": "Unter dem Sessel wird ein Notizblock liegen.",
+      "french": "Il y aura un carnet sous le fauteuil."
+    },
+    {
+      "id": 57,
+      "english": "There are books on the windowsill.",
+      "russian": "На подоконнике есть книги.",
+      "spanish": "Hay libros en el alféizar.",
+      "german": "Auf der Fensterbank liegen Bücher.",
+      "french": "Il y a des livres sur le rebord de la fenêtre."
+    },
+    {
+      "id": 58,
+      "english": "Is there a TV in the room?",
+      "russian": "В комнате есть телевизор?",
+      "spanish": "¿Hay una televisión en la habitación?",
+      "german": "Gibt es einen Fernseher im Zimmer?",
+      "french": "Y a-t-il une télévision dans la pièce ?"
+    },
+    {
+      "id": 59,
+      "english": "There wasn't a parking near the shop.",
+      "russian": "Около магазина не было парковки.",
+      "spanish": "No había aparcamiento cerca de la tienda.",
+      "german": "Es gab keinen Parkplatz in der Nähe des Ladens.",
+      "french": "Il n'y avait pas de parking près du magasin."
+    },
+    {
+      "id": 60,
+      "english": "There wasn't a ball under the sofa.",
+      "russian": "Под диваном не было мяча.",
+      "spanish": "No había una pelota debajo del sofá.",
+      "german": "Unter dem Sofa lag kein Ball.",
+      "french": "Il n'y avait pas de ballon sous le canapé."
+    },
+    {
+      "id": 61,
+      "english": "There wasn't a pen on the armchair.",
+      "russian": "На кресле не было ручки.",
+      "spanish": "No había un bolígrafo en el sillón.",
+      "german": "Auf dem Sessel lag kein Stift.",
+      "french": "Il n'y avait pas de stylo sur le fauteuil."
+    },
+    {
+      "id": 62,
+      "english": "Was there a plate on the floor?",
+      "russian": "На полу была тарелка?",
+      "spanish": "¿Había un plato en el suelo?",
+      "german": "Lag ein Teller auf dem Boden?",
+      "french": "Y avait-il une assiette sur le sol ?"
+    },
+    {
+      "id": 63,
+      "english": "Are there books on the armchair?",
+      "russian": "На кресле есть книги?",
+      "spanish": "¿Hay libros en el sillón?",
+      "german": "Liegen Bücher auf dem Sessel?",
+      "french": "Y a-t-il des livres sur le fauteuil ?"
+    },
+    {
+      "id": 64,
+      "english": "There isn't a table in the flat.",
+      "russian": "В квартире нет стола.",
+      "spanish": "No hay una mesa en el piso.",
+      "german": "In der Wohnung steht kein Tisch.",
+      "french": "Il n'y a pas de table dans l'appartement."
+    },
+    {
+      "id": 65,
+      "english": "There's a task for him.",
+      "russian": "Для него есть задание.",
+      "spanish": "Hay una tarea para él.",
+      "german": "Es gibt eine Aufgabe für ihn.",
+      "french": "Il y a une tâche pour lui."
+    },
+    {
+      "id": 66,
+      "english": "There wasn't a book on the floor.",
+      "russian": "На полу не было книги.",
+      "spanish": "No había un libro en el suelo.",
+      "german": "Auf dem Boden lag kein Buch.",
+      "french": "Il n'y avait pas de livre sur le sol."
+    },
+    {
+      "id": 67,
+      "english": "There wasn't a TV in the house.",
+      "russian": "В доме не было телевизора.",
+      "spanish": "No había televisión en la casa.",
+      "german": "Im Haus gab es keinen Fernseher.",
+      "french": "Il n'y avait pas de télévision dans la maison."
+    },
+    {
+      "id": 68,
+      "english": "There's a letter for you.",
+      "russian": "Для тебя есть письмо.",
+      "spanish": "Hay una carta para ti.",
+      "german": "Es gibt einen Brief für dich.",
+      "french": "Il y a une lettre pour toi."
+    },
+    {
+      "id": 69,
+      "english": "Are there balls under the table?",
+      "russian": "Под столом есть мячи?",
+      "spanish": "¿Hay pelotas debajo de la mesa?",
+      "german": "Liegen Bälle unter dem Tisch?",
+      "french": "Y a-t-il des balles sous la table ?"
+    },
+    {
+      "id": 70,
+      "english": "Is there a sofa in the room?",
+      "russian": "В комнате есть диван?",
+      "spanish": "¿Hay un sofá en la habitación?",
+      "german": "Gibt es ein Sofa im Zimmer?",
+      "french": "Y a-t-il un canapé dans la pièce ?"
+    },
+    {
+      "id": 71,
+      "english": "There wasn't a tree near the bakery.",
+      "russian": "Около булочной не было дерева.",
+      "spanish": "No había un árbol cerca de la panadería.",
+      "german": "In der Nähe der Bäckerei stand kein Baum.",
+      "french": "Il n'y avait pas d'arbre près de la boulangerie."
+    },
+    {
+      "id": 72,
+      "english": "There isn't a key under the chair.",
+      "russian": "Под стулом нет ключа.",
+      "spanish": "No hay una llave debajo de la silla.",
+      "german": "Unter dem Stuhl liegt kein Schlüssel.",
+      "french": "Il n'y a pas de clé sous la chaise."
+    },
+    {
+      "id": 73,
+      "english": "There won't be carpets in the flat.",
+      "russian": "В квартире не будет ковров.",
+      "spanish": "No habrá alfombras en el piso.",
+      "german": "In der Wohnung wird es keine Teppiche geben.",
+      "french": "Il n'y aura pas de tapis dans l'appartement."
+    },
+    {
+      "id": 74,
+      "english": "There was a spoon on the nightstand.",
+      "russian": "На тумбочке была ложка.",
+      "spanish": "Había una cuchara en la mesita de noche.",
+      "german": "Auf dem Nachttisch lag ein Löffel.",
+      "french": "Il y avait une cuillère sur la table de nuit."
+    }
+  ],
+  "exam": {
+    "sentences": [
+      {
+        "id": 1,
+        "sentence_en": "There's a car near the cafe.",
+        "translations": {
+          "ru": "Рядом с кафе есть машина.",
+          "es": "Hay un coche cerca del café.",
+          "fr": "Il y a une voiture près du café.",
+          "de": "In der Nähe des Cafés steht ein Auto."
+        },
+        "words": [
+          { "correct": "There's", "alternatives": ["There are", "There was", "There were"] },
+          { "correct": "a car", "alternatives": ["the car", "a bike", "a bus", "a train"] },
+          { "correct": "near", "alternatives": ["on", "under", "behind"] },
+          { "correct": "the cafe", "alternatives": ["the shop", "the bank", "the office"] }
+        ]
+      },
+      {
+        "id": 2,
+        "sentence_en": "There won't be cups on the armchair.",
+        "translations": {
+          "ru": "На кресле не будет чашек.",
+          "es": "No habrá tazas en el sillón.",
+          "fr": "Il n'y aura pas de tasses sur le fauteuil.",
+          "de": "Es werden keine Tassen auf dem Sessel sein."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "won't be", "alternatives": ["will be", "would be", "wasn't"] },
+          { "correct": "cups", "alternatives": ["plates", "glasses", "bowls"] },
+          { "correct": "on", "alternatives": ["under", "near", "behind"] },
+          { "correct": "the armchair", "alternatives": ["the sofa", "the table", "the bed"] }
+        ]
+      },
+      {
+        "id": 3,
+        "sentence_en": "There wasn't a carpet in the nursery.",
+        "translations": {
+          "ru": "В детской не было ковра.",
+          "es": "No había alfombra en la habitación infantil.",
+          "fr": "Il n'y avait pas de tapis dans la chambre d'enfant.",
+          "de": "Es gab keinen Teppich im Kinderzimmer."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "wasn't", "alternatives": ["was", "isn't", "is"] },
+          { "correct": "a carpet", "alternatives": ["the carpet", "a mat", "a blanket", "a towel"] },
+          { "correct": "in", "alternatives": ["on", "under", "near"] },
+          { "correct": "the nursery", "alternatives": ["the bedroom", "the kitchen", "the office"] }
+        ]
+      },
+      {
+        "id": 4,
+        "sentence_en": "There weren't cups on the table.",
+        "translations": {
+          "ru": "На столе не было чашек.",
+          "es": "No había tazas en la mesa.",
+          "fr": "Il n'y avait pas de tasses sur la table.",
+          "de": "Es standen keine Tassen auf dem Tisch."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "weren't", "alternatives": ["wasn't", "isn't", "aren't"] },
+          { "correct": "cups", "alternatives": ["plates", "glasses", "bowls"] },
+          { "correct": "on", "alternatives": ["under", "near", "behind"] },
+          { "correct": "the table", "alternatives": ["the chair", "the sofa", "the bed"] }
+        ]
+      },
+      {
+        "id": 5,
+        "sentence_en": "There wasn't a cupboard in the office.",
+        "translations": {
+          "ru": "В офисе не было шкафа.",
+          "es": "No había un armario en la oficina.",
+          "fr": "Il n'y avait pas de placard dans le bureau.",
+          "de": "Es gab keinen Schrank im Büro."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "wasn't", "alternatives": ["was", "isn't", "is"] },
+          { "correct": "a cupboard", "alternatives": ["the cupboard", "a desk", "a shelf", "a drawer"] },
+          { "correct": "in", "alternatives": ["on", "under", "near"] },
+          { "correct": "the office", "alternatives": ["the kitchen", "the bedroom", "the nursery"] }
+        ]
+      },
+      {
+        "id": 6,
+        "sentence_en": "There weren't pens on the floor.",
+        "translations": {
+          "ru": "На полу не было ручек.",
+          "es": "No había bolígrafos en el suelo.",
+          "fr": "Il n'y avait pas de stylos sur le sol.",
+          "de": "Es lagen keine Stifte auf dem Boden."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "weren't", "alternatives": ["wasn't", "isn't", "aren't"] },
+          { "correct": "pens", "alternatives": ["pencils", "markers", "crayons"] },
+          { "correct": "on", "alternatives": ["under", "near", "behind"] },
+          { "correct": "the floor", "alternatives": ["the table", "the chair", "the desk"] }
+        ]
+      },
+      {
+        "id": 7,
+        "sentence_en": "There won't be keys under the sofa.",
+        "translations": {
+          "ru": "Под диваном не будет ключей.",
+          "es": "No habrá llaves debajo del sofá.",
+          "fr": "Il n'y aura pas de clés sous le canapé.",
+          "de": "Es werden keine Schlüssel unter dem Sofa sein."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "won't be", "alternatives": ["will be", "would be", "wasn't"] },
+          { "correct": "keys", "alternatives": ["coins", "cards", "notes"] },
+          { "correct": "under", "alternatives": ["on", "near", "behind"] },
+          { "correct": "the sofa", "alternatives": ["the table", "the chair", "the bed"] }
+        ]
+      },
+      {
+        "id": 8,
+        "sentence_en": "There won't be knives under the chair.",
+        "translations": {
+          "ru": "Под стулом не будет ножей.",
+          "es": "No habrá cuchillos debajo de la silla.",
+          "fr": "Il n'y aura pas de couteaux sous la chaise.",
+          "de": "Es werden keine Messer unter dem Stuhl sein."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "won't be", "alternatives": ["will be", "would be", "wasn't"] },
+          { "correct": "knives", "alternatives": ["forks", "spoons", "plates"] },
+          { "correct": "under", "alternatives": ["on", "near", "behind"] },
+          { "correct": "the chair", "alternatives": ["the table", "the sofa", "the bed"] }
+        ]
+      },
+      {
+        "id": 9,
+        "sentence_en": "There'll be keys under the table.",
+        "translations": {
+          "ru": "Под столом будут ключи.",
+          "es": "Habrá llaves debajo de la mesa.",
+          "fr": "Il y aura des clés sous la table.",
+          "de": "Es werden Schlüssel unter dem Tisch sein."
+        },
+        "words": [
+          { "correct": "There'll", "alternatives": ["There", "There is", "There are"] },
+          { "correct": "be", "alternatives": ["is", "are", "was"] },
+          { "correct": "keys", "alternatives": ["coins", "cards", "notes"] },
+          { "correct": "under", "alternatives": ["on", "near", "behind"] },
+          { "correct": "the table", "alternatives": ["the chair", "the sofa", "the bed"] }
+        ]
+      },
+      {
+        "id": 10,
+        "sentence_en": "There were pencils under the cupboard.",
+        "translations": {
+          "ru": "Под шкафом были карандаши.",
+          "es": "Había lápices debajo del armario.",
+          "fr": "Il y avait des crayons sous le placard.",
+          "de": "Es lagen Bleistifte unter dem Schrank."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "were", "alternatives": ["was", "is", "are"] },
+          { "correct": "pencils", "alternatives": ["pens", "markers", "crayons"] },
+          { "correct": "under", "alternatives": ["on", "near", "behind"] },
+          { "correct": "the cupboard", "alternatives": ["the desk", "the shelf", "the drawer"] }
+        ]
+      },
+      {
+        "id": 11,
+        "sentence_en": "There wasn't a lane near the drugstore.",
+        "translations": {
+          "ru": "Около аптеки не было переулка.",
+          "es": "No había un callejón cerca de la farmacia.",
+          "fr": "Il n'y avait pas de ruelle près de la pharmacie.",
+          "de": "Es gab keine Gasse in der Nähe der Apotheke."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "wasn't", "alternatives": ["was", "isn't", "is"] },
+          { "correct": "a lane", "alternatives": ["a street", "a road", "an alley"] },
+          { "correct": "near", "alternatives": ["beside", "close to", "next to"] },
+          { "correct": "the drugstore", "alternatives": ["the pharmacy", "the supermarket", "the bakery"] }
+        ]
+      },
+      {
+        "id": 12,
+        "sentence_en": "There was a plate on the armchair.",
+        "translations": {
+          "ru": "На кресле была тарелка.",
+          "es": "Había un plato en el sillón.",
+          "fr": "Il y avait une assiette sur le fauteuil.",
+          "de": "Auf dem Sessel lag ein Teller."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "was", "alternatives": ["is", "are", "were"] },
+          { "correct": "a plate", "alternatives": ["a bowl", "a dish", "a tray"] },
+          { "correct": "on", "alternatives": ["above", "over", "upon"] },
+          { "correct": "the armchair", "alternatives": ["the sofa", "the chair", "the couch"] }
+        ]
+      },
+      {
+        "id": 13,
+        "sentence_en": "Is there a tree near the cafe?",
+        "translations": {
+          "ru": "Рядом с кафе есть дерево?",
+          "es": "¿Hay un árbol cerca del café?",
+          "fr": "Y a-t-il un arbre près du café ?",
+          "de": "Gibt es einen Baum in der Nähe des Cafés?"
+        },
+        "words": [
+          { "correct": "Is", "alternatives": ["Are", "Was", "Were"] },
+          { "correct": "there", "alternatives": ["here", "it", "that"] },
+          { "correct": "a tree", "alternatives": ["a bush", "a plant", "a flower"] },
+          { "correct": "near", "alternatives": ["beside", "close to", "next to"] },
+          { "correct": "the cafe", "alternatives": ["the restaurant", "the bakery", "the shop"] }
+        ]
+      },
+      {
+        "id": 14,
+        "sentence_en": "There weren't tables in the room.",
+        "translations": {
+          "ru": "В комнате не было столов.",
+          "es": "No había mesas en la habitación.",
+          "fr": "Il n'y avait pas de tables dans la pièce.",
+          "de": "Es standen keine Tische im Zimmer."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "weren't", "alternatives": ["wasn't", "isn't", "aren't"] },
+          { "correct": "tables", "alternatives": ["desks", "cabinets", "shelves"] },
+          { "correct": "in", "alternatives": ["inside", "within", "at"] },
+          { "correct": "the room", "alternatives": ["the office", "the kitchen", "the bedroom"] }
+        ]
+      },
+      {
+        "id": 15,
+        "sentence_en": "There weren't pens on the chair.",
+        "translations": {
+          "ru": "На стуле не было ручек.",
+          "es": "No había bolígrafos en la silla.",
+          "fr": "Il n'y avait pas de stylos sur la chaise.",
+          "de": "Es lagen keine Stifte auf dem Stuhl."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "weren't", "alternatives": ["wasn't", "isn't", "aren't"] },
+          { "correct": "pens", "alternatives": ["markers", "pencils", "crayons"] },
+          { "correct": "on", "alternatives": ["above", "over", "upon"] },
+          { "correct": "the chair", "alternatives": ["the stool", "the armchair", "the bench"] }
+        ]
+      },
+      {
+        "id": 16,
+        "sentence_en": "There were plates on the nightstand.",
+        "translations": {
+          "ru": "На тумбочке были тарелки.",
+          "es": "Había platos en la mesita de noche.",
+          "fr": "Il y avait des assiettes sur la table de nuit.",
+          "de": "Auf dem Nachttisch standen Teller."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "were", "alternatives": ["was", "is", "are"] },
+          { "correct": "plates", "alternatives": ["dishes", "trays", "platters"] },
+          { "correct": "on", "alternatives": ["above", "over", "upon"] },
+          { "correct": "the nightstand", "alternatives": ["the table", "the shelf", "the desk"] }
+        ]
+      },
+      {
+        "id": 17,
+        "sentence_en": "Is there a tree near the drugstore?",
+        "translations": {
+          "ru": "Рядом с аптекой есть дерево?",
+          "es": "¿Hay un árbol cerca de la farmacia?",
+          "fr": "Y a-t-il un arbre près de la pharmacie ?",
+          "de": "Gibt es einen Baum in der Nähe der Apotheke?"
+        },
+        "words": [
+          { "correct": "Is", "alternatives": ["Are", "Was", "Were"] },
+          { "correct": "there", "alternatives": ["here", "it", "that"] },
+          { "correct": "a tree", "alternatives": ["a bush", "a plant", "a flower"] },
+          { "correct": "near", "alternatives": ["beside", "close to", "next to"] },
+          { "correct": "the drugstore", "alternatives": ["the pharmacy", "the supermarket", "the bakery"] }
+        ]
+      },
+      {
+        "id": 18,
+        "sentence_en": "There wasn't a plate on the floor.",
+        "translations": {
+          "ru": "На полу не было тарелки.",
+          "es": "No había un plato en el suelo.",
+          "fr": "Il n'y avait pas d'assiette sur le sol.",
+          "de": "Es lag kein Teller auf dem Boden."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "wasn't", "alternatives": ["was", "isn't", "is"] },
+          { "correct": "a plate", "alternatives": ["a bowl", "a dish", "a tray"] },
+          { "correct": "on", "alternatives": ["above", "over", "upon"] },
+          { "correct": "the floor", "alternatives": ["the carpet", "the rug", "the mat"] }
+        ]
+      },
+      {
+        "id": 19,
+        "sentence_en": "Are there knives under the sofa?",
+        "translations": {
+          "ru": "Под диваном есть ножи?",
+          "es": "¿Hay cuchillos debajo del sofá?",
+          "fr": "Y a-t-il des couteaux sous le canapé ?",
+          "de": "Gibt es Messer unter dem Sofa?"
+        },
+        "words": [
+          { "correct": "Are", "alternatives": ["Is", "Was", "Were"] },
+          { "correct": "there", "alternatives": ["here", "it", "that"] },
+          { "correct": "knives", "alternatives": ["forks", "spoons", "scissors"] },
+          { "correct": "under", "alternatives": ["below", "beneath", "underneath"] },
+          { "correct": "the sofa", "alternatives": ["the couch", "the armchair", "the bench"] }
+        ]
+      },
+      {
+        "id": 20,
+        "sentence_en": "There's a note for them.",
+        "translations": {
+          "ru": "Для них есть записка.",
+          "es": "Hay una nota para ellos.",
+          "fr": "Il y a une note pour eux.",
+          "de": "Es gibt eine Notiz für sie."
+        },
+        "words": [
+          { "correct": "There's", "alternatives": ["There are", "There was", "There were"] },
+          { "correct": "a note", "alternatives": ["a message", "a letter", "a card"] },
+          { "correct": "for", "alternatives": ["to", "with", "by"] },
+          { "correct": "them", "alternatives": ["us", "him", "her"] }
+        ]
+      },
+      {
+        "id": 21,
+        "sentence_en": "Is there a key under the bed?",
+        "translations": {
+          "ru": "Под кроватью есть ключ?",
+          "es": "¿Hay una llave debajo de la cama?",
+          "fr": "Y a-t-il une clé sous le lit ?",
+          "de": "Gibt es einen Schlüssel unter dem Bett?"
+        },
+        "words": [
+          { "correct": "Is", "alternatives": ["Are", "Was", "Were"] },
+          { "correct": "there", "alternatives": ["here", "it", "that"] },
+          { "correct": "a key", "alternatives": ["a coin", "a card", "a ticket"] },
+          { "correct": "under", "alternatives": ["below", "beneath", "underneath"] },
+          { "correct": "the bed", "alternatives": ["the sofa", "the table", "the chair"] }
+        ]
+      },
+      {
+        "id": 22,
+        "sentence_en": "There isn't a TV in the nursery.",
+        "translations": {
+          "ru": "В детской нет телевизора.",
+          "es": "No hay televisión en la habitación infantil.",
+          "fr": "Il n'y a pas de télévision dans la chambre d'enfant.",
+          "de": "Es gibt keinen Fernseher im Kinderzimmer."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "isn't", "alternatives": ["is", "wasn't", "was"] },
+          { "correct": "a TV", "alternatives": ["a radio", "a computer", "a lamp"] },
+          { "correct": "in", "alternatives": ["inside", "within", "at"] },
+          { "correct": "the nursery", "alternatives": ["the bedroom", "the kitchen", "the office"] }
+        ]
+      },
+      {
+        "id": 23,
+        "sentence_en": "There aren't spoons on the windowsill.",
+        "translations": {
+          "ru": "На подоконнике нет ложек.",
+          "es": "No hay cucharas en el alféizar.",
+          "fr": "Il n'y a pas de cuillères sur le rebord de la fenêtre.",
+          "de": "Auf der Fensterbank liegen keine Löffel."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "aren't", "alternatives": ["isn't", "wasn't", "weren't"] },
+          { "correct": "spoons", "alternatives": ["forks", "knives", "chopsticks"] },
+          { "correct": "on", "alternatives": ["above", "over", "upon"] },
+          { "correct": "the windowsill", "alternatives": ["the shelf", "the table", "the desk"] }
+        ]
+      },
+      {
+        "id": 24,
+        "sentence_en": "There are glasses under the table.",
+        "translations": {
+          "ru": "Под столом есть стаканы.",
+          "es": "Hay vasos debajo de la mesa.",
+          "fr": "Il y a des verres sous la table.",
+          "de": "Unter dem Tisch stehen Gläser."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "are", "alternatives": ["is", "was", "were"] },
+          { "correct": "glasses", "alternatives": ["cups", "mugs", "bottles"] },
+          { "correct": "under", "alternatives": ["below", "beneath", "underneath"] },
+          { "correct": "the table", "alternatives": ["the desk", "the shelf", "the counter"] }
+        ]
+      },
+      {
+        "id": 25,
+        "sentence_en": "There isn't a task for me.",
+        "translations": {
+          "ru": "Для меня нет задания.",
+          "es": "No hay tarea para mí.",
+          "fr": "Il n'y a pas de tâche pour moi.",
+          "de": "Es gibt keine Aufgabe für mich."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "isn't", "alternatives": ["is", "wasn't", "was"] },
+          { "correct": "a task", "alternatives": ["an assignment", "a job", "a duty"] },
+          { "correct": "for", "alternatives": ["to", "with", "by"] },
+          { "correct": "me", "alternatives": ["us", "him", "her"] }
+        ]
+      },
+      {
+        "id": 26,
+        "sentence_en": "There was a table in the office.",
+        "translations": {
+          "ru": "В офисе был стол.",
+          "es": "Había una mesa en la oficina.",
+          "fr": "Il y avait une table dans le bureau.",
+          "de": "Es gab einen Tisch im Büro."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "was", "alternatives": ["is", "are", "were"] },
+          { "correct": "a table", "alternatives": ["a desk", "a shelf", "a cabinet"] },
+          { "correct": "in", "alternatives": ["inside", "within", "at"] },
+          { "correct": "the office", "alternatives": ["the kitchen", "the bedroom", "the nursery"] }
+        ]
+      },
+      {
+        "id": 27,
+        "sentence_en": "There's a parking near the shop.",
+        "translations": {
+          "ru": "Рядом с магазином есть парковка.",
+          "es": "Hay un aparcamiento cerca de la tienda.",
+          "fr": "Il y a un parking près du magasin.",
+          "de": "Es gibt einen Parkplatz in der Nähe des Ladens."
+        },
+        "words": [
+          { "correct": "There's", "alternatives": ["There are", "There was", "There were"] },
+          { "correct": "a parking", "alternatives": ["a garage", "a lot", "a space"] },
+          { "correct": "near", "alternatives": ["beside", "close to", "next to"] },
+          { "correct": "the shop", "alternatives": ["the store", "the supermarket", "the market"] }
+        ]
+      },
+      {
+        "id": 28,
+        "sentence_en": "Were there balls under the chair?",
+        "translations": {
+          "ru": "Под стулом были мячи?",
+          "es": "¿Había pelotas debajo de la silla?",
+          "fr": "Y avait-il des balles sous la chaise ?",
+          "de": "Lagen Bälle unter dem Stuhl?"
+        },
+        "words": [
+          { "correct": "Were", "alternatives": ["Was", "Is", "Are"] },
+          { "correct": "there", "alternatives": ["here", "it", "that"] },
+          { "correct": "balls", "alternatives": ["marbles", "stones", "blocks"] },
+          { "correct": "under", "alternatives": ["below", "beneath", "underneath"] },
+          { "correct": "the chair", "alternatives": ["the stool", "the armchair", "the bench"] }
+        ]
+      },
+      {
+        "id": 29,
+        "sentence_en": "Was there a sofa in the office?",
+        "translations": {
+          "ru": "В офисе был диван?",
+          "es": "¿Había un sofá en la oficina?",
+          "fr": "Y avait-il un canapé dans le bureau ?",
+          "de": "Gab es ein Sofa im Büro?"
+        },
+        "words": [
+          { "correct": "Was", "alternatives": ["Were", "Is", "Are"] },
+          { "correct": "there", "alternatives": ["here", "it", "that"] },
+          { "correct": "a sofa", "alternatives": ["an armchair", "a bench", "a couch"] },
+          { "correct": "in", "alternatives": ["inside", "within", "at"] },
+          { "correct": "the office", "alternatives": ["the kitchen", "the bedroom", "the nursery"] }
+        ]
+      },
+      {
+        "id": 30,
+        "sentence_en": "There isn't a car near the bakery.",
+        "translations": {
+          "ru": "Около булочной нет машины.",
+          "es": "No hay coche cerca de la panadería.",
+          "fr": "Il n'y a pas de voiture près de la boulangerie.",
+          "de": "In der Nähe der Bäckerei steht kein Auto."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "isn't", "alternatives": ["is", "wasn't", "was"] },
+          { "correct": "a car", "alternatives": ["a bike", "a bus", "a van"] },
+          { "correct": "near", "alternatives": ["beside", "close to", "next to"] },
+          { "correct": "the bakery", "alternatives": ["the shop", "the supermarket", "the cafe"] }
+        ]
+      },
+      {
+        "id": 31,
+        "sentence_en": "Is there a cupboard in the nursery?",
+        "translations": {
+          "ru": "В детской есть шкаф?",
+          "es": "¿Hay un armario en la habitación infantil?",
+          "fr": "Y a-t-il une armoire dans la chambre d'enfant ?",
+          "de": "Gibt es einen Schrank im Kinderzimmer?"
+        },
+        "words": [
+          { "correct": "Is", "alternatives": ["Are", "Was", "Were"] },
+          { "correct": "there", "alternatives": ["here", "it", "that"] },
+          { "correct": "a cupboard", "alternatives": ["a wardrobe", "a cabinet", "a dresser"] },
+          { "correct": "in", "alternatives": ["on", "under", "near"] },
+          { "correct": "the nursery", "alternatives": ["the bedroom", "the kitchen", "the office"] }
+        ]
+      },
+      {
+        "id": 32,
+        "sentence_en": "There's a book on the nightstand.",
+        "translations": {
+          "ru": "На тумбочке есть книга.",
+          "es": "Hay un libro en la mesita de noche.",
+          "fr": "Il y a un livre sur la table de nuit.",
+          "de": "Auf dem Nachttisch liegt ein Buch."
+        },
+        "words": [
+          { "correct": "There's", "alternatives": ["There are", "There was", "There were"] },
+          { "correct": "a book", "alternatives": ["a notebook", "a magazine", "a journal"] },
+          { "correct": "on", "alternatives": ["under", "near", "behind"] },
+          { "correct": "the nightstand", "alternatives": ["the table", "the shelf", "the desk"] }
+        ]
+      },
+      {
+        "id": 33,
+        "sentence_en": "There won't be a pencil under the table.",
+        "translations": {
+          "ru": "Под столом не будет карандаша.",
+          "es": "No habrá un lápiz debajo de la mesa.",
+          "fr": "Il n'y aura pas de crayon sous la table.",
+          "de": "Es wird keinen Bleistift unter dem Tisch geben."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "won't", "alternatives": ["will", "would", "wasn't"] },
+          { "correct": "be", "alternatives": ["is", "are", "was"] },
+          { "correct": "a pencil", "alternatives": ["a pen", "a marker", "a crayon"] },
+          { "correct": "under", "alternatives": ["on", "near", "behind"] },
+          { "correct": "the table", "alternatives": ["the chair", "the sofa", "the bed"] }
+        ]
+      },
+      {
+        "id": 34,
+        "sentence_en": "Is there a parking near the bank?",
+        "translations": {
+          "ru": "Рядом с банком есть парковка?",
+          "es": "¿Hay un aparcamiento cerca del banco?",
+          "fr": "Y a-t-il un parking près de la banque ?",
+          "de": "Gibt es einen Parkplatz in der Nähe der Bank?"
+        },
+        "words": [
+          { "correct": "Is", "alternatives": ["Are", "Was", "Were"] },
+          { "correct": "there", "alternatives": ["here", "it", "that"] },
+          { "correct": "a parking", "alternatives": ["a garage", "a shop", "a bank"] },
+          { "correct": "near", "alternatives": ["on", "under", "behind"] },
+          { "correct": "the bank", "alternatives": ["the shop", "the office", "the cafe"] }
+        ]
+      },
+      {
+        "id": 35,
+        "sentence_en": "There won't be a table in the office.",
+        "translations": {
+          "ru": "В офисе не будет стола.",
+          "es": "No habrá una mesa en la oficina.",
+          "fr": "Il n'y aura pas de table dans le bureau.",
+          "de": "Es wird keinen Tisch im Büro geben."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "won't", "alternatives": ["will", "would", "wasn't"] },
+          { "correct": "be", "alternatives": ["is", "are", "was"] },
+          { "correct": "a table", "alternatives": ["a desk", "a shelf", "a counter"] },
+          { "correct": "in", "alternatives": ["on", "under", "near"] },
+          { "correct": "the office", "alternatives": ["the kitchen", "the bedroom", "the nursery"] }
+        ]
+      },
+      {
+        "id": 36,
+        "sentence_en": "There were knives under the bed.",
+        "translations": {
+          "ru": "Под кроватью были ножи.",
+          "es": "Había cuchillos debajo de la cama.",
+          "fr": "Il y avait des couteaux sous le lit.",
+          "de": "Unter dem Bett lagen Messer."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "were", "alternatives": ["was", "is", "are"] },
+          { "correct": "knives", "alternatives": ["forks", "spoons", "plates"] },
+          { "correct": "under", "alternatives": ["on", "near", "behind"] },
+          { "correct": "the bed", "alternatives": ["the table", "the chair", "the sofa"] }
+        ]
+      },
+      {
+        "id": 37,
+        "sentence_en": "Was there a cup on the armchair?",
+        "translations": {
+          "ru": "На кресле была чашка?",
+          "es": "¿Había una taza en el sillón?",
+          "fr": "Y avait-il une tasse sur le fauteuil ?",
+          "de": "War eine Tasse auf dem Sessel?"
+        },
+        "words": [
+          { "correct": "Was", "alternatives": ["Were", "Is", "Are"] },
+          { "correct": "there", "alternatives": ["here", "it", "that"] },
+          { "correct": "a cup", "alternatives": ["a glass", "a mug", "a bowl"] },
+          { "correct": "on", "alternatives": ["under", "near", "behind"] },
+          { "correct": "the armchair", "alternatives": ["the sofa", "the table", "the bed"] }
+        ]
+      },
+      {
+        "id": 38,
+        "sentence_en": "There weren't chairs in the bedroom.",
+        "translations": {
+          "ru": "В спальне не было стульев.",
+          "es": "No había sillas en el dormitorio.",
+          "fr": "Il n'y avait pas de chaises dans la chambre.",
+          "de": "Im Schlafzimmer standen keine Stühle."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "weren't", "alternatives": ["wasn't", "isn't", "aren't"] },
+          { "correct": "chairs", "alternatives": ["tables", "beds", "sofas"] },
+          { "correct": "in", "alternatives": ["on", "under", "near"] },
+          { "correct": "the bedroom", "alternatives": ["the office", "the kitchen", "the nursery"] }
+        ]
+      },
+      {
+        "id": 39,
+        "sentence_en": "Are there plates on the armchair?",
+        "translations": {
+          "ru": "На кресле есть тарелки?",
+          "es": "¿Hay platos en el sillón?",
+          "fr": "Y a-t-il des assiettes sur le fauteuil ?",
+          "de": "Gibt es Teller auf dem Sessel?"
+        },
+        "words": [
+          { "correct": "Are", "alternatives": ["Is", "Was", "Were"] },
+          { "correct": "there", "alternatives": ["here", "it", "that"] },
+          { "correct": "plates", "alternatives": ["cups", "bowls", "dishes"] },
+          { "correct": "on", "alternatives": ["under", "near", "behind"] },
+          { "correct": "the armchair", "alternatives": ["the sofa", "the table", "the bed"] }
+        ]
+      },
+      {
+        "id": 40,
+        "sentence_en": "There weren't glasses under the chair.",
+        "translations": {
+          "ru": "Под стулом не было стаканов.",
+          "es": "No había vasos debajo de la silla.",
+          "fr": "Il n'y avait pas de verres sous la chaise.",
+          "de": "Unter dem Stuhl standen keine Gläser."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "weren't", "alternatives": ["wasn't", "isn't", "aren't"] },
+          { "correct": "glasses", "alternatives": ["cups", "mugs", "tumblers"] },
+          { "correct": "under", "alternatives": ["on", "near", "behind"] },
+          { "correct": "the chair", "alternatives": ["the table", "the sofa", "the bed"] }
+        ]
+      },
+      {
+        "id": 41,
+        "sentence_en": "There isn't a key under the table.",
+        "translations": {
+          "ru": "Под столом нет ключа.",
+          "es": "No hay una llave debajo de la mesa.",
+          "fr": "Il n'y a pas de clé sous la table.",
+          "de": "Unter dem Tisch liegt kein Schlüssel."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "isn't", "alternatives": ["is", "wasn't", "was"] },
+          { "correct": "a key", "alternatives": ["a coin", "a card", "a note"] },
+          { "correct": "under", "alternatives": ["on", "near", "behind"] },
+          { "correct": "the table", "alternatives": ["the chair", "the sofa", "the bed"] }
+        ]
+      },
+      {
+        "id": 42,
+        "sentence_en": "There's a message for them.",
+        "translations": {
+          "ru": "Для них есть сообщение.",
+          "es": "Hay un mensaje para ellos.",
+          "fr": "Il y a un message pour eux.",
+          "de": "Es gibt eine Nachricht für sie."
+        },
+        "words": [
+          { "correct": "There's", "alternatives": ["There are", "There was", "There were"] },
+          { "correct": "a message", "alternatives": ["a note", "a letter", "a card"] },
+          { "correct": "for", "alternatives": ["to", "with", "by"] },
+          { "correct": "them", "alternatives": ["us", "him", "her"] }
+        ]
+      },
+      {
+        "id": 43,
+        "sentence_en": "There isn't a sofa in the bedroom.",
+        "translations": {
+          "ru": "В спальне нет дивана.",
+          "es": "No hay un sofá en el dormitorio.",
+          "fr": "Il n'y a pas de canapé dans la chambre.",
+          "de": "Im Schlafzimmer steht kein Sofa."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "isn't", "alternatives": ["is", "wasn't", "was"] },
+          { "correct": "a sofa", "alternatives": ["an armchair", "a couch", "a bench"] },
+          { "correct": "in", "alternatives": ["on", "under", "near"] },
+          { "correct": "the bedroom", "alternatives": ["the office", "the kitchen", "the nursery"] }
+        ]
+      },
+      {
+        "id": 44,
+        "sentence_en": "Was there a cup on the windowsill?",
+        "translations": {
+          "ru": "На подоконнике была чашка?",
+          "es": "¿Había una taza en el alféizar?",
+          "fr": "Y avait-il une tasse sur le rebord de la fenêtre ?",
+          "de": "War eine Tasse auf der Fensterbank?"
+        },
+        "words": [
+          { "correct": "Was", "alternatives": ["Were", "Is", "Are"] },
+          { "correct": "there", "alternatives": ["here", "it", "that"] },
+          { "correct": "a cup", "alternatives": ["a glass", "a mug", "a bowl"] },
+          { "correct": "on", "alternatives": ["under", "near", "behind"] },
+          { "correct": "the windowsill", "alternatives": ["the table", "the shelf", "the desk"] }
+        ]
+      },
+      {
+        "id": 45,
+        "sentence_en": "There's a task for them.",
+        "translations": {
+          "ru": "Для них есть задание.",
+          "es": "Hay una tarea para ellos.",
+          "fr": "Il y a une tâche pour eux.",
+          "de": "Es gibt eine Aufgabe für sie."
+        },
+        "words": [
+          { "correct": "There's", "alternatives": ["There are", "There was", "There were"] },
+          { "correct": "a task", "alternatives": ["an assignment", "a job", "a project"] },
+          { "correct": "for", "alternatives": ["to", "with", "by"] },
+          { "correct": "them", "alternatives": ["us", "him", "her"] }
+        ]
+      },
+      {
+        "id": 46,
+        "sentence_en": "There isn't a car near the cafe.",
+        "translations": {
+          "ru": "Около кафе нет машины.",
+          "es": "No hay un coche cerca del café.",
+          "fr": "Il n'y a pas de voiture près du café.",
+          "de": "In der Nähe des Cafés steht kein Auto."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "isn't", "alternatives": ["is", "wasn't", "was"] },
+          { "correct": "a car", "alternatives": ["a bike", "a bus", "a van"] },
+          { "correct": "near", "alternatives": ["beside", "close to", "next to"] },
+          { "correct": "the cafe", "alternatives": ["the shop", "the bank", "the office"] }
+        ]
+      },
+      {
+        "id": 47,
+        "sentence_en": "There weren't chairs in the office.",
+        "translations": {
+          "ru": "В офисе не было стульев.",
+          "es": "No había sillas en la oficina.",
+          "fr": "Il n'y avait pas de chaises dans le bureau.",
+          "de": "Im Büro standen keine Stühle."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "weren't", "alternatives": ["wasn't", "isn't", "aren't"] },
+          { "correct": "chairs", "alternatives": ["tables", "beds", "sofas"] },
+          { "correct": "in", "alternatives": ["on", "under", "near"] },
+          { "correct": "the office", "alternatives": ["the kitchen", "the bedroom", "the nursery"] }
+        ]
+      },
+      {
+        "id": 48,
+        "sentence_en": "There was a ball under the sofa.",
+        "translations": {
+          "ru": "Под диваном был мяч.",
+          "es": "Había una pelota debajo del sofá.",
+          "fr": "Il y avait un ballon sous le canapé.",
+          "de": "Unter dem Sofa lag ein Ball."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "was", "alternatives": ["is", "are", "were"] },
+          { "correct": "a ball", "alternatives": ["a toy", "a marble", "a block"] },
+          { "correct": "under", "alternatives": ["on", "near", "behind"] },
+          { "correct": "the sofa", "alternatives": ["the table", "the chair", "the bed"] }
+        ]
+      },
+      {
+        "id": 49,
+        "sentence_en": "There's a signboard near the drugstore.",
+        "translations": {
+          "ru": "Рядом с аптекой есть вывеска.",
+          "es": "Hay un letrero cerca de la farmacia.",
+          "fr": "Il y a une enseigne près de la pharmacie.",
+          "de": "In der Nähe der Apotheke gibt es ein Schild."
+        },
+        "words": [
+          { "correct": "There's", "alternatives": ["There are", "There was", "There were"] },
+          { "correct": "a signboard", "alternatives": ["a poster", "a banner", "a notice"] },
+          { "correct": "near", "alternatives": ["beside", "close to", "next to"] },
+          { "correct": "the drugstore", "alternatives": ["the bank", "the shop", "the office"] }
+        ]
+      },
+      {
+        "id": 50,
+        "sentence_en": "There isn't a book on the floor.",
+        "translations": {
+          "ru": "На полу нет книги.",
+          "es": "No hay un libro en el suelo.",
+          "fr": "Il n'y a pas de livre sur le sol.",
+          "de": "Auf dem Boden liegt kein Buch."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "isn't", "alternatives": ["is", "wasn't", "was"] },
+          { "correct": "a book", "alternatives": ["a notebook", "a magazine", "a journal"] },
+          { "correct": "on", "alternatives": ["under", "near", "behind"] },
+          { "correct": "the floor", "alternatives": ["the table", "the chair", "the desk"] }
+        ]
+      },
+      {
+        "id": 51,
+        "sentence_en": "There was a ball under the armchair.",
+        "translations": {
+          "ru": "Под креслом был мяч.",
+          "es": "Había una pelota debajo del sillón.",
+          "fr": "Il y avait un ballon sous le fauteuil.",
+          "de": "Unter dem Sessel lag ein Ball."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "was", "alternatives": ["is", "are", "were"] },
+          { "correct": "a ball", "alternatives": ["a toy", "a marble", "a block"] },
+          { "correct": "under", "alternatives": ["on", "near", "behind"] },
+          { "correct": "the armchair", "alternatives": ["the sofa", "the table", "the bed"] }
+        ]
+      },
+      {
+        "id": 52,
+        "sentence_en": "There isn't a pencil under the table.",
+        "translations": {
+          "ru": "Под столом нет карандаша.",
+          "es": "No hay un lápiz debajo de la mesa.",
+          "fr": "Il n'y a pas de crayon sous la table.",
+          "de": "Unter dem Tisch liegt kein Bleistift."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "isn't", "alternatives": ["is", "wasn't", "was"] },
+          { "correct": "a pencil", "alternatives": ["a pen", "a marker", "a crayon"] },
+          { "correct": "under", "alternatives": ["on", "near", "behind"] },
+          { "correct": "the table", "alternatives": ["the chair", "the sofa", "the bed"] }
+        ]
+      },
+      {
+        "id": 53,
+        "sentence_en": "There's a knife under the sofa.",
+        "translations": {
+          "ru": "Под диваном есть нож.",
+          "es": "Hay un cuchillo debajo del sofá.",
+          "fr": "Il y a un couteau sous le canapé.",
+          "de": "Unter dem Sofa liegt ein Messer."
+        },
+        "words": [
+          { "correct": "There's", "alternatives": ["There are", "There was", "There were"] },
+          { "correct": "a knife", "alternatives": ["a fork", "a spoon", "a plate"] },
+          { "correct": "under", "alternatives": ["on", "near", "behind"] },
+          { "correct": "the sofa", "alternatives": ["the table", "the chair", "the bed"] }
+        ]
+      },
+      {
+        "id": 54,
+        "sentence_en": "There's a lane near the drugstore.",
+        "translations": {
+          "ru": "Рядом с аптекой есть переулок.",
+          "es": "Hay un callejón cerca de la farmacia.",
+          "fr": "Il y a une ruelle près de la pharmacie.",
+          "de": "In der Nähe der Apotheke gibt es eine Gasse."
+        },
+        "words": [
+          { "correct": "There's", "alternatives": ["There are", "There was", "There were"] },
+          { "correct": "a lane", "alternatives": ["a street", "a road", "a path"] },
+          { "correct": "near", "alternatives": ["beside", "close to", "next to"] },
+          { "correct": "the drugstore", "alternatives": ["the bank", "the shop", "the office"] }
+        ]
+      },
+      {
+        "id": 55,
+        "sentence_en": "There'll be a plate on the windowsill.",
+        "translations": {
+          "ru": "На подоконнике будет тарелка.",
+          "es": "Habrá un plato en el alféizar.",
+          "fr": "Il y aura une assiette sur le rebord de la fenêtre.",
+          "de": "Auf der Fensterbank wird ein Teller sein."
+        },
+        "words": [
+          { "correct": "There'll", "alternatives": ["There", "There is", "There are"] },
+          { "correct": "be", "alternatives": ["is", "are", "was"] },
+          { "correct": "a plate", "alternatives": ["a dish", "a tray", "a bowl"] },
+          { "correct": "on", "alternatives": ["under", "near", "behind"] },
+          { "correct": "the windowsill", "alternatives": ["the table", "the shelf", "the desk"] }
+        ]
+      },
+      {
+        "id": 56,
+        "sentence_en": "There'll be a notepad under the armchair.",
+        "translations": {
+          "ru": "Под креслом будет блокнот.",
+          "es": "Habrá un bloc de notas debajo del sillón.",
+          "fr": "Il y aura un carnet sous le fauteuil.",
+          "de": "Unter dem Sessel wird ein Notizblock liegen."
+        },
+        "words": [
+          { "correct": "There'll", "alternatives": ["There", "There is", "There are"] },
+          { "correct": "be", "alternatives": ["is", "are", "was"] },
+          { "correct": "a notepad", "alternatives": ["a notebook", "a journal", "a diary"] },
+          { "correct": "under", "alternatives": ["on", "near", "behind"] },
+          { "correct": "the armchair", "alternatives": ["the sofa", "the table", "the bed"] }
+        ]
+      },
+      {
+        "id": 57,
+        "sentence_en": "There are books on the windowsill.",
+        "translations": {
+          "ru": "На подоконнике есть книги.",
+          "es": "Hay libros en el alféizar.",
+          "fr": "Il y a des livres sur le rebord de la fenêtre.",
+          "de": "Auf der Fensterbank liegen Bücher."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "are", "alternatives": ["is", "was", "were"] },
+          { "correct": "books", "alternatives": ["notebooks", "magazines", "journals"] },
+          { "correct": "on", "alternatives": ["under", "near", "behind"] },
+          { "correct": "the windowsill", "alternatives": ["the table", "the shelf", "the desk"] }
+        ]
+      },
+      {
+        "id": 58,
+        "sentence_en": "Is there a TV in the room?",
+        "translations": {
+          "ru": "В комнате есть телевизор?",
+          "es": "¿Hay una televisión en la habitación?",
+          "fr": "Y a-t-il une télévision dans la pièce ?",
+          "de": "Gibt es einen Fernseher im Zimmer?"
+        },
+        "words": [
+          { "correct": "Is", "alternatives": ["Are", "Was", "Were"] },
+          { "correct": "there", "alternatives": ["here", "it", "that"] },
+          { "correct": "a TV", "alternatives": ["a radio", "a computer", "a lamp"] },
+          { "correct": "in", "alternatives": ["on", "under", "near"] },
+          { "correct": "the room", "alternatives": ["the office", "the kitchen", "the nursery"] }
+        ]
+      },
+      {
+        "id": 59,
+        "sentence_en": "There wasn't a parking near the shop.",
+        "translations": {
+          "ru": "Около магазина не было парковки.",
+          "es": "No había aparcamiento cerca de la tienda.",
+          "fr": "Il n'y avait pas de parking près du magasin.",
+          "de": "Es gab keinen Parkplatz in der Nähe des Ladens."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "wasn't", "alternatives": ["was", "isn't", "is"] },
+          { "correct": "a parking", "alternatives": ["parking", "some parking", "an parking"] },
+          { "correct": "near", "alternatives": ["on", "under", "behind"] },
+          { "correct": "the shop", "alternatives": ["the bank", "the office", "the cafe"] }
+        ]
+      },
+      {
+        "id": 60,
+        "sentence_en": "There wasn't a ball under the sofa.",
+        "translations": {
+          "ru": "Под диваном не было мяча.",
+          "es": "No había una pelota debajo del sofá.",
+          "fr": "Il n'y avait pas de ballon sous le canapé.",
+          "de": "Unter dem Sofa lag kein Ball."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "wasn't", "alternatives": ["was", "isn't", "is"] },
+          { "correct": "a ball", "alternatives": ["a toy", "a marble", "a block"] },
+          { "correct": "under", "alternatives": ["on", "near", "behind"] },
+          { "correct": "the sofa", "alternatives": ["the table", "the chair", "the bed"] }
+        ]
+      },
+      {
+        "id": 61,
+        "sentence_en": "There wasn't a pen on the armchair.",
+        "translations": {
+          "ru": "На кресле не было ручки.",
+          "es": "No había un bolígrafo en el sillón.",
+          "fr": "Il n'y avait pas de stylo sur le fauteuil.",
+          "de": "Auf dem Sessel lag kein Stift."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "wasn't", "alternatives": ["was", "isn't", "is"] },
+          { "correct": "a pen", "alternatives": ["a pencil", "a marker", "a crayon"] },
+          { "correct": "on", "alternatives": ["under", "near", "behind"] },
+          { "correct": "the armchair", "alternatives": ["the sofa", "the table", "the bed"] }
+        ]
+      },
+      {
+        "id": 62,
+        "sentence_en": "Was there a plate on the floor?",
+        "translations": {
+          "ru": "На полу была тарелка?",
+          "es": "¿Había un plato en el suelo?",
+          "fr": "Y avait-il une assiette sur le sol ?",
+          "de": "Lag ein Teller auf dem Boden?"
+        },
+        "words": [
+          { "correct": "Was", "alternatives": ["Were", "Is", "Are"] },
+          { "correct": "there", "alternatives": ["here", "it", "that"] },
+          { "correct": "a plate", "alternatives": ["a dish", "a tray", "a bowl"] },
+          { "correct": "on", "alternatives": ["under", "near", "behind"] },
+          { "correct": "the floor", "alternatives": ["the table", "the chair", "the desk"] }
+        ]
+      },
+      {
+        "id": 63,
+        "sentence_en": "Are there books on the armchair?",
+        "translations": {
+          "ru": "На кресле есть книги?",
+          "es": "¿Hay libros en el sillón?",
+          "fr": "Y a-t-il des livres sur le fauteuil ?",
+          "de": "Liegen Bücher auf dem Sessel?"
+        },
+        "words": [
+          { "correct": "Are", "alternatives": ["Is", "Was", "Were"] },
+          { "correct": "there", "alternatives": ["here", "it", "that"] },
+          { "correct": "books", "alternatives": ["notebooks", "magazines", "journals"] },
+          { "correct": "on", "alternatives": ["under", "near", "behind"] },
+          { "correct": "the armchair", "alternatives": ["the sofa", "the table", "the bed"] }
+        ]
+      },
+      {
+        "id": 64,
+        "sentence_en": "There isn't a table in the flat.",
+        "translations": {
+          "ru": "В квартире нет стола.",
+          "es": "No hay una mesa en el piso.",
+          "fr": "Il n'y a pas de table dans l'appartement.",
+          "de": "In der Wohnung steht kein Tisch."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "isn't", "alternatives": ["is", "wasn't", "was"] },
+          { "correct": "a table", "alternatives": ["a desk", "a shelf", "a counter"] },
+          { "correct": "in", "alternatives": ["on", "under", "near"] },
+          { "correct": "the flat", "alternatives": ["the office", "the kitchen", "the nursery"] }
+        ]
+      },
+      {
+        "id": 65,
+        "sentence_en": "There's a task for him.",
+        "translations": {
+          "ru": "Для него есть задание.",
+          "es": "Hay una tarea para él.",
+          "fr": "Il y a une tâche pour lui.",
+          "de": "Es gibt eine Aufgabe für ihn."
+        },
+        "words": [
+          { "correct": "There's", "alternatives": ["There are", "There was", "There were"] },
+          { "correct": "a task", "alternatives": ["an assignment", "a job", "a project"] },
+          { "correct": "for", "alternatives": ["to", "with", "by"] },
+          { "correct": "him", "alternatives": ["us", "them", "her"] }
+        ]
+      },
+      {
+        "id": 66,
+        "sentence_en": "There wasn't a book on the floor.",
+        "translations": {
+          "ru": "На полу не было книги.",
+          "es": "No había un libro en el suelo.",
+          "fr": "Il n'y avait pas de livre sur le sol.",
+          "de": "Auf dem Boden lag kein Buch."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "wasn't", "alternatives": ["was", "isn't", "is"] },
+          { "correct": "a book", "alternatives": ["a notebook", "a magazine", "a journal"] },
+          { "correct": "on", "alternatives": ["under", "near", "behind"] },
+          { "correct": "the floor", "alternatives": ["the table", "the chair", "the desk"] }
+        ]
+      },
+      {
+        "id": 67,
+        "sentence_en": "There wasn't a TV in the house.",
+        "translations": {
+          "ru": "В доме не было телевизора.",
+          "es": "No había televisión en la casa.",
+          "fr": "Il n'y avait pas de télévision dans la maison.",
+          "de": "Im Haus gab es keinen Fernseher."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "wasn't", "alternatives": ["was", "isn't", "is"] },
+          { "correct": "a TV", "alternatives": ["a radio", "a computer", "a lamp"] },
+          { "correct": "in", "alternatives": ["on", "under", "near"] },
+          { "correct": "the house", "alternatives": ["the office", "the kitchen", "the nursery"] }
+        ]
+      },
+      {
+        "id": 68,
+        "sentence_en": "There's a letter for you.",
+        "translations": {
+          "ru": "Для тебя есть письмо.",
+          "es": "Hay una carta para ti.",
+          "fr": "Il y a une lettre pour toi.",
+          "de": "Es gibt einen Brief für dich."
+        },
+        "words": [
+          { "correct": "There's", "alternatives": ["There are", "There was", "There were"] },
+          { "correct": "a letter", "alternatives": ["a note", "a message", "a card"] },
+          { "correct": "for", "alternatives": ["to", "with", "by"] },
+          { "correct": "you", "alternatives": ["us", "him", "her"] }
+        ]
+      },
+      {
+        "id": 69,
+        "sentence_en": "Are there balls under the table?",
+        "translations": {
+          "ru": "Под столом есть мячи?",
+          "es": "¿Hay pelotas debajo de la mesa?",
+          "fr": "Y a-t-il des balles sous la table ?",
+          "de": "Liegen Bälle unter dem Tisch?"
+        },
+        "words": [
+          { "correct": "Are", "alternatives": ["Is", "Was", "Were"] },
+          { "correct": "there", "alternatives": ["here", "it", "that"] },
+          { "correct": "balls", "alternatives": ["marbles", "blocks", "toys"] },
+          { "correct": "under", "alternatives": ["on", "near", "behind"] },
+          { "correct": "the table", "alternatives": ["the chair", "the sofa", "the bed"] }
+        ]
+      },
+      {
+        "id": 70,
+        "sentence_en": "Is there a sofa in the room?",
+        "translations": {
+          "ru": "В комнате есть диван?",
+          "es": "¿Hay un sofá en la habitación?",
+          "fr": "Y a-t-il un canapé dans la pièce ?",
+          "de": "Gibt es ein Sofa im Zimmer?"
+        },
+        "words": [
+          { "correct": "Is", "alternatives": ["Are", "Was", "Were"] },
+          { "correct": "there", "alternatives": ["here", "it", "that"] },
+          { "correct": "a sofa", "alternatives": ["an armchair", "a couch", "a bench"] },
+          { "correct": "in", "alternatives": ["on", "under", "near"] },
+          { "correct": "the room", "alternatives": ["the office", "the kitchen", "the nursery"] }
+        ]
+      },
+      {
+        "id": 71,
+        "sentence_en": "There wasn't a tree near the bakery.",
+        "translations": {
+          "ru": "Около булочной не было дерева.",
+          "es": "No había un árbol cerca de la panadería.",
+          "fr": "Il n'y avait pas d'arbre près de la boulangerie.",
+          "de": "In der Nähe der Bäckerei stand kein Baum."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "wasn't", "alternatives": ["was", "isn't", "is"] },
+          { "correct": "a tree", "alternatives": ["a bush", "a flower", "a plant"] },
+          { "correct": "near", "alternatives": ["beside", "close to", "next to"] },
+          { "correct": "the bakery", "alternatives": ["the shop", "the bank", "the office"] }
+        ]
+      },
+      {
+        "id": 72,
+        "sentence_en": "There isn't a key under the chair.",
+        "translations": {
+          "ru": "Под стулом нет ключа.",
+          "es": "No hay una llave debajo de la silla.",
+          "fr": "Il n'y a pas de clé sous la chaise.",
+          "de": "Unter dem Stuhl liegt kein Schlüssel."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "isn't", "alternatives": ["is", "wasn't", "was"] },
+          { "correct": "a key", "alternatives": ["a coin", "a card", "a note"] },
+          { "correct": "under", "alternatives": ["on", "near", "behind"] },
+          { "correct": "the chair", "alternatives": ["the table", "the sofa", "the bed"] }
+        ]
+      },
+      {
+        "id": 73,
+        "sentence_en": "There won't be carpets in the flat.",
+        "translations": {
+          "ru": "В квартире не будет ковров.",
+          "es": "No habrá alfombras en el piso.",
+          "fr": "Il n'y aura pas de tapis dans l'appartement.",
+          "de": "In der Wohnung wird es keine Teppiche geben."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "won't", "alternatives": ["will", "would", "wasn't"] },
+          { "correct": "be", "alternatives": ["is", "are", "was"] },
+          { "correct": "carpets", "alternatives": ["tables", "chairs", "beds"] },
+          { "correct": "in", "alternatives": ["on", "under", "near"] },
+          { "correct": "the flat", "alternatives": ["the office", "the kitchen", "the nursery"] }
+        ]
+      },
+      {
+        "id": 74,
+        "sentence_en": "There was a spoon on the nightstand.",
+        "translations": {
+          "ru": "На тумбочке была ложка.",
+          "es": "Había una cuchara en la mesita de noche.",
+          "fr": "Il y avait une cuillère sur la table de nuit.",
+          "de": "Auf dem Nachttisch lag ein Löffel."
+        },
+        "words": [
+          { "correct": "There", "alternatives": ["Here", "It", "That"] },
+          { "correct": "was", "alternatives": ["is", "are", "were"] },
+          { "correct": "a spoon", "alternatives": ["a fork", "a knife", "a plate"] },
+          { "correct": "on", "alternatives": ["under", "near", "behind"] },
+          { "correct": "the nightstand", "alternatives": ["the table", "the shelf", "the desk"] }
+        ]
+      }
+    ]
+  }
+}

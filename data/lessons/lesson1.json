@@ -1,0 +1,3220 @@
+{
+  "id": 1,
+  "title": {
+    "english": "Lesson 1",
+    "russian": "Урок 1",
+    "spanish": "Lección 1",
+    "french": "Leçon 1",
+    "german": "Lektion 1"
+  },
+  "description": {
+    "english": "In this lesson, you will learn essential vocabulary and grammar concepts that form the foundation of English language learning. We'll cover basic sentence structures, common expressions, and practical examples that you can use in everyday conversations.",
+    "russian": "На первом уроке мы научимся спрягать английские глаголы в трёх простых временах: настоящее, будущее, прошедшее.",
+    "spanish": "En la primera lección, aprenderemos a conjugar verbos ingleses en tres tiempos simples: presente, futuro y pasado.",
+    "french": "Dans la première leçon, nous apprendrons à conjuguer les verbes anglais dans trois temps simples : présent, futur, passé.",
+    "german": "In der ersten Lektion lernen wir, englische Verben in drei einfachen Zeiten zu konjugieren: Gegenwart, Zukunft, Vergangenheit."
+  },
+  "detailedDescription": {
+    "russian": {
+      "title": "Урок 1 — Простые времена в английском языке",
+      "sections": [
+        {
+          "type": "warning",
+          "content": "Чтобы перейти к следующему уроку, необходимо набрать не менее 90% в экзамене текущего урока. Иначе следующий урок может быть не до конца понятным."
+        },
+        {
+          "type": "text",
+          "content": "В каждом уроке есть разделы описание, слова к уроку, предложения и **экзамен**. Основное изучение проходит в разделе **экзамен**. Советуется побольше практиковать в разделе **экзамен**."
+        },
+        {
+          "type": "text",
+          "content": "В английском языке есть 3 простых времени: будущее (Future), настоящее (Present) и прошедшее (Past)."
+        },
+        {
+          "type": "heading",
+          "content": "1. Будущее время (Future Simple)"
+        },
+        {
+          "type": "text",
+          "content": "В будущем времени используется вспомогательный глагол 'will'. Он ставится перед основным глаголом, чтобы показать, что действие произойдет в будущем."
+        },
+        {
+          "type": "heading",
+          "content": "Формула:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Вопрос: Will + подлежащее + глагол?",
+            "Утверждение: Подлежащее + will + глагол",
+            "Отрицание: Подлежащее + will not + глагол"
+          ]
+        },
+        {
+          "type": "table",
+          "headers": ["Вопрос", "Утверждение", "Отрицание"],
+          "rows": [
+            ["Will I love?  Я буду любить?", "I will love  Я буду любить", "I will not love  Я не буду любить"],
+            ["Will you love?  Ты будешь любить?", "You will love  Ты будешь любить", "You will not love  Ты не будешь любить"],
+            ["Will we love?  Мы будем любить?", "We will love  Мы будем любить", "We will not love  Мы не будем любить"],
+            ["Will they love?  Они будут любить?", "They will love  Они будут любить", "They will not love  Они не будут любить"],
+            ["Will he love?  Он будет любить?", "He will love  Он будет любить", "He will not love  Он не будет любить"],
+            ["Will she love?  Она будет любить?", "She will love  Она будет любить", "She will not love  Она не будет любить"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Примеры:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Will I love? — Я буду любить?\nI will love. — Я буду любить.\nI will not love. — Я не буду любить.",
+            "Will she love? — Она будет любить?\nShe will love. — Она будет любить.\nShe will not love. — Она не будет любить."
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "2. Настоящее время (Present Simple)"
+        },
+        {
+          "type": "text",
+          "content": "В настоящем времени используются вспомогательные глаголы 'do' и 'does'. 'Does' используется с he, she, it. В утвердительных предложениях глагол получает окончание -s для he, she, it."
+        },
+        {
+          "type": "heading",
+          "content": "Формула:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Вопрос: Do/Does + подлежащее + глагол?",
+            "Утверждение: Подлежащее + глагол (+s для he/she/it)",
+            "Отрицание: Подлежащее + do not/does not + глагол"
+          ]
+        },
+        {
+          "type": "table",
+          "headers": ["Вопрос", "Утверждение", "Отрицание"],
+          "rows": [
+            ["Do I love?  Я люблю?", "I love  Я люблю", "I do not love  Я не люблю"],
+            ["Do you love?  Ты любишь?", "You love  Ты любишь", "You do not love  Ты не любишь"],
+            ["Do we love?  Мы любим?", "We love  Мы любим", "We do not love  Мы не любим"],
+            ["Do they love?  Они любят?", "They love  Они любят", "They do not love  Они не любят"],
+            ["Does he love?  Он любит?", "He loves  Он любит", "He does not love  Он не любит"],
+            ["Does she love?  Она любит?", "She loves  Она любит", "She does not love  Она не любит"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Примеры:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Do I love? — Я люблю?\nI love. — Я люблю.\nI do not love. — Я не люблю.",
+            "Does she love? — Она любит?\nShe loves. — Она любит.\nShe does not love. — Она не любит."
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "3. Прошедшее время (Past Simple)"
+        },
+        {
+          "type": "text",
+          "content": "В прошедшем времени используется вспомогательный глагол 'did'. Глагол всегда в прошедшей форме, которая для правильных глаголов образуется добавлением -ed."
+        },
+        {
+          "type": "heading",
+          "content": "Формула:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Вопрос: Did + подлежащее + глагол?",
+            "Утверждение: Подлежащее + глагол в прошедшей форме",
+            "Отрицание: Подлежащее + did not + глагол"
+          ]
+        },
+        {
+          "type": "table",
+          "headers": ["Вопрос", "Утверждение", "Отрицание"],
+          "rows": [
+            ["Did I love?  Я любил?", "I loved  Я любил", "I did not love  Я не любил"],
+            ["Did you love?  Ты любил?", "You loved  Ты любил", "You did not love  Ты не любил"],
+            ["Did we love?  Мы любили?", "We loved  Мы любили", "We did not love  Мы не любили"],
+            ["Did they love?  Они любили?", "They loved  Они любили", "They did not love  Они не любили"],
+            ["Did he love?  Он любил?", "He loved  Он любил", "He did not love  Он не любил"],
+            ["Did she love?  Она любила?", "She loved  Она любила", "She did not love  Она не любила"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Важно: два типа глаголов"
+        },
+        {
+          "type": "text",
+          "content": "а) Правильные глаголы — добавляют -ed:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "work → worked",
+            "love → loved",
+            "play → played"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Примеры:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Did I love? — Я любил?\nI loved. — Я любил.\nI did not love. — Я не любил."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "б) Неправильные глаголы — меняются по-своему, без -ed. В этом уроке есть раздел \"Правильные и неправильные глаголы\", где вы можете учить неправильные глаголы."
+        },
+        {
+          "type": "text",
+          "content": "Их нужно учить наизусть. Примеры:"
+        },
+        {
+          "type": "table",
+          "headers": ["Инфинитив (начальная форма)", "Прошедшая форма"],
+          "rows": [
+            ["go (идти)", "went"],
+            ["have (иметь)", "had"],
+            ["see (видеть)", "saw"],
+            ["do (делать)", "did"],
+            ["eat (есть)", "ate"]
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Примеры с неправильными глаголами:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Did I go to school? — Я пошёл в школу?\nI went to school. — Я пошёл в школу.\nI did not go to school. — Я не пошёл в школу.",
+            "Did she have a cat? — У неё была кошка?\nShe had a cat. — У неё была кошка.\nShe did not have a cat. — У неё не было кошки."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Важно: в вопросах и отрицаниях с did глагол всегда в начальной форме!"
+        },
+        {
+          "type": "heading",
+          "content": "Как запомнить легко:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Will — всегда для будущего.",
+            "Do/Does — для настоящего.",
+            "Did — для прошлого.",
+            "Do not/Does not/Did not — для отрицаний.",
+            "У he/she/it в настоящем времени глагол получает окончание -s: loves, speaks, works.",
+            "В прошедшем времени правильные глаголы +ed, неправильные — особая форма (went, had и т.д.)",
+            "В вопросах и отрицаниях с did всегда используем начальную форму глагола, даже если он неправильный."
+          ]
+        }
+      ]
+    },
+    "english": {
+      "title": "Lesson 1 — Simple Tenses in English",
+      "sections": [
+        {
+          "type": "warning",
+          "content": "For the next lesson, you need to score at least 90% on the current lesson exam. Otherwise, the next lesson may not be completely understandable."
+        },
+        {
+          "type": "text",
+          "content": "Each lesson has sections: description, vocabulary for the lesson, sentences, and **exam**. The main learning takes place in the **exam** section. It is recommended to practice more in the **exam** section."
+        },
+        {
+          "type": "text",
+          "content": "There are 3 simple tenses in English: Future, Present, and Past."
+        },
+        {
+          "type": "heading",
+          "content": "1. Future Simple"
+        },
+        {
+          "type": "text",
+          "content": "In the future tense, we use the auxiliary verb 'will'. It is placed before the main verb to indicate that the action will happen in the future."
+        },
+        {
+          "type": "heading",
+          "content": "Formula:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Question: Will + subject + verb?",
+            "Affirmative: Subject + will + verb",
+            "Negative: Subject + will not + verb"
+          ]
+        },
+        {
+          "type": "table",
+          "headers": ["Question", "Affirmative", "Negative"],
+          "rows": [
+            ["Will I love?", "I will love", "I will not love"],
+            ["Will you love?", "You will love", "You will not love"],
+            ["Will we love?", "We will love", "We will not love"],
+            ["Will they love?", "They will love", "They will not love"],
+            ["Will he love?", "He will love", "He will not love"],
+            ["Will she love?", "She will love", "She will not love"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Examples:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Will I love?\nI will love.\nI will not love.",
+            "Will she love?\nShe will love.\nShe will not love."
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "2. Present Simple"
+        },
+        {
+          "type": "text",
+          "content": "In the present tense, we use the auxiliary verbs 'do' and 'does'. 'Does' is used with he, she, it. In affirmative sentences, the verb gets an -s ending for he, she, it."
+        },
+        {
+          "type": "heading",
+          "content": "Formula:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Question: Do/Does + subject + verb?",
+            "Affirmative: Subject + verb (+s for he/she/it)",
+            "Negative: Subject + do not/does not + verb"
+          ]
+        },
+        {
+          "type": "table",
+          "headers": ["Question", "Affirmative", "Negative"],
+          "rows": [
+            ["Do I love?", "I love", "I do not love"],
+            ["Do you love?", "You love", "You do not love"],
+            ["Do we love?", "We love", "We do not love"],
+            ["Do they love?", "They love", "They do not love"],
+            ["Does he love?", "He loves", "He does not love"],
+            ["Does she love?", "She loves", "She does not love"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Examples:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Do I love?\nI love.\nI do not love.",
+            "Does she love?\nShe loves.\nShe does not love."
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "3. Past Simple"
+        },
+        {
+          "type": "text",
+          "content": "In the past tense, we use the auxiliary verb 'did'. The verb is always in the past form, which for regular verbs is formed by adding -ed."
+        },
+        {
+          "type": "heading",
+          "content": "Formula:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Question: Did + subject + verb?",
+            "Affirmative: Subject + past form of verb",
+            "Negative: Subject + did not + verb"
+          ]
+        },
+        {
+          "type": "table",
+          "headers": ["Question", "Affirmative", "Negative"],
+          "rows": [
+            ["Did I love?", "I loved", "I did not love"],
+            ["Did you love?", "You loved", "You did not love"],
+            ["Did we love?", "We loved", "We did not love"],
+            ["Did they love?", "They loved", "They did not love"],
+            ["Did he love?", "He loved", "He did not love"],
+            ["Did she love?", "She loved", "She did not love"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Important: two types of verbs"
+        },
+        {
+          "type": "text",
+          "content": "a) Regular verbs — add -ed:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "work → worked",
+            "love → loved",
+            "play → played"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Examples:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Did I love?\nI loved.\nI did not love."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "b) Irregular verbs — change in their own way, without -ed. In this lesson, there is a section on regular and irregular verbs where you can learn irregular verbs."
+        },
+        {
+          "type": "text",
+          "content": "These need to be memorized. Examples:"
+        },
+        {
+          "type": "table",
+          "headers": ["Infinitive (base form)", "Past form"],
+          "rows": [
+            ["go", "went"],
+            ["have", "had"],
+            ["see", "saw"],
+            ["do", "did"],
+            ["eat", "ate"]
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Examples with irregular verbs:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Did I go to school?\nI went to school.\nI did not go to school.",
+            "Did she have a cat?\nShe had a cat.\nShe did not have a cat."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Important: in questions and negatives with did, the verb is always in its base form!"
+        },
+        {
+          "type": "heading",
+          "content": "Easy way to remember:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Will — always for future.",
+            "Do/Does — for present.",
+            "Did — for past.",
+            "Do not/Does not/Did not — for negatives.",
+            "For he/she/it in present tense, verb gets -s ending: loves, speaks, works.",
+            "In past tense, regular verbs add -ed, irregular verbs have special form (went, had, etc.)",
+            "In questions and negatives with did, always use base form of verb, even if it's irregular."
+          ]
+        }
+      ]
+    },
+    "spanish": {
+      "title": "Lección 1 — Tiempos simples en inglés",
+      "sections": [
+        {
+          "type": "warning",
+          "content": "Para pasar a la siguiente lección, es necesario obtener al menos el 90% en el examen de la lección actual. De lo contrario, la siguiente lección puede no ser completamente comprensible."
+        },
+        {
+          "type": "text",
+          "content": "Cada lección tiene secciones: descripción, vocabulario para la lección, oraciones y **examen**. El aprendizaje principal se realiza en la sección de **examen**. Se recomienda practicar más en la sección de **examen**."
+        },
+        {
+          "type": "text",
+          "content": "En inglés hay 3 tiempos simples: futuro (Future), presente (Present) y pasado (Past)."
+        },
+        {
+          "type": "heading",
+          "content": "1. Tiempo futuro (Future Simple)"
+        },
+        {
+          "type": "text",
+          "content": "En el tiempo futuro, usamos el verbo auxiliar 'will'. Se coloca antes del verbo principal para indicar que la acción ocurrirá en el futuro."
+        },
+        {
+          "type": "heading",
+          "content": "Fórmula:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Pregunta: Will + sujeto + verbo?",
+            "Afirmación: Sujeto + will + verbo",
+            "Negación: Sujeto + will not + verbo"
+          ]
+        },
+        {
+          "type": "table",
+          "headers": ["Pregunta", "Afirmación", "Negación"],
+          "rows": [
+            ["Will I love?  ¿Amaré?", "I will love  Amaré", "I will not love  No amaré"],
+            ["Will you love?  ¿Amarás?", "You will love  Amarás", "You will not love  No amarás"],
+            ["Will we love?  ¿Amaremos?", "We will love  Amaremos", "We will not love  No amaremos"],
+            ["Will they love?  ¿Amarán?", "They will love  Amarán", "They will not love  No amarán"],
+            ["Will he love?  ¿Amará él?", "He will love  Él amará", "He will not love  Él no amará"],
+            ["Will she love?  ¿Amará ella?", "She will love  Ella amará", "She will not love  Ella no amará"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Ejemplos:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Will I love? — ¿Amaré?\nI will love. — Amaré.\nI will not love. — No amaré.",
+            "Will she love? — ¿Amará ella?\nShe will love. — Ella amará.\nShe will not love. — Ella no amará."
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "2. Tiempo presente (Present Simple)"
+        },
+        {
+          "type": "text",
+          "content": "En el tiempo presente, usamos los verbos auxiliares 'do' y 'does'. 'Does' se usa con he, she, it. En las oraciones afirmativas, el verbo recibe una terminación -s para he, she, it."
+        },
+        {
+          "type": "heading",
+          "content": "Fórmula:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Pregunta: Do/Does + sujeto + verbo?",
+            "Afirmación: Sujeto + verbo (+s para he/she/it)",
+            "Negación: Sujeto + do not/does not + verbo"
+          ]
+        },
+        {
+          "type": "table",
+          "headers": ["Pregunta", "Afirmación", "Negación"],
+          "rows": [
+            ["Do I love?  ¿Amo?", "I love  Amo", "I do not love  No amo"],
+            ["Do you love?  ¿Amas?", "You love  Amas", "You do not love  No amas"],
+            ["Do we love?  ¿Amamos?", "We love  Amamos", "We do not love  No amamos"],
+            ["Do they love?  ¿Aman?", "They love  Aman", "They do not love  No aman"],
+            ["Does he love?  ¿Ama él?", "He loves  Él ama", "He does not love  Él no ama"],
+            ["Does she love?  ¿Ama ella?", "She loves  Ella ama", "She does not love  Ella no ama"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Ejemplos:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Do I love? — ¿Amo?\nI love. — Amo.\nI do not love. — No amo.",
+            "Does she love? — ¿Ama ella?\nShe loves. — Ella ama.\nShe does not love. — Ella no ama."
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "3. Tiempo pasado (Past Simple)"
+        },
+        {
+          "type": "text",
+          "content": "En el tiempo pasado, usamos el verbo auxiliar 'did'. El verbo siempre está en forma pasada, que para los verbos regulares se forma agregando -ed."
+        },
+        {
+          "type": "heading",
+          "content": "Fórmula:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Pregunta: Did + sujeto + verbo?",
+            "Afirmación: Sujeto + forma pasada del verbo",
+            "Negación: Sujeto + did not + verbo"
+          ]
+        },
+        {
+          "type": "table",
+          "headers": ["Pregunta", "Afirmación", "Negación"],
+          "rows": [
+            ["Did I love?  ¿Amé?", "I loved  Amé", "I did not love  No amé"],
+            ["Did you love?  ¿Amaste?", "You loved  Amaste", "You did not love  No amaste"],
+            ["Did we love?  ¿Amamos?", "We loved  Amamos", "We did not love  No amamos"],
+            ["Did they love?  ¿Amaron?", "They loved  Amaron", "They did not love  No amaron"],
+            ["Did he love?  ¿Amó él?", "He loved  Él amó", "He did not love  Él no amó"],
+            ["Did she love?  ¿Amó ella?", "She loved  Ella amó", "She did not love  Ella no amó"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Importante: dos tipos de verbos"
+        },
+        {
+          "type": "text",
+          "content": "a) Verbos regulares — agregan -ed:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "work → worked",
+            "love → loved",
+            "play → played"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Ejemplos:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Did I love? — ¿Amé?\nI loved. — Amé.\nI did not love. — No amé."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "b) Verbos irregulares — cambian de forma especial, sin -ed. En esta lección, hay una sección sobre verbos regulares e irregulares donde puedes aprender los verbos irregulares."
+        },
+        {
+          "type": "text",
+          "content": "Hay que memorizarlos. Ejemplos:"
+        },
+        {
+          "type": "table",
+          "headers": ["Infinitivo (forma base)", "Forma pasada"],
+          "rows": [
+            ["go (ir)", "went"],
+            ["have (tener)", "had"],
+            ["see (ver)", "saw"],
+            ["do (hacer)", "did"],
+            ["eat (comer)", "ate"]
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Ejemplos con verbos irregulares:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Did I go to school? — ¿Fui a la escuela?\nI went to school. — Fui a la escuela.\nI did not go to school. — No fui a la escuela.",
+            "Did she have a cat? — ¿Tenía ella un gato?\nShe had a cat. — Ella tenía un gato.\nShe did not have a cat. — Ella no tenía un gato."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "¡Importante: en preguntas y negaciones con did, el verbo siempre está en su forma base!"
+        },
+        {
+          "type": "heading",
+          "content": "Forma fácil de recordar:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Will — siempre para futuro.",
+            "Do/Does — para presente.",
+            "Did — para pasado.",
+            "Do not/Does not/Did not — para negaciones.",
+            "Para he/she/it en presente, el verbo recibe terminación -s: loves, speaks, works.",
+            "En pasado, verbos regulares +ed, irregulares — forma especial (went, had, etc.)",
+            "En preguntas y negaciones con did, siempre usar forma base del verbo, incluso si es irregular."
+          ]
+        }
+      ]
+    },
+    "french": {
+      "title": "Leçon 1 — Les temps simples en anglais",
+      "sections": [
+        {
+          "type": "warning",
+          "content": "Pour passer à la leçon suivante, il est nécessaire d'obtenir au moins 90% à l'examen de la leçon actuelle. Sinon, la leçon suivante pourrait ne pas être entièrement compréhensible."
+        },
+        {
+          "type": "text",
+          "content": "Chaque leçon comporte des sections : description, vocabulaire de la leçon, phrases et **examen**. L'apprentissage principal se déroule dans la section **examen**. Il est recommandé de pratiquer davantage dans la section **examen**."
+        },
+        {
+          "type": "text",
+          "content": "Il y a 3 temps simples en anglais : futur (Future), présent (Present) et passé (Past)."
+        },
+        {
+          "type": "heading",
+          "content": "1. Futur simple (Future Simple)"
+        },
+        {
+          "type": "text",
+          "content": "Au futur, on utilise le verbe auxiliaire 'will'. Il est placé avant le verbe principal pour indiquer que l'action se produira dans le futur."
+        },
+        {
+          "type": "heading",
+          "content": "Formule :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Question : Will + sujet + verbe ?",
+            "Affirmation : Sujet + will + verbe",
+            "Négation : Sujet + will not + verbe"
+          ]
+        },
+        {
+          "type": "table",
+          "headers": ["Question", "Affirmation", "Négation"],
+          "rows": [
+            ["Will I love?  Est-ce que j'aimerai ?", "I will love  J'aimerai", "I will not love  Je n'aimerai pas"],
+            ["Will you love?  Est-ce que tu aimeras ?", "You will love  Tu aimeras", "You will not love  Tu n'aimeras pas"],
+            ["Will we love?  Est-ce que nous aimerons ?", "We will love  Nous aimerons", "We will not love  Nous n'aimerons pas"],
+            ["Will they love?  Est-ce qu'ils aimeront ?", "They will love  Ils aimeront", "They will not love  Ils n'aimeront pas"],
+            ["Will he love?  Est-ce qu'il aimera ?", "He will love  Il aimera", "He will not love  Il n'aimera pas"],
+            ["Will she love?  Est-ce qu'elle aimera ?", "She will love  Elle aimera", "She will not love  Elle n'aimera pas"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Exemples :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Will I love? — Est-ce que j'aimerai ?\nI will love. — J'aimerai.\nI will not love. — Je n'aimerai pas.",
+            "Will she love? — Est-ce qu'elle aimera ?\nShe will love. — Elle aimera.\nShe will not love. — Elle n'aimera pas."
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "2. Présent simple (Present Simple)"
+        },
+        {
+          "type": "text",
+          "content": "Au présent, on utilise les verbes auxiliaires 'do' et 'does'. 'Does' est utilisé avec he, she, it. Dans les phrases affirmatives, le verbe prend une terminaison -s pour he, she, it."
+        },
+        {
+          "type": "heading",
+          "content": "Formule :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Question : Do/Does + sujet + verbe ?",
+            "Affirmation : Sujet + verbe (+s pour he/she/it)",
+            "Négation : Sujet + do not/does not + verbe"
+          ]
+        },
+        {
+          "type": "table",
+          "headers": ["Question", "Affirmation", "Négation"],
+          "rows": [
+            ["Do I love?  Est-ce que j'aime ?", "I love  J'aime", "I do not love  Je n'aime pas"],
+            ["Do you love?  Est-ce que tu aimes ?", "You love  Tu aimes", "You do not love  Tu n'aimes pas"],
+            ["Do we love?  Est-ce que nous aimons ?", "We love  Nous aimons", "We do not love  Nous n'aimons pas"],
+            ["Do they love?  Est-ce qu'ils aiment ?", "They love  Ils aiment", "They do not love  Ils n'aiment pas"],
+            ["Does he love?  Est-ce qu'il aime ?", "He loves  Il aime", "He does not love  Il n'aime pas"],
+            ["Does she love?  Est-ce qu'elle aime ?", "She loves  Elle aime", "She does not love  Elle n'aime pas"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Exemples :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Do I love? — Est-ce que j'aime ?\nI love. — J'aime.\nI do not love. — Je n'aime pas.",
+            "Does she love? — Est-ce qu'elle aime ?\nShe loves. — Elle aime.\nShe does not love. — Elle n'aime pas."
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "3. Passé simple (Past Simple)"
+        },
+        {
+          "type": "text",
+          "content": "Au passé, on utilise le verbe auxiliaire 'did'. Le verbe est toujours à la forme passée, qui pour les verbes réguliers se forme en ajoutant -ed."
+        },
+        {
+          "type": "heading",
+          "content": "Formule :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Question : Did + sujet + verbe ?",
+            "Affirmation : Sujet + forme passée du verbe",
+            "Négation : Sujet + did not + verbe"
+          ]
+        },
+        {
+          "type": "table",
+          "headers": ["Question", "Affirmation", "Négation"],
+          "rows": [
+            ["Did I love?  Est-ce que j'ai aimé ?", "I loved  J'ai aimé", "I did not love  Je n'ai pas aimé"],
+            ["Did you love?  Est-ce que tu as aimé ?", "You loved  Tu as aimé", "You did not love  Tu n'as pas aimé"],
+            ["Did we love?  Est-ce que nous avons aimé ?", "We loved  Nous avons aimé", "We did not love  Nous n'avons pas aimé"],
+            ["Did they love?  Est-ce qu'ils ont aimé ?", "They loved  Ils ont aimé", "They did not love  Ils n'ont pas aimé"],
+            ["Did he love?  Est-ce qu'il a aimé ?", "He loved  Il a aimé", "He did not love  Il n'a pas aimé"],
+            ["Did she love?  Est-ce qu'elle a aimé ?", "She loved  Elle a aimé", "She did not love  Elle n'a pas aimé"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Important : deux types de verbes"
+        },
+        {
+          "type": "text",
+          "content": "a) Verbes réguliers — ajoutent -ed :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "work → worked",
+            "love → loved",
+            "play → played"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Exemples :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Did I love? — Est-ce que j'ai aimé ?\nI loved. — J'ai aimé.\nI did not love. — Je n'ai pas aimé."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "b) Verbes irréguliers — changent de façon spéciale, sans -ed. Dans cette leçon, il y a une section sur les verbes réguliers et irréguliers où vous pouvez apprendre les verbes irréguliers."
+        },
+        {
+          "type": "text",
+          "content": "Il faut les mémoriser. Exemples :"
+        },
+        {
+          "type": "table",
+          "headers": ["Infinitif (forme de base)", "Forme passée"],
+          "rows": [
+            ["go (aller)", "went"],
+            ["have (avoir)", "had"],
+            ["see (voir)", "saw"],
+            ["do (faire)", "did"],
+            ["eat (manger)", "ate"]
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Exemples avec les verbes irréguliers :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Did I go to school? — Suis-je allé à l'école ?\nI went to school. — Je suis allé à l'école.\nI did not go to school. — Je ne suis pas allé à l'école.",
+            "Did she have a cat? — Avait-elle un chat ?\nShe had a cat. — Elle avait un chat.\nShe did not have a cat. — Elle n'avait pas de chat."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Important : dans les questions et les négations avec did, le verbe est toujours à sa forme de base !"
+        },
+        {
+          "type": "heading",
+          "content": "Façon facile de mémoriser :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Will — toujours pour le futur.",
+            "Do/Does — pour le présent.",
+            "Did — pour le passé.",
+            "Do not/Does not/Did not — pour les négations.",
+            "Pour he/she/it au présent, le verbe prend la terminaison -s : loves, speaks, works.",
+            "Au passé, verbes réguliers +ed, irréguliers — forme spéciale (went, had, etc.)",
+            "Dans les questions et négations avec did, toujours utiliser la forme de base du verbe, même s'il est irrégulier."
+          ]
+        }
+      ]
+    },
+    "german": {
+      "title": "Lektion 1 — Einfache Zeiten im Englischen",
+      "sections": [
+        {
+          "type": "warning",
+          "content": "Um zur nächsten Lektion überzugehen, müssen Sie mindestens 90% in der Prüfung der aktuellen Lektion erreichen. Andernfalls könnte die nächste Lektion nicht vollständig verständlich sein."
+        },
+        {
+          "type": "text",
+          "content": "Jede Lektion enthält Abschnitte: Beschreibung, Vokabeln für die Lektion, Sätze und **Prüfung**. Das Hauptlernen findet im Abschnitt **Prüfung** statt. Es wird empfohlen, mehr im Abschnitt **Prüfung** zu üben."
+        },
+        {
+          "type": "text",
+          "content": "Im Englischen gibt es 3 einfache Zeiten: Zukunft (Future), Gegenwart (Present) und Vergangenheit (Past)."
+        },
+        {
+          "type": "heading",
+          "content": "1. Zukunft (Future Simple)"
+        },
+        {
+          "type": "text",
+          "content": "In der Zukunftsform verwenden wir das Hilfsverb 'will'. Es wird vor dem Hauptverb platziert, um anzuzeigen, dass die Handlung in der Zukunft stattfinden wird."
+        },
+        {
+          "type": "heading",
+          "content": "Formel:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Frage: Will + Subjekt + Verb?",
+            "Aussage: Subjekt + will + Verb",
+            "Verneinung: Subjekt + will not + Verb"
+          ]
+        },
+        {
+          "type": "table",
+          "headers": ["Frage", "Aussage", "Verneinung"],
+          "rows": [
+            ["Will I love?  Werde ich lieben?", "I will love  Ich werde lieben", "I will not love  Ich werde nicht lieben"],
+            ["Will you love?  Wirst du lieben?", "You will love  Du wirst lieben", "You will not love  Du wirst nicht lieben"],
+            ["Will we love?  Werden wir lieben?", "We will love  Wir werden lieben", "We will not love  Wir werden nicht lieben"],
+            ["Will they love?  Werden sie lieben?", "They will love  Sie werden lieben", "They will not love  Sie werden nicht lieben"],
+            ["Will he love?  Wird er lieben?", "He will love  Er wird lieben", "He will not love  Er wird nicht lieben"],
+            ["Will she love?  Wird sie lieben?", "She will love  Sie wird lieben", "She will not love  Sie wird nicht lieben"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Beispiele:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Will I love? — Werde ich lieben?\nI will love. — Ich werde lieben.\nI will not love. — Ich werde nicht lieben.",
+            "Will she love? — Wird sie lieben?\nShe will love. — Sie wird lieben.\nShe will not love. — Sie wird nicht lieben."
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "2. Gegenwart (Present Simple)"
+        },
+        {
+          "type": "text",
+          "content": "In der Gegenwartsform verwenden wir die Hilfsverben 'do' und 'does'. 'Does' wird mit he, she, it verwendet. In bejahenden Sätzen erhält das Verb eine -s Endung für he, she, it."
+        },
+        {
+          "type": "heading",
+          "content": "Formel:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Frage: Do/Does + Subjekt + Verb?",
+            "Aussage: Subjekt + Verb (+s für he/she/it)",
+            "Verneinung: Subjekt + do not/does not + Verb"
+          ]
+        },
+        {
+          "type": "table",
+          "headers": ["Frage", "Aussage", "Verneinung"],
+          "rows": [
+            ["Do I love?  Liebe ich?", "I love  Ich liebe", "I do not love  Ich liebe nicht"],
+            ["Do you love?  Liebst du?", "You love  Du liebst", "You do not love  Du liebst nicht"],
+            ["Do we love?  Lieben wir?", "We love  Wir lieben", "We do not love  Wir lieben nicht"],
+            ["Do they love?  Lieben sie?", "They love  Sie lieben", "They do not love  Sie lieben nicht"],
+            ["Does he love?  Liebt er?", "He loves  Er liebt", "He does not love  Er liebt nicht"],
+            ["Does she love?  Liebt sie?", "She loves  Sie liebt", "She does not love  Sie liebt nicht"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Beispiele:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Do I love? — Liebe ich?\nI love. — Ich liebe.\nI do not love. — Ich liebe nicht.",
+            "Does she love? — Liebt sie?\nShe loves. — Sie liebt.\nShe does not love. — Sie liebt nicht."
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "3. Vergangenheit (Past Simple)"
+        },
+        {
+          "type": "text",
+          "content": "In der Vergangenheitsform verwenden wir das Hilfsverb 'did'. Das Verb steht immer in der Vergangenheitsform, die für regelmäßige Verben durch Hinzufügen von -ed gebildet wird."
+        },
+        {
+          "type": "heading",
+          "content": "Formel:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Frage: Did + Subjekt + Verb?",
+            "Aussage: Subjekt + Vergangenheitsform des Verbs",
+            "Verneinung: Subjekt + did not + Verb"
+          ]
+        },
+        {
+          "type": "table",
+          "headers": ["Frage", "Aussage", "Verneinung"],
+          "rows": [
+            ["Did I love?  Habe ich geliebt?", "I loved  Ich habe geliebt", "I did not love  Ich habe nicht geliebt"],
+            ["Did you love?  Hast du geliebt?", "You loved  Du hast geliebt", "You did not love  Du hast nicht geliebt"],
+            ["Did we love?  Haben wir geliebt?", "We loved  Wir haben geliebt", "We did not love  Wir haben nicht geliebt"],
+            ["Did they love?  Haben sie geliebt?", "They loved  Sie haben geliebt", "They did not love  Sie haben nicht geliebt"],
+            ["Did he love?  Hat er geliebt?", "He loved  Er hat geliebt", "He did not love  Er hat nicht geliebt"],
+            ["Did she love?  Hat sie geliebt?", "She loved  Sie hat geliebt", "She did not love  Sie hat nicht geliebt"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Wichtig: zwei Arten von Verben"
+        },
+        {
+          "type": "text",
+          "content": "a) Regelmäßige Verben — Endung -ed wird hinzugefügt:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "work → worked",
+            "love → loved",
+            "play → played"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Beispiele:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Did I love? — Habe ich geliebt?\nI loved. — Ich habe geliebt.\nI did not love. — Ich habe nicht geliebt."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "b) Unregelmäßige Verben — ändern sich auf besondere Weise, ohne -ed. In dieser Lektion gibt es einen Abschnitt \"Regelmäßige und unregelmäßige Verben\", in dem Sie unregelmäßige Verben lernen können."
+        },
+        {
+          "type": "text",
+          "content": "Diese müssen auswendig gelernt werden. Beispiele:"
+        },
+        {
+          "type": "table",
+          "headers": ["Infinitiv (Grundform)", "Vergangenheitsform"],
+          "rows": [
+            ["go (gehen)", "went"],
+            ["have (haben)", "had"],
+            ["see (sehen)", "saw"],
+            ["do (machen)", "did"],
+            ["eat (essen)", "ate"]
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Beispiele mit unregelmäßigen Verben:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Did I go to school? — Bin ich zur Schule gegangen?\nI went to school. — Ich bin zur Schule gegangen.\nI did not go to school. — Ich bin nicht zur Schule gegangen.",
+            "Did she have a cat? — Hatte sie eine Katze?\nShe had a cat. — Sie hatte eine Katze.\nShe did not have a cat. — Sie hatte keine Katze."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Wichtig: In Fragen und Verneinungen mit did steht das Verb immer in der Grundform!"
+        },
+        {
+          "type": "heading",
+          "content": "Einfache Merkhilfe:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Will — immer für die Zukunft.",
+            "Do/Does — für die Gegenwart.",
+            "Did — für die Vergangenheit.",
+            "Do not/Does not/Did not — für Verneinungen.",
+            "Bei he/she/it in der Gegenwart bekommt das Verb die Endung -s: loves, speaks, works.",
+            "In der Vergangenheit: regelmäßige Verben +ed, unregelmäßige — besondere Form (went, had, etc.)",
+            "In Fragen und Verneinungen mit did immer die Grundform des Verbs verwenden, auch bei unregelmäßigen Verben."
+          ]
+        }
+      ]
+    }
+  },
+  "lessonContent": {
+    "russian": {
+      "sections": [
+        {
+          "title": "Настоящее время",
+          "content": [
+            {
+              "type": "text",
+              "text": "Утвердительные предложения образуются также как и в русском языке. Сначала идет местоимение, затем глагол."
+            },
+            {
+              "type": "text",
+              "text": "Если используются местоимения he (он), she (она) или it (это) то к глаголу добавляется окончание -s."
+            },
+            {
+              "type": "image",
+              "src": "image1_present_table_1.png"
+            },
+            {
+              "type": "text",
+              "text": "Отрицательные предложения образуются при помощи вспомогательного глагола do + частица not."
+            },
+            {
+              "type": "text",
+              "text": "Если используются местоимения he, she, it, то вместо do используется его другая форма does."
+            },
+            {
+              "type": "text",
+              "text": "Часто используются сокращения: do not = don't и does not = doesn't"
+            },
+            {
+              "type": "image",
+              "src": "image2_present_table_2.png"
+            },
+            {
+              "type": "text",
+              "text": "Вопросительные предложения также образуются при помощи вспомогательного глагола do (does)."
+            },
+            {
+              "type": "text",
+              "text": "Для образования вопроса этот глагол ставится в начале предложения."
+            },
+            {
+              "type": "image",
+              "src": "image2_present_table_3.png"
+            }
+          ]
+        },
+        {
+          "title": "Прошедшее время",
+          "content": [
+            {
+              "type": "text",
+              "text": "Утвердительные предложения образуются также как и в настоящем времени, только используется вторая форма глагола."
+            },
+            {
+              "type": "text",
+              "text": "Это означает, что для правильных глаголов прибавляется окончание -ed."
+            },
+            {
+              "type": "image",
+              "src": "image3_past_table_1.png"
+            },
+            {
+              "type": "text",
+              "text": "Отрицательные предложения образуются при помощи глагола did с частицей not. Часто используется сокращение did not = didn't."
+            },
+            {
+              "type": "image",
+              "src": "image3_past_table_2.png"
+            },
+            {
+              "type": "text",
+              "text": "Вопросительные предложения также образуются при помощи глагола did, который ставится в начале предложения."
+            },
+            {
+              "type": "image",
+              "src": "image3_past_table_3.png"
+            }
+          ]
+        },
+        {
+          "title": "Будущее время",
+          "content": [
+            {
+              "type": "text",
+              "text": "Утвердительные предложения образуются при помощи глагола will."
+            },
+            {
+              "type": "image",
+              "src": "image4_future_table_1.png"
+            },
+            {
+              "type": "text",
+              "text": "Отрицательные предложения образуются при помощи глагола will с частицей not. Часто используется сокращение will not = won't."
+            },
+            {
+              "type": "image",
+              "src": "image4_future_table_2.png"
+            },
+            {
+              "type": "text",
+              "text": "Вопросительные предложения также образуются при помощи глагола will, который ставится в начале предложения."
+            },
+            {
+              "type": "image",
+              "src": "image4_future_table_3.png"
+            }
+          ]
+        },
+        {
+          "title": "Таблица времен simple",
+          "content": [
+            {
+              "type": "text",
+              "text": "Для того, чтобы это было легче запомнить, нарисуем таблицу:"
+            },
+            {
+              "type": "image",
+              "src": "image5_summary_table.png"
+            }
+          ]
+        },
+        {
+          "title": "Правильные и неправильные глаголы",
+          "content": [
+            {
+              "type": "text",
+              "text": "В английском языке все глаголы делятся на правильные и неправильные. У правильных глаголов вторая форма образуется добавлением окончания -ed."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Love (любить) - I loved (Я любил).",
+                "Help (помогать) - She helped (Она помогла).",
+                "Ask (спрашивать) - He asked (Он спросил).",
+                "Answer (отвечать) - We answered (Мы ответили).",
+                "Close (закрывать) - They closed (Они закрыли)."
+              ]
+            },
+            {
+              "type": "text",
+              "text": "У неправильных глаголов вторую форму лучше просто запомнить."
+            },
+            {
+              "type": "list",
+              "items": [
+                "See (видеть) - I saw (Я видел).",
+                "Eat (есть, кушать) - He ate (Он ел).",
+                "Drink (пить) - She drank (Она пила).",
+                "Make (делать) - They made (Они сделали).",
+                "Sleep (спать) - We slept (Мы спали)."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "vocabulary": {
+    "firstList": [
+      {
+        "number": 1,
+        "english": "i",
+        "russian": "я",
+        "spanish": "yo",
+        "french": "je",
+        "german": "ich"
+      },
+      {
+        "number": 2,
+        "english": "you",
+        "russian": "ты / вы",
+        "spanish": "tú / usted",
+        "french": "tu / vous",
+        "german": "du / Sie"
+      },
+      {
+        "number": 3,
+        "english": "he",
+        "russian": "он",
+        "spanish": "él",
+        "french": "il",
+        "german": "er"
+      },
+      {
+        "number": 4,
+        "english": "she",
+        "russian": "она",
+        "spanish": "ella",
+        "french": "elle",
+        "german": "sie"
+      },
+      {
+        "number": 5,
+        "english": "it",
+        "russian": "оно, это",
+        "spanish": "eso / ello",
+        "french": "ça (il/elle)",
+        "german": "es"
+      },
+      {
+        "number": 6,
+        "english": "we",
+        "russian": "мы",
+        "spanish": "nosotros / nosotras",
+        "french": "nous",
+        "german": "wir"
+      },
+      {
+        "number": 7,
+        "english": "they",
+        "russian": "они",
+        "spanish": "ellos / ellas",
+        "french": "ils / elles",
+        "german": "sie"
+      },
+      {
+        "number": 8,
+        "english": "answer",
+        "russian": "отвечать",
+        "spanish": "responder",
+        "french": "répondre",
+        "german": "antworten"
+      },
+      {
+        "number": 9,
+        "english": "ask",
+        "russian": "спрашивать",
+        "spanish": "preguntar",
+        "french": "demander",
+        "german": "fragen"
+      },
+      {
+        "number": 10,
+        "english": "begin",
+        "russian": "начинать",
+        "spanish": "empezar / comenzar",
+        "french": "commencer",
+        "german": "beginnen"
+      },
+      {
+        "number": 11,
+        "english": "bring",
+        "russian": "приносить",
+        "spanish": "traer",
+        "french": "apporter",
+        "german": "bringen"
+      },
+      {
+        "number": 12,
+        "english": "buy",
+        "russian": "покупать",
+        "spanish": "comprar",
+        "french": "acheter",
+        "german": "kaufen"
+      },
+      {
+        "number": 13,
+        "english": "close",
+        "russian": "закрывать",
+        "spanish": "cerrar",
+        "french": "fermer",
+        "german": "schließen"
+      },
+      {
+        "number": 14,
+        "english": "come",
+        "russian": "приходить",
+        "spanish": "venir",
+        "french": "venir",
+        "german": "kommen"
+      },
+      {
+        "number": 15,
+        "english": "drink",
+        "russian": "пить",
+        "spanish": "beber / tomar",
+        "french": "boire",
+        "german": "trinken"
+      },
+      {
+        "number": 16,
+        "english": "eat",
+        "russian": "есть, кушать",
+        "spanish": "comer",
+        "french": "manger",
+        "german": "essen"
+      },
+      {
+        "number": 17,
+        "english": "feel",
+        "russian": "чувствовать",
+        "spanish": "sentir",
+        "french": "sentir",
+        "german": "fühlen"
+      },
+      {
+        "number": 18,
+        "english": "find",
+        "russian": "находить",
+        "spanish": "encontrar",
+        "french": "trouver",
+        "german": "finden"
+      },
+      {
+        "number": 19,
+        "english": "finish",
+        "russian": "заканчивать",
+        "spanish": "terminar",
+        "french": "finir / terminer",
+        "german": "beenden / fertigstellen"
+      },
+      {
+        "number": 20,
+        "english": "fly",
+        "russian": "летать",
+        "spanish": "volar",
+        "french": "voler",
+        "german": "fliegen"
+      },
+      {
+        "number": 21,
+        "english": "forget",
+        "russian": "забывать",
+        "spanish": "olvidar",
+        "french": "oublier",
+        "german": "vergessen"
+      },
+      {
+        "number": 22,
+        "english": "get",
+        "russian": "получать",
+        "spanish": "obtener / conseguir",
+        "french": "obtenir / recevoir",
+        "german": "bekommen / erhalten"
+      },
+      {
+        "number": 23,
+        "english": "give",
+        "russian": "давать",
+        "spanish": "dar",
+        "french": "donner",
+        "german": "geben"
+      },
+      {
+        "number": 24,
+        "english": "go",
+        "russian": "ходить, идти",
+        "spanish": "ir",
+        "french": "aller",
+        "german": "gehen"
+      },
+      {
+        "number": 25,
+        "english": "grow",
+        "russian": "расти",
+        "spanish": "crecer",
+        "french": "grandir / pousser",
+        "german": "wachsen"
+      },
+      {
+        "number": 26,
+        "english": "hear",
+        "russian": "слышать",
+        "spanish": "oír",
+        "french": "entendre",
+        "german": "hören"
+      },
+      {
+        "number": 27,
+        "english": "help",
+        "russian": "помогать",
+        "spanish": "ayudar",
+        "french": "aider",
+        "german": "helfen"
+      },
+      {
+        "number": 28,
+        "english": "know",
+        "russian": "знать",
+        "spanish": "saber / conocer",
+        "french": "savoir / connaître",
+        "german": "wissen / kennen"
+      },
+      {
+        "number": 29,
+        "english": "leave",
+        "russian": "оставлять, покидать",
+        "spanish": "dejar / salir",
+        "french": "laisser / partir",
+        "german": "lassen / verlassen"
+      },
+      {
+        "number": 30,
+        "english": "live",
+        "russian": "жить",
+        "spanish": "vivir",
+        "french": "vivre",
+        "german": "leben"
+      },
+      {
+        "number": 31,
+        "english": "look",
+        "russian": "смотреть",
+        "spanish": "mirar",
+        "french": "regarder",
+        "german": "schauen / ansehen"
+      },
+      {
+        "number": 32,
+        "english": "lose",
+        "russian": "терять",
+        "spanish": "perder",
+        "french": "perdre",
+        "german": "verlieren"
+      },
+      {
+        "number": 33,
+        "english": "love",
+        "russian": "любить",
+        "spanish": "amar / querer",
+        "french": "aimer",
+        "german": "lieben"
+      },
+      {
+        "number": 34,
+        "english": "make",
+        "russian": "делать, создавать",
+        "spanish": "hacer",
+        "french": "faire",
+        "german": "machen"
+      },
+      {
+        "number": 35,
+        "english": "meet",
+        "russian": "встречать",
+        "spanish": "conocer / encontrarse con",
+        "french": "rencontrer",
+        "german": "treffen"
+      },
+      {
+        "number": 36,
+        "english": "open",
+        "russian": "открывать",
+        "spanish": "abrir",
+        "french": "ouvrir",
+        "german": "öffnen"
+      },
+      {
+        "number": 37,
+        "english": "pay",
+        "russian": "платить",
+        "spanish": "pagar",
+        "french": "payer",
+        "german": "bezahlen"
+      },
+      {
+        "number": 38,
+        "english": "put",
+        "russian": "класть",
+        "spanish": "poner",
+        "french": "mettre",
+        "german": "legen / stellen"
+      },
+      {
+        "number": 39,
+        "english": "read",
+        "russian": "читать",
+        "spanish": "leer",
+        "french": "lire",
+        "german": "lesen"
+      },
+      {
+        "number": 40,
+        "english": "run",
+        "russian": "бежать",
+        "spanish": "correr",
+        "french": "courir",
+        "german": "rennen / laufen"
+      },
+      {
+        "number": 41,
+        "english": "say",
+        "russian": "говорить, сказать",
+        "spanish": "decir",
+        "french": "dire",
+        "german": "sagen"
+      },
+      {
+        "number": 42,
+        "english": "see",
+        "russian": "видеть",
+        "spanish": "ver",
+        "french": "voir",
+        "german": "sehen"
+      },
+      {
+        "number": 43,
+        "english": "set",
+        "russian": "устанавливать",
+        "spanish": "establecer / configurar",
+        "french": "fixer / installer",
+        "german": "setzen / festlegen"
+      },
+      {
+        "number": 44,
+        "english": "show",
+        "russian": "показывать",
+        "spanish": "mostrar",
+        "french": "montrer",
+        "german": "zeigen"
+      },
+      {
+        "number": 45,
+        "english": "sit",
+        "russian": "сидеть",
+        "spanish": "sentarse",
+        "french": "s'asseoir",
+        "german": "sitzen"
+      },
+      {
+        "number": 46,
+        "english": "sleep",
+        "russian": "спать",
+        "spanish": "dormir",
+        "french": "dormir",
+        "german": "schlafen"
+      },
+      {
+        "number": 47,
+        "english": "speak",
+        "russian": "говорить",
+        "spanish": "hablar",
+        "french": "parler",
+        "german": "sprechen"
+      },
+      {
+        "number": 48,
+        "english": "study",
+        "russian": "учиться",
+        "spanish": "estudiar",
+        "french": "étudier",
+        "german": "studieren / lernen"
+      },
+      {
+        "number": 49,
+        "english": "take",
+        "russian": "брать",
+        "spanish": "tomar",
+        "french": "prendre",
+        "german": "nehmen"
+      },
+      {
+        "number": 50,
+        "english": "tell",
+        "russian": "рассказывать",
+        "spanish": "contar / decir",
+        "french": "raconter / dire",
+        "german": "erzählen / sagen"
+      },
+      {
+        "number": 51,
+        "english": "think",
+        "russian": "думать",
+        "spanish": "pensar",
+        "french": "penser",
+        "german": "denken"
+      },
+      {
+        "number": 52,
+        "english": "travel",
+        "russian": "путешествовать",
+        "spanish": "viajar",
+        "french": "voyager",
+        "german": "reisen"
+      },
+      {
+        "number": 53,
+        "english": "turn",
+        "russian": "поворачивать",
+        "spanish": "girar / voltear",
+        "french": "tourner",
+        "german": "drehen / abbiegen"
+      },
+      {
+        "number": 54,
+        "english": "understand",
+        "russian": "понимать",
+        "spanish": "entender / comprender",
+        "french": "comprendre",
+        "german": "verstehen"
+      },
+      {
+        "number": 55,
+        "english": "work",
+        "russian": "работать",
+        "spanish": "trabajar",
+        "french": "travailler",
+        "german": "arbeiten"
+      },
+      {
+        "number": 56,
+        "english": "write",
+        "russian": "писать",
+        "spanish": "escribir",
+        "french": "écrire",
+        "german": "schreiben"
+      },
+      {
+        "number": 57,
+        "english": "door",
+        "russian": "дверь",
+        "spanish": "puerta",
+        "french": "porte",
+        "german": "Tür"
+      },
+      {
+        "number": 58,
+        "english": "window",
+        "russian": "окно",
+        "spanish": "ventana",
+        "french": "fenêtre",
+        "german": "Fenster"
+      }
+    ],
+    "secondList": [        
+      {
+        "number": 59,
+        "english": "ate",
+        "russian": "ел",
+        "spanish": "comió",
+        "french": "a mangé / mangea",
+        "german": "aß"
+      },
+      {
+        "number": 60,
+        "english": "began",
+        "russian": "начал",
+        "spanish": "empezó / comenzó",
+        "french": "commença / a commencé",
+        "german": "begann"
+      },
+      {
+        "number": 61,
+        "english": "bought",
+        "russian": "купил",
+        "spanish": "compró",
+        "french": "a acheté / acheta",
+        "german": "kaufte"
+      },
+      {
+        "number": 62,
+        "english": "brought",
+        "russian": "принёс",
+        "spanish": "trajo",
+        "french": "a apporté / apporta",
+        "german": "brachte"
+      },
+      {
+        "number": 63,
+        "english": "came",
+        "russian": "пришёл",
+        "spanish": "vino",
+        "french": "est venu / vint",
+        "german": "kam"
+      },
+      {
+        "number": 64,
+        "english": "drank",
+        "russian": "пил",
+        "spanish": "bebió",
+        "french": "a bu / but",
+        "german": "trank"
+      },
+      {
+        "number": 65,
+        "english": "felt",
+        "russian": "чувствовал",
+        "spanish": "sintió",
+        "french": "a senti / sentit",
+        "german": "fühlte"
+      },
+      {
+        "number": 66,
+        "english": "flew",
+        "russian": "летал",
+        "spanish": "voló",
+        "french": "a volé / vola",
+        "german": "flog"
+      },
+      {
+        "number": 67,
+        "english": "forgot",
+        "russian": "забыл",
+        "spanish": "olvidó",
+        "french": "a oublié / oublia",
+        "german": "vergaß"
+      },
+      {
+        "number": 68,
+        "english": "found",
+        "russian": "нашёл",
+        "spanish": "encontró",
+        "french": "a trouvé / trouva",
+        "german": "fand"
+      },
+      {
+        "number": 69,
+        "english": "gave",
+        "russian": "дал",
+        "spanish": "dio",
+        "french": "a donné / donna",
+        "german": "gab"
+      },
+      {
+        "number": 70,
+        "english": "got",
+        "russian": "получил",
+        "spanish": "obtuvo / consiguió",
+        "french": "a obtenu / obtint",
+        "german": "bekam"
+      },
+      {
+        "number": 71,
+        "english": "grew",
+        "russian": "рос",
+        "spanish": "creció",
+        "french": "a grandi / grandit",
+        "german": "wuchs"
+      },
+      {
+        "number": 72,
+        "english": "heard",
+        "russian": "слышал",
+        "spanish": "oyó",
+        "french": "a entendu / entendit",
+        "german": "hörte"
+      },
+      {
+        "number": 73,
+        "english": "knew",
+        "russian": "знал",
+        "spanish": "sabía / conocía",
+        "french": "a su / sut",
+        "german": "wusste"
+      },
+      {
+        "number": 74,
+        "english": "left",
+        "russian": "оставил, ушёл",
+        "spanish": "dejó / salió",
+        "french": "a quitté / quitta",
+        "german": "ließ / verließ"
+      },
+      {
+        "number": 75,
+        "english": "lost",
+        "russian": "потерял",
+        "spanish": "perdió",
+        "french": "a perdu / perdit",
+        "german": "verlor"
+      },
+      {
+        "number": 76,
+        "english": "made",
+        "russian": "сделал",
+        "spanish": "hizo",
+        "french": "a fait / fit",
+        "german": "machte"
+      },
+      {
+        "number": 77,
+        "english": "met",
+        "russian": "встретил",
+        "spanish": "conoció / se encontró con",
+        "french": "a rencontré / rencontra",
+        "german": "traf"
+      },
+      {
+        "number": 78,
+        "english": "paid",
+        "russian": "заплатил",
+        "spanish": "pagó",
+        "french": "a payé / paya",
+        "german": "bezahlte"
+      },
+      {
+        "number": 79,
+        "english": "ran",
+        "russian": "бежал",
+        "spanish": "corrió",
+        "french": "a couru / courut",
+        "german": "rannte / lief"
+      },
+      {
+        "number": 80,
+        "english": "said",
+        "russian": "сказал",
+        "spanish": "dijo",
+        "french": "a dit / dit",
+        "german": "sagte"
+      },
+      {
+        "number": 81,
+        "english": "sat",
+        "russian": "сидел",
+        "spanish": "se sentó",
+        "french": "s'assit / était assis",
+        "german": "saß"
+      },
+      {
+        "number": 82,
+        "english": "saw",
+        "russian": "увидел",
+        "spanish": "vio",
+        "french": "a vu / vit",
+        "german": "sah"
+      },
+      {
+        "number": 83,
+        "english": "slept",
+        "russian": "спал",
+        "spanish": "durmió",
+        "french": "a dormi / dormit",
+        "german": "schlief"
+      },
+      {
+        "number": 84,
+        "english": "spoke",
+        "russian": "говорил",
+        "spanish": "habló",
+        "french": "a parlé / parla",
+        "german": "sprach"
+      },
+      {
+        "number": 85,
+        "english": "thought",
+        "russian": "думал",
+        "spanish": "pensó",
+        "french": "a pensé / pensa",
+        "german": "dachte"
+      },
+      {
+        "number": 86,
+        "english": "told",
+        "russian": "рассказал",
+        "spanish": "contó / dijo",
+        "french": "a raconté / raconta",
+        "german": "erzählte"
+      },
+      {
+        "number": 87,
+        "english": "took",
+        "russian": "взял",
+        "spanish": "tomó",
+        "french": "a pris / prit",
+        "german": "nahm"
+      },
+      {
+        "number": 88,
+        "english": "understood",
+        "russian": "понял",
+        "spanish": "entendió / comprendió",
+        "french": "a compris / comprit",
+        "german": "verstand"
+      },
+      {
+        "number": 89,
+        "english": "went",
+        "russian": "ходил, пошёл",
+        "spanish": "fue",
+        "french": "est allé / alla",
+        "german": "ging"
+      },
+      {
+        "number": 90,
+        "english": "wrote",
+        "russian": "написал",
+        "spanish": "escribió",
+        "french": "a écrit / écrivit",
+        "german": "schrieb"
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Did he drink?",
+      "russian": "Он пил?",
+      "spanish": "¿Él bebió?",
+      "french": "A‑t‑il bu ?",
+      "german": "Hat er getrunken?"
+    },
+    {
+      "id": 2,
+      "english": "I brought.",
+      "russian": "Я принёс.",
+      "spanish": "Yo traje.",
+      "french": "J'ai apporté.",
+      "german": "Ich habe (es) gebracht."
+    },
+    {
+      "id": 3,
+      "english": "You did not start.",
+      "russian": "Ты не начал.",
+      "spanish": "(Tú) no empezaste.",
+      "french": "Tu n'as pas commencé.",
+      "german": "Du hast nicht angefangen."
+    },
+    {
+      "id": 4,
+      "english": "Did they bring?",
+      "russian": "Они принесли?",
+      "spanish": "¿Ellos trajeron? / ¿Trajeron ellos?",
+      "french": "Ont‑ils apporté ?",
+      "german": "Haben sie (es) gebracht?"
+    },
+    {
+      "id": 5,
+      "english": "She lives in Moscow.",
+      "russian": "Она живет в Москве.",
+      "spanish": "Ella vive en Moscú.",
+      "french": "Elle habite à Moscou.",
+      "german": "Sie lebt in Moskau."
+    },
+    {
+      "id": 6,
+      "english": "You do not find.",
+      "russian": "Ты не находишь.",
+      "spanish": "(Tú) no encuentras.",
+      "french": "Tu ne trouves pas.",
+      "german": "Du findest nicht."
+    },
+    {
+      "id": 7,
+      "english": "They thought.",
+      "russian": "Они думали.",
+      "spanish": "Ellos pensaron.",
+      "french": "Ils ont pensé.",
+      "german": "Sie dachten."
+    },
+    {
+      "id": 8,
+      "english": "I will not hear.",
+      "russian": "Я не услышу.",
+      "spanish": "No oiré.",
+      "french": "Je n'entendrai pas.",
+      "german": "Ich werde nicht hören."
+    },
+    {
+      "id": 9,
+      "english": "I loved.",
+      "russian": "Я любил.",
+      "spanish": "Yo amé. / Quise.",
+      "french": "J'ai aimé.",
+      "german": "Ich liebte."
+    },
+    {
+      "id": 10,
+      "english": "They did not finish.",
+      "russian": "Они не закончили.",
+      "spanish": "(Ellos) no terminaron.",
+      "french": "Ils n'ont pas fini.",
+      "german": "Sie haben nicht beendet."
+    },
+    {
+      "id": 11,
+      "english": "She made.",
+      "russian": "Она делала.",
+      "spanish": "Ella hizo.",
+      "french": "Elle a fait.",
+      "german": "Sie machte. / Sie hat gemacht."
+    },
+    {
+      "id": 12,
+      "english": "We will not buy.",
+      "russian": "Мы не купим.",
+      "spanish": "No compraremos.",
+      "french": "Nous n'achèterons pas.",
+      "german": "Wir werden nicht kaufen."
+    },
+    {
+      "id": 13,
+      "english": "She closes the door.",
+      "russian": "Она закрывает дверь.",
+      "spanish": "Ella cierra la puerta.",
+      "french": "Elle ferme la porte.",
+      "german": "Sie schließt die Tür."
+    },
+    {
+      "id": 14,
+      "english": "She did not bring.",
+      "russian": "Она не принесла.",
+      "spanish": "Ella no trajo.",
+      "french": "Elle n'a pas apporté.",
+      "german": "Sie hat nicht gebracht."
+    },
+    {
+      "id": 15,
+      "english": "She did not ask.",
+      "russian": "Она не спросила.",
+      "spanish": "Ella no preguntó.",
+      "french": "Elle n'a pas demandé.",
+      "german": "Sie hat nicht gefragt."
+    },
+    {
+      "id": 16,
+      "english": "He reads.",
+      "russian": "Он читает.",
+      "spanish": "Él lee.",
+      "french": "Il lit.",
+      "german": "Er liest."
+    },
+    {
+      "id": 17,
+      "english": "I did not understand.",
+      "russian": "Я не понял.",
+      "spanish": "No entendí.",
+      "french": "Je n'ai pas compris.",
+      "german": "Ich habe nicht verstanden."
+    },
+    {
+      "id": 18,
+      "english": "We will sit.",
+      "russian": "Мы сядем.",
+      "spanish": "Nos sentaremos.",
+      "french": "Nous nous assiérons.",
+      "german": "Wir werden uns setzen."
+    },
+    {
+      "id": 19,
+      "english": "You did not give.",
+      "russian": "Ты не дал.",
+      "spanish": "No diste.",
+      "french": "Tu n'as pas donné.",
+      "german": "Du hast nicht gegeben."
+    },
+    {
+      "id": 20,
+      "english": "Did you hear?",
+      "russian": "Ты слышал?",
+      "spanish": "¿Oíste (tú)? / ¿Tú oíste?",
+      "french": "As‑tu entendu ?",
+      "german": "Hast du (es) gehört?"
+    },
+    {
+      "id": 21,
+      "english": "She will sit.",
+      "russian": "Она сядет.",
+      "spanish": "Ella se sentará.",
+      "french": "Elle s'assiéra.",
+      "german": "Sie wird sich setzen."
+    },
+    {
+      "id": 22,
+      "english": "You did not drink.",
+      "russian": "Ты не пил.",
+      "spanish": "No bebiste.",
+      "french": "Tu n'as pas bu.",
+      "german": "Du hast nicht getrunken."
+    },
+    {
+      "id": 23,
+      "english": "You will show.",
+      "russian": "Ты покажешь.",
+      "spanish": "(Tú) mostrarás.",
+      "french": "Tu montreras.",
+      "german": "Du wirst zeigen."
+    },
+    {
+      "id": 24,
+      "english": "I will not say.",
+      "russian": "Я не скажу.",
+      "spanish": "No diré.",
+      "french": "Je ne dirai pas.",
+      "german": "Ich werde es nicht sagen."
+    },
+    {
+      "id": 25,
+      "english": "They will not leave.",
+      "russian": "Они не оставят / не уйдут.",
+      "spanish": "(Ellos) no se irán / no dejarán.",
+      "french": "Ils ne partiront pas.",
+      "german": "Sie werden nicht gehen / verlassen."
+    },
+    {
+      "id": 26,
+      "english": "You will not study.",
+      "russian": "Ты не будешь учиться.",
+      "spanish": "No estudiarás.",
+      "french": "Tu n'étudieras pas.",
+      "german": "Du wirst nicht lernen."
+    },
+    {
+      "id": 27,
+      "english": "She will find.",
+      "russian": "Она найдёт.",
+      "spanish": "Ella encontrará.",
+      "french": "Elle trouvera.",
+      "german": "Sie wird finden."
+    },
+    {
+      "id": 28,
+      "english": "Will they work?",
+      "russian": "Они будут работать?",
+      "spanish": "¿Trabajarán (ellos)?",
+      "french": "Vont‑ils travailler ?",
+      "german": "Werden sie arbeiten?"
+    },
+    {
+      "id": 29,
+      "english": "Does he meet?",
+      "russian": "Он встречает? / Он встречается (с кем‑то)?",
+      "spanish": "¿(Él) se encuentra (con alguien)? / ¿Él se reúne?",
+      "french": "Est‑ce qu'il rencontre ? / Rencontre‑t‑il ?",
+      "german": "Trifft er (sich)?"
+    },
+    {
+      "id": 30,
+      "english": "Does she get?",
+      "russian": "Она получает? / Она добивается? (зависит от контекста)",
+      "spanish": "¿(Ella) consigue? / ¿Ella obtiene?",
+      "french": "Obtient‑elle ? / Est‑ce qu'elle reçoit ?",
+      "german": "Bekommt sie (etwas)?"
+    },
+    {
+      "id": 31,
+      "english": "You eat.",
+      "russian": "Ты ешь.",
+      "spanish": "(Tú) comes.",
+      "french": "Tu manges.",
+      "german": "Du isst."
+    },
+    {
+      "id": 32,
+      "english": "They will not give.",
+      "russian": "Они не дадут.",
+      "spanish": "(Ellos) no darán.",
+      "french": "Ils ne donneront pas.",
+      "german": "Sie werden nicht geben."
+    },
+    {
+      "id": 33,
+      "english": "Did he feel?",
+      "russian": "Он чувствовал? / Он ощутил?",
+      "spanish": "¿(Él) sintió?",
+      "french": "A‑t‑il ressenti ? / A‑t‑il senti ?",
+      "german": "Fühlte er (etwas)?"
+    },
+    {
+      "id": 34,
+      "english": "I turned.",
+      "russian": "Я повернул(а).",
+      "spanish": "Yo giré.",
+      "french": "J'ai tourné.",
+      "german": "Ich habe mich gedreht / Ich drehte mich."
+    },
+    {
+      "id": 35,
+      "english": "Does he run?",
+      "russian": "Он бегает?",
+      "spanish": "¿(Él) corre?",
+      "french": "Court‑il ?",
+      "german": "Läuft er?"
+    },
+    {
+      "id": 36,
+      "english": "We do not give.",
+      "russian": "Мы не даем.",
+      "spanish": "(Nosotros) no damos.",
+      "french": "Nous ne donnons pas.",
+      "german": "Wir geben nicht."
+    },
+    {
+      "id": 37,
+      "english": "She did not put.",
+      "russian": "Она не положила.",
+      "spanish": "Ella no puso.",
+      "french": "Elle n'a pas mis.",
+      "german": "Sie hat nicht gelegt."
+    },
+    {
+      "id": 38,
+      "english": "Do you buy?",
+      "russian": "Ты покупаешь?",
+      "spanish": "¿(Tú) compras?",
+      "french": "Achètes‑tu ? / Est‑ce que tu achètes ?",
+      "german": "Kaufst du?"
+    },
+    {
+      "id": 39,
+      "english": "She slept.",
+      "russian": "Она спала.",
+      "spanish": "Ella durmió.",
+      "french": "Elle a dormi.",
+      "german": "Sie schlief."
+    },
+    {
+      "id": 40,
+      "english": "You will find.",
+      "russian": "Ты найдешь.",
+      "spanish": "Encontrarás.",
+      "french": "Tu trouveras.",
+      "german": "Du wirst finden."
+    },
+    {
+      "id": 41,
+      "english": "We did not study.",
+      "russian": "Мы не учились.",
+      "spanish": "(Nosotros) no estudiamos.",
+      "french": "Nous n'avons pas étudié.",
+      "german": "Wir haben nicht gelernt."
+    },
+    {
+      "id": 42,
+      "english": "I sit.",
+      "russian": "Я сижу.",
+      "spanish": "(Yo) me siento. (Estoy sentado/a)",
+      "french": "Je suis assis(e). / Je m'assieds.",
+      "german": "Ich sitze."
+    },
+    {
+      "id": 43,
+      "english": "Did she turn?",
+      "russian": "Она повернула?",
+      "spanish": "¿(Ella) giró?",
+      "french": "A‑t‑elle tourné ?",
+      "german": "Hat sie sich gedreht?"
+    },
+    {
+      "id": 44,
+      "english": "They help.",
+      "russian": "Они помогают.",
+      "spanish": "(Ellos) ayudan.",
+      "french": "Ils aident.",
+      "german": "Sie helfen."
+    },
+    {
+      "id": 45,
+      "english": "You begin.",
+      "russian": "Ты начинаешь.",
+      "spanish": "(Tú) empiezas.",
+      "french": "Tu commences.",
+      "german": "Du fängst an."
+    },
+    {
+      "id": 46,
+      "english": "She meets.",
+      "russian": "Она встречает(ся).",
+      "spanish": "Ella se encuentra / Ella se reúne.",
+      "french": "Elle rencontre.",
+      "german": "Sie trifft (sich)."
+    },
+    {
+      "id": 47,
+      "english": "I hear.",
+      "russian": "Я слышу.",
+      "spanish": "(Yo) oigo. / (Yo) escucho.",
+      "french": "J'entends.",
+      "german": "Ich höre."
+    },
+    {
+      "id": 48,
+      "english": "Did you finish?",
+      "russian": "Ты закончил(а)?",
+      "spanish": "¿Terminaste (tú)?",
+      "french": "As‑tu fini ?",
+      "german": "Hast du fertig? / Bist du fertig?"
+    },
+    {
+      "id": 49,
+      "english": "He does not think.",
+      "russian": "Он не думает.",
+      "spanish": "(Él) no piensa.",
+      "french": "Il ne pense pas.",
+      "german": "Er denkt nicht."
+    },
+    {
+      "id": 50,
+      "english": "She will forget.",
+      "russian": "Она забудет.",
+      "spanish": "Ella olvidará.",
+      "french": "Elle oubliera.",
+      "german": "Sie wird vergessen."
+    },
+    {
+      "id": 51,
+      "english": "He will read.",
+      "russian": "Он будет читать.",
+      "spanish": "Él leerá.",
+      "french": "Il lira.",
+      "german": "Er wird lesen."
+    },
+    {
+      "id": 52,
+      "english": "We will not come.",
+      "russian": "Мы не придём.",
+      "spanish": "(Nosotros) no vendremos.",
+      "french": "Nous ne viendrons pas.",
+      "german": "Wir werden nicht kommen."
+    },
+    {
+      "id": 53,
+      "english": "He will not buy.",
+      "russian": "Он не купит.",
+      "spanish": "Él no comprará.",
+      "french": "Il n'achètera pas.",
+      "german": "Er wird nicht kaufen."
+    },
+    {
+      "id": 54,
+      "english": "He will take.",
+      "russian": "Он возьмёт.",
+      "spanish": "Él tomará.",
+      "french": "Il prendra.",
+      "german": "Er wird nehmen."
+    }
+  ],
+  "exam": {
+    "sentences": [
+      {
+        "id": 1,
+        "sentence_en": "Did he drink?",
+        "translations": {
+          "ru": "Он пил?",
+          "es": "¿Él bebió?",
+          "fr": "A‑t‑il bu ?",
+          "de": "Hat er getrunken?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Do", "Will", "Has"] },
+          { "correct": "he", "alternatives": ["she", "they", "we"] },
+          { "correct": "drink", "alternatives": ["eat", "make", "see"] }
+        ]
+      },
+      {
+        "id": 2,
+        "sentence_en": "I brought.",
+        "translations": {
+          "ru": "Я принёс.",
+          "es": "Yo traje.",
+          "fr": "J'ai apporté.",
+          "de": "Ich habe (es) gebracht."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "They"] },
+          { "correct": "brought", "alternatives": ["bring", "bought", "took"] }
+        ]
+      },
+      {
+        "id": 3,
+        "sentence_en": "You did not start.",
+        "translations": {
+          "ru": "Ты не начал.",
+          "es": "(Tú) no empezaste.",
+          "fr": "Tu n'as pas commencé.",
+          "de": "Du hast nicht angefangen."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["I", "We", "They"] },
+          { "correct": "did", "alternatives": ["do", "will", "have"] },
+          { "correct": "not", "alternatives": ["no", "never", "don't"] },
+          { "correct": "start", "alternatives": ["finish", "go", "come"] }
+        ]
+      },
+      {
+        "id": 4,
+        "sentence_en": "Did they bring?",
+        "translations": {
+          "ru": "Они принесли?",
+          "es": "¿Ellos trajeron? / ¿Trajeron ellos?",
+          "fr": "Ont‑ils apporté ?",
+          "de": "Haben sie (es) gebracht?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Do", "Will", "Have"] },
+          { "correct": "they", "alternatives": ["he", "she", "we"] },
+          { "correct": "bring", "alternatives": ["take", "start", "make"] }
+        ]
+      },
+      {
+        "id": 5,
+        "sentence_en": "She lives in Moscow.",
+        "translations": {
+          "ru": "Она живет в Москве.",
+          "es": "Ella vive en Moscú.",
+          "fr": "Elle habite à Moscou.",
+          "de": "Sie lebt in Moskau."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "I", "We"] },
+          { "correct": "lives", "alternatives": ["works", "stays", "goes"] },
+          { "correct": "in", "alternatives": ["at", "from", "near"] },
+          { "correct": "Moscow", "alternatives": ["London", "Paris", "Berlin"] }
+        ]
+      },
+      {
+        "id": 6,
+        "sentence_en": "You do not find.",
+        "translations": {
+          "ru": "Ты не находишь.",
+          "es": "(Tú) no encuentras.",
+          "fr": "Tu ne trouves pas.",
+          "de": "Du findest nicht."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["I", "We", "They"] },
+          { "correct": "do", "alternatives": ["did", "will", "have"] },
+          { "correct": "not", "alternatives": ["no", "never", "don't"] },
+          { "correct": "find", "alternatives": ["see", "hear", "know"] }
+        ]
+      },
+      {
+        "id": 7,
+        "sentence_en": "They thought.",
+        "translations": {
+          "ru": "Они думали.",
+          "es": "Ellos pensaron.",
+          "fr": "Ils ont pensé.",
+          "de": "Sie dachten."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "I", "He"] },
+          { "correct": "thought", "alternatives": ["think", "said", "knew"] }
+        ]
+      },
+      {
+        "id": 8,
+        "sentence_en": "I will not hear.",
+        "translations": {
+          "ru": "Я не услышу.",
+          "es": "No oiré.",
+          "fr": "Je n'entendrai pas.",
+          "de": "Ich werde nicht hören."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["You", "He", "She"] },
+          { "correct": "will", "alternatives": ["do", "did", "have"] },
+          { "correct": "not", "alternatives": ["no", "never", "don't"] },
+          { "correct": "hear", "alternatives": ["see", "find", "know"] }
+        ]
+      },
+      {
+        "id": 9,
+        "sentence_en": "I loved.",
+        "translations": {
+          "ru": "Я любил.",
+          "es": "Yo amé. / Quise.",
+          "fr": "J'ai aimé.",
+          "de": "Ich liebte."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["You", "He", "She"] },
+          { "correct": "loved", "alternatives": ["love", "like", "hated"] }
+        ]
+      },
+      {
+        "id": 10,
+        "sentence_en": "They did not finish.",
+        "translations": {
+          "ru": "Они не закончили.",
+          "es": "(Ellos) no terminaron.",
+          "fr": "Ils n'ont pas fini.",
+          "de": "Sie haben nicht beendet."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "I"] },
+          { "correct": "did", "alternatives": ["do", "will", "have"] },
+          { "correct": "not", "alternatives": ["no", "never", "don't"] },
+          { "correct": "finish", "alternatives": ["start", "begin", "end"] }
+        ]
+      },
+      {
+        "id": 11,
+        "sentence_en": "She made.",
+        "translations": {
+          "ru": "Она делала.",
+          "es": "Ella hizo.",
+          "fr": "Elle a fait.",
+          "de": "Sie machte. / Sie hat gemacht."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "I", "They"] },
+          { "correct": "made", "alternatives": ["make", "did", "created"] }
+        ]
+      },
+      {
+        "id": 12,
+        "sentence_en": "We will not buy.",
+        "translations": {
+          "ru": "Мы не купим.",
+          "es": "No compraremos.",
+          "fr": "Nous n'achèterons pas.",
+          "de": "Wir werden nicht kaufen."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "You"] },
+          { "correct": "will", "alternatives": ["do", "did", "have"] },
+          { "correct": "not", "alternatives": ["no", "never", "don't"] },
+          { "correct": "buy", "alternatives": ["sell", "take", "get"] }
+        ]
+      },
+      {
+        "id": 13,
+        "sentence_en": "She closes the door.",
+        "translations": {
+          "ru": "Она закрывает дверь.",
+          "es": "Ella cierra la puerta.",
+          "fr": "Elle ferme la porte.",
+          "de": "Sie schließt die Tür."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "I", "They"] },
+          { "correct": "closes", "alternatives": ["opens", "locks", "sees"] },
+          { "correct": "the", "alternatives": ["a", "this", "that"] },
+          { "correct": "door", "alternatives": ["window", "box", "room"] }
+        ]
+      },
+      {
+        "id": 14,
+        "sentence_en": "She did not bring.",
+        "translations": {
+          "ru": "Она не принесла.",
+          "es": "Ella no trajo.",
+          "fr": "Elle n'a pas apporté.",
+          "de": "Sie hat nicht gebracht."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "I", "They"] },
+          { "correct": "did", "alternatives": ["do", "will", "has"] },
+          { "correct": "not", "alternatives": ["no", "never", "don't"] },
+          { "correct": "bring", "alternatives": ["take", "buy", "see"] }
+        ]
+      },
+      {
+        "id": 15,
+        "sentence_en": "She did not ask.",
+        "translations": {
+          "ru": "Она не спросила.",
+          "es": "Ella no preguntó.",
+          "fr": "Elle n'a pas demandé.",
+          "de": "Sie hat nicht gefragt."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "I", "They"] },
+          { "correct": "did", "alternatives": ["do", "will", "has"] },
+          { "correct": "not", "alternatives": ["no", "never", "don't"] },
+          { "correct": "ask", "alternatives": ["tell", "say", "speak"] }
+        ]
+      },
+      {
+        "id": 16,
+        "sentence_en": "He reads.",
+        "translations": {
+          "ru": "Он читает.",
+          "es": "Él lee.",
+          "fr": "Il lit.",
+          "de": "Er liest."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "I", "They"] },
+          { "correct": "reads", "alternatives": ["writes", "speaks", "looks"] }
+        ]
+      },
+      {
+        "id": 17,
+        "sentence_en": "I did not understand.",
+        "translations": {
+          "ru": "Я не понял.",
+          "es": "No entendí.",
+          "fr": "Je n'ai pas compris.",
+          "de": "Ich habe nicht verstanden."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["You", "He", "They"] },
+          { "correct": "did", "alternatives": ["do", "will", "have"] },
+          { "correct": "not", "alternatives": ["no", "never", "don't"] },
+          { "correct": "understand", "alternatives": ["know", "hear", "see"] }
+        ]
+      },
+      {
+        "id": 18,
+        "sentence_en": "We will sit.",
+        "translations": {
+          "ru": "Мы сядем.",
+          "es": "Nos sentaremos.",
+          "fr": "Nous nous assiérons.",
+          "de": "Wir werden uns setzen."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["I", "You", "They"] },
+          { "correct": "will", "alternatives": ["did", "do", "have"] },
+          { "correct": "sit", "alternatives": ["stand", "walk", "run"] }
+        ]
+      },
+      {
+        "id": 19,
+        "sentence_en": "You did not give.",
+        "translations": {
+          "ru": "Ты не дал.",
+          "es": "No diste.",
+          "fr": "Tu n'as pas donné.",
+          "de": "Du hast nicht gegeben."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["I", "He", "They"] },
+          { "correct": "did", "alternatives": ["do", "will", "have"] },
+          { "correct": "not", "alternatives": ["no", "never", "don't"] },
+          { "correct": "give", "alternatives": ["take", "bring", "make"] }
+        ]
+      },
+      {
+        "id": 20,
+        "sentence_en": "Did you hear?",
+        "translations": {
+          "ru": "Ты слышал?",
+          "es": "¿Oíste (tú)? / ¿Tú oíste?",
+          "fr": "As‑tu entendu ?",
+          "de": "Hast du (es) gehört?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Do", "Will", "Have"] },
+          { "correct": "you", "alternatives": ["he", "she", "they"] },
+          { "correct": "hear", "alternatives": ["see", "know", "find"] }
+        ]
+      },
+      {
+        "id": 21,
+        "sentence_en": "She will sit.",
+        "translations": {
+          "ru": "Она сядет.",
+          "es": "Ella se sentará.",
+          "fr": "Elle s'assiéra.",
+          "de": "Sie wird sich setzen."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "I", "They"] },
+          { "correct": "will", "alternatives": ["did", "does", "has"] },
+          { "correct": "sit", "alternatives": ["stand", "walk", "run"] }
+        ]
+      },
+      {
+        "id": 22,
+        "sentence_en": "You did not drink.",
+        "translations": {
+          "ru": "Ты не пил.",
+          "es": "No bebiste.",
+          "fr": "Tu n'as pas bu.",
+          "de": "Du hast nicht getrunken."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["I", "He", "She"] },
+          { "correct": "did", "alternatives": ["do", "will", "have"] },
+          { "correct": "not", "alternatives": ["no", "never", "don't"] },
+          { "correct": "drink", "alternatives": ["eat", "see", "hear"] }
+        ]
+      },
+      {
+        "id": 23,
+        "sentence_en": "You will show.",
+        "translations": {
+          "ru": "Ты покажешь.",
+          "es": "(Tú) mostrarás.",
+          "fr": "Tu montreras.",
+          "de": "Du wirst zeigen."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["I", "He", "She"] },
+          { "correct": "will", "alternatives": ["did", "do", "have"] },
+          { "correct": "show", "alternatives": ["hide", "tell", "give"] }
+        ]
+      },
+      {
+        "id": 24,
+        "sentence_en": "I will not say.",
+        "translations": {
+          "ru": "Я не скажу.",
+          "es": "No diré.",
+          "fr": "Je ne dirai pas.",
+          "de": "Ich werde es nicht sagen."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["You", "He", "They"] },
+          { "correct": "will", "alternatives": ["did", "do", "have"] },
+          { "correct": "not", "alternatives": ["no", "never", "don't"] },
+          { "correct": "say", "alternatives": ["tell", "speak", "hear"] }
+        ]
+      },
+      {
+        "id": 25,
+        "sentence_en": "They will not leave.",
+        "translations": {
+          "ru": "Они не оставят / не уйдут.",
+          "es": "(Ellos) no se irán / no dejarán.",
+          "fr": "Ils ne partiront pas.",
+          "de": "Sie werden nicht gehen / verlassen."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["I", "You", "We"] },
+          { "correct": "will", "alternatives": ["did", "do", "have"] },
+          { "correct": "not", "alternatives": ["no", "never", "don't"] },
+          { "correct": "leave", "alternatives": ["stay", "come", "enter"] }
+        ]
+      },
+      {
+        "id": 26,
+        "sentence_en": "You will not study.",
+        "translations": {
+          "ru": "Ты не будешь учиться.",
+          "es": "No estudiarás.",
+          "fr": "Tu n'étudieras pas.",
+          "de": "Du wirst nicht lernen."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["I", "He", "We"] },
+          { "correct": "will", "alternatives": ["did", "do", "have"] },
+          { "correct": "not", "alternatives": ["no", "never", "don't"] },
+          { "correct": "study", "alternatives": ["work", "play", "read"] }
+        ]
+      },
+      {
+        "id": 27,
+        "sentence_en": "She will find.",
+        "translations": {
+          "ru": "Она найдёт.",
+          "es": "Ella encontrará.",
+          "fr": "Elle trouvera.",
+          "de": "Sie wird finden."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "I", "They"] },
+          { "correct": "will", "alternatives": ["did", "does", "has"] },
+          { "correct": "find", "alternatives": ["lose", "seek", "take"] }
+        ]
+      },
+      {
+        "id": 28,
+        "sentence_en": "Will they work?",
+        "translations": {
+          "ru": "Они будут работать?",
+          "es": "¿Trabajarán (ellos)?",
+          "fr": "Vont‑ils travailler ?",
+          "de": "Werden sie arbeiten?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Did", "Do", "Have"] },
+          { "correct": "they", "alternatives": ["he", "she", "you"] },
+          { "correct": "work", "alternatives": ["play", "stay", "rest"] }
+        ]
+      },
+      {
+        "id": 29,
+        "sentence_en": "Does he meet?",
+        "translations": {
+          "ru": "Он встречает? / Он встречается (с кем‑то)?",
+          "es": "¿(Él) se encuentra (con alguien)? / ¿Él se reúne?",
+          "fr": "Est‑ce qu'il rencontre ? / Rencontre‑t‑il ?",
+          "de": "Trifft er (sich)?"
+        },
+        "words": [
+          { "correct": "Does", "alternatives": ["Did", "Will", "Has"] },
+          { "correct": "he", "alternatives": ["she", "they", "you"] },
+          { "correct": "meet", "alternatives": ["see", "know", "find"] }
+        ]
+      },
+      {
+        "id": 30,
+        "sentence_en": "Does she get?",
+        "translations": {
+          "ru": "Она получает? / Она добивается? (зависит от контекста)",
+          "es": "¿(Ella) consigue? / ¿Ella obtiene?",
+          "fr": "Obtient‑elle ? / Est‑ce qu'elle reçoit ?",
+          "de": "Bekommt sie (etwas)?"
+        },
+        "words": [
+          { "correct": "Does", "alternatives": ["Did", "Will", "Has"] },
+          { "correct": "she", "alternatives": ["he", "they", "you"] },
+          { "correct": "get", "alternatives": ["give", "take", "have"] }
+        ]
+      },
+      {
+        "id": 31,
+        "sentence_en": "You eat.",
+        "translations": {
+          "ru": "Ты ешь.",
+          "es": "(Tú) comes.",
+          "fr": "Tu manges.",
+          "de": "Du isst."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["I", "He", "They"] },
+          { "correct": "eat", "alternatives": ["drink", "cook", "buy"] }
+        ]
+      },
+      {
+        "id": 32,
+        "sentence_en": "They will not give.",
+        "translations": {
+          "ru": "Они не дадут.",
+          "es": "(Ellos) no darán.",
+          "fr": "Ils ne donneront pas.",
+          "de": "Sie werden nicht geben."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["I", "You", "We"] },
+          { "correct": "will", "alternatives": ["did", "do", "have"] },
+          { "correct": "not", "alternatives": ["no", "never", "don't"] },
+          { "correct": "give", "alternatives": ["take", "sell", "buy"] }
+        ]
+      },
+      {
+        "id": 33,
+        "sentence_en": "Did he feel?",
+        "translations": {
+          "ru": "Он чувствовал? / Он ощутил?",
+          "es": "¿(Él) sintió?",
+          "fr": "A‑t‑il ressenti ? / A‑t‑il senti ?",
+          "de": "Fühlte er (etwas)?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Does", "Will", "Has"] },
+          { "correct": "he", "alternatives": ["she", "they", "you"] },
+          { "correct": "feel", "alternatives": ["see", "hear", "know"] }
+        ]
+      },
+      {
+        "id": 34,
+        "sentence_en": "I turned.",
+        "translations": {
+          "ru": "Я повернул(а).",
+          "es": "Yo giré.",
+          "fr": "J'ai tourné.",
+          "de": "Ich habe mich gedreht / Ich drehte mich."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["You", "He", "She"] },
+          { "correct": "turned", "alternatives": ["moved", "looked", "walked"] }
+        ]
+      },
+      {
+        "id": 35,
+        "sentence_en": "Does he run?",
+        "translations": {
+          "ru": "Он бегает?",
+          "es": "¿(Él) corre?",
+          "fr": "Court‑il ?",
+          "de": "Läuft er?"
+        },
+        "words": [
+          { "correct": "Does", "alternatives": ["Did", "Will", "Has"] },
+          { "correct": "he", "alternatives": ["she", "they", "you"] },
+          { "correct": "run", "alternatives": ["walk", "jump", "swim"] }
+        ]
+      },
+      {
+        "id": 36,
+        "sentence_en": "We do not give.",
+        "translations": {
+          "ru": "Мы не даем.",
+          "es": "(Nosotros) no damos.",
+          "fr": "Nous ne donnons pas.",
+          "de": "Wir geben nicht."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "You"] },
+          { "correct": "do", "alternatives": ["did", "will", "have"] },
+          { "correct": "not", "alternatives": ["no", "never", "don't"] },
+          { "correct": "give", "alternatives": ["take", "get", "make"] }
+        ]
+      },
+      {
+        "id": 37,
+        "sentence_en": "She did not put.",
+        "translations": {
+          "ru": "Она не положила.",
+          "es": "Ella no puso.",
+          "fr": "Elle n'a pas mis.",
+          "de": "Sie hat nicht gelegt."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "I", "They"] },
+          { "correct": "did", "alternatives": ["does", "will", "has"] },
+          { "correct": "not", "alternatives": ["no", "never", "don't"] },
+          { "correct": "put", "alternatives": ["take", "get", "move"] }
+        ]
+      },
+      {
+        "id": 38,
+        "sentence_en": "Do you buy?",
+        "translations": {
+          "ru": "Ты покупаешь?",
+          "es": "¿(Tú) compras?",
+          "fr": "Achètes‑tu ? / Est‑ce que tu achètes ?",
+          "de": "Kaufst du?"
+        },
+        "words": [
+          { "correct": "Do", "alternatives": ["Did", "Will", "Have"] },
+          { "correct": "you", "alternatives": ["he", "she", "they"] },
+          { "correct": "buy", "alternatives": ["sell", "get", "see"] }
+        ]
+      },
+      {
+        "id": 39,
+        "sentence_en": "She slept.",
+        "translations": {
+          "ru": "Она спала.",
+          "es": "Ella durmió.",
+          "fr": "Elle a dormi.",
+          "de": "Sie schlief."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "I", "They"] },
+          { "correct": "slept", "alternatives": ["ate", "drank", "worked"] }
+        ]
+      },
+      {
+        "id": 40,
+        "sentence_en": "You will find.",
+        "translations": {
+          "ru": "Ты найдешь.",
+          "es": "Encontrarás.",
+          "fr": "Tu trouveras.",
+          "de": "Du wirst finden."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["I", "He", "They"] },
+          { "correct": "will", "alternatives": ["did", "do", "have"] },
+          { "correct": "find", "alternatives": ["lose", "miss", "see"] }
+        ]
+      },
+      {
+        "id": 41,
+        "sentence_en": "We did not study.",
+        "translations": {
+          "ru": "Мы не учились.",
+          "es": "(Nosotros) no estudiamos.",
+          "fr": "Nous n'avons pas étudié.",
+          "de": "Wir haben nicht gelernt."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "You"] },
+          { "correct": "did", "alternatives": ["do", "will", "have"] },
+          { "correct": "not", "alternatives": ["no", "never", "don't"] },
+          { "correct": "study", "alternatives": ["work", "read", "learn"] }
+        ]
+      },
+      {
+        "id": 42,
+        "sentence_en": "I sit.",
+        "translations": {
+          "ru": "Я сижу.",
+          "es": "(Yo) me siento. (Estoy sentado/a)",
+          "fr": "Je suis assis(e). / Je m'assieds.",
+          "de": "Ich sitze."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["You", "He", "They"] },
+          { "correct": "sit", "alternatives": ["stand", "lie", "walk"] }
+        ]
+      },
+      {
+        "id": 43,
+        "sentence_en": "Did she turn?",
+        "translations": {
+          "ru": "Она повернула?",
+          "es": "¿(Ella) giró?",
+          "fr": "A‑t‑elle tourné ?",
+          "de": "Hat sie sich gedreht?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Does", "Will", "Has"] },
+          { "correct": "she", "alternatives": ["he", "they", "you"] },
+          { "correct": "turn", "alternatives": ["look", "move", "stop"] }
+        ]
+      },
+      {
+        "id": 44,
+        "sentence_en": "They help.",
+        "translations": {
+          "ru": "Они помогают.",
+          "es": "(Ellos) ayudan.",
+          "fr": "Ils aident.",
+          "de": "Sie helfen."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "I", "You"] },
+          { "correct": "help", "alternatives": ["work", "see", "make"] }
+        ]
+      },
+      {
+        "id": 45,
+        "sentence_en": "You begin.",
+        "translations": {
+          "ru": "Ты начинаешь.",
+          "es": "(Tú) empiezas.",
+          "fr": "Tu commences.",
+          "de": "Du fängst an."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["I", "He", "They"] },
+          { "correct": "begin", "alternatives": ["end", "stop", "finish"] }
+        ]
+      },
+      {
+        "id": 46,
+        "sentence_en": "She meets.",
+        "translations": {
+          "ru": "Она встречает(ся).",
+          "es": "Ella se encuentra / Ella se reúne.",
+          "fr": "Elle rencontre.",
+          "de": "Sie trifft (sich)."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "I", "They"] },
+          { "correct": "meets", "alternatives": ["sees", "calls", "knows"] }
+        ]
+      },
+      {
+        "id": 47,
+        "sentence_en": "I hear.",
+        "translations": {
+          "ru": "Я слышу.",
+          "es": "(Yo) oigo. / (Yo) escucho.",
+          "fr": "J'entends.",
+          "de": "Ich höre."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["You", "He", "She"] },
+          { "correct": "hear", "alternatives": ["see", "feel", "know"] }
+        ]
+      },
+      {
+        "id": 48,
+        "sentence_en": "Did you finish?",
+        "translations": {
+          "ru": "Ты закончил(а)?",
+          "es": "¿Terminaste (tú)?",
+          "fr": "As‑tu fini ?",
+          "de": "Hast du fertig? / Bist du fertig?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Do", "Will", "Have"] },
+          { "correct": "you", "alternatives": ["he", "she", "they"] },
+          { "correct": "finish", "alternatives": ["start", "begin", "continue"] }
+        ]
+      },
+      {
+        "id": 49,
+        "sentence_en": "He does not think.",
+        "translations": {
+          "ru": "Он не думает.",
+          "es": "(Él) no piensa.",
+          "fr": "Il ne pense pas.",
+          "de": "Er denkt nicht."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "I", "They"] },
+          { "correct": "does", "alternatives": ["did", "will", "has"] },
+          { "correct": "not", "alternatives": ["no", "never", "don't"] },
+          { "correct": "think", "alternatives": ["know", "feel", "understand"] }
+        ]
+      },
+      {
+        "id": 50,
+        "sentence_en": "She will forget.",
+        "translations": {
+          "ru": "Она забудет.",
+          "es": "Ella olvidará.",
+          "fr": "Elle oubliera.",
+          "de": "Sie wird vergessen."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "I", "They"] },
+          { "correct": "will", "alternatives": ["did", "does", "has"] },
+          { "correct": "forget", "alternatives": ["remember", "know", "find"] }
+        ]
+      },
+      {
+        "id": 51,
+        "sentence_en": "He will read.",
+        "translations": {
+          "ru": "Он будет читать.",
+          "es": "Él leerá.",
+          "fr": "Il lira.",
+          "de": "Er wird lesen."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "I", "They"] },
+          { "correct": "will", "alternatives": ["did", "does", "has"] },
+          { "correct": "read", "alternatives": ["write", "speak", "look"] }
+        ]
+      },
+      {
+        "id": 52,
+        "sentence_en": "We will not come.",
+        "translations": {
+          "ru": "Мы не придём.",
+          "es": "(Nosotros) no vendremos.",
+          "fr": "Nous ne viendrons pas.",
+          "de": "Wir werden nicht kommen."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "You"] },
+          { "correct": "will", "alternatives": ["did", "do", "have"] },
+          { "correct": "not", "alternatives": ["no", "never", "don't"] },
+          { "correct": "come", "alternatives": ["go", "leave", "stay"] }
+        ]
+      },
+      {
+        "id": 53,
+        "sentence_en": "He will not buy.",
+        "translations": {
+          "ru": "Он не купит.",
+          "es": "Él no comprará.",
+          "fr": "Il n'achètera pas.",
+          "de": "Er wird nicht kaufen."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "I", "They"] },
+          { "correct": "will", "alternatives": ["did", "does", "has"] },
+          { "correct": "not", "alternatives": ["no", "never", "don't"] },
+          { "correct": "buy", "alternatives": ["sell", "take", "get"] }
+        ]
+      },
+      
+     
+      {
+        "id": 54,
+        "sentence_en": "He will take.",
+        "translations": {
+          "ru": "Он возьмёт.",
+          "es": "Él tomará.",
+          "fr": "Il prendra.",
+          "de": "Er wird nehmen."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "I", "They"] },
+          { "correct": "will", "alternatives": ["did", "does", "has"] },
+          { "correct": "take", "alternatives": ["give", "put", "get"] }
+        ]
+      }
+    ]
+  }
+  
+}
+  

@@ -1,0 +1,1829 @@
+{
+  "id": 17,
+  "title": {
+    "english": "Commonly Used Words in English Speech",
+    "russian": "Часто используемые слова в английской речи",
+    "spanish": "Palabras comúnmente usadas en el habla inglesa",
+    "french": "Mots couramment utilisés dans le discours anglais",
+    "german": "Häufig verwendete Wörter in der englischen Sprache"
+  },
+  "description": {
+    "english": "In this lesson, we'll learn important English words that are frequently used in real speech — such as rather, either, neither, quite, still, already, and others. These words help make statements softer, more precise, more natural, and allow you to sound like native speakers.",
+    "russian": "В этом уроке мы изучаем важные английские слова, которые часто используются в реальной речи — такие как rather, either, neither, quite, still, already и другие. Эти слова помогают делать высказывания мягче, точнее, естественнее и позволяют звучать так, как говорят сами носители языка.",
+    "spanish": "En esta lección, aprenderemos palabras importantes en inglés que se usan con frecuencia en el habla real, como rather, either, neither, quite, still, already y otras. Estas palabras ayudan a hacer las declaraciones más suaves, más precisas, más naturales y te permiten sonar como los hablantes nativos.",
+    "french": "Dans cette leçon, nous apprendrons des mots anglais importants qui sont fréquemment utilisés dans le discours réel - tels que rather, either, neither, quite, still, already et autres. Ces mots aident à rendre les déclarations plus douces, plus précises, plus naturelles et vous permettent de vous exprimer comme les locuteurs natifs.",
+    "german": "In dieser Lektion lernen wir wichtige englische Wörter, die häufig in der realen Sprache verwendet werden - wie rather, either, neither, quite, still, already und andere. Diese Wörter helfen dabei, Aussagen weicher, präziser, natürlicher zu gestalten und ermöglichen es Ihnen, wie Muttersprachler zu klingen."
+  },
+  "detailedDescription": {
+    "russian": {
+      "title": "Урок 17 — Часто используемые слова в английской речи",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Часто используемые слова в английской речи"
+        },
+        {
+          "type": "text",
+          "content": "В этом уроке мы изучаем важные английские слова, которые часто используются в реальной речи — такие как rather, either, neither, quite, still, already и другие. Эти слова помогают делать высказывания мягче, точнее, естественнее и позволяют звучать так, как говорят сами носители языка."
+        },
+        {
+          "type": "text",
+          "content": "Они не несут отдельного большого смысла, но без них английская речь будет звучать слишком жёстко и неестественно. С их помощью мы выражаем выбор, противопоставление, степень чего-то (\"довольно\", \"скорее\", \"ещё\", \"уже\", \"даже\", \"вместо\", \"в любом случае\" и так далее)."
+        },
+        {
+          "type": "text",
+          "content": "В уроке на каждое слово даются примеры живых предложений с переводом на русский язык, чтобы лучше понять, как использовать их в разговоре и на письме."
+        },
+        {
+          "type": "text",
+          "content": "Это базовые строительные блоки красивой и грамотной английской речи. Их правильное использование помогает говорить не просто правильно, а легко, естественно и понятно для любого англоязычного человека."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Основные темы урока:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Модификаторы и усилители (rather, quite, pretty, fairly)",
+            "Слова выбора и противопоставления (either, neither, both)",
+            "Временные маркеры (still, already, yet, anymore)",
+            "Оценочные слова (actually, even, anyway, otherwise)"
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "warning",
+          "content": "Важно не просто запомнить перевод этих слов, но и понять контекст их использования. Часто одно слово может переводиться по-разному в зависимости от ситуации."
+        }
+      ]
+    },
+    "spanish": {
+      "title": "Lección 17 — Palabras de uso frecuente en el idioma inglés",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Palabras de uso frecuente en el idioma inglés"
+        },
+        {
+          "type": "text",
+          "content": "En esta lección aprendemos palabras importantes en inglés que se utilizan constantemente en el habla cotidiana, como rather, either, neither, quite, still, already y otras más. Estas palabras ayudan a que nuestras expresiones suenen más naturales, suaves y precisas, tal como las usan los hablantes nativos."
+        },
+        {
+          "type": "text",
+          "content": "Aunque estas palabras no siempre aportan un gran significado por sí solas, son esenciales para que el inglés suene fluido y no forzado. Nos permiten expresar elecciones, contrastes, grados de intensidad (\"bastante\", \"más bien\", \"todavía\", \"ya\", \"incluso\", \"en lugar de\", \"de todas maneras\", entre otros)."
+        },
+        {
+          "type": "text",
+          "content": "En esta lección, para cada palabra se presentan ejemplos reales de uso en oraciones, junto con su traducción al español, para facilitar la comprensión de su aplicación en el habla y en la escritura."
+        },
+        {
+          "type": "text",
+          "content": "Estas palabras son bloques fundamentales para construir un inglés claro y correcto. Aprender a usarlas correctamente te ayudará a comunicarte de forma más natural, fluida y comprensible para cualquier hablante nativo."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Temas principales de la lección:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Modificadores e intensificadores (rather, quite, pretty, fairly)",
+            "Palabras de elección y contraste (either, neither, both)",
+            "Marcadores temporales (still, already, yet, anymore)",
+            "Palabras evaluativas (actually, even, anyway, otherwise)"
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "warning",
+          "content": "Es importante no solo memorizar la traducción de estas palabras, sino entender el contexto en que se utilizan. Con frecuencia, una misma palabra puede traducirse de diferentes maneras según la situación."
+        }
+      ]
+    },
+    "french": {
+      "title": "Leçon 17 — Mots fréquemment utilisés en anglais",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Mots fréquemment utilisés en anglais"
+        },
+        {
+          "type": "text",
+          "content": "Dans cette leçon, nous étudions des mots importants en anglais qui sont utilisés très fréquemment dans la langue parlée, comme rather, either, neither, quite, still, already et d'autres encore. Ces mots permettent de rendre les phrases plus naturelles, plus précises et plus fluides, tout comme s'expriment les locuteurs natifs."
+        },
+        {
+          "type": "text",
+          "content": "Bien que ces mots ne portent pas un sens très fort individuellement, ils sont essentiels pour que l'anglais sonne de manière fluide et naturelle. Ils nous aident à exprimer des choix, des contrastes ou des degrés d'intensité (« assez », « plutôt », « encore », « déjà », « même », « à la place de », « de toute façon », etc.)."
+        },
+        {
+          "type": "text",
+          "content": "Dans cette leçon, pour chaque mot, nous proposons des exemples concrets avec leur traduction en français, pour mieux comprendre comment les utiliser à l'oral et à l'écrit."
+        },
+        {
+          "type": "text",
+          "content": "Ces mots sont des éléments de base pour construire un anglais clair, naturel et correct. Savoir bien les utiliser permet de communiquer facilement, naturellement et d'être compris par tous les anglophones."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Thèmes principaux de la leçon:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Modificateurs et intensificateurs (rather, quite, pretty, fairly)",
+            "Mots de choix et de contraste (either, neither, both)",
+            "Marqueurs temporels (still, already, yet, anymore)",
+            "Mots d'évaluation (actually, even, anyway, otherwise)"
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "warning",
+          "content": "Il est important non seulement de mémoriser la traduction de ces mots, mais aussi de comprendre le contexte dans lequel ils sont utilisés. Souvent, un même mot peut être traduit différemment selon la situation."
+        }
+      ]
+    },
+    "german": {
+      "title": "Lektion 17 — Häufig verwendete Wörter in der englischen Sprache",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Häufig verwendete Wörter in der englischen Sprache"
+        },
+        {
+          "type": "text",
+          "content": "In dieser Lektion lernen wir wichtige englische Wörter kennen, die im Alltag sehr häufig verwendet werden, wie rather, either, neither, quite, still, already und viele andere. Diese Wörter helfen dabei, Aussagen natürlicher, präziser und flüssiger zu gestalten – so, wie es Muttersprachler tun."
+        },
+        {
+          "type": "text",
+          "content": "Auch wenn diese Wörter einzeln betrachtet keinen großen Bedeutungsgehalt haben, sind sie entscheidend dafür, dass Englisch nicht steif oder unnatürlich klingt. Sie ermöglichen es uns, Wahlmöglichkeiten, Gegensätze und Abstufungen auszudrücken (\"ziemlich\", \"eher\", \"noch\", \"schon\", \"sogar\", \"stattdessen\", \"trotzdem\" usw.)."
+        },
+        {
+          "type": "text",
+          "content": "In dieser Lektion gibt es zu jedem dieser Wörter praktische Beispielsätze mit deutscher Übersetzung, damit du verstehst, wie sie im gesprochenen und geschriebenen Englisch korrekt verwendet werden."
+        },
+        {
+          "type": "text",
+          "content": "Diese Wörter sind grundlegende Bausteine für ein klares und natürlich klingendes Englisch. Wer sie richtig einsetzt, kann sich leichter, natürlicher und verständlicher für alle Englischsprachigen ausdrücken."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Hauptthemen der Lektion:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Modifikatoren und Verstärker (rather, quite, pretty, fairly)",
+            "Wörter der Wahl und des Gegensatzes (either, neither, both)",
+            "Zeitmarker (still, already, yet, anymore)",
+            "Bewertungswörter (actually, even, anyway, otherwise)"
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "warning",
+          "content": "Es ist wichtig, nicht nur die Übersetzung dieser Wörter zu lernen, sondern auch den Kontext zu verstehen, in dem sie verwendet werden. Oft kann ein Wort je nach Situation unterschiedlich übersetzt werden."
+        }
+      ]
+    }
+  },
+  "vocabulary": {
+    "firstList": [
+        {
+            "number": 1,
+            "english": "still",
+            "russian": "всё ещё, по-прежнему",
+            "spanish": "todavía, aún",
+            "french": "encore, toujours",
+            "german": "immer noch"
+          },
+          {
+            "number": 2,
+            "english": "already",
+            "russian": "уже",
+            "spanish": "ya",
+            "french": "déjà",
+            "german": "schon"
+          },
+          {
+            "number": 3,
+            "english": "yet",
+            "russian": "ещё (в вопросах и отрицаниях); однако",
+            "spanish": "todavía, aún; sin embargo",
+            "french": "encore; pourtant",
+            "german": "noch; jedoch"
+          },
+          {
+            "number": 4,
+            "english": "whenever",
+            "russian": "когда бы ни",
+            "spanish": "cuando sea",
+            "french": "n'importe quand",
+            "german": "wann immer"
+          },
+          {
+            "number": 5,
+            "english": "wherever",
+            "russian": "где бы ни; куда бы ни",
+            "spanish": "donde sea",
+            "french": "n'importe où",
+            "german": "wo auch immer"
+          },
+          {
+            "number": 6,
+            "english": "rather",
+            "russian": "скорее, предпочтительнее, довольно",
+            "spanish": "más bien, bastante",
+            "french": "plutôt, assez",
+            "german": "ziemlich, eher"
+          },
+          {
+            "number": 7,
+            "english": "quite",
+            "russian": "довольно, весьма",
+            "spanish": "bastante",
+            "french": "assez",
+            "german": "ziemlich"
+          },
+          {
+            "number": 8,
+            "english": "even",
+            "russian": "даже",
+            "spanish": "incluso",
+            "french": "même",
+            "german": "sogar"
+          },
+          {
+            "number": 9,
+            "english": "somewhat",
+            "russian": "в некоторой степени, отчасти",
+            "spanish": "en cierto modo, algo",
+            "french": "quelque peu",
+            "german": "etwas"
+          },
+          {
+            "number": 10,
+            "english": "though",
+            "russian": "хотя; тем не менее (разговорное)",
+            "spanish": "aunque; sin embargo",
+            "french": "bien que; pourtant",
+            "german": "obwohl; dennoch"
+          },
+          {
+            "number": 11,
+            "english": "although",
+            "russian": "хотя; несмотря на то что (формальное)",
+            "spanish": "aunque; a pesar de que",
+            "french": "bien que; malgré que",
+            "german": "obwohl; obwohl dass"
+          },
+          {
+            "number": 12,
+            "english": "however",
+            "russian": "однако; как бы ни",
+            "spanish": "sin embargo; por más que",
+            "french": "cependant; peu importe comment",
+            "german": "jedoch; wie auch immer"
+          },
+          {
+            "number": 13,
+            "english": "anyway",
+            "russian": "в любом случае",
+            "spanish": "de todos modos",
+            "french": "de toute façon",
+            "german": "auf jeden Fall"
+          },
+          {
+            "number": 14,
+            "english": "either",
+            "russian": "либо; тоже (в отрицаниях)",
+            "spanish": "cualquiera; tampoco",
+            "french": "soit; non plus",
+            "german": "entweder; auch nicht"
+          },
+          {
+            "number": 15,
+            "english": "neither",
+            "russian": "ни один; также нет",
+            "spanish": "ni uno; tampoco",
+            "french": "ni l'un ni l'autre; non plus",
+            "german": "weder noch"
+          },
+          {
+            "number": 16,
+            "english": "whatever",
+            "russian": "что бы ни; любой (какой угодно)",
+            "spanish": "lo que sea; cualquiera",
+            "french": "peu importe quoi; n'importe lequel",
+            "german": "was auch immer; irgendein"
+          },
+          {
+            "number": 17,
+            "english": "besides",
+            "russian": "кроме того; помимо",
+            "spanish": "además de",
+            "french": "en plus de",
+            "german": "außerdem; neben"
+          },
+          {
+            "number": 18,
+            "english": "instead",
+            "russian": "вместо этого",
+            "spanish": "en lugar de eso",
+            "french": "au lieu de cela",
+            "german": "stattdessen"
+          },
+          {
+            "number": 19,
+            "english": "else",
+            "russian": "ещё; другой",
+            "spanish": "otro; más",
+            "french": "autre; encore",
+            "german": "sonst; noch"
+          },
+          {
+            "number": 20,
+            "english": "such",
+            "russian": "такой, подобный",
+            "spanish": "tal, semejante",
+            "french": "tel, semblable",
+            "german": "solch, ähnlich"
+          }
+    ]
+  },
+  "sentences": [
+    {
+        "id": 1,
+        "english": "She is still here.",
+        "russian": "Она всё ещё здесь.",
+        "spanish": "Ella todavía está aquí.",
+        "german": "Sie ist immer noch hier.",
+        "french": "Elle est encore ici."
+      },
+      {
+        "id": 2,
+        "english": "He is still sleeping.",
+        "russian": "Он всё ещё спит.",
+        "spanish": "Él todavía duerme.",
+        "german": "Er schläft immer noch.",
+        "french": "Il dort encore."
+      },
+      {
+        "id": 3,
+        "english": "They are still here.",
+        "russian": "Они всё ещё здесь.",
+        "spanish": "Ellos todavía están aquí.",
+        "german": "Sie sind immer noch hier.",
+        "french": "Ils sont encore ici."
+      },
+      {
+        "id": 4,
+        "english": "I already know that.",
+        "russian": "Я уже это знаю.",
+        "spanish": "Ya lo sé.",
+        "german": "Ich weiß das schon.",
+        "french": "Je le sais déjà."
+      },
+      {
+        "id": 5,
+        "english": "She already left.",
+        "russian": "Она уже ушла.",
+        "spanish": "Ella ya se fue.",
+        "german": "Sie ist schon gegangen.",
+        "french": "Elle est déjà partie."
+      },
+      {
+        "id": 6,
+        "english": "We already ate.",
+        "russian": "Мы уже поели.",
+        "spanish": "Ya comimos.",
+        "german": "Wir haben schon gegessen.",
+        "french": "Nous avons déjà mangé."
+      },
+      {
+        "id": 7,
+        "english": "He isn't ready yet.",
+        "russian": "Он ещё не готов.",
+        "spanish": "Él no está listo aún.",
+        "german": "Er ist noch nicht bereit.",
+        "french": "Il n'est pas encore prêt."
+      },
+      {
+        "id": 8,
+        "english": "Did you eat yet?",
+        "russian": "Ты уже поел?",
+        "spanish": "¿Ya comiste?",
+        "german": "Hast du schon gegessen?",
+        "french": "Tu as déjà mangé ?"
+      },
+      {
+        "id": 9,
+        "english": "She hasn't come yet.",
+        "russian": "Она ещё не пришла.",
+        "spanish": "Ella no ha venido aún.",
+        "german": "Sie ist noch nicht gekommen.",
+        "french": "Elle n'est pas encore venue."
+      },
+      {
+        "id": 10,
+        "english": "Call me whenever.",
+        "russian": "Звони, когда хочешь.",
+        "spanish": "Llámame cuando sea.",
+        "german": "Ruf mich an, wann immer.",
+        "french": "Appelle-moi n'importe quand."
+      },
+      {
+        "id": 11,
+        "english": "Eat whenever you want.",
+        "russian": "Ешь, когда хочешь.",
+        "spanish": "Come cuando quieras.",
+        "german": "Iss, wann du willst.",
+        "french": "Mange quand tu veux."
+      },
+      {
+        "id": 12,
+        "english": "Come whenever you can.",
+        "russian": "Приходи, когда сможешь.",
+        "spanish": "Ven cuando puedas.",
+        "german": "Komm, wenn du kannst.",
+        "french": "Viens quand tu peux."
+      },
+      {
+        "id": 13,
+        "english": "Go wherever you like.",
+        "russian": "Иди, куда хочешь.",
+        "spanish": "Ve donde quieras.",
+        "german": "Geh, wohin du willst.",
+        "french": "Va où tu veux."
+      },
+      {
+        "id": 14,
+        "english": "Sit wherever you want.",
+        "russian": "Садись, где хочешь.",
+        "spanish": "Siéntate donde quieras.",
+        "german": "Setz dich, wo du willst.",
+        "french": "Assieds-toi où tu veux."
+      },
+      {
+        "id": 15,
+        "english": "Live wherever you want.",
+        "russian": "Живи, где хочешь.",
+        "spanish": "Vive donde quieras.",
+        "german": "Lebe, wo du willst.",
+        "french": "Vis où tu veux."
+      },
+      {
+        "id": 16,
+        "english": "I rather drink tea.",
+        "russian": "Я лучше выпью чай.",
+        "spanish": "Prefiero tomar té.",
+        "german": "Ich trinke lieber Tee.",
+        "french": "Je préfère boire du thé."
+      },
+      {
+        "id": 17,
+        "english": "She rather stays home.",
+        "russian": "Она лучше останется дома.",
+        "spanish": "Ella prefiere quedarse en casa.",
+        "german": "Sie bleibt lieber zu Hause.",
+        "french": "Elle préfère rester chez elle."
+      },
+      {
+        "id": 18,
+        "english": "I rather walk today.",
+        "russian": "Я лучше пройдусь пешком.",
+        "spanish": "Prefiero caminar hoy.",
+        "german": "Ich gehe heute lieber zu Fuß.",
+        "french": "Je préfère marcher aujourd'hui."
+      },
+      {
+        "id": 19,
+        "english": "It's quite cold.",
+        "russian": "Довольно холодно.",
+        "spanish": "Hace bastante frío.",
+        "german": "Es ist ziemlich kalt.",
+        "french": "Il fait assez froid."
+      },
+      {
+        "id": 20,
+        "english": "He is quite tall.",
+        "russian": "Он довольно высокий.",
+        "spanish": "Él es bastante alto.",
+        "german": "Er ist ziemlich groß.",
+        "french": "Il est assez grand."
+      },
+      {
+        "id": 21,
+        "english": "She is quite nice.",
+        "russian": "Она довольно милая.",
+        "spanish": "Ella es bastante simpática.",
+        "german": "Sie ist ziemlich nett.",
+        "french": "Elle est assez gentille."
+      },
+      {
+        "id": 22,
+        "english": "Even he knows it.",
+        "russian": "Даже он это знает.",
+        "spanish": "Incluso él lo sabe.",
+        "german": "Sogar er weiß es.",
+        "french": "Même lui le sait."
+      },
+      {
+        "id": 23,
+        "english": "Even kids do that.",
+        "russian": "Даже дети это делают.",
+        "spanish": "Incluso los niños lo hacen.",
+        "german": "Sogar Kinder machen das.",
+        "french": "Même les enfants le font."
+      },
+      {
+        "id": 24,
+        "english": "Even I can help.",
+        "russian": "Даже я могу помочь.",
+        "spanish": "Incluso yo puedo ayudar.",
+        "german": "Sogar ich kann helfen.",
+        "french": "Même moi, je peux aider."
+      },
+      {
+        "id": 25,
+        "english": "I feel somewhat tired.",
+        "russian": "Я немного устал.",
+        "spanish": "Me siento algo cansado.",
+        "german": "Ich fühle mich etwas müde.",
+        "french": "Je me sens un peu fatigué."
+      },
+      {
+        "id": 26,
+        "english": "It's somewhat hard.",
+        "russian": "Это немного сложно.",
+        "spanish": "Es algo difícil.",
+        "german": "Es ist etwas schwierig.",
+        "french": "C'est quelque peu difficile."
+      },
+      {
+        "id": 27,
+        "english": "She's somewhat sad.",
+        "russian": "Она немного грустная.",
+        "spanish": "Ella está algo triste.",
+        "german": "Sie ist etwas traurig.",
+        "french": "Elle est un peu triste."
+      },
+      {
+        "id": 28,
+        "english": "It's warm, though.",
+        "russian": "Хотя и тепло.",
+        "spanish": "Aunque hace calor.",
+        "german": "Obwohl es warm ist.",
+        "french": "Bien qu'il fasse chaud."
+      },
+      {
+        "id": 29,
+        "english": "I'm tired, though.",
+        "russian": "Хотя я устал.",
+        "spanish": "Aunque estoy cansado.",
+        "german": "Obwohl ich müde bin.",
+        "french": "Bien que je sois fatigué."
+      },
+      {
+        "id": 30,
+        "english": "He won, though.",
+        "russian": "Хотя он выиграл.",
+        "spanish": "Aunque él ganó.",
+        "german": "Obwohl er gewonnen hat.",
+        "french": "Bien qu'il ait gagné."
+      },
+      {
+        "id": 31,
+        "english": "Although it's late, I'm fine.",
+        "russian": "Хотя уже поздно, я в порядке.",
+        "spanish": "Aunque es tarde, estoy bien.",
+        "german": "Obwohl es spät ist, geht es mir gut.",
+        "french": "Bien qu'il soit tard, je vais bien."
+      },
+      {
+        "id": 32,
+        "english": "Although cold, she went out.",
+        "russian": "Хотя холодно, она вышла.",
+        "spanish": "Aunque hacía frío, ella salió.",
+        "german": "Obwohl es kalt war, ging sie raus.",
+        "french": "Bien qu'il fasse froid, elle est sortie."
+      },
+      {
+        "id": 33,
+        "english": "Although tired, I worked.",
+        "russian": "Хотя устал, я работал.",
+        "spanish": "Aunque cansado, trabajé.",
+        "german": "Obwohl müde, habe ich gearbeitet.",
+        "french": "Bien que fatigué, j'ai travaillé."
+      },
+      {
+        "id": 34,
+        "english": "I was sad. However, I smiled.",
+        "russian": "Я был грустный. Однако я улыбнулся.",
+        "spanish": "Estaba triste. Sin embargo, sonreí.",
+        "german": "Ich war traurig. Jedoch habe ich gelächelt.",
+        "french": "J'étais triste. Cependant, j'ai souri."
+      },
+      {
+        "id": 35,
+        "english": "He is slow. However, he tries.",
+        "russian": "Он медленный. Однако он старается.",
+        "spanish": "Es lento. Sin embargo, lo intenta.",
+        "german": "Er ist langsam. Jedoch versucht er es.",
+        "french": "Il est lent. Cependant, il essaie."
+      },
+      {
+        "id": 36,
+        "english": "It rained. However, we played.",
+        "russian": "Шёл дождь. Однако мы играли.",
+        "spanish": "Llovía. Sin embargo, jugamos.",
+        "german": "Es regnete. Jedoch haben wir gespielt.",
+        "french": "Il pleuvait. Cependant, nous avons joué."
+      },
+      {
+        "id": 37,
+        "english": "I lost. I'm happy anyway.",
+        "russian": "Я проиграл. В любом случае я рад.",
+        "spanish": "Perdí. De todos modos estoy feliz.",
+        "german": "Ich habe verloren. Ich bin trotzdem froh.",
+        "french": "J'ai perdu. Je suis heureux quand même."
+      },
+      {
+        "id": 38,
+        "english": "She left. I'll go anyway.",
+        "russian": "Она ушла. Я всё равно пойду.",
+        "spanish": "Ella se fue. Iré de todos modos.",
+        "german": "Sie ging. Ich gehe trotzdem.",
+        "french": "Elle est partie. J'irai quand même."
+      },
+      {
+        "id": 39,
+        "english": "He said no. I tried anyway.",
+        "russian": "Он сказал нет. Я всё равно попытался.",
+        "spanish": "Él dijo que no. Igual lo intenté.",
+        "german": "Er sagte nein. Ich habe es trotzdem versucht.",
+        "french": "Il a dit non. J'ai essayé quand même."
+      },
+      {
+        "id": 40,
+        "english": "I don't like it either.",
+        "russian": "Мне тоже это не нравится.",
+        "spanish": "Tampoco me gusta.",
+        "german": "Ich mag es auch nicht.",
+        "french": "Je n'aime pas ça non plus."
+      },
+      {
+        "id": 41,
+        "english": "He didn't go either.",
+        "russian": "Он тоже не пошёл.",
+        "spanish": "Él tampoco fue.",
+        "german": "Er ging auch nicht.",
+        "french": "Il n'est pas allé non plus."
+      },
+      {
+        "id": 42,
+        "english": "She can't sing either.",
+        "russian": "Она тоже не умеет петь.",
+        "spanish": "Ella tampoco puede cantar.",
+        "german": "Sie kann auch nicht singen.",
+        "french": "Elle ne peut pas chanter non plus."
+      },
+      {
+        "id": 43,
+        "english": "Neither boy is ready.",
+        "russian": "Ни один мальчик не готов.",
+        "spanish": "Ningún niño está listo.",
+        "german": "Kein Junge ist bereit.",
+        "french": "Aucun garçon n'est prêt."
+      },
+      {
+        "id": 44,
+        "english": "Neither of them came.",
+        "russian": "Ни один из них не пришёл.",
+        "spanish": "Ninguno vino.",
+        "german": "Keiner von ihnen kam.",
+        "french": "Aucun d'eux n'est venu."
+      },
+      {
+        "id": 45,
+        "english": "Neither liked the movie.",
+        "russian": "Ни одному не понравился фильм.",
+        "spanish": "A ninguno le gustó la película.",
+        "german": "Keinem gefiel der Film.",
+        "french": "Aucun n'a aimé le film."
+      },
+      {
+        "id": 46,
+        "english": "Do whatever you want.",
+        "russian": "Делай что хочешь.",
+        "spanish": "Haz lo que quieras.",
+        "german": "Mach, was du willst.",
+        "french": "Fais ce que tu veux."
+      },
+      {
+        "id": 47,
+        "english": "Eat whatever is here.",
+        "russian": "Ешь, что здесь есть.",
+        "spanish": "Come lo que hay aquí.",
+        "german": "Iss, was hier ist.",
+        "french": "Mange ce qu'il y a ici."
+      },
+      {
+        "id": 48,
+        "english": "Say whatever you think.",
+        "russian": "Говори, что думаешь.",
+        "spanish": "Di lo que pienses.",
+        "german": "Sag, was du denkst.",
+        "french": "Dis ce que tu penses."
+      },
+      {
+        "id": 49,
+        "english": "I'm tired. Besides, I'm busy.",
+        "russian": "Я устал. Кроме того, я занят.",
+        "spanish": "Estoy cansado. Además, estoy ocupado.",
+        "german": "Ich bin müde. Außerdem bin ich beschäftigt.",
+        "french": "Je suis fatigué. En plus, je suis occupé."
+      },
+      {
+        "id": 50,
+        "english": "It's late. Besides, I'm cold.",
+        "russian": "Уже поздно. Кроме того, мне холодно.",
+        "spanish": "Es tarde. Además, tengo frío.",
+        "german": "Es ist spät. Außerdem ist mir kalt.",
+        "french": "Il est tard. En plus, j'ai froid."
+      },
+      {
+        "id": 51,
+        "english": "She's smart. Besides, she's kind.",
+        "russian": "Она умная. Кроме того, добрая.",
+        "spanish": "Ella es lista. Además, es amable.",
+        "german": "Sie ist klug. Außerdem nett.",
+        "french": "Elle est intelligente. En plus, gentille."
+      },
+      {
+        "id": 52,
+        "english": "I drank tea instead.",
+        "russian": "Я выпил чай вместо этого.",
+        "spanish": "Bebí té en lugar de eso.",
+        "german": "Ich trank stattdessen Tee.",
+        "french": "J'ai bu du thé à la place."
+      },
+      {
+        "id": 53,
+        "english": "She stayed home instead.",
+        "russian": "Она осталась дома вместо этого.",
+        "spanish": "Ella se quedó en casa.",
+        "german": "Sie blieb stattdessen zu Hause.",
+        "french": "Elle est restée chez elle."
+      },
+      {
+        "id": 54,
+        "english": "We walked instead.",
+        "russian": "Мы пошли пешком вместо этого.",
+        "spanish": "Caminamos en lugar de eso.",
+        "german": "Wir sind stattdessen gelaufen.",
+        "french": "Nous avons marché à la place."
+      },
+      {
+        "id": 55,
+        "english": "Someone else is here.",
+        "russian": "Кто-то другой здесь.",
+        "spanish": "Alguien más está aquí.",
+        "german": "Jemand anders ist hier.",
+        "french": "Quelqu'un d'autre est ici."
+      },
+      {
+        "id": 56,
+        "english": "Do you want something else?",
+        "russian": "Ты хочешь что-нибудь ещё?",
+        "spanish": "¿Quieres algo más?",
+        "german": "Willst du noch etwas?",
+        "french": "Tu veux autre chose ?"
+      },
+      {
+        "id": 57,
+        "english": "I have nothing else.",
+        "russian": "У меня больше ничего нет.",
+        "spanish": "No tengo nada más.",
+        "german": "Ich habe nichts mehr.",
+        "french": "Je n'ai rien d'autre."
+      },
+      {
+        "id": 58,
+        "english": "She is such a star.",
+        "russian": "Она такая звезда.",
+        "spanish": "Ella es una estrella así.",
+        "german": "Sie ist so ein Star.",
+        "french": "C'est une telle star."
+      },
+      {
+        "id": 59,
+        "english": "It was such fun.",
+        "russian": "Это было так весело.",
+        "spanish": "Fue tan divertido.",
+        "german": "Es hat so viel Spaß gemacht.",
+        "french": "C'était tellement amusant."
+      },
+      {
+        "id": 60,
+        "english": "I've never seen such.",
+        "russian": "Я никогда не видел такого.",
+        "spanish": "Nunca vi algo así.",
+        "german": "Sowas habe ich nie gesehen.",
+        "french": "Je n'ai jamais vu ça."
+      }
+    
+  ],
+  "exam": {
+    "sentences": [
+      {
+        "id": 1,
+        "sentence_en": "She is still here.",
+        "translations": {
+          "ru": "Она всё ещё здесь.",
+          "es": "Ella todavía está aquí.",
+          "fr": "Elle est encore ici.",
+          "de": "Sie ist immer noch hier."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "It"] },
+          { "correct": "is", "alternatives": ["are", "was", "has"] },
+          { "correct": "still", "alternatives": ["already", "soon", "just"] },
+          { "correct": "here", "alternatives": ["there", "everywhere", "nowhere"] }
+        ]
+      },
+      {
+        "id": 2,
+        "sentence_en": "He is still sleeping.",
+        "translations": {
+          "ru": "Он всё ещё спит.",
+          "es": "Él todavía duerme.",
+          "fr": "Il dort encore.",
+          "de": "Er schläft immer noch."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "It"] },
+          { "correct": "is", "alternatives": ["are", "was", "has"] },
+          { "correct": "still", "alternatives": ["already", "soon", "just"] },
+          { "correct": "sleeping", "alternatives": ["running", "jumping", "singing"] }
+        ]
+      },
+      {
+        "id": 3,
+        "sentence_en": "They are still here.",
+        "translations": {
+          "ru": "Они всё ещё здесь.",
+          "es": "Ellos todavía están aquí.",
+          "fr": "Ils sont encore ici.",
+          "de": "Sie sind immer noch hier."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "He", "It"] },
+          { "correct": "are", "alternatives": ["is", "was", "has"] },
+          { "correct": "still", "alternatives": ["already", "soon", "just"] },
+          { "correct": "here", "alternatives": ["there", "everywhere", "nowhere"] }
+        ]
+      },
+      {
+        "id": 4,
+        "sentence_en": "I already know that.",
+        "translations": {
+          "ru": "Я уже это знаю.",
+          "es": "Ya lo sé.",
+          "fr": "Je le sais déjà.",
+          "de": "Ich weiß das schon."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["You", "We", "They"] },
+          { "correct": "already", "alternatives": ["still", "soon", "just"] },
+          { "correct": "know", "alternatives": ["forget", "ignore", "miss"] },
+          { "correct": "that", "alternatives": ["this", "those", "these"] }
+        ]
+      },
+      {
+        "id": 5,
+        "sentence_en": "She already left.",
+        "translations": {
+          "ru": "Она уже ушла.",
+          "es": "Ella ya se fue.",
+          "fr": "Elle est déjà partie.",
+          "de": "Sie ist schon gegangen."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "It"] },
+          { "correct": "already", "alternatives": ["still", "soon", "just"] },
+          { "correct": "left", "alternatives": ["arrived", "stayed", "returned"] }
+        ]
+      },
+      {
+        "id": 6,
+        "sentence_en": "We already ate.",
+        "translations": {
+          "ru": "Мы уже поели.",
+          "es": "Ya comimos.",
+          "fr": "Nous avons déjà mangé.",
+          "de": "Wir haben schon gegessen."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "I"] },
+          { "correct": "already", "alternatives": ["still", "soon", "just"] },
+          { "correct": "ate", "alternatives": ["drank", "slept", "ran"] }
+        ]
+      },
+      {
+        "id": 7,
+        "sentence_en": "He isn't ready yet.",
+        "translations": {
+          "ru": "Он ещё не готов.",
+          "es": "Él no está listo aún.",
+          "fr": "Il n'est pas encore prêt.",
+          "de": "Er ist noch nicht bereit."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "It"] },
+          { "correct": "isn't", "alternatives": ["is", "was", "has"] },
+          { "correct": "ready", "alternatives": ["tired", "busy", "late"] },
+          { "correct": "yet", "alternatives": ["still", "already", "soon"] }
+        ]
+      },
+      {
+        "id": 8,
+        "sentence_en": "Did you eat yet?",
+        "translations": {
+          "ru": "Ты уже поел?",
+          "es": "¿Ya comiste?",
+          "fr": "Tu as déjà mangé ?",
+          "de": "Hast du schon gegessen?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Do", "Will", "Can"] },
+          { "correct": "you", "alternatives": ["they", "we", "he"] },
+          { "correct": "eat", "alternatives": ["drink", "sleep", "run"] },
+          { "correct": "yet", "alternatives": ["still", "already", "soon"] }
+        ]
+      },
+      {
+        "id": 9,
+        "sentence_en": "She hasn't come yet.",
+        "translations": {
+          "ru": "Она ещё не пришла.",
+          "es": "Ella no ha venido aún.",
+          "fr": "Elle n'est pas encore venue.",
+          "de": "Sie ist noch nicht gekommen."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "It"] },
+          { "correct": "hasn't", "alternatives": ["has", "had", "was"] },
+          { "correct": "come", "alternatives": ["gone", "left", "stayed"] },
+          { "correct": "yet", "alternatives": ["still", "already", "soon"] }
+        ]
+      },
+      {
+        "id": 10,
+        "sentence_en": "Call me whenever.",
+        "translations": {
+          "ru": "Звони, когда хочешь.",
+          "es": "Llámame cuando sea.",
+          "fr": "Appelle-moi n'importe quand.",
+          "de": "Ruf mich an, wann immer."
+        },
+        "words": [
+          { "correct": "Call", "alternatives": ["Visit", "Meet", "See"] },
+          { "correct": "me", "alternatives": ["us", "him", "her"] },
+          { "correct": "whenever", "alternatives": ["wherever", "whatever", "however"] }
+        ]
+      },
+      {
+        "id": 11,
+        "sentence_en": "Eat whenever you want.",
+        "translations": {
+          "ru": "Ешь, когда хочешь.",
+          "es": "Come cuando quieras.",
+          "fr": "Mange quand tu veux.",
+          "de": "Iss, wann du willst."
+        },
+        "words": [
+          { "correct": "Eat", "alternatives": ["Sleep", "Run", "Jump"] },
+          { "correct": "whenever", "alternatives": ["wherever", "whatever", "however"] },
+          { "correct": "you", "alternatives": ["they", "we", "I"] },
+          { "correct": "want", "alternatives": ["need", "have", "get"] }
+        ]
+      },
+      {
+        "id": 12,
+        "sentence_en": "Come whenever you can.",
+        "translations": {
+          "ru": "Приходи, когда сможешь.",
+          "es": "Ven cuando puedas.",
+          "fr": "Viens quand tu peux.",
+          "de": "Komm, wenn du kannst."
+        },
+        "words": [
+          { "correct": "Come", "alternatives": ["Go", "Stay", "Leave"] },
+          { "correct": "whenever", "alternatives": ["wherever", "whatever", "however"] },
+          { "correct": "you", "alternatives": ["they", "we", "I"] },
+          { "correct": "can", "alternatives": ["must", "should", "might"] }
+        ]
+      },
+      {
+        "id": 13,
+        "sentence_en": "Go wherever you like.",
+        "translations": {
+          "ru": "Иди, куда хочешь.",
+          "es": "Ve donde quieras.",
+          "fr": "Va où tu veux.",
+          "de": "Geh, wohin du willst."
+        },
+        "words": [
+          { "correct": "Go", "alternatives": ["Stay", "Leave", "Return"] },
+          { "correct": "wherever", "alternatives": ["whenever", "whatever", "however"] },
+          { "correct": "you", "alternatives": ["they", "we", "I"] },
+          { "correct": "like", "alternatives": ["dislike", "hate", "avoid"] }
+        ]
+      },
+      {
+        "id": 14,
+        "sentence_en": "Sit wherever you want.",
+        "translations": {
+          "ru": "Садись, где хочешь.",
+          "es": "Siéntate donde quieras.",
+          "fr": "Assieds-toi où tu veux.",
+          "de": "Setz dich, wo du willst."
+        },
+        "words": [
+          { "correct": "Sit", "alternatives": ["Stand", "Lie", "Jump"] },
+          { "correct": "wherever", "alternatives": ["whenever", "whatever", "however"] },
+          { "correct": "you", "alternatives": ["they", "we", "I"] },
+          { "correct": "want", "alternatives": ["need", "have", "get"] }
+        ]
+      },
+      {
+        "id": 15,
+        "sentence_en": "Live wherever you want.",
+        "translations": {
+          "ru": "Живи, где хочешь.",
+          "es": "Vive donde quieras.",
+          "fr": "Vis où tu veux.",
+          "de": "Lebe, wo du willst."
+        },
+        "words": [
+          { "correct": "Live", "alternatives": ["Stay", "Move", "Travel"] },
+          { "correct": "wherever", "alternatives": ["whenever", "whatever", "however"] },
+          { "correct": "you", "alternatives": ["they", "we", "I"] },
+          { "correct": "want", "alternatives": ["need", "have", "get"] }
+        ]
+      },
+      {
+        "id": 16,
+        "sentence_en": "I rather drink tea.",
+        "translations": {
+          "ru": "Я лучше выпью чай.",
+          "es": "Prefiero tomar té.",
+          "fr": "Je préfère boire du thé.",
+          "de": "Ich trinke lieber Tee."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["You", "They", "We"] },
+          { "correct": "rather", "alternatives": ["prefer", "choose", "opt"] },
+          { "correct": "drink", "alternatives": ["eat", "sip", "gulp"] },
+          { "correct": "tea", "alternatives": ["coffee", "water", "juice"] }
+        ]
+      },
+      {
+        "id": 17,
+        "sentence_en": "She rather stays home.",
+        "translations": {
+          "ru": "Она лучше останется дома.",
+          "es": "Ella prefiere quedarse en casa.",
+          "fr": "Elle préfère rester chez elle.",
+          "de": "Sie bleibt lieber zu Hause."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "rather", "alternatives": ["prefer", "choose", "opt"] },
+          { "correct": "stays", "alternatives": ["goes", "leaves", "returns"] },
+          { "correct": "home", "alternatives": ["out", "away", "here"] }
+        ]
+      },
+      {
+        "id": 18,
+        "sentence_en": "I rather walk today.",
+        "translations": {
+          "ru": "Я лучше пройдусь пешком.",
+          "es": "Prefiero caminar hoy.",
+          "fr": "Je préfère marcher aujourd'hui.",
+          "de": "Ich gehe heute lieber zu Fuß."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["You", "They", "We"] },
+          { "correct": "rather", "alternatives": ["prefer", "choose", "opt"] },
+          { "correct": "walk", "alternatives": ["run", "drive", "stroll"] },
+          { "correct": "today", "alternatives": ["tomorrow", "yesterday", "now"] }
+        ]
+      },
+      {
+        "id": 19,
+        "sentence_en": "It's quite cold.",
+        "translations": {
+          "ru": "Довольно холодно.",
+          "es": "Hace bastante frío.",
+          "fr": "Il fait assez froid.",
+          "de": "Es ist ziemlich kalt."
+        },
+        "words": [
+          { "correct": "It's", "alternatives": ["Its", "There's", "That's"] },
+          { "correct": "quite", "alternatives": ["very", "somewhat", "moderately"] },
+          { "correct": "cold", "alternatives": ["hot", "warm", "cool"] }
+        ]
+      },
+      {
+        "id": 20,
+        "sentence_en": "He is quite tall.",
+        "translations": {
+          "ru": "Он довольно высокий.",
+          "es": "Él es bastante alto.",
+          "fr": "Il est assez grand.",
+          "de": "Er ist ziemlich groß."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "is", "alternatives": ["was", "are", "were"] },
+          { "correct": "quite", "alternatives": ["very", "somewhat", "moderately"] },
+          { "correct": "tall", "alternatives": ["short", "big", "small"] }
+        ]
+      },
+      {
+        "id": 21,
+        "sentence_en": "She is quite nice.",
+        "translations": {
+          "ru": "Она довольно милая.",
+          "es": "Ella es bastante simpática.",
+          "fr": "Elle est assez gentille.",
+          "de": "Sie ist ziemlich nett."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "is", "alternatives": ["was", "are", "were"] },
+          { "correct": "quite", "alternatives": ["very", "somewhat", "moderately"] },
+          { "correct": "nice", "alternatives": ["mean", "bad", "rude"] }
+        ]
+      },
+      {
+        "id": 22,
+        "sentence_en": "Even he knows it.",
+        "translations": {
+          "ru": "Даже он это знает.",
+          "es": "Incluso él lo sabe.",
+          "fr": "Même lui le sait.",
+          "de": "Sogar er weiß es."
+        },
+        "words": [
+          { "correct": "Even", "alternatives": ["Just", "Only", "Still"] },
+          { "correct": "he", "alternatives": ["she", "they", "we"] },
+          { "correct": "knows", "alternatives": ["knew", "sees", "hears"] },
+          { "correct": "it", "alternatives": ["that", "this", "them"] }
+        ]
+      },
+      {
+        "id": 23,
+        "sentence_en": "Even kids do that.",
+        "translations": {
+          "ru": "Даже дети это делают.",
+          "es": "Incluso los niños lo hacen.",
+          "fr": "Même les enfants le font.",
+          "de": "Sogar Kinder machen das."
+        },
+        "words": [
+          { "correct": "Even", "alternatives": ["Just", "Only", "Still"] },
+          { "correct": "kids", "alternatives": ["adults", "parents", "infants"] },
+          { "correct": "do", "alternatives": ["did", "does", "perform"] },
+          { "correct": "that", "alternatives": ["this", "it", "them"] }
+        ]
+      },
+      {
+        "id": 24,
+        "sentence_en": "Even I can help.",
+        "translations": {
+          "ru": "Даже я могу помочь.",
+          "es": "Incluso yo puedo ayudar.",
+          "fr": "Même moi, je peux aider.",
+          "de": "Sogar ich kann helfen."
+        },
+        "words": [
+          { "correct": "Even", "alternatives": ["Just", "Only", "Still"] },
+          { "correct": "I", "alternatives": ["you", "he", "she"] },
+          { "correct": "can", "alternatives": ["could", "will", "might"] },
+          { "correct": "help", "alternatives": ["assist", "support", "aid"] }
+        ]
+      },
+      {
+        "id": 25,
+        "sentence_en": "I feel somewhat tired.",
+        "translations": {
+          "ru": "Я немного устал.",
+          "es": "Me siento algo cansado.",
+          "fr": "Je me sens un peu fatigué.",
+          "de": "Ich fühle mich etwas müde."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["You", "We", "They"] },
+          { "correct": "feel", "alternatives": ["am", "look", "appear"] },
+          { "correct": "somewhat", "alternatives": ["slightly", "mildly", "partially"] },
+          { "correct": "tired", "alternatives": ["happy", "sad", "angry"] }
+        ]
+      },
+      {
+        "id": 26,
+        "sentence_en": "It's somewhat hard.",
+        "translations": {
+          "ru": "Это немного сложно.",
+          "es": "Es algo difícil.",
+          "fr": "C'est quelque peu difficile.",
+          "de": "Es ist etwas schwierig."
+        },
+        "words": [
+          { "correct": "It's", "alternatives": ["Its", "There's", "That's"] },
+          { "correct": "somewhat", "alternatives": ["slightly", "mildly", "partially"] },
+          { "correct": "hard", "alternatives": ["easy", "simple", "soft"] }
+        ]
+      },
+      {
+        "id": 27,
+        "sentence_en": "She's somewhat sad.",
+        "translations": {
+          "ru": "Она немного грустная.",
+          "es": "Ella está algo triste.",
+          "fr": "Elle est un peu triste.",
+          "de": "Sie ist etwas traurig."
+        },
+        "words": [
+          { "correct": "She's", "alternatives": ["He's", "They're", "We're"] },
+          { "correct": "somewhat", "alternatives": ["slightly", "mildly", "partially"] },
+          { "correct": "sad", "alternatives": ["happy", "angry", "tired"] }
+        ]
+      },
+      {
+        "id": 28,
+        "sentence_en": "It's warm, though.",
+        "translations": {
+          "ru": "Хотя и тепло.",
+          "es": "Aunque hace calor.",
+          "fr": "Bien qu'il fasse chaud.",
+          "de": "Obwohl es warm ist."
+        },
+        "words": [
+          { "correct": "It's", "alternatives": ["Its", "There's", "That's"] },
+          { "correct": "warm", "alternatives": ["cold", "hot", "chilly"] },
+          { "correct": "though", "alternatives": ["but", "yet", "still"] }
+        ]
+      },
+      {
+        "id": 29,
+        "sentence_en": "I'm tired, though.",
+        "translations": {
+          "ru": "Хотя я устал.",
+          "es": "Aunque estoy cansado.",
+          "fr": "Bien que je sois fatigué.",
+          "de": "Obwohl ich müde bin."
+        },
+        "words": [
+          { "correct": "I'm", "alternatives": ["I've", "I'll", "I'd"] },
+          { "correct": "tired", "alternatives": ["happy", "sad", "angry"] },
+          { "correct": "though", "alternatives": ["but", "yet", "still"] }
+        ]
+      },
+      {
+        "id": 30,
+        "sentence_en": "He won, though.",
+        "translations": {
+          "ru": "Хотя он выиграл.",
+          "es": "Aunque él ganó.",
+          "fr": "Bien qu'il ait gagné.",
+          "de": "Obwohl er gewonnen hat."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "won", "alternatives": ["lost", "tried", "competed"] },
+          { "correct": "though", "alternatives": ["but", "yet", "still"] }
+        ]
+      },
+      {
+        "id": 31,
+        "sentence_en": "Although it's late, I'm fine.",
+        "translations": {
+          "ru": "Хотя уже поздно, я в порядке.",
+          "es": "Aunque es tarde, estoy bien.",
+          "fr": "Bien qu'il soit tard, je vais bien.",
+          "de": "Obwohl es spät ist, geht es mir gut."
+        },
+        "words": [
+          { "correct": "Although", "alternatives": ["Despite", "Even though", "While"] },
+          { "correct": "it's", "alternatives": ["its", "there's", "that's"] },
+          { "correct": "late", "alternatives": ["early", "dark", "light"] },
+          { "correct": "I'm", "alternatives": ["I've", "I'll", "I'd"] },
+          { "correct": "fine", "alternatives": ["bad", "sick", "tired"] }
+        ]
+      },
+      {
+        "id": 32,
+        "sentence_en": "Although cold, she went out.",
+        "translations": {
+          "ru": "Хотя холодно, она вышла.",
+          "es": "Aunque hacía frío, ella salió.",
+          "fr": "Bien qu'il fasse froid, elle est sortie.",
+          "de": "Obwohl es kalt war, ging sie raus."
+        },
+        "words": [
+          { "correct": "Although", "alternatives": ["Despite", "Even though", "While"] },
+          { "correct": "cold", "alternatives": ["warm", "hot", "chilly"] },
+          { "correct": "she", "alternatives": ["he", "they", "we"] },
+          { "correct": "went", "alternatives": ["stayed", "came", "arrived"] },
+          { "correct": "out", "alternatives": ["in", "home", "away"] }
+        ]
+      },
+      {
+        "id": 33,
+        "sentence_en": "Although tired, I worked.",
+        "translations": {
+          "ru": "Хотя устал, я работал.",
+          "es": "Aunque cansado, trabajé.",
+          "fr": "Bien que fatigué, j'ai travaillé.",
+          "de": "Obwohl müde, habe ich gearbeitet."
+        },
+        "words": [
+          { "correct": "Although", "alternatives": ["Despite", "Even though", "While"] },
+          { "correct": "tired", "alternatives": ["happy", "angry", "sad"] },
+          { "correct": "I", "alternatives": ["you", "he", "she"] },
+          { "correct": "worked", "alternatives": ["slept", "rested", "played"] }
+        ]
+      },
+      {
+        "id": 34,
+        "sentence_en": "I was sad. However, I smiled.",
+        "translations": {
+          "ru": "Я был грустный. Однако я улыбнулся.",
+          "es": "Estaba triste. Sin embargo, sonreí.",
+          "fr": "J'étais triste. Cependant, j'ai souri.",
+          "de": "Ich war traurig. Jedoch habe ich gelächelt."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["You", "He", "She"] },
+          { "correct": "was", "alternatives": ["am", "were", "is"] },
+          { "correct": "sad", "alternatives": ["happy", "angry", "tired"] },
+          { "correct": "However", "alternatives": ["Nevertheless", "Nonetheless", "Yet"] },
+          { "correct": "I", "alternatives": ["you", "he", "she"] },
+          { "correct": "smiled", "alternatives": ["cried", "frowned", "laughed"] }
+        ]
+      },
+      {
+        "id": 35,
+        "sentence_en": "He is slow. However, he tries.",
+        "translations": {
+          "ru": "Он медленный. Однако он старается.",
+          "es": "Es lento. Sin embargo, lo intenta.",
+          "fr": "Il est lent. Cependant, il essaie.",
+          "de": "Er ist langsam. Jedoch versucht er es."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "is", "alternatives": ["was", "are", "were"] },
+          { "correct": "slow", "alternatives": ["fast", "quick", "sluggish"] },
+          { "correct": "However", "alternatives": ["Nevertheless", "Nonetheless", "Yet"] },
+          { "correct": "he", "alternatives": ["she", "they", "we"] },
+          { "correct": "tries", "alternatives": ["gives up", "fails", "quits"] }
+        ]
+      },
+      {
+        "id": 36,
+        "sentence_en": "It rained. However, we played.",
+        "translations": {
+          "ru": "Шёл дождь. Однако мы играли.",
+          "es": "Llovía. Sin embargo, jugamos.",
+          "fr": "Il pleuvait. Cependant, nous avons joué.",
+          "de": "Es regnete. Jedoch haben wir gespielt."
+        },
+        "words": [
+          { "correct": "It", "alternatives": ["There", "This", "That"] },
+          { "correct": "rained", "alternatives": ["snowed", "hailed", "drizzled"] },
+          { "correct": "However", "alternatives": ["Nevertheless", "Nonetheless", "Yet"] },
+          { "correct": "we", "alternatives": ["they", "you", "I"] },
+          { "correct": "played", "alternatives": ["worked", "studied", "stayed"] }
+        ]
+      },
+      {
+        "id": 37,
+        "sentence_en": "I lost. I'm happy anyway.",
+        "translations": {
+          "ru": "Я проиграл. В любом случае я рад.",
+          "es": "Perdí. De todos modos estoy feliz.",
+          "fr": "J'ai perdu. Je suis heureux quand même.",
+          "de": "Ich habe verloren. Ich bin trotzdem froh."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["You", "He", "She"] },
+          { "correct": "lost", "alternatives": ["won", "tried", "quit"] },
+          { "correct": "I'm", "alternatives": ["I've", "I'll", "I'd"] },
+          { "correct": "happy", "alternatives": ["sad", "angry", "upset"] },
+          { "correct": "anyway", "alternatives": ["nonetheless", "regardless", "nevertheless"] }
+        ]
+      },
+      {
+        "id": 38,
+        "sentence_en": "She left. I'll go anyway.",
+        "translations": {
+          "ru": "Она ушла. Я всё равно пойду.",
+          "es": "Ella se fue. Iré de todos modos.",
+          "fr": "Elle est partie. J'irai quand même.",
+          "de": "Sie ging. Ich gehe trotzdem."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "left", "alternatives": ["stayed", "arrived", "departed"] },
+          { "correct": "I'll", "alternatives": ["I'd", "I've", "I'm"] },
+          { "correct": "go", "alternatives": ["stay", "leave", "proceed"] },
+          { "correct": "anyway", "alternatives": ["nonetheless", "regardless", "nevertheless"] }
+        ]
+      },
+      {
+        "id": 39,
+        "sentence_en": "He said no. I tried anyway.",
+        "translations": {
+          "ru": "Он сказал нет. Я всё равно попытался.",
+          "es": "Él dijo que no. Igual lo intenté.",
+          "fr": "Il a dit non. J'ai essayé quand même.",
+          "de": "Er sagte nein. Ich habe es trotzdem versucht."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "said", "alternatives": ["told", "asked", "stated"] },
+          { "correct": "no", "alternatives": ["yes", "maybe", "ok"] },
+          { "correct": "I", "alternatives": ["you", "he", "she"] },
+          { "correct": "tried", "alternatives": ["failed", "quit", "attempted"] },
+          { "correct": "anyway", "alternatives": ["nonetheless", "regardless", "nevertheless"] }
+        ]
+      },
+      {
+        "id": 40,
+        "sentence_en": "I don't like it either.",
+        "translations": {
+          "ru": "Мне тоже это не нравится.",
+          "es": "Tampoco me gusta.",
+          "fr": "Je n'aime pas ça non plus.",
+          "de": "Ich mag es auch nicht."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["You", "He", "She"] },
+          { "correct": "don't", "alternatives": ["do", "didn't", "doesn't"] },
+          { "correct": "like", "alternatives": ["love", "hate", "dislike"] },
+          { "correct": "it", "alternatives": ["this", "that", "them"] },
+          { "correct": "either", "alternatives": ["neither", "nor", "none"] }
+        ]
+      },
+      {
+        "id": 41,
+        "sentence_en": "He didn't go either.",
+        "translations": {
+          "ru": "Он тоже не пошёл.",
+          "es": "Él tampoco fue.",
+          "fr": "Il n'est pas allé non plus.",
+          "de": "Er ging auch nicht."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "didn't", "alternatives": ["doesn't", "won't", "isn't"] },
+          { "correct": "go", "alternatives": ["come", "stay", "move"] },
+          { "correct": "either", "alternatives": ["neither", "none", "never"] }
+        ]
+      },
+      {
+        "id": 42,
+        "sentence_en": "She can't sing either.",
+        "translations": {
+          "ru": "Она тоже не умеет петь.",
+          "es": "Ella tampoco puede cantar.",
+          "fr": "Elle ne peut pas chanter non plus.",
+          "de": "Sie kann auch nicht singen."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "can't", "alternatives": ["won't", "isn't", "hasn't"] },
+          { "correct": "sing", "alternatives": ["dance", "draw", "write"] },
+          { "correct": "either", "alternatives": ["neither", "none", "never"] }
+        ]
+      },
+      {
+        "id": 43,
+        "sentence_en": "Neither boy is ready.",
+        "translations": {
+          "ru": "Ни один мальчик не готов.",
+          "es": "Ningún niño está listo.",
+          "fr": "Aucun garçon n'est prêt.",
+          "de": "Kein Junge ist bereit."
+        },
+        "words": [
+          { "correct": "Neither", "alternatives": ["Both", "None", "All"] },
+          { "correct": "boy", "alternatives": ["girl", "man", "child"] },
+          { "correct": "is", "alternatives": ["are", "was", "has"] },
+          { "correct": "ready", "alternatives": ["unprepared", "late", "absent"] }
+        ]
+      },
+      {
+        "id": 44,
+        "sentence_en": "Neither of them came.",
+        "translations": {
+          "ru": "Ни один из них не пришёл.",
+          "es": "Ninguno vino.",
+          "fr": "Aucun d'eux n'est venu.",
+          "de": "Keiner von ihnen kam."
+        },
+        "words": [
+          { "correct": "Neither", "alternatives": ["Both", "None", "All"] },
+          { "correct": "of", "alternatives": ["from", "by", "for"] },
+          { "correct": "them", "alternatives": ["us", "him", "her"] },
+          { "correct": "came", "alternatives": ["went", "stayed", "left"] }
+        ]
+      },
+      {
+        "id": 45,
+        "sentence_en": "Neither liked the movie.",
+        "translations": {
+          "ru": "Ни одному не понравился фильм.",
+          "es": "A ninguno le gustó la película.",
+          "fr": "Aucun n'a aimé le film.",
+          "de": "Keinem gefiel der Film."
+        },
+        "words": [
+          { "correct": "Neither", "alternatives": ["Both", "None", "All"] },
+          { "correct": "liked", "alternatives": ["disliked", "ignored", "missed"] },
+          { "correct": "the", "alternatives": ["a", "this", "that"] },
+          { "correct": "movie", "alternatives": ["book", "game", "event"] }
+        ]
+      },
+      {
+        "id": 46,
+        "sentence_en": "Do whatever you want.",
+        "translations": {
+          "ru": "Делай что хочешь.",
+          "es": "Haz lo que quieras.",
+          "fr": "Fais ce que tu veux.",
+          "de": "Mach, was du willst."
+        },
+        "words": [
+          { "correct": "Do", "alternatives": ["Make", "Create", "Build"] },
+          { "correct": "whatever", "alternatives": ["whichever", "whenever", "wherever"] },
+          { "correct": "you", "alternatives": ["they", "we", "I"] },
+          { "correct": "want", "alternatives": ["desire", "prefer", "choose"] }
+        ]
+      },
+      {
+        "id": 47,
+        "sentence_en": "Eat whatever is here.",
+        "translations": {
+          "ru": "Ешь, что здесь есть.",
+          "es": "Come lo que hay aquí.",
+          "fr": "Mange ce qu'il y a ici.",
+          "de": "Iss, was hier ist."
+        },
+        "words": [
+          { "correct": "Eat", "alternatives": ["Consume", "Devour", "Nibble"] },
+          { "correct": "whatever", "alternatives": ["whichever", "whenever", "wherever"] },
+          { "correct": "is", "alternatives": ["are", "was", "has"] },
+          { "correct": "here", "alternatives": ["there", "nearby", "around"] }
+        ]
+      },
+      {
+        "id": 48,
+        "sentence_en": "Say whatever you think.",
+        "translations": {
+          "ru": "Говори, что думаешь.",
+          "es": "Di lo que pienses.",
+          "fr": "Dis ce que tu penses.",
+          "de": "Sag, was du denkst."
+        },
+        "words": [
+          { "correct": "Say", "alternatives": ["Express", "Declare", "Announce"] },
+          { "correct": "whatever", "alternatives": ["whichever", "whenever", "wherever"] },
+          { "correct": "you", "alternatives": ["they", "we", "I"] },
+          { "correct": "think", "alternatives": ["imagine", "consider", "ponder"] }
+        ]
+      },
+      {
+        "id": 49,
+        "sentence_en": "I'm tired. Besides, I'm busy.",
+        "translations": {
+          "ru": "Я устал. Кроме того, я занят.",
+          "es": "Estoy cansado. Además, estoy ocupado.",
+          "fr": "Je suis fatigué. En plus, je suis occupé.",
+          "de": "Ich bin müde. Außerdem bin ich beschäftigt."
+        },
+        "words": [
+          { "correct": "I'm", "alternatives": ["I've", "I'll", "I'd"] },
+          { "correct": "tired", "alternatives": ["exhausted", "drained", "weary"] },
+          { "correct": "Besides", "alternatives": ["Moreover", "Additionally", "Furthermore"] },
+          { "correct": "I'm", "alternatives": ["I've", "I'll", "I'd"] },
+          { "correct": "busy", "alternatives": ["occupied", "engaged", "involved"] }
+        ]
+      },
+      {
+        "id": 50,
+        "sentence_en": "It's late. Besides, I'm cold.",
+        "translations": {
+          "ru": "Уже поздно. Кроме того, мне холодно.",
+          "es": "Es tarde. Además, tengo frío.",
+          "fr": "Il est tard. En plus, j'ai froid.",
+          "de": "Es ist spät. Außerdem ist mir kalt."
+        },
+        "words": [
+          { "correct": "It's", "alternatives": ["Its", "There's", "That's"] },
+          { "correct": "late", "alternatives": ["early", "noon", "midnight"] },
+          { "correct": "Besides", "alternatives": ["Moreover", "Additionally", "Furthermore"] },
+          { "correct": "I'm", "alternatives": ["I've", "I'll", "I'd"] },
+          { "correct": "cold", "alternatives": ["chilly", "frosty", "cool"] }
+        ]
+      },
+      {
+        "id": 51,
+        "sentence_en": "She's smart. Besides, she's kind.",
+        "translations": {
+          "ru": "Она умная. Кроме того, добрая.",
+          "es": "Ella es lista. Además, es amable.",
+          "fr": "Elle est intelligente. En plus, gentille.",
+          "de": "Sie ist klug. Außerdem nett."
+        },
+        "words": [
+          { "correct": "She's", "alternatives": ["He's", "They're", "We're"] },
+          { "correct": "smart", "alternatives": ["intelligent", "clever", "bright"] },
+          { "correct": "Besides", "alternatives": ["Moreover", "Additionally", "Furthermore"] },
+          { "correct": "she's", "alternatives": ["he's", "they're", "we're"] },
+          { "correct": "kind", "alternatives": ["gentle", "friendly", "polite"] }
+        ]
+      },
+      {
+        "id": 52,
+        "sentence_en": "I drank tea instead.",
+        "translations": {
+          "ru": "Я выпил чай вместо этого.",
+          "es": "Bebí té en lugar de eso.",
+          "fr": "J'ai bu du thé à la place.",
+          "de": "Ich trank stattdessen Tee."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["You", "He", "She"] },
+          { "correct": "drank", "alternatives": ["sipped", "gulped", "tasted"] },
+          { "correct": "tea", "alternatives": ["coffee", "soda", "milk"] },
+          { "correct": "instead", "alternatives": ["alternatively", "otherwise", "subsequently"] }
+        ]
+      },
+      {
+        "id": 53,
+        "sentence_en": "She stayed home instead.",
+        "translations": {
+          "ru": "Она осталась дома вместо этого.",
+          "es": "Ella se quedó en casa.",
+          "fr": "Elle est restée chez elle.",
+          "de": "Sie blieb stattdessen zu Hause."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "stayed", "alternatives": ["remained", "lingered", "paused"] },
+          { "correct": "home", "alternatives": ["office", "school", "gym"] },
+          { "correct": "instead", "alternatives": ["alternatively", "otherwise", "subsequently"] }
+        ]
+      },
+      {
+        "id": 54,
+        "sentence_en": "We walked instead.",
+        "translations": {
+          "ru": "Мы пошли пешком вместо этого.",
+          "es": "Caminamos en lugar de eso.",
+          "fr": "Nous avons marché à la place.",
+          "de": "Wir sind stattdessen gelaufen."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "I"] },
+          { "correct": "walked", "alternatives": ["strolled", "hiked", "ambled"] },
+          { "correct": "instead", "alternatives": ["alternatively", "otherwise", "subsequently"] }
+        ]
+      },
+      {
+        "id": 55,
+        "sentence_en": "Someone else is here.",
+        "translations": {
+          "ru": "Кто-то другой здесь.",
+          "es": "Alguien más está aquí.",
+          "fr": "Quelqu'un d'autre est ici.",
+          "de": "Jemand anders ist hier."
+        },
+        "words": [
+          { "correct": "Someone", "alternatives": ["Nobody", "Anybody", "Everyone"] },
+          { "correct": "else", "alternatives": ["besides", "apart", "beyond"] },
+          { "correct": "is", "alternatives": ["are", "was", "has"] },
+          { "correct": "here", "alternatives": ["there", "nearby", "around"] }
+        ]
+      },
+      {
+        "id": 56,
+        "sentence_en": "Do you want something else?",
+        "translations": {
+          "ru": "Ты хочешь что-нибудь ещё?",
+          "es": "¿Quieres algo más?",
+          "fr": "Tu veux autre chose ?",
+          "de": "Willst du noch etwas?"
+        },
+        "words": [
+          { "correct": "Do", "alternatives": ["Does", "Did", "Will"] },
+          { "correct": "you", "alternatives": ["they", "we", "I"] },
+          { "correct": "want", "alternatives": ["desire", "prefer", "choose"] },
+          { "correct": "something", "alternatives": ["anything", "nothing", "everything"] },
+          { "correct": "else", "alternatives": ["besides", "apart", "beyond"] }
+        ]
+      },
+      {
+        "id": 57,
+        "sentence_en": "I have nothing else.",
+        "translations": {
+          "ru": "У меня больше ничего нет.",
+          "es": "No tengo nada más.",
+          "fr": "Je n'ai rien d'autre.",
+          "de": "Ich habe nichts mehr."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["You", "He", "She"] },
+          { "correct": "have", "alternatives": ["possess", "hold", "own"] },
+          { "correct": "nothing", "alternatives": ["something", "anything", "everything"] },
+          { "correct": "else", "alternatives": ["besides", "apart", "beyond"] }
+        ]
+      },
+      {
+        "id": 58,
+        "sentence_en": "She is such a star.",
+        "translations": {
+          "ru": "Она такая звезда.",
+          "es": "Ella es una estrella así.",
+          "fr": "C'est une telle star.",
+          "de": "Sie ist so ein Star."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "is", "alternatives": ["was", "are", "has"] },
+          { "correct": "such", "alternatives": ["so", "like", "as"] },
+          { "correct": "a", "alternatives": ["the", "an", "one"] },
+          { "correct": "star", "alternatives": ["celebrity", "icon", "idol"] }
+        ]
+      },
+      {
+        "id": 59,
+        "sentence_en": "It was such fun.",
+        "translations": {
+          "ru": "Это было так весело.",
+          "es": "Fue tan divertido.",
+          "fr": "C'était tellement amusant.",
+          "de": "Es hat so viel Spaß gemacht."
+        },
+        "words": [
+          { "correct": "It", "alternatives": ["That", "This", "There"] },
+          { "correct": "was", "alternatives": ["is", "were", "has"] },
+          { "correct": "such", "alternatives": ["so", "like", "as"] },
+          { "correct": "fun", "alternatives": ["boring", "dull", "tedious"] }
+        ]
+      },
+      {
+        "id": 60,
+        "sentence_en": "I've never seen such.",
+        "translations": {
+          "ru": "Я никогда не видел такого.",
+          "es": "Nunca vi algo así.",
+          "fr": "Je n'ai jamais vu ça.",
+          "de": "Sowas habe ich nie gesehen."
+        },
+        "words": [
+          { "correct": "I've", "alternatives": ["I'm", "I'll", "I'd"] },
+          { "correct": "never", "alternatives": ["always", "rarely", "seldom"] },
+          { "correct": "seen", "alternatives": ["noticed", "observed", "spotted"] },
+          { "correct": "such", "alternatives": ["so", "like", "as"] }
+        ]
+      }
+    ]
+  }
+}

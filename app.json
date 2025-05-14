@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "newArchEnabled": true,
+    "plugins": [
+      "expo-localization",
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "minSdkVersion": 26
+          }
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "ff27cb80-aad7-4fbf-b727-6f664f034234"
+      }
+    },
+    "owner": "thenizhlo",
+    "ios": {
+      "bundleIdentifier": "com.thenizhlo.my-app"
+    },
+    "android": {
+      "package": "com.thenizhlo.myapp"
+    }
+  },
+  "ios": {
+    "bundleIdentifier": "com.anonymous.my-app"
+  },
+  "android": {
+    "package": "com.anonymous.myapp"
+  }
+}

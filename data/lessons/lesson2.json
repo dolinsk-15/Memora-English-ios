@@ -1,0 +1,2111 @@
+{
+  "id": 2,
+  "title": {
+    "english": "Pronouns and Question Words",
+    "spanish": "Lección 2: Pronombres que responden a las preguntas ¿a quién? y ¿a quién (como objeto)?",
+    "french": "Leçon 2 : Les pronoms qui répondent aux questions \"qui ?\", \"à qui ?\" et \"qui (objet) ?\"",
+    "russian": "Местоимения и Вопросительные Слова",
+    "german": "Pronomen und Fragewörter"
+  },
+  "description": {
+    "english": "Learn about pronouns that answer questions 'whom?' and 'to whom?' and question words.",
+    "spanish": "Aprende sobre los pronombres que responden a las preguntas '¿a quién?' y '¿para quién?' y las palabras interrogativas.",
+    "french": "Apprenez les pronoms qui répondent aux questions 'qui ?' et 'à qui ?' et les mots interrogatifs.",
+    "russian": "Изучите местоимения, отвечающие на вопросы 'кому?' и 'кого?' и вопросительные слова.",
+    "german": "Lernen Sie Pronomen, die die Fragen 'wen?' und 'wem?' beantworten, und Fragewörter."
+  },
+  "detailedDescription": {
+    "spanish": {
+      "title": "Lección 2 — Pronombres que responden a las preguntas ¿a quién? y ¿a quién (como objeto)?",
+      "sections": [
+        {
+          "type": "warning",
+          "content": "Para pasar a la siguiente lección, es necesario obtener al menos el 90% en el examen de la lección actual. De lo contrario, la siguiente lección puede no ser completamente comprensible."
+        },
+        {
+          "type": "text",
+          "content": "Para hacer nuestras oraciones más variadas e interesantes, vamos a usar pronombres que funcionan como objeto directo (¿a quién?) y objeto indirecto (¿a quién?, ¿para quién?).\n\nEn inglés, estos pronombres tienen la misma forma para ambos casos, a diferencia del español donde distinguimos claramente entre ellos."
+        },
+        {
+          "type": "heading",
+          "content": "Tabla de comparación:"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Sujeto (¿quién?)",
+            "Objeto directo e indirecto\n(¿a quién?, ¿para quién?)"
+          ],
+          "rows": [
+            ["Yo", "Me"],
+            ["Tú", "You"],
+            ["Él", "Him"],
+            ["Ella", "Her"],
+            ["Nosotros", "Us"],
+            ["Vosotros", "You"],
+            ["Ellos", "Them"],
+            ["Ellas", "Them"],
+            ["Eso", "It"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Ejemplos:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I see you. – Yo te veo.",
+            "She will help me. – Ella me ayudará."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "En español, decimos me, te, lo, le, dependiendo del tipo de objeto.\nEn inglés, se usa una sola forma (me, you, him, her...) tanto para objeto directo como para objeto indirecto."
+        },
+        {
+          "type": "heading",
+          "content": "Importante:"
+        },
+        {
+          "type": "text",
+          "content": "Cuando hablamos de animales domésticos, en inglés es común usar he/him o she/her, igual que para personas."
+        },
+        {
+          "type": "heading",
+          "content": "Palabras interrogativas"
+        },
+        {
+          "type": "text",
+          "content": "Ahora aprenderemos a hacer preguntas con palabras interrogativas."
+        },
+        {
+          "type": "table",
+          "headers": ["Inglés", "Español"],
+          "rows": [
+            ["What?", "¿Qué?"],
+            ["Who?", "¿Quién?"],
+            ["Where?", "¿Dónde? / ¿Adónde?"],
+            ["When?", "¿Cuándo?"],
+            ["Why?", "¿Por qué?"],
+            ["How?", "¿Cómo?"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Orden de las preguntas:"
+        },
+        {
+          "type": "text",
+          "content": "Primero va la palabra interrogativa, luego el verbo auxiliar (si hay), después el sujeto y el verbo principal:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Where did you see her? – ¿Dónde la viste?",
+            "How will they fly? – ¿Cómo volarán?"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Atención con \"Who?\""
+        },
+        {
+          "type": "text",
+          "content": "En preguntas con \"Who?\" como sujeto, el verbo va directamente después sin auxiliar, y en tercera persona singular:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Who saw her? – ¿Quién la vio?",
+            "Who helps you? – ¿Quién te ayuda?",
+            "Who will read him? – ¿Quién lo leerá?"
+          ]
+        }
+      ]
+    },
+    "french": {
+      "title": "Leçon 2 — Les pronoms qui répondent aux questions \"qui ?\", \"à qui ?\" et \"qui (objet) ?\"",
+      "sections": [
+        {
+          "type": "warning",
+          "content": "Pour passer à la leçon suivante, il est nécessaire d'obtenir au moins 90% à l'examen de la leçon actuelle. Sinon, la leçon suivante pourrait ne pas être entièrement compréhensible."
+        },
+        {
+          "type": "text",
+          "content": "Pour rendre nos phrases plus variées et plus naturelles, nous allons ajouter des pronoms qui jouent le rôle de complément d'objet direct (COD) ou complément d'objet indirect (COI).\n\nEn anglais, ces deux types de compléments utilisent les mêmes pronoms, contrairement au français où on fait une différence entre les deux formes (le/la/les vs lui/leur)."
+        },
+        {
+          "type": "heading",
+          "content": "Tableau de comparaison :"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Sujet (Qui ?)",
+            "COD/COI\n(Qui ? / À qui ?)",
+            "Anglais"
+          ],
+          "rows": [
+            ["Je", "Me / M'", "Me"],
+            ["Tu", "Te / T'", "You"],
+            ["Il", "Le / Lui", "Him"],
+            ["Elle", "La / Lui", "Her"],
+            ["Nous", "Nous", "Us"],
+            ["Vous", "Vous", "You"],
+            ["Ils/Elles", "Les / Leur", "Them"],
+            ["Il/Elle (neutre)", "Le / Lui", "It"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Exemples :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I see you. – Je te vois.",
+            "She will help me. – Elle m'aidera."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "En anglais, on dit toujours me, you, him, her, etc., que ce soit pour un COD ou un COI.\nEn français, on distingue :\n\nCOD → le, la, les\n\nCOI → lui, leur"
+        },
+        {
+          "type": "heading",
+          "content": "Remarque :"
+        },
+        {
+          "type": "text",
+          "content": "Pour les animaux de compagnie, on utilise souvent he/him ou she/her en anglais (comme pour les personnes)."
+        },
+        {
+          "type": "heading",
+          "content": "Mots interrogatifs"
+        },
+        {
+          "type": "text",
+          "content": "Apprenons maintenant à poser des questions avec des mots interrogatifs."
+        },
+        {
+          "type": "table",
+          "headers": ["Anglais", "Français"],
+          "rows": [
+            ["What?", "Que ? / Quoi ?"],
+            ["Who?", "Qui ?"],
+            ["Where?", "Où ?"],
+            ["When?", "Quand ?"],
+            ["Why?", "Pourquoi ?"],
+            ["How?", "Comment ?"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Construction des questions :"
+        },
+        {
+          "type": "text",
+          "content": "L'ordre en anglais est :\nMot interrogatif → auxiliaire (si besoin) → sujet → verbe principal."
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Where did you see her? – Où l'as-tu vue ?",
+            "How will they fly? – Comment vont-ils voler ?"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Attention avec \"Who ?\""
+        },
+        {
+          "type": "text",
+          "content": "Quand \"Who ?\" est le sujet, on n'utilise pas d'auxiliaire, et le verbe est au singulier :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Who saw her? – Qui l'a vue ?",
+            "Who helps you? – Qui t'aide ?",
+            "Who will read him? – Qui lui lira ?"
+          ]
+        }
+      ]
+    },
+    "german": {
+      "title": "Lektion 2 — Pronomen, die auf die Fragen \"Wen?\" und \"Wem?\" antworten",
+      "sections": [
+        {
+          "type": "warning",
+          "content": "Um zur nächsten Lektion überzugehen, müssen Sie mindestens 90% in der Prüfung der aktuellen Lektion erreichen. Andernfalls könnte die nächste Lektion nicht vollständig verständlich sein."
+        },
+        {
+          "type": "text",
+          "content": "Um unsere Sätze interessanter zu machen, fügen wir Pronomen im Akkusativ (Wen?) und Dativ (Wem?) hinzu.\n\nIm Englischen benutzt man für beide Fälle die gleiche Form des Pronomens, während man im Deutschen unterscheidet:"
+        },
+        {
+          "type": "heading",
+          "content": "Vergleichstabelle:"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Nominativ\n(Wer?)",
+            "Akkusativ\n(Wen?)",
+            "Dativ\n(Wem?)",
+            "Englisch"
+          ],
+          "rows": [
+            ["Ich", "Mich", "Mir", "Me"],
+            ["Du", "Dich", "Dir", "You"],
+            ["Er", "Ihn", "Ihm", "Him"],
+            ["Sie", "Sie", "Ihr", "Her"],
+            ["Es", "Es", "Ihm", "It"],
+            ["Wir", "Uns", "Uns", "Us"],
+            ["Ihr", "Euch", "Euch", "You"],
+            ["Sie (Plural)", "Sie", "Ihnen", "Them"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Beispiele:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I see you. – Ich sehe dich.",
+            "She will help me. – Sie wird mir helfen."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Wie du siehst:\nIm Deutschen unterscheiden wir Akkusativ (z. B. dich) und Dativ (z. B. mir).\nIm Englischen sagt man in beiden Fällen einfach me, you, him, her..."
+        },
+        {
+          "type": "heading",
+          "content": "Hinweis:"
+        },
+        {
+          "type": "text",
+          "content": "Wenn man über Haustiere spricht, verwendet man im Englischen oft he/him oder she/her, wie bei Menschen."
+        },
+        {
+          "type": "heading",
+          "content": "Fragewörter"
+        },
+        {
+          "type": "text",
+          "content": "Jetzt lernen wir, wie man Fragen mit speziellen Fragewörtern bildet."
+        },
+        {
+          "type": "table",
+          "headers": ["Englisch", "Deutsch"],
+          "rows": [
+            ["What?", "Was?"],
+            ["Who?", "Wer?"],
+            ["Where?", "Wo? / Wohin?"],
+            ["When?", "Wann?"],
+            ["Why?", "Warum?"],
+            ["How?", "Wie?"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Satzbau bei Fragen:"
+        },
+        {
+          "type": "text",
+          "content": "In Englisch beginnt der Satz mit dem Fragewort, gefolgt vom Hilfsverb (wenn nötig), dann Subjekt und Verb."
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Where did you see her? – Wo hast du sie gesehen?",
+            "How will they fly? – Wie werden sie fliegen?"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Besonderheit bei \"Who?\""
+        },
+        {
+          "type": "text",
+          "content": "Wenn \"Who?\" das Subjekt ist, braucht man kein Hilfsverb, und das Verb steht im Singular:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Who saw her? – Wer hat sie gesehen?",
+            "Who helps you? – Wer hilft dir?",
+            "Who will read him? – Wer wird ihm vorlesen?"
+          ]
+        }
+      ]
+    },
+    "russian": {
+      "title": "Урок 2 — Местоимения, отвечающие на вопросы «Кого?» и «Кому?»",
+      "sections": [
+        {
+          "type": "warning",
+          "content": "Чтобы перейти к следующему уроку, необходимо набрать не менее 90% в экзамене текущего урока. Иначе следующий урок может быть не до конца понятным."
+        },
+        {
+          "type": "text",
+          "content": "Чтобы сделать наши предложения более интересными, добавим местоимения, которые отвечают на вопросы:\n\nКого? (винительный падеж – напр. «Я вижу кого? Тебя»)\n\nКому? (дательный падеж – напр. «Я помогаю кому? Тебе»)\n\nВ английском языке одно и то же местоимение используется для обоих случаев.\nА вот в русском — формы различаются."
+        },
+        {
+          "type": "heading",
+          "content": "Сравнительная таблица:"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Кто?",
+            "Кого?",
+            "Кому?",
+            "Английский"
+          ],
+          "rows": [
+            ["Я", "Меня", "Мне", "Me"],
+            ["Ты", "Тебя", "Тебе", "You"],
+            ["Он", "Его", "Ему", "Him"],
+            ["Она", "Её", "Ей", "Her"],
+            ["Оно", "Его", "Ему", "It"],
+            ["Мы", "Нас", "Нам", "Us"],
+            ["Вы", "Вас", "Вам", "You"],
+            ["Они", "Их", "Им", "Them"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Примеры:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I see you. – Я вижу тебя.",
+            "She will help me. – Она поможет мне."
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Как видишь:"
+        },
+        {
+          "type": "text",
+          "content": "В русском языке:\n\n«тебя» — это кого?\n\n«тебе» — это кому?\n\nА в английском — в обоих случаях будет you.\n\nТо же самое и с другими местоимениями:\n\nme — меня / мне\nhim — его / ему\nher — её / ей\nus — нас / нам\nthem — их / им и т.д."
+        },
+        {
+          "type": "heading",
+          "content": "Важно знать:"
+        },
+        {
+          "type": "text",
+          "content": "Если речь идёт о домашних животных, в английском часто используют местоимения как для людей:\n\nhe / him — если животное мальчик\n\nshe / her — если девочка\n\nЭто придаёт общению более тёплый и личный характер."
+        },
+        {
+          "type": "heading",
+          "content": "Вопросительные слова:"
+        },
+        {
+          "type": "table",
+          "headers": ["Английский", "Русский"],
+          "rows": [
+            ["What?", "Что?"],
+            ["Who?", "Кто?"],
+            ["Where?", "Где? / Куда?"],
+            ["When?", "Когда?"],
+            ["Why?", "Почему?"],
+            ["How?", "Как?"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Построение вопросов в английском языке:"
+        },
+        {
+          "type": "text",
+          "content": "Сначала идёт вопросительное слово, затем вспомогательный глагол, потом подлежащее, и только потом — глагол."
+        },
+        {
+          "type": "heading",
+          "content": "Примеры:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Where did you see her? – Где ты её видел?",
+            "How will they fly? – Как они будут лететь?"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Особенность с \"Who?\""
+        },
+        {
+          "type": "text",
+          "content": "Если слово Who? — это подлежащее (то есть кто делает действие), то:\n\nВспомогательный глагол не нужен\n\nГлагол ставится в 3-м лице, единственном числе"
+        },
+        {
+          "type": "heading",
+          "content": "Примеры:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Who saw her? – Кто её видел?",
+            "Who helps you? – Кто тебе помогает?",
+            "Who will read him? – Кто будет читать ему?"
+          ]
+        }
+      ]
+    },
+    "english": {
+      "title": "Lesson 2 — Pronouns that answer questions 'whom?' and 'to whom?'",
+      "sections": [
+        {
+          "type": "warning",
+          "content": "For the next lesson, you need to score at least 90% on the current lesson exam. Otherwise, the next lesson may not be completely understandable."
+        },
+        {
+          "type": "text",
+          "content": "To make our sentences more varied and interesting, we are going to use pronouns that work as direct object (whom?) and indirect object (to whom?, for whom?).\n\nIn English, these pronouns have the same form for both cases, unlike in Spanish where we clearly distinguish between them."
+        },
+        {
+          "type": "heading",
+          "content": "Comparison Table:"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Subject (whom?)",
+            "Direct and indirect object\n(to whom?, for whom?)"
+          ],
+          "rows": [
+            ["I", "Me"],
+            ["You", "You"],
+            ["He", "Him"],
+            ["She", "Her"],
+            ["We", "Us"],
+            ["You", "You"],
+            ["They", "Them"],
+            ["They", "Them"],
+            ["It", "It"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Examples:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I see you. – I see you.",
+            "She will help me. – She will help me."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "In English, we say me, you, him, her, etc., for both direct and indirect objects.\nIn Spanish, we use different forms for direct and indirect objects."
+        },
+        {
+          "type": "heading",
+          "content": "Important:"
+        },
+        {
+          "type": "text",
+          "content": "When we talk about domestic animals, in English it is common to use he/him or she/her, just like for people."
+        },
+        {
+          "type": "heading",
+          "content": "Interrogative Words"
+        },
+        {
+          "type": "text",
+          "content": "Now we are going to learn how to ask questions with interrogative words."
+        },
+        {
+          "type": "table",
+          "headers": ["English", "Spanish"],
+          "rows": [
+            ["What?", "¿Qué?"],
+            ["Who?", "¿Quién?"],
+            ["Where?", "¿Dónde? / ¿Adónde?"],
+            ["When?", "¿Cuándo?"],
+            ["Why?", "¿Por qué?"],
+            ["How?", "¿Cómo?"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Order of questions:"
+        },
+        {
+          "type": "text",
+          "content": "First comes the interrogative word, then the auxiliary verb (if any), then the subject and the main verb:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Where did you see her? – ¿Dónde la viste?",
+            "How will they fly? – ¿Cómo volarán?"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Attention with \"Who?\""
+        },
+        {
+          "type": "text",
+          "content": "In questions with \"Who?\" as subject, the verb comes directly after without an auxiliary, and in third person singular:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Who saw her? – ¿Quién la vio?",
+            "Who helps you? – ¿Quién te ayuda?",
+            "Who will read him? – ¿Quién lo leerá?"
+          ]
+        }
+      ]
+    }
+  },
+  "vocabulary": {
+    "firstList": [
+      {
+        "number": 1,
+        "english": "me",
+        "russian": "меня",
+        "spanish": "me",
+        "french": "moi",
+        "german": "mich"
+      },
+      {
+        "number": 2,
+        "english": "you",
+        "russian": "тебя",
+        "spanish": "te",
+        "french": "toi",
+        "german": "dich"
+      },
+      {
+        "number": 3,
+        "english": "him",
+        "russian": "его",
+        "spanish": "lo",
+        "french": "lui",
+        "german": "ihn"
+      },
+      {
+        "number": 4,
+        "english": "her",
+        "russian": "её",
+        "spanish": "la",
+        "french": "elle",
+        "german": "sie"
+      },
+      {
+        "number": 5,
+        "english": "us",
+        "russian": "нас",
+        "spanish": "nos",
+        "french": "nous",
+        "german": "uns"
+      },
+      {
+        "number": 6,
+        "english": "them",
+        "russian": "их",
+        "spanish": "los",
+        "french": "eux",
+        "german": "sie"
+      },
+      {
+        "number": 7,
+        "english": "when",
+        "russian": "когда",
+        "spanish": "cuándo",
+        "french": "quand",
+        "german": "wann"
+      },
+      {
+        "number": 8,
+        "english": "what",
+        "russian": "что",
+        "spanish": "qué",
+        "french": "quoi",
+        "german": "was"
+      },
+      {
+        "number": 9,
+        "english": "where",
+        "russian": "где",
+        "spanish": "dónde",
+        "french": "où",
+        "german": "wo"
+      },
+      {
+        "number": 10,
+        "english": "how",
+        "russian": "как",
+        "spanish": "cómo",
+        "french": "comment",
+        "german": "wie"
+      },
+      {
+        "number": 11,
+        "english": "why",
+        "russian": "зачем, почему",
+        "spanish": "por qué",
+        "french": "pourquoi",
+        "german": "warum"
+      },
+      {
+        "number": 12,
+        "english": "who",
+        "russian": "кто",
+        "spanish": "quién",
+        "french": "qui",
+        "german": "wer"
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Did he write you?",
+      "russian": "Он писал тебе?",
+      "spanish": "¿Te escribió?",
+      "french": "T'a-t-il écrit ?",
+      "german": "Hat er dir geschrieben?"
+    },
+    {
+      "id": 2,
+      "english": "Where did he sleep?",
+      "russian": "Где он спал?",
+      "spanish": "¿Dónde durmió?",
+      "french": "Où a-t-il dormi ?",
+      "german": "Wo hat er geschlafen?"
+    },
+    {
+      "id": 3,
+      "english": "He will see her.",
+      "russian": "Он увидит её.",
+      "spanish": "Él la verá.",
+      "french": "Il la verra.",
+      "german": "Er wird sie sehen."
+    },
+    {
+      "id": 4,
+      "english": "I will not hear you.",
+      "russian": "Я не услышу тебя.",
+      "spanish": "No te escucharé.",
+      "french": "Je ne t'entendrai pas.",
+      "german": "Ich werde dich nicht hören."
+    },
+    {
+      "id": 5,
+      "english": "What will she set?",
+      "russian": "Что она установит?",
+      "spanish": "¿Qué establecerá ella?",
+      "french": "Que va-t-elle installer ?",
+      "german": "Was wird sie einstellen?"
+    },
+    {
+      "id": 6,
+      "english": "Will they leave you?",
+      "russian": "Они оставят тебя?",
+      "spanish": "¿Te dejarán?",
+      "french": "Est-ce qu'ils te laisseront ?",
+      "german": "Werden sie dich verlassen?"
+    },
+    {
+      "id": 7,
+      "english": "I understood him.",
+      "russian": "Я понял его.",
+      "spanish": "Lo entendí.",
+      "french": "Je l'ai compris.",
+      "german": "Ich habe ihn verstanden."
+    },
+    {
+      "id": 8,
+      "english": "They will not forget us.",
+      "russian": "Они не забудут нас.",
+      "spanish": "No nos olvidarán.",
+      "french": "Ils ne nous oublieront pas.",
+      "german": "Sie werden uns nicht vergessen."
+    },
+    {
+      "id": 9,
+      "english": "We will not hear them.",
+      "russian": "Мы не услышим их.",
+      "spanish": "No los escucharemos.",
+      "french": "Nous ne les entendrons pas.",
+      "german": "Wir werden sie nicht hören."
+    },
+    {
+      "id": 10,
+      "english": "We will ask him.",
+      "russian": "Мы спросим его.",
+      "spanish": "Le preguntaremos.",
+      "french": "Nous lui demanderons.",
+      "german": "Wir werden ihn fragen."
+    },
+    {
+      "id": 11,
+      "english": "She will not pay me.",
+      "russian": "Она не заплатит мне.",
+      "spanish": "No me pagará.",
+      "french": "Elle ne me paiera pas.",
+      "german": "Sie wird mich nicht bezahlen."
+    },
+    {
+      "id": 12,
+      "english": "What does he know?",
+      "russian": "Что он знает?",
+      "spanish": "¿Qué sabe él?",
+      "french": "Que sait-il ?",
+      "german": "Was weiß er?"
+    },
+    {
+      "id": 13,
+      "english": "I see you.",
+      "russian": "Я вижу тебя.",
+      "spanish": "Te veo.",
+      "french": "Je te vois.",
+      "german": "Ich sehe dich."
+    },
+    {
+      "id": 14,
+      "english": "What did he say?",
+      "russian": "Что он сказал?",
+      "spanish": "¿Qué dijo él?",
+      "french": "Qu'a-t-il dit ?",
+      "german": "Was hat er gesagt?"
+    },
+    {
+      "id": 15,
+      "english": "When does she work?",
+      "russian": "Когда она работает?",
+      "spanish": "¿Cuándo trabaja ella?",
+      "french": "Quand travaille-t-elle ?",
+      "german": "Wann arbeitet sie?"
+    },
+    {
+      "id": 16,
+      "english": "What did he see?",
+      "russian": "Что он видел?",
+      "spanish": "¿Qué vio él?",
+      "french": "Qu'a-t-il vu ?",
+      "german": "Was hat er gesehen?"
+    },
+    {
+      "id": 17,
+      "english": "What will Jane buy?",
+      "russian": "Что купит Джейн?",
+      "spanish": "¿Qué comprará Jane?",
+      "french": "Que va acheter Jane ?",
+      "german": "Was wird Jane kaufen?"
+    },
+    {
+      "id": 18,
+      "english": "When will Mary work?",
+      "russian": "Когда Мэри будет работать?",
+      "spanish": "¿Cuándo trabajará Mary?",
+      "french": "Quand Mary travaillera-t-elle ?",
+      "german": "Wann wird Mary arbeiten?"
+    },
+    {
+      "id": 19,
+      "english": "Will they forget us?",
+      "russian": "Они забудут нас?",
+      "spanish": "¿Nos olvidarán?",
+      "french": "Vont-ils nous oublier ?",
+      "german": "Werden sie uns vergessen?"
+    },
+    {
+      "id": 20,
+      "english": "I did not ask her.",
+      "russian": "Я не спросил ее.",
+      "spanish": "No le pregunté.",
+      "french": "Je ne lui ai pas demandé.",
+      "german": "Ich habe sie nicht gefragt."
+    },
+    {
+      "id": 21,
+      "english": "What did she hear?",
+      "russian": "Что она слышала?",
+      "spanish": "¿Qué oyó ella?",
+      "french": "Qu'a-t-elle entendu ?",
+      "german": "Was hat sie gehört?"
+    },
+    {
+      "id": 22,
+      "english": "What does Mike see?",
+      "russian": "Что видит Майк?",
+      "spanish": "¿Qué ve Mike?",
+      "french": "Que voit Mike ?",
+      "german": "Was sieht Mike?"
+    },
+    {
+      "id": 23,
+      "english": "What does she take?",
+      "russian": "Что она берет?",
+      "spanish": "¿Qué toma ella?",
+      "french": "Que prend-elle ?",
+      "german": "Was nimmt sie?"
+    },
+    {
+      "id": 24,
+      "english": "He asked her.",
+      "russian": "Он спросил ее.",
+      "spanish": "Él le preguntó.",
+      "french": "Il lui a demandé.",
+      "german": "Er hat sie gefragt."
+    },
+    {
+      "id": 25,
+      "english": "What will he find?",
+      "russian": "Что он найдет?",
+      "spanish": "¿Qué encontrará él?",
+      "french": "Que va-t-il trouver ?",
+      "german": "Was wird er finden?"
+    },
+    {
+      "id": 26,
+      "english": "What do they put?",
+      "russian": "Что они кладут?",
+      "spanish": "¿Qué ponen?",
+      "french": "Que mettent-ils ?",
+      "german": "Was legen sie hin?"
+    },
+    {
+      "id": 27,
+      "english": "I paid them.",
+      "russian": "Я заплатил им.",
+      "spanish": "Les pagué.",
+      "french": "Je les ai payés",
+      "german": "Ich habe sie bezahlt"
+    },
+    {
+      "id": 28,
+      "english": "We will not tell her.",
+      "russian": "Мы не расскажем ей.",
+      "spanish": "No le diremos.",
+      "french": "Nous ne lui dirons pas.",
+      "german": "Wir werden ihr nicht erzählen."
+    },
+    {
+      "id": 29,
+      "english": "Did she forget him?",
+      "russian": "Она забыла его?",
+      "spanish": "¿Lo olvidó ella?",
+      "french": "L'a-t-elle oublié ?",
+      "german": "Hat sie ihn vergessen?"
+    },
+    {
+      "id": 30,
+      "english": "I will not forget you.",
+      "russian": "Я не забуду тебя.",
+      "spanish": "No te olvidaré.",
+      "french": "Je ne t'oublierai pas.",
+      "german": "Ich werde dich nicht vergessen."
+    },
+    {
+      "id": 31,
+      "english": "We did not write him.",
+      "russian": "Мы не писали ему.",
+      "spanish": "No le escribimos.",
+      "french": "Nous ne lui avons pas écrit.",
+      "german": "Wir haben ihm nicht geschrieben."
+    },
+    {
+      "id": 32,
+      "english": "Where will they sleep?",
+      "russian": "Где они будут спать?",
+      "spanish": "¿Dónde dormirán?",
+      "french": "Où vont-ils dormir ?",
+      "german": "Wo werden sie schlafen?"
+    },
+    {
+      "id": 33,
+      "english": "We did not forget them.",
+      "russian": "Мы не забыли их.",
+      "spanish": "No los olvidamos.",
+      "french": "Nous ne les avons pas oubliés.",
+      "german": "Wir haben sie nicht vergessen."
+    },
+    {
+      "id": 34,
+      "english": "What will Alex know?",
+      "russian": "Что Алекс будет знать?",
+      "spanish": "¿Qué sabrá Alex?",
+      "french": "Que saura Alex ?",
+      "german": "Was wird Alex wissen?"
+    },
+    {
+      "id": 35,
+      "english": "She will not ask him.",
+      "russian": "Она не спросит его.",
+      "spanish": "No le preguntará.",
+      "french": "Elle ne lui demandera pas.",
+      "german": "Sie wird ihn nicht fragen."
+    },
+    {
+      "id": 36,
+      "english": "Where will he live?",
+      "russian": "Где он будет жить?",
+      "spanish": "¿Dónde vivirá él?",
+      "french": "Où va-t-il vivre ?",
+      "german": "Wo wird er leben?"
+    },
+    {
+      "id": 37,
+      "english": "What do they read?",
+      "russian": "Что они читают?",
+      "spanish": "¿Qué leen?",
+      "french": "Que lisent-ils ?",
+      "german": "Was lesen sie?"
+    },
+    {
+      "id": 38,
+      "english": "He did not see her.",
+      "russian": "Он не видел ее.",
+      "spanish": "Él no la vio.",
+      "french": "Il ne l'a pas vue.",
+      "german": "Er hat sie nicht gesehen."
+    },
+    {
+      "id": 39,
+      "english": "Where will they study?",
+      "russian": "Где они будут учиться?",
+      "spanish": "¿Dónde estudiarán?",
+      "french": "Où vont-ils étudier ?",
+      "german": "Wo werden sie studieren?"
+    },
+    {
+      "id": 40,
+      "english": "We will not show her.",
+      "russian": "Мы не покажем ей.",
+      "spanish": "No le mostraremos.",
+      "french": "Nous ne lui montrerons pas.",
+      "german": "Wir werden ihr nicht zeigen."
+    },
+    {
+      "id": 41,
+      "english": "What does she get?",
+      "russian": "Что она получает?",
+      "spanish": "¿Qué obtiene ella?",
+      "french": "Que reçoit-elle ?",
+      "german": "Was bekommt sie?"
+    },
+    {
+      "id": 42,
+      "english": "She heard him.",
+      "russian": "Она слышала его.",
+      "spanish": "Ella lo oyó.",
+      "french": "Elle l'a entendu.",
+      "german": "Sie hat ihn gehört."
+    },
+    {
+      "id": 43,
+      "english": "When did they start?",
+      "russian": "Когда они начали?",
+      "spanish": "¿Cuándo empezaron?",
+      "french": "Quand ont-ils commencé ?",
+      "german": "Wann haben sie angefangen?"
+    },
+    {
+      "id": 44,
+      "english": "What did they find?",
+      "russian": "Что они нашли?",
+      "spanish": "¿Qué encontraron?",
+      "french": "Qu'ont-ils trouvé ?",
+      "german": "Was haben sie gefunden?"
+    },
+    {
+      "id": 45,
+      "english": "When will Jack study?",
+      "russian": "Когда Джек будет учиться?",
+      "spanish": "¿Cuándo estudiará Jack?",
+      "french": "Quand Jack va-t-il étudier ?",
+      "german": "Wann wird Jack studieren?"
+    },
+    {
+      "id": 46,
+      "english": "He will not ask her.",
+      "russian": "Он не спросит ее.",
+      "spanish": "No le preguntará.",
+      "french": "Il ne lui demandera pas.",
+      "german": "Er wird sie nicht fragen."
+    },
+    {
+      "id": 47,
+      "english": "We found.",
+      "russian": "Мы нашли.",
+      "spanish": "Encontramos.",
+      "french": "Nous avons trouvé.",
+      "german": "Wir haben gefunden."
+    },
+    {
+      "id": 48,
+      "english": "He did not love her.",
+      "russian": "Он не любил ее.",
+      "spanish": "Él no la amaba.",
+      "french": "Il ne l'aimait pas.",
+      "german": "Er liebte sie nicht."
+    },
+    {
+      "id": 49,
+      "english": "She did not hear me.",
+      "russian": "Она не слышала меня.",
+      "spanish": "Ella no me oyó.",
+      "french": "Elle ne m'a pas entendue.",
+      "german": "Sie hat mich nicht gehört."
+    },
+    {
+      "id": 50,
+      "english": "When does she start?",
+      "russian": "Когда она начинает?",
+      "spanish": "¿Cuándo empieza ella?",
+      "french": "Quand commence-t-elle ?",
+      "german": "Wann fängt sie an?"
+    },
+    {
+      "id": 51,
+      "english": "What will she bring?",
+      "russian": "Что она принесет?",
+      "spanish": "¿Qué traerá ella?",
+      "french": "Que va-t-elle apporter ?",
+      "german": "Was wird sie bringen?"
+    },
+    {
+      "id": 52,
+      "english": "Where did he look?",
+      "russian": "Куда он смотрел?",
+      "spanish": "¿Dónde miró él?",
+      "french": "Où a-t-il regardé ?",
+      "german": "Wo hat er hingeschaut?"
+    },
+    {
+      "id": 53,
+      "english": "He heard her.",
+      "russian": "Он слышал ее.",
+      "spanish": "Él la oyó.",
+      "french": "Il l'a entendue.",
+      "german": "Er hat sie gehört."
+    },
+    {
+      "id": 54,
+      "english": "When will they work?",
+      "russian": "Когда они будут работать?",
+      "spanish": "¿Cuándo trabajarán?",
+      "french": "Quand vont-ils travailler ?",
+      "german": "Wann werden sie arbeiten?"
+    },
+    {
+      "id": 55,
+      "english": "He will not hear her.",
+      "russian": "Он не услышит ее.",
+      "spanish": "No la oirá.",
+      "french": "Il ne l'entendra pas.",
+      "german": "Er wird sie nicht hören."
+    },
+    {
+      "id": 56,
+      "english": "He did not tell us.",
+      "russian": "Он не рассказал нам.",
+      "spanish": "No nos dijo.",
+      "french": "Il ne nous a pas dit.",
+      "german": "Er hat uns nicht erzählt."
+    },
+    {
+      "id": 57,
+      "english": "When will she come?",
+      "russian": "Когда она придет?",
+      "spanish": "¿Cuándo vendrá ella?",
+      "french": "Quand viendra-t-elle ?",
+      "german": "Wann wird sie kommen?"
+    },
+    {
+      "id": 58,
+      "english": "What does she make?",
+      "russian": "Что она делает?",
+      "spanish": "¿Qué hace ella?",
+      "french": "Que fait-elle ?",
+      "german": "Was macht sie?"
+    },
+    {
+      "id": 59,
+      "english": "Did he answer you?",
+      "russian": "Он ответил тебе?",
+      "spanish": "¿Te respondió?",
+      "french": "T'a-t-il répondu ?",
+      "german": "Hat er dir geantwortet?"
+    },
+    {
+      "id": 60,
+      "english": "We see them.",
+      "russian": "Мы видим их.",
+      "spanish": "Los vemos.",
+      "french": "Nous les voyons.",
+      "german": "Wir sehen sie."
+    }
+  ],
+  "exam": {
+    "sentences": [
+      {
+        "id": 1,
+        "sentence_en": "Did he write you?",
+        "translations": {
+          "ru": "Он писал тебе?",
+          "es": "¿Te escribió?",
+          "de": "Hat er dir geschrieben?",
+          "fr": "T'a-t-il écrit ?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Do", "Will", "Has"] },
+          { "correct": "he", "alternatives": ["she", "they", "we"] },
+          { "correct": "write", "alternatives": ["wrote", "tell", "say"] },
+          { "correct": "you", "alternatives": ["her", "him", "them"] }
+        ]
+      },
+      {
+        "id": 2,
+        "sentence_en": "Where did he sleep?",
+        "translations": {
+          "ru": "Где он спал?",
+          "es": "¿Dónde durmió?",
+          "de": "Wo hat er geschlafen?",
+          "fr": "Où a-t-il dormi ?"
+        },
+        "words": [
+          { "correct": "Where", "alternatives": ["What", "When", "Why"] },
+          { "correct": "did", "alternatives": ["does", "will", "has"] },
+          { "correct": "he", "alternatives": ["she", "they", "we"] },
+          { "correct": "sleep", "alternatives": ["live", "stay", "work"] }
+        ]
+      },
+      {
+        "id": 3,
+        "sentence_en": "He will see her.",
+        "translations": {
+          "ru": "Он увидит её.",
+          "es": "Él la verá.",
+          "de": "Er wird sie sehen.",
+          "fr": "Il la verra."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "will", "alternatives": ["did", "does", "has"] },
+          { "correct": "see", "alternatives": ["hear", "meet", "find"] },
+          { "correct": "her", "alternatives": ["him", "them", "us"] }
+        ]
+      },
+      {
+        "id": 4,
+        "sentence_en": "I will not hear you.",
+        "translations": {
+          "ru": "Я не услышу тебя.",
+          "es": "No te escucharé.",
+          "de": "Ich werde dich nicht hören.",
+          "fr": "Je ne t'entendrai pas."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "They"] },
+          { "correct": "will not", "alternatives": ["will", "do not", "did not"] },
+          { "correct": "hear", "alternatives": ["see", "tell", "find"] },
+          { "correct": "you", "alternatives": ["her", "him", "them"] }
+        ]
+      },
+      {
+        "id": 5,
+        "sentence_en": "What will she set?",
+        "translations": {
+          "ru": "Что она установит?",
+          "es": "¿Qué establecerá ella?",
+          "de": "Was wird sie einstellen?",
+          "fr": "Que va-t-elle installer ?"
+        },
+        "words": [
+          { "correct": "What", "alternatives": ["Where", "When", "Why"] },
+          { "correct": "will", "alternatives": ["did", "does", "has"] },
+          { "correct": "she", "alternatives": ["he", "they", "we"] },
+          { "correct": "set", "alternatives": ["put", "make", "get"] }
+        ]
+      },
+      {
+        "id": 6,
+        "sentence_en": "Will they leave you?",
+        "translations": {
+          "ru": "Они оставят тебя?",
+          "es": "¿Te dejarán?",
+          "de": "Werden sie dich verlassen?",
+          "fr": "Est-ce qu'ils te laisseront ?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Did", "Do", "Has"] },
+          { "correct": "they", "alternatives": ["he", "she", "we"] },
+          { "correct": "leave", "alternatives": ["find", "see", "tell"] },
+          { "correct": "you", "alternatives": ["her", "him", "them"] }
+        ]
+      },
+      {
+        "id": 7,
+        "sentence_en": "I understood him.",
+        "translations": {
+          "ru": "Я понял его.",
+          "es": "Lo entendí.",
+          "de": "Ich habe ihn verstanden.",
+          "fr": "Je l'ai compris."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "They"] },
+          { "correct": "understood", "alternatives": ["saw", "heard", "told"] },
+          { "correct": "him", "alternatives": ["her", "them", "you"] }
+        ]
+      },
+      {
+        "id": 8,
+        "sentence_en": "They will not forget us.",
+        "translations": {
+          "ru": "Они не забудут нас.",
+          "es": "No nos olvidarán.",
+          "de": "Sie werden uns nicht vergessen.",
+          "fr": "Ils ne nous oublieront pas."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["He", "She", "We"] },
+          { "correct": "will not", "alternatives": ["will", "do not", "did not"] },
+          { "correct": "forget", "alternatives": ["remember", "see", "know"] },
+          { "correct": "us", "alternatives": ["them", "him", "her"] }
+        ]
+      },
+      {
+        "id": 9,
+        "sentence_en": "We will not hear them.",
+        "translations": {
+          "ru": "Мы не услышим их.",
+          "es": "No los escucharemos.",
+          "de": "Wir werden sie nicht hören.",
+          "fr": "Nous ne les entendrons pas."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "He", "She"] },
+          { "correct": "will not", "alternatives": ["will", "do not", "did not"] },
+          { "correct": "hear", "alternatives": ["see", "tell", "find"] },
+          { "correct": "them", "alternatives": ["him", "her", "us"] }
+        ]
+      },
+      {
+        "id": 10,
+        "sentence_en": "We will ask him.",
+        "translations": {
+          "ru": "Мы спросим его.",
+          "es": "Le preguntaremos.",
+          "de": "Wir werden ihn fragen.",
+          "fr": "Nous lui demanderons."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "He", "She"] },
+          { "correct": "will", "alternatives": ["will not", "did", "do"] },
+          { "correct": "ask", "alternatives": ["tell", "see", "hear"] },
+          { "correct": "him", "alternatives": ["her", "them", "us"] }
+        ]
+      },
+      {
+        "id": 11,
+        "sentence_en": "She will not pay me.",
+        "translations": {
+          "ru": "Она не заплатит мне.",
+          "es": "No me pagará.",
+          "de": "Sie wird mich nicht bezahlen.",
+          "fr": "Elle ne me paiera pas."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "will not", "alternatives": ["will", "did", "does"] },
+          { "correct": "pay", "alternatives": ["see", "ask", "find"] },
+          { "correct": "me", "alternatives": ["him", "her", "us"] }
+        ]
+      },
+      {
+        "id": 12,
+        "sentence_en": "What does he know?",
+        "translations": {
+          "ru": "Что он знает?",
+          "es": "¿Qué sabe él?",
+          "de": "Was weiß er?",
+          "fr": "Que sait-il ?"
+        },
+        "words": [
+          { "correct": "What", "alternatives": ["Where", "When", "Why"] },
+          { "correct": "does", "alternatives": ["did", "will", "is"] },
+          { "correct": "he", "alternatives": ["she", "they", "we"] },
+          { "correct": "know", "alternatives": ["see", "find", "ask"] }
+        ]
+      },
+      {
+        "id": 13,
+        "sentence_en": "I see you.",
+        "translations": {
+          "ru": "Я вижу тебя.",
+          "es": "Te veo.",
+          "de": "Ich sehe dich.",
+          "fr": "Je te vois."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "They"] },
+          { "correct": "see", "alternatives": ["hear", "find", "ask"] },
+          { "correct": "you", "alternatives": ["him", "her", "us"] }
+        ]
+      },
+      {
+        "id": 14,
+        "sentence_en": "What did he say?",
+        "translations": {
+          "ru": "Что он сказал?",
+          "es": "¿Qué dijo él?",
+          "de": "Was hat er gesagt?",
+          "fr": "Qu'a-t-il dit ?"
+        },
+        "words": [
+          { "correct": "What", "alternatives": ["Where", "When", "Why"] },
+          { "correct": "did", "alternatives": ["does", "will", "is"] },
+          { "correct": "he", "alternatives": ["she", "they", "we"] },
+          { "correct": "say", "alternatives": ["see", "find", "ask"] }
+        ]
+      },
+      {
+        "id": 15,
+        "sentence_en": "When does she work?",
+        "translations": {
+          "ru": "Когда она работает?",
+          "es": "¿Cuándo trabaja ella?",
+          "de": "Wann arbeitet sie?",
+          "fr": "Quand travaille-t-elle ?"
+        },
+        "words": [
+          { "correct": "When", "alternatives": ["What", "Where", "Why"] },
+          { "correct": "does", "alternatives": ["did", "will", "is"] },
+          { "correct": "she", "alternatives": ["he", "they", "we"] },
+          { "correct": "work", "alternatives": ["see", "find", "ask"] }
+        ]
+      },
+      {
+        "id": 16,
+        "sentence_en": "What did he see?",
+        "translations": {
+          "ru": "Что он видел?",
+          "es": "¿Qué vio él?",
+          "de": "Was hat er gesehen?",
+          "fr": "Qu'a-t-il vu ?"
+        },
+        "words": [
+          { "correct": "What", "alternatives": ["Where", "When", "Why"] },
+          { "correct": "did", "alternatives": ["does", "will", "is"] },
+          { "correct": "he", "alternatives": ["she", "they", "we"] },
+          { "correct": "see", "alternatives": ["say", "find", "ask"] }
+        ]
+      },
+      {
+        "id": 17,
+        "sentence_en": "What will Jane buy?",
+        "translations": {
+          "ru": "Что купит Джейн?",
+          "es": "¿Qué comprará Jane?",
+          "de": "Was wird Jane kaufen?",
+          "fr": "Que va acheter Jane ?"
+        },
+        "words": [
+          { "correct": "What", "alternatives": ["Where", "When", "Why"] },
+          { "correct": "will", "alternatives": ["did", "does", "is"] },
+          { "correct": "Jane", "alternatives": ["Mary", "Jack", "Alex"] },
+          { "correct": "buy", "alternatives": ["find", "see", "ask"] }
+        ]
+      },
+      {
+        "id": 18,
+        "sentence_en": "When will Mary work?",
+        "translations": {
+          "ru": "Когда Мэри будет работать?",
+          "es": "¿Cuándo trabajará Mary?",
+          "de": "Wann wird Mary arbeiten?",
+          "fr": "Quand Mary travaillera-t-elle ?"
+        },
+        "words": [
+          { "correct": "When", "alternatives": ["What", "Where", "Why"] },
+          { "correct": "will", "alternatives": ["did", "does", "is"] },
+          { "correct": "Mary", "alternatives": ["Jane", "Jack", "Alex"] },
+          { "correct": "work", "alternatives": ["see", "find", "ask"] }
+        ]
+      },
+      {
+        "id": 19,
+        "sentence_en": "Will they forget us?",
+        "translations": {
+          "ru": "Они забудут нас?",
+          "es": "¿Nos olvidarán?",
+          "de": "Werden sie uns vergessen?",
+          "fr": "Vont-ils nous oublier ?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Did", "Does", "Is"] },
+          { "correct": "they", "alternatives": ["he", "she", "we"] },
+          { "correct": "forget", "alternatives": ["find", "see", "ask"] },
+          { "correct": "us", "alternatives": ["them", "him", "her"] }
+        ]
+      },
+      {
+        "id": 20,
+        "sentence_en": "I did not ask her.",
+        "translations": {
+          "ru": "Я не спросил ее.",
+          "es": "No le pregunté.",
+          "de": "Ich habe sie nicht gefragt.",
+          "fr": "Je ne lui ai pas demandé."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "They"] },
+          { "correct": "did not", "alternatives": ["do not", "will not", "does not"] },
+          { "correct": "ask", "alternatives": ["see", "find", "tell"] },
+          { "correct": "her", "alternatives": ["him", "them", "us"] }
+        ]
+      },
+      {
+        "id": 21,
+        "sentence_en": "What did she hear?",
+        "translations": {
+          "ru": "Что она слышала?",
+          "es": "¿Qué oyó ella?",
+          "de": "Was hat sie gehört?",
+          "fr": "Qu'a-t-elle entendu ?"
+        },
+        "words": [
+          { "correct": "What", "alternatives": ["Where", "When", "Why"] },
+          { "correct": "did", "alternatives": ["does", "will", "is"] },
+          { "correct": "she", "alternatives": ["he", "they", "we"] },
+          { "correct": "hear", "alternatives": ["see", "find", "ask"] }
+        ]
+      },
+      {
+        "id": 22,
+        "sentence_en": "What does Mike see?",
+        "translations": {
+          "ru": "Что видит Майк?",
+          "es": "¿Qué ve Mike?",
+          "de": "Was sieht Mike?",
+          "fr": "Que voit Mike ?"
+        },
+        "words": [
+          { "correct": "What", "alternatives": ["Where", "When", "Why"] },
+          { "correct": "does", "alternatives": ["did", "will", "is"] },
+          { "correct": "Mike", "alternatives": ["Jane", "Mary", "Jack"] },
+          { "correct": "see", "alternatives": ["hear", "find", "ask"] }
+        ]
+      },
+      {
+        "id": 23,
+        "sentence_en": "What does she take?",
+        "translations": {
+          "ru": "Что она берет?",
+          "es": "¿Qué toma ella?",
+          "de": "Was nimmt sie?",
+          "fr": "Que prend-elle ?"
+        },
+        "words": [
+          { "correct": "What", "alternatives": ["Where", "When", "Why"] },
+          { "correct": "does", "alternatives": ["did", "will", "is"] },
+          { "correct": "she", "alternatives": ["he", "they", "we"] },
+          { "correct": "take", "alternatives": ["see", "find", "ask"] }
+        ]
+      },
+      {
+        "id": 24,
+        "sentence_en": "He asked her.",
+        "translations": {
+          "ru": "Он спросил ее.",
+          "es": "Él le preguntó.",
+          "de": "Er hat sie gefragt.",
+          "fr": "Il lui a demandé."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "asked", "alternatives": ["saw", "heard", "told"] },
+          { "correct": "her", "alternatives": ["him", "them", "us"] }
+        ]
+      },
+      {
+        "id": 25,
+        "sentence_en": "What will he find?",
+        "translations": {
+          "ru": "Что он найдет?",
+          "es": "¿Qué encontrará él?",
+          "de": "Was wird er finden?",
+          "fr": "Que va-t-il trouver ?"
+        },
+        "words": [
+          { "correct": "What", "alternatives": ["Where", "When", "Why"] },
+          { "correct": "will", "alternatives": ["did", "does", "is"] },
+          { "correct": "he", "alternatives": ["she", "they", "we"] },
+          { "correct": "find", "alternatives": ["see", "ask", "tell"] }
+        ]
+      },
+      {
+        "id": 26,
+        "sentence_en": "What do they put?",
+        "translations": {
+          "ru": "Что они кладут?",
+          "es": "¿Qué ponen?",
+          "de": "Was legen sie hin?",
+          "fr": "Que mettent-ils ?"
+        },
+        "words": [
+          { "correct": "What", "alternatives": ["Where", "When", "Why"] },
+          { "correct": "do", "alternatives": ["did", "will", "is"] },
+          { "correct": "they", "alternatives": ["he", "she", "we"] },
+          { "correct": "put", "alternatives": ["see", "find", "ask"] }
+        ]
+      },
+      {
+        "id": 27,
+        "sentence_en": "I paid them.",
+        "translations": {
+          "ru": "Я заплатил им.",
+          "es": "Les pagué.",
+          "de": "Ich habe sie bezahlt.",
+          "fr": "Je les ai payés"
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "They"] },
+          { "correct": "paid", "alternatives": ["asked", "saw", "found"] },
+          { "correct": "them", "alternatives": ["him", "her", "us"] }
+        ]
+      },
+      {
+        "id": 28,
+        "sentence_en": "We will not tell her.",
+        "translations": {
+          "ru": "Мы не расскажем ей.",
+          "es": "No le diremos.",
+          "de": "Wir werden ihr nicht erzählen.",
+          "fr": "Nous ne lui dirons pas."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "He", "She"] },
+          { "correct": "will not", "alternatives": ["will", "did", "does"] },
+          { "correct": "tell", "alternatives": ["see", "find", "ask"] },
+          { "correct": "her", "alternatives": ["him", "them", "us"] }
+        ]
+      },
+      {
+        "id": 29,
+        "sentence_en": "Did she forget him?",
+        "translations": {
+          "ru": "Она забыла его?",
+          "es": "¿Lo olvidó ella?",
+          "de": "Hat sie ihn vergessen?",
+          "fr": "L'a-t-elle oublié ?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Does", "Will", "Is"] },
+          { "correct": "she", "alternatives": ["he", "they", "we"] },
+          { "correct": "forget", "alternatives": ["find", "see", "ask"] },
+          { "correct": "him", "alternatives": ["her", "them", "us"] }
+        ]
+      },
+      {
+        "id": 30,
+        "sentence_en": "I will not forget you.",
+        "translations": {
+          "ru": "Я не забуду тебя.",
+          "es": "No te olvidaré.",
+          "de": "Ich werde dich nicht vergessen.",
+          "fr": "Je ne t'oublierai pas."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "They"] },
+          { "correct": "will not", "alternatives": ["will", "did", "does"] },
+          { "correct": "forget", "alternatives": ["find", "see", "ask"] },
+          { "correct": "you", "alternatives": ["him", "her", "us"] }
+        ]
+      },
+      {
+        "id": 31,
+        "sentence_en": "We did not write him.",
+        "translations": {
+          "ru": "Мы не писали ему.",
+          "es": "No le escribimos.",
+          "de": "Wir haben ihm nicht geschrieben.",
+          "fr": "Nous ne lui avons pas écrit."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "He", "She"] },
+          { "correct": "did not", "alternatives": ["do not", "will not", "does not"] },
+          { "correct": "write", "alternatives": ["see", "find", "ask"] },
+          { "correct": "him", "alternatives": ["her", "them", "us"] }
+        ]
+      },
+      {
+        "id": 32,
+        "sentence_en": "Where will they sleep?",
+        "translations": {
+          "ru": "Где они будут спать?",
+          "es": "¿Dónde dormirán?",
+          "de": "Wo werden sie schlafen?",
+          "fr": "Où vont-ils dormir ?"
+        },
+        "words": [
+          { "correct": "Where", "alternatives": ["What", "When", "Why"] },
+          { "correct": "will", "alternatives": ["did", "does", "is"] },
+          { "correct": "they", "alternatives": ["he", "she", "we"] },
+          { "correct": "sleep", "alternatives": ["see", "find", "ask"] }
+        ]
+      },
+      {
+        "id": 33,
+        "sentence_en": "We did not forget them.",
+        "translations": {
+          "ru": "Мы не забыли их.",
+          "es": "No los olvidamos.",
+          "de": "Wir haben sie nicht vergessen.",
+          "fr": "Nous ne les avons pas oubliés."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "He", "She"] },
+          { "correct": "did not", "alternatives": ["do not", "will not", "does not"] },
+          { "correct": "forget", "alternatives": ["find", "see", "ask"] },
+          { "correct": "them", "alternatives": ["him", "her", "us"] }
+        ]
+      },
+      {
+        "id": 34,
+        "sentence_en": "What will Alex know?",
+        "translations": {
+          "ru": "Что Алекс будет знать?",
+          "es": "¿Qué sabrá Alex?",
+          "de": "Was wird Alex wissen?",
+          "fr": "Que saura Alex ?"
+        },
+        "words": [
+          { "correct": "What", "alternatives": ["Where", "When", "Why"] },
+          { "correct": "will", "alternatives": ["did", "does", "is"] },
+          { "correct": "Alex", "alternatives": ["Jane", "Mary", "Jack"] },
+          { "correct": "know", "alternatives": ["see", "find", "ask"] }
+        ]
+      },
+      {
+        "id": 35,
+        "sentence_en": "She will not ask him.",
+        "translations": {
+          "ru": "Она не спросит его.",
+          "es": "No le preguntará.",
+          "de": "Sie wird ihn nicht fragen.",
+          "fr": "Elle ne lui demandera pas."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "will not", "alternatives": ["will", "did", "does"] },
+          { "correct": "ask", "alternatives": ["see", "find", "tell"] },
+          { "correct": "him", "alternatives": ["her", "them", "us"] }
+        ]
+      },
+      {
+        "id": 36,
+        "sentence_en": "Where will he live?",
+        "translations": {
+          "ru": "Где он будет жить?",
+          "es": "¿Dónde vivirá él?",
+          "de": "Wo wird er leben?",
+          "fr": "Où va-t-il vivre ?"
+        },
+        "words": [
+          { "correct": "Where", "alternatives": ["What", "When", "Why"] },
+          { "correct": "will", "alternatives": ["did", "does", "is"] },
+          { "correct": "he", "alternatives": ["she", "they", "we"] },
+          { "correct": "live", "alternatives": ["see", "find", "ask"] }
+        ]
+      },
+      {
+        "id": 37,
+        "sentence_en": "What do they read?",
+        "translations": {
+          "ru": "Что они читают?",
+          "es": "¿Qué leen?",
+          "de": "Was lesen sie?",
+          "fr": "Que lisent-ils ?"
+        },
+        "words": [
+          { "correct": "What", "alternatives": ["Where", "When", "Why"] },
+          { "correct": "do", "alternatives": ["did", "will", "is"] },
+          { "correct": "they", "alternatives": ["he", "she", "we"] },
+          { "correct": "read", "alternatives": ["see", "find", "ask"] }
+        ]
+      },
+      {
+        "id": 38,
+        "sentence_en": "He did not see her.",
+        "translations": {
+          "ru": "Он не видел ее.",
+          "es": "Él no la vio.",
+          "de": "Er hat sie nicht gesehen.",
+          "fr": "Il ne l'a pas vue."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "did not", "alternatives": ["do not", "will not", "does not"] },
+          { "correct": "see", "alternatives": ["find", "ask", "tell"] },
+          { "correct": "her", "alternatives": ["him", "them", "us"] }
+        ]
+      },
+      {
+        "id": 39,
+        "sentence_en": "Where will they study?",
+        "translations": {
+          "ru": "Где они будут учиться?",
+          "es": "¿Dónde estudiarán?",
+          "de": "Wo werden sie studieren?",
+          "fr": "Où vont-ils étudier ?"
+        },
+        "words": [
+          { "correct": "Where", "alternatives": ["What", "When", "Why"] },
+          { "correct": "will", "alternatives": ["did", "does", "is"] },
+          { "correct": "they", "alternatives": ["he", "she", "we"] },
+          { "correct": "study", "alternatives": ["see", "find", "ask"] }
+        ]
+      },
+      {
+        "id": 40,
+        "sentence_en": "We will not show her.",
+        "translations": {
+          "ru": "Мы не покажем ей.",
+          "es": "No le mostraremos.",
+          "de": "Wir werden ihr nicht zeigen.",
+          "fr": "Nous ne lui montrerons pas."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "He", "She"] },
+          { "correct": "will not", "alternatives": ["will", "did", "does"] },
+          { "correct": "show", "alternatives": ["see", "find", "ask"] },
+          { "correct": "her", "alternatives": ["him", "them", "us"] }
+        ]
+      },
+      {
+        "id": 41,
+        "sentence_en": "What does she get?",
+        "translations": {
+          "ru": "Что она получает?",
+          "es": "¿Qué obtiene ella?",
+          "de": "Was bekommt sie?",
+          "fr": "Que reçoit-elle ?"
+        },
+        "words": [
+          { "correct": "What", "alternatives": ["Where", "When", "Why"] },
+          { "correct": "does", "alternatives": ["did", "will", "is"] },
+          { "correct": "she", "alternatives": ["he", "they", "we"] },
+          { "correct": "get", "alternatives": ["see", "find", "ask"] }
+        ]
+      },
+      {
+        "id": 42,
+        "sentence_en": "She heard him.",
+        "translations": {
+          "ru": "Она слышала его.",
+          "es": "Ella lo oyó.",
+          "de": "Sie hat ihn gehört.",
+          "fr": "Elle l'a entendu."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "heard", "alternatives": ["saw", "found", "asked"] },
+          { "correct": "him", "alternatives": ["her", "them", "us"] }
+        ]
+      },
+      {
+        "id": 43,
+        "sentence_en": "When did they start?",
+        "translations": {
+          "ru": "Когда они начали?",
+          "es": "¿Cuándo empezaron?",
+          "de": "Wann haben sie angefangen?",
+          "fr": "Quand ont-ils commencé ?"
+        },
+        "words": [
+          { "correct": "When", "alternatives": ["What", "Where", "Why"] },
+          { "correct": "did", "alternatives": ["does", "will", "is"] },
+          { "correct": "they", "alternatives": ["he", "she", "we"] },
+          { "correct": "start", "alternatives": ["see", "find", "ask"] }
+        ]
+      },
+      {
+        "id": 44,
+        "sentence_en": "What did they find?",
+        "translations": {
+          "ru": "Что они нашли?",
+          "es": "¿Qué encontraron?",
+          "de": "Was haben sie gefunden?",
+          "fr": "Qu'ont-ils trouvé ?"
+        },
+        "words": [
+          { "correct": "What", "alternatives": ["Where", "When", "Why"] },
+          { "correct": "did", "alternatives": ["does", "will", "is"] },
+          { "correct": "they", "alternatives": ["he", "she", "we"] },
+          { "correct": "find", "alternatives": ["see", "ask", "tell"] }
+        ]
+      },
+      {
+        "id": 45,
+        "sentence_en": "When will Jack study?",
+        "translations": {
+          "ru": "Когда Джек будет учиться?",
+          "es": "¿Cuándo estudiará Jack?",
+          "de": "Wann wird Jack studieren?",
+          "fr": "Quand Jack va-t-il étudier ?"
+        },
+        "words": [
+          { "correct": "When", "alternatives": ["What", "Where", "Why"] },
+          { "correct": "will", "alternatives": ["did", "does", "is"] },
+          { "correct": "Jack", "alternatives": ["Jane", "Mary", "Alex"] },
+          { "correct": "study", "alternatives": ["see", "find", "ask"] }
+        ]
+      },
+      {
+        "id": 46,
+        "sentence_en": "He will not ask her.",
+        "translations": {
+          "ru": "Он не спросит ее.",
+          "es": "No le preguntará.",
+          "de": "Er wird sie nicht fragen.",
+          "fr": "Il ne lui demandera pas."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "will not", "alternatives": ["will", "did", "does"] },
+          { "correct": "ask", "alternatives": ["see", "find", "tell"] },
+          { "correct": "her", "alternatives": ["him", "them", "us"] }
+        ]
+      },
+      {
+        "id": 47,
+        "sentence_en": "We found.",
+        "translations": {
+          "ru": "Мы нашли.",
+          "es": "Encontramos.",
+          "de": "Wir haben gefunden.",
+          "fr": "Nous avons trouvé."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "He", "She"] },
+          { "correct": "found", "alternatives": ["saw", "heard", "asked"] }
+        ]
+      },
+      {
+        "id": 48,
+        "sentence_en": "He did not love her.",
+        "translations": {
+          "ru": "Он не любил ее.",
+          "es": "Él no la amaba.",
+          "de": "Er liebte sie nicht.",
+          "fr": "Il ne l'aimait pas."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "did not", "alternatives": ["do not", "will not", "does not"] },
+          { "correct": "love", "alternatives": ["see", "find", "ask"] },
+          { "correct": "her", "alternatives": ["him", "them", "us"] }
+        ]
+      },
+      {
+        "id": 49,
+        "sentence_en": "She did not hear me.",
+        "translations": {
+          "ru": "Она не слышала меня.",
+          "es": "Ella no me oyó.",
+          "de": "Sie hat mich nicht gehört.",
+          "fr": "Elle ne m'a pas entendue."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "did not", "alternatives": ["do not", "will not", "does not"] },
+          { "correct": "hear", "alternatives": ["see", "find", "ask"] },
+          { "correct": "me", "alternatives": ["him", "her", "us"] }
+        ]
+      },
+      {
+        "id": 50,
+        "sentence_en": "When does she start?",
+        "translations": {
+          "ru": "Когда она начинает?",
+          "es": "¿Cuándo empieza ella?",
+          "de": "Wann fängt sie an?",
+          "fr": "Quand commence-t-elle ?"
+        },
+        "words": [
+          { "correct": "When", "alternatives": ["What", "Where", "Why"] },
+          { "correct": "does", "alternatives": ["did", "will", "is"] },
+          { "correct": "she", "alternatives": ["he", "they", "we"] },
+          { "correct": "start", "alternatives": ["see", "find", "ask"] }
+        ]
+      },
+      {
+        "id": 51,
+        "sentence_en": "What will she bring?",
+        "translations": {
+          "ru": "Что она принесет?",
+          "es": "¿Qué traerá ella?",
+          "de": "Was wird sie bringen?",
+          "fr": "Que va-t-elle apporter ?"
+        },
+        "words": [
+          { "correct": "What", "alternatives": ["Where", "When", "Why"] },
+          { "correct": "will", "alternatives": ["did", "does", "is"] },
+          { "correct": "she", "alternatives": ["he", "they", "we"] },
+          { "correct": "bring", "alternatives": ["find", "see", "ask"] }
+        ]
+      },
+      {
+        "id": 52,
+        "sentence_en": "Where did he look?",
+        "translations": {
+          "ru": "Куда он смотрел?",
+          "es": "¿Dónde miró él?",
+          "de": "Wo hat er hingeschaut?",
+          "fr": "Où a-t-il regardé ?"
+        },
+        "words": [
+          { "correct": "Where", "alternatives": ["What", "When", "Why"] },
+          { "correct": "did", "alternatives": ["does", "will", "is"] },
+          { "correct": "he", "alternatives": ["she", "they", "we"] },
+          { "correct": "look", "alternatives": ["see", "find", "ask"] }
+        ]
+      },
+      {
+        "id": 53,
+        "sentence_en": "He heard her.",
+        "translations": {
+          "ru": "Он слышал ее.",
+          "es": "Él la oyó.",
+          "de": "Er hat sie gehört.",
+          "fr": "Il l'a entendue."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "heard", "alternatives": ["saw", "found", "asked"] },
+          { "correct": "her", "alternatives": ["him", "them", "us"] }
+        ]
+      },
+      {
+        "id": 54,
+        "sentence_en": "When will they work?",
+        "translations": {
+          "ru": "Когда они будут работать?",
+          "es": "¿Cuándo trabajarán?",
+          "de": "Wann werden sie arbeiten?",
+          "fr": "Quand vont-ils travailler ?"
+        },
+        "words": [
+          { "correct": "When", "alternatives": ["What", "Where", "Why"] },
+          { "correct": "will", "alternatives": ["did", "does", "is"] },
+          { "correct": "they", "alternatives": ["he", "she", "we"] },
+          { "correct": "work", "alternatives": ["see", "find", "ask"] }
+        ]
+      },
+      {
+        "id": 55,
+        "sentence_en": "He will not hear her.",
+        "translations": {
+          "ru": "Он не услышит ее.",
+          "es": "No la oirá.",
+          "de": "Er wird sie nicht hören.",
+          "fr": "Il ne l'entendra pas."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "will not", "alternatives": ["will", "did", "does"] },
+          { "correct": "hear", "alternatives": ["see", "find", "ask"] },
+          { "correct": "her", "alternatives": ["him", "them", "us"] }
+        ]
+      },
+      {
+        "id": 56,
+        "sentence_en": "He did not tell us.",
+        "translations": {
+          "ru": "Он не рассказал нам.",
+          "es": "No nos dijo.",
+          "de": "Er hat uns nicht erzählt.",
+          "fr": "Il ne nous a pas dit."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "did not", "alternatives": ["do not", "will not", "does not"] },
+          { "correct": "tell", "alternatives": ["see", "find", "ask"] },
+          { "correct": "us", "alternatives": ["them", "him", "her"] }
+        ]
+      },
+      {
+        "id": 57,
+        "sentence_en": "When will she come?",
+        "translations": {
+          "ru": "Когда она придет?",
+          "es": "¿Cuándo vendrá ella?",
+          "de": "Wann wird sie kommen?",
+          "fr": "Quand viendra-t-elle ?"
+        },
+        "words": [
+          { "correct": "When", "alternatives": ["What", "Where", "Why"] },
+          { "correct": "will", "alternatives": ["did", "does", "is"] },
+          { "correct": "she", "alternatives": ["he", "they", "we"] },
+          { "correct": "come", "alternatives": ["see", "find", "ask"] }
+        ]
+      },
+      {
+        "id": 58,
+        "sentence_en": "What does she make?",
+        "translations": {
+          "ru": "Что она делает?",
+          "es": "¿Qué hace ella?",
+          "de": "Was macht sie?",
+          "fr": "Que fait-elle ?"
+        },
+        "words": [
+          { "correct": "What", "alternatives": ["Where", "When", "Why"] },
+          { "correct": "does", "alternatives": ["did", "will", "is"] },
+          { "correct": "she", "alternatives": ["he", "they", "we"] },
+          { "correct": "make", "alternatives": ["see", "find", "ask"] }
+        ]
+      },
+      {
+        "id": 59,
+        "sentence_en": "Did he answer you?",
+        "translations": {
+          "ru": "Он ответил тебе?",
+          "es": "¿Te respondió?",
+          "de": "Hat er dir geantwortet?",
+          "fr": "T'a-t-il répondu ?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Does", "Will", "Is"] },
+          { "correct": "he", "alternatives": ["she", "they", "we"] },
+          { "correct": "answer", "alternatives": ["see", "find", "ask"] },
+          { "correct": "you", "alternatives": ["him", "her", "us"] }
+        ]
+      },
+      {
+        "id": 60,
+        "sentence_en": "We see them.",
+        "translations": {
+          "ru": "Мы видим их.",
+          "es": "Los vemos.",
+          "de": "Wir sehen sie.",
+          "fr": "Nous les voyons."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "He", "She"] },
+          { "correct": "see", "alternatives": ["hear", "find", "ask"] },
+          { "correct": "them", "alternatives": ["him", "her", "us"] }
+        ]
+      }
+    ]
+  }
+}

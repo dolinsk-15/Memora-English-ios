@@ -1,0 +1,2375 @@
+{
+  "id": 4,
+  "title": {
+    "english": "Personal Pronouns and Possessive Adjectives",
+    "russian": "Личные местоимения и притяжательные прилагательные",
+    "spanish": "Pronombres Personales y Adjetivos Posesivos",
+    "french": "Pronoms Personnels et Adjectifs Possessifs",
+    "german": "Personalpronomen und Possessivbegleiter"
+  },
+  "description": {
+    "english": "In English, possessive adjectives show ownership or relationship. They answer the question 'Whose?' and always come before a noun. Unlike in many other languages, English possessive adjectives do not change form based on the gender or number of the object owned.",
+    "russian": "В английском языке притяжательные прилагательные показывают принадлежность или отношение. Они отвечают на вопрос 'Чей?' и всегда стоят перед существительным. В отличие от русского языка, английские притяжательные прилагательные не изменяются по родам и числам.",
+    "spanish": "En inglés, los adjetivos posesivos muestran propiedad o relación. Responden a la pregunta '¿De quién?' y siempre van antes del sustantivo. A diferencia del español, los adjetivos posesivos en inglés no cambian de forma según el género o número del objeto poseído.",
+    "french": "En anglais, on utilise des adjectifs possessifs pour indiquer à qui appartient quelque chose. Ils répondent à la question « à qui ? » (whose? en anglais). Les adjectifs possessifs anglais se placent toujours avant le nom et ne s'accordent pas en genre ni en nombre, contrairement au français.",
+    "german": "Im Englischen verwendet man Possessivbegleiter (engl. possessive adjectives), um Besitz oder Zugehörigkeit auszudrücken. Sie stehen immer vor dem Nomen und ändern sich nicht nach Geschlecht oder Fall – anders als im Deutschen."
+  },
+  "detailedDescription": {
+    "english": {
+      "title": "Lesson 4 — Personal Pronouns and Possessive Adjectives",
+      "sections": [
+        {
+          "type": "text",
+          "content": "In English, possessive adjectives show ownership or relationship. They answer the question 'Whose?' and always come before a noun. Unlike in many other languages, English possessive adjectives do not change form based on the gender or number of the object owned."
+        },
+        {
+          "type": "table",
+          "headers": ["Personal Pronoun (Who?)", "Possessive Adjective (Whose?)", "+ Object"],
+          "rows": [
+            ["I", "My", "Book"],
+            ["You", "Your", "Son"],
+            ["He", "His", "Car"],
+            ["She", "Her", "Girl"],
+            ["We", "Our", "Student"],
+            ["They", "Their", "Bag"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Examples"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "It is my book.",
+            "He is her son.",
+            "I love my wife."
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Note"
+        },
+        {
+          "type": "text",
+          "content": "English possessive adjectives do not change form based on the gender or number of the object owned. The form only depends on who the possessor is."
+        }
+      ]
+    },
+    "russian": {
+      "title": "Урок 4 — Личные местоимения и притяжательные прилагательные",
+      "sections": [
+        {
+          "type": "text",
+          "content": "В английском языке притяжательные прилагательные показывают принадлежность или отношение. Они отвечают на вопрос 'Чей?' и всегда стоят перед существительным. В отличие от русского языка, английские притяжательные прилагательные не изменяются по родам и числам."
+        },
+        {
+          "type": "table",
+          "headers": ["Личное местоимение (Кто?)", "Притяжательное прилагательное (Чей?)", "+ Объект (на английском)"],
+          "rows": [
+            ["I – Я", "My – Мой/Моя/Моё/Мои", "Book"],
+            ["You – Ты", "Your – Твой/Твоя/Твоё/Твои", "Son"],
+            ["He – Он", "His – Его", "Car"],
+            ["She – Она", "Her – Её", "Girl"],
+            ["We – Мы", "Our – Наш/Наша/Наше/Наши", "Student"],
+            ["They – Они", "Their – Их", "Bag"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Примеры"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "It is my book. - Это моя книга.",
+            "He is her son. - Он её сын.",
+            "I love my wife. - Я люблю свою жену."
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Примечание"
+        },
+        {
+          "type": "text",
+          "content": "В отличие от русского языка, притяжательные прилагательные в английском не изменяются в зависимости от рода и числа объекта. Их форма зависит только от того, кто является владельцем."
+        }
+      ]
+    },
+    "spanish": {
+      "title": "Lección 4 — Pronombres Personales y Adjetivos Posesivos",
+      "sections": [
+        {
+          "type": "text",
+          "content": "En inglés, los adjetivos posesivos muestran propiedad o relación. Responden a la pregunta '¿De quién?' y siempre van antes del sustantivo. A diferencia del español, los adjetivos posesivos en inglés no cambian de forma según el género o número del objeto poseído."
+        },
+        {
+          "type": "table",
+          "headers": ["Pronombre Personal (¿Quién?)", "Adjetivo Posesivo (¿De quién?)", "+ Objeto (en inglés)"],
+          "rows": [
+            ["I – Yo", "My – Mi/Mis", "Book"],
+            ["You – Tú/Usted", "Your – Tu/Su", "Son"],
+            ["He – Él", "His – Su (de él)", "Car"],
+            ["She – Ella", "Her – Su (de ella)", "Girl"],
+            ["We – Nosotros/as", "Our – Nuestro/a/os/as", "Student"],
+            ["They – Ellos/Ellas", "Their – Su/Sus (de ellos/ellas)", "Bag"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Ejemplos"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "It is my book. - Es mi libro.",
+            "He is her son. - Él es su hijo.",
+            "I love my wife. - Amo a mi esposa."
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Nota"
+        },
+        {
+          "type": "text",
+          "content": "A diferencia del español, los adjetivos posesivos en inglés no cambian según el género o número del objeto poseído. Solo dependen de quién es el poseedor."
+        }
+      ]
+    },
+    "french": {
+      "title": "Leçon 4 — Pronoms Personnels et Adjectifs Possessifs",
+      "sections": [
+        {
+          "type": "text",
+          "content": "En anglais, on utilise des adjectifs possessifs pour indiquer à qui appartient quelque chose. Ils répondent à la question « à qui ? » (whose? en anglais). Les adjectifs possessifs anglais se placent toujours avant le nom et ne s'accordent pas en genre ni en nombre, contrairement au français."
+        },
+        {
+          "type": "table",
+          "headers": ["Pronom Personnel (Sujet)", "Adjectif Possessif", "+ Objet (en anglais)"],
+          "rows": [
+            ["I – Je", "My – Mon/Ma/Mes", "Book"],
+            ["You – Tu/Vous", "Your – Ton/Ta/Tes, Votre/Vos", "Son"],
+            ["He – Il", "His – Son/Sa/Ses (à lui)", "Car"],
+            ["She – Elle", "Her – Son/Sa/Ses (à elle)", "Girl"],
+            ["We – Nous", "Our – Notre/Nos", "Student"],
+            ["They – Ils/Elles", "Their – Leur/Leurs", "Bag"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Exemples"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "It is my book. - C'est mon livre.",
+            "He is her son. - C'est son fils. (à elle)",
+            "I love my wife. - J'aime ma femme."
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Note"
+        },
+        {
+          "type": "text",
+          "content": "En anglais, l'adjectif possessif ne varie pas, même si le nom est féminin ou pluriel. Il dépend uniquement de la personne qui possède, et non de ce qui est possédé."
+        }
+      ]
+    },
+    "german": {
+      "title": "Lektion 4 — Personalpronomen und Possessivbegleiter",
+      "sections": [
+        {
+          "type": "text",
+          "content": "Im Englischen verwendet man Possessivbegleiter (engl. possessive adjectives), um Besitz oder Zugehörigkeit auszudrücken. Sie stehen immer vor dem Nomen und ändern sich nicht nach Geschlecht oder Fall – anders als im Deutschen."
+        },
+        {
+          "type": "table",
+          "headers": ["Personalpronomen (Wer?)", "Possessivbegleiter (Wessen?)", "+ Objekt (auf Englisch)"],
+          "rows": [
+            ["I – Ich", "My – Mein(e)", "Book"],
+            ["You – Du/Sie", "Your – Dein(e)/Ihr(e)", "Son"],
+            ["He – Er", "His – Sein(e)", "Car"],
+            ["She – Sie", "Her – Ihr(e)", "Girl"],
+            ["We – Wir", "Our – Unser(e)", "Student"],
+            ["They – Sie (pl.)", "Their – Ihr(e)", "Bag"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Beispiele"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "It is my book. - Das ist mein Buch.",
+            "He is her son. - Er ist ihr Sohn.",
+            "I love my wife. - Ich liebe meine Frau."
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Hinweis"
+        },
+        {
+          "type": "text",
+          "content": "Im Gegensatz zum Deutschen verändert sich der Possessivbegleiter im Englischen nicht nach Geschlecht oder Fall. 'Her book' und 'Her brother' haben beide 'her', obwohl es im Deutschen 'ihr Buch' und 'ihren Bruder' wäre."
+        }
+      ]
+    }
+  },
+
+  "vocabulary": {
+    "firstList": [
+      {
+        "number": 1,
+        "english": "my",
+        "russian": "мой",
+        "spanish": "mi",
+        "french": "mon",
+        "german": "mein"
+      },
+      {
+        "number": 2,
+        "english": "his",
+        "russian": "его",
+        "spanish": "su",
+        "french": "son",
+        "german": "sein"
+      },
+      {
+        "number": 3,
+        "english": "her",
+        "russian": "её",
+        "spanish": "su",
+        "french": "sa",
+        "german": "ihr"
+      },
+      {
+        "number": 4,
+        "english": "your",
+        "russian": "твой",
+        "spanish": "tu",
+        "french": "ton",
+        "german": "dein"
+      },
+      {
+        "number": 5,
+        "english": "our",
+        "russian": "наш",
+        "spanish": "nuestro",
+        "french": "notre",
+        "german": "unser"
+      },
+      {
+        "number": 6,
+        "english": "their",
+        "russian": "их",
+        "spanish": "su",
+        "french": "leur",
+        "german": "ihr"
+      },
+      {
+        "number": 7,
+        "english": "pen",
+        "russian": "ручка",
+        "spanish": "bolígrafo",
+        "french": "stylo",
+        "german": "Kugelschreiber"
+      },
+      {
+        "number": 8,
+        "english": "pencil",
+        "russian": "карандаш",
+        "spanish": "lápiz",
+        "french": "crayon",
+        "german": "Bleistift"
+      },
+      {
+        "number": 9,
+        "english": "book",
+        "russian": "книга",
+        "spanish": "libro",
+        "french": "livre",
+        "german": "Buch"
+      },
+      {
+        "number": 10,
+        "english": "bag",
+        "russian": "сумка",
+        "spanish": "bolsa",
+        "french": "sac",
+        "german": "Tasche"
+      },
+      {
+        "number": 11,
+        "english": "friend",
+        "russian": "друг",
+        "spanish": "amigo",
+        "french": "ami",
+        "german": "Freund"
+      },
+      {
+        "number": 12,
+        "english": "dress",
+        "russian": "платье",
+        "spanish": "vestido",
+        "french": "robe",
+        "german": "Kleid"
+      },
+      {
+        "number": 13,
+        "english": "brother",
+        "russian": "брат",
+        "spanish": "hermano",
+        "french": "frère",
+        "german": "Bruder"
+      },
+      {
+        "number": 14,
+        "english": "sister",
+        "russian": "сестра",
+        "spanish": "hermana",
+        "french": "sœur",
+        "german": "Schwester"
+      },
+      {
+        "number": 15,
+        "english": "father",
+        "russian": "отец",
+        "spanish": "padre",
+        "french": "père",
+        "german": "Vater"
+      },
+      {
+        "number": 16,
+        "english": "mother",
+        "russian": "мать",
+        "spanish": "madre",
+        "french": "mère",
+        "german": "Mutter"
+      },
+      {
+        "number": 17,
+        "english": "daughter",
+        "russian": "дочь",
+        "spanish": "hija",
+        "french": "fille",
+        "german": "Tochter"
+      },
+      {
+        "number": 18,
+        "english": "son",
+        "russian": "сын",
+        "spanish": "hijo",
+        "french": "fils",
+        "german": "Sohn"
+      },
+      {
+        "number": 19,
+        "english": "children",
+        "russian": "дети",
+        "spanish": "niños",
+        "french": "enfants",
+        "german": "Kinder"
+      },
+      {
+        "number": 20,
+        "english": "wife",
+        "russian": "жена",
+        "spanish": "esposa",
+        "french": "femme",
+        "german": "Ehefrau"
+      },
+      {
+        "number": 21,
+        "english": "husband",
+        "russian": "муж",
+        "spanish": "esposo",
+        "french": "mari",
+        "german": "Ehemann"
+      },
+      {
+        "number": 22,
+        "english": "child",
+        "russian": "ребёнок",
+        "spanish": "niño",
+        "french": "enfant",
+        "german": "Kind"
+      },
+      {
+        "number": 23,
+        "english": "grandmother",
+        "russian": "бабушка",
+        "spanish": "abuela",
+        "french": "grand-mère",
+        "german": "Großmutter"
+      },
+      {
+        "number": 24,
+        "english": "grandfather",
+        "russian": "дедушка",
+        "spanish": "abuelo",
+        "french": "grand-père",
+        "german": "Großvater"
+      },
+      {
+        "number": 25,
+        "english": "assistant",
+        "russian": "помощник",
+        "spanish": "asistente",
+        "french": "assistant",
+        "german": "Assistent"
+      },
+      {
+        "number": 26,
+        "english": "designer",
+        "russian": "дизайнер",
+        "spanish": "diseñador",
+        "french": "designer",
+        "german": "Designer"
+      },
+      {
+        "number": 27,
+        "english": "teacher",
+        "russian": "учитель",
+        "spanish": "profesor",
+        "french": "professeur",
+        "german": "Lehrer"
+      },
+      {
+        "number": 28,
+        "english": "consultant",
+        "russian": "консультант",
+        "spanish": "consultor",
+        "french": "consultant",
+        "german": "Berater"
+      },
+      {
+        "number": 29,
+        "english": "doctor",
+        "russian": "врач",
+        "spanish": "doctor",
+        "french": "docteur",
+        "german": "Arzt"
+      },
+      {
+        "number": 30,
+        "english": "interpreter",
+        "russian": "переводчик",
+        "spanish": "intérprete",
+        "french": "interprète",
+        "german": "Dolmetscher"
+      },
+      {
+        "number": 31,
+        "english": "accountant",
+        "russian": "бухгалтер",
+        "spanish": "contador",
+        "french": "comptable",
+        "german": "Buchhalter"
+      },
+      {
+        "number": 32,
+        "english": "guide",
+        "russian": "гид",
+        "spanish": "guía",
+        "french": "guide",
+        "german": "Reiseführer"
+      },
+      {
+        "number": 33,
+        "english": "manager",
+        "russian": "менеджер",
+        "spanish": "gerente",
+        "french": "gestionnaire",
+        "german": "Manager"
+      },
+      {
+        "number": 34,
+        "english": "partner",
+        "russian": "партнёр",
+        "spanish": "socio",
+        "french": "partenaire",
+        "german": "Partner"
+      },
+      {
+        "number": 35,
+        "english": "dentist",
+        "russian": "дантист",
+        "spanish": "dentista",
+        "french": "dentiste",
+        "german": "Zahnarzt"
+      },
+      {
+        "number": 36,
+        "english": "lawyer",
+        "russian": "адвокат",
+        "spanish": "abogado",
+        "french": "avocat",
+        "german": "Anwalt"
+      },
+      {
+        "number": 37,
+        "english": "driver",
+        "russian": "водитель",
+        "spanish": "conductor",
+        "french": "conducteur",
+        "german": "Fahrer"
+      },
+      {
+        "number": 38,
+        "english": "programmer",
+        "russian": "программист",
+        "spanish": "programador",
+        "french": "programmeur",
+        "german": "Programmierer"
+      }
+    ]
+  },
+    
+    "sentences": [
+    {
+      "id": 1,
+      "english": "He put your pencil.",
+      "russian": "Он положил твой карандаш.",
+      "spanish": "Él puso tu lápiz.",
+      "french": "Il a posé ton crayon.",
+      "german": "Er legte deinen Bleistift hin."
+    },
+    {
+      "id": 2,
+      "english": "It is not his pen.",
+      "russian": "Это не его ручка.",
+      "spanish": "No es su bolígrafo.",
+      "french": "Ce n'est pas son stylo.",
+      "german": "Das ist nicht sein Stift."
+    },
+    {
+      "id": 3,
+      "english": "I am not his doctor.",
+      "russian": "Я не его врач.",
+      "spanish": "No soy su médico.",
+      "french": "Je ne suis pas son médecin.",
+      "german": "Ich bin nicht sein Arzt."
+    },
+    {
+      "id": 4,
+      "english": "Were you their dentist?",
+      "russian": "Ты был их дантистом?",
+      "spanish": "¿Fuiste su dentista?",
+      "french": "Étiez‑vous leur dentiste?",
+      "german": "Warst du ihr Zahnarzt?"
+    },
+    {
+      "id": 5,
+      "english": "She will not be our driver.",
+      "russian": "Она не будет нашим водителем.",
+      "spanish": "Ella no será nuestra conductora.",
+      "french": "Elle ne sera pas notre conductrice.",
+      "german": "Sie wird nicht unsere Fahrerin sein."
+    },
+    {
+      "id": 6,
+      "english": "I will be your manager.",
+      "russian": "Я буду твоим менеджером.",
+      "spanish": "Seré tu gerente.",
+      "french": "Je serai ton manager.",
+      "german": "Ich werde dein Manager sein."
+    },
+    {
+      "id": 7,
+      "english": "She found her pencil.",
+      "russian": "Она нашла свой карандаш.",
+      "spanish": "Ella encontró su lápiz.",
+      "french": "Elle a trouvé son crayon.",
+      "german": "Sie hat ihren Bleistift gefunden."
+    },
+    {
+      "id": 8,
+      "english": "I brought her pencil.",
+      "russian": "Я принес её карандаш.",
+      "spanish": "Traje su lápiz.",
+      "french": "J'ai apporté son crayon.",
+      "german": "Ich habe ihren Bleistift gebracht."
+    },
+    {
+      "id": 9,
+      "english": "Were you her consultant?",
+      "russian": "Ты был её консультантом?",
+      "spanish": "¿Fuiste su consultor?",
+      "french": "Étiez‑vous son consultant?",
+      "german": "Warst du ihr Berater?"
+    },
+    {
+      "id": 10,
+      "english": "She lost her pen.",
+      "russian": "Она потеряла свою ручку.",
+      "spanish": "Ella perdió su bolígrafo.",
+      "french": "Elle a perdu son stylo.",
+      "german": "Sie hat ihren Stift verloren."
+    },
+    {
+      "id": 11,
+      "english": "He was your designer.",
+      "russian": "Он был твоим дизайнером.",
+      "spanish": "Él fue tu diseñador.",
+      "french": "Il était ton designer.",
+      "german": "Er war dein Designer."
+    },
+    {
+      "id": 12,
+      "english": "We will not be your consultants.",
+      "russian": "Мы не будем твоими консультантами.",
+      "spanish": "No seremos tus consultores.",
+      "french": "Nous ne serons pas vos consultants.",
+      "german": "Wir werden nicht deine Berater sein."
+    },
+    {
+      "id": 13,
+      "english": "Were they his accountants?",
+      "russian": "Они были его бухгалтерами?",
+      "spanish": "¿Eran ellos sus contadores?",
+      "french": "Étaient‑ils ses comptables?",
+      "german": "Waren sie seine Buchhalter?"
+    },
+    {
+      "id": 14,
+      "english": "We are not his drivers.",
+      "russian": "Мы не его водители.",
+      "spanish": "No somos sus conductores.",
+      "french": "Nous ne sommes pas ses chauffeurs.",
+      "german": "Wir sind nicht seine Fahrer."
+    },
+    {
+      "id": 15,
+      "english": "They will be your lawyers.",
+      "russian": "Они будут твоими адвокатами.",
+      "spanish": "Ellos serán tus abogados.",
+      "french": "Ils seront tes avocats.",
+      "german": "Sie werden deine Anwälte sein."
+    },
+    {
+      "id": 16,
+      "english": "He is our partner.",
+      "russian": "Он наш партнёр.",
+      "spanish": "Él es nuestro socio.",
+      "french": "Il est notre partenaire.",
+      "german": "Er ist unser Partner."
+    },
+    {
+      "id": 17,
+      "english": "You are my accountant.",
+      "russian": "Ты мой бухгалтер.",
+      "spanish": "Eres mi contador.",
+      "french": "Tu es mon comptable.",
+      "german": "Du bist mein Buchhalter."
+    },
+    {
+      "id": 18,
+      "english": "It is her book.",
+      "russian": "Это её книга.",
+      "spanish": "Es su libro.",
+      "french": "C'est son livre.",
+      "german": "Das ist ihr Buch."
+    },
+    {
+      "id": 19,
+      "english": "He is not my guide.",
+      "russian": "Он не мой гид.",
+      "spanish": "Él no es mi guía.",
+      "french": "Il n'est pas mon guide.",
+      "german": "Er ist nicht mein Reiseleiter."
+    },
+    {
+      "id": 20,
+      "english": "Is he your guide?",
+      "russian": "Он твой гид?",
+      "spanish": "¿Es él tu guía?",
+      "french": "Est‑il ton guide?",
+      "german": "Ist er dein Reiseleiter?"
+    },
+    {
+      "id": 21,
+      "english": "Did he take her book?",
+      "russian": "Он брал её книгу?",
+      "spanish": "¿Tomó él su libro?",
+      "french": "A‑t‑il pris son livre?",
+      "german": "Hat er ihr Buch genommen?"
+    },
+    {
+      "id": 22,
+      "english": "They are your consultants.",
+      "russian": "Они твои консультанты.",
+      "spanish": "Ellos son tus consultores.",
+      "french": "Ils sont tes consultants.",
+      "german": "Sie sind deine Berater."
+    },
+    {
+      "id": 23,
+      "english": "She is my driver.",
+      "russian": "Она мой водитель.",
+      "spanish": "Ella es mi conductora.",
+      "french": "Elle est ma conductrice.",
+      "german": "Sie ist meine Fahrerin."
+    },
+    {
+      "id": 24,
+      "english": "It is our pen.",
+      "russian": "Это наша ручка.",
+      "spanish": "Es nuestro bolígrafo.",
+      "french": "C'est notre stylo.",
+      "german": "Das ist unser Stift."
+    },
+    {
+      "id": 25,
+      "english": "We will be their friends.",
+      "russian": "Мы будем их друзьями.",
+      "spanish": "Seremos sus amigos.",
+      "french": "Nous serons leurs amis.",
+      "german": "Wir werden ihre Freunde sein."
+    },
+    {
+      "id": 26,
+      "english": "We were her partners.",
+      "russian": "Мы были её партнёрами.",
+      "spanish": "Éramos sus socios.",
+      "french": "Nous étions ses partenaires.",
+      "german": "Wir waren ihre Partner."
+    },
+    {
+      "id": 27,
+      "english": "You are her assistant.",
+      "russian": "Ты её помощник.",
+      "spanish": "Eres su asistente.",
+      "french": "Tu es son assistant.",
+      "german": "Du bist ihr Assistent."
+    },
+    {
+      "id": 28,
+      "english": "It is my book.",
+      "russian": "Это моя книга.",
+      "spanish": "Es mi libro.",
+      "french": "C'est mon livre.",
+      "german": "Das ist mein Buch."
+    },
+    {
+      "id": 29,
+      "english": "Are they our friends?",
+      "russian": "Они наши друзья?",
+      "spanish": "¿Son ellos nuestros amigos?",
+      "french": "Sont‑ils nos amis?",
+      "german": "Sind sie unsere Freunde?"
+    },
+    {
+      "id": 30,
+      "english": "You were not his guide.",
+      "russian": "Ты не был его гидом.",
+      "spanish": "No fuiste su guía.",
+      "french": "Tu n'étais pas son guide.",
+      "german": "Du warst nicht sein Reiseleiter."
+    },
+    {
+      "id": 31,
+      "english": "I will be her guide.",
+      "russian": "Я буду её гидом.",
+      "spanish": "Seré su guía.",
+      "french": "Je serai son guide.",
+      "german": "Ich werde ihr Reiseleiter sein."
+    },
+    {
+      "id": 32,
+      "english": "She was not my partner.",
+      "russian": "Она не была моим партнёром.",
+      "spanish": "Ella no era mi socia.",
+      "french": "Elle n'était pas ma partenaire.",
+      "german": "Sie war nicht meine Partnerin."
+    },
+    {
+      "id": 33,
+      "english": "Will she be our friend?",
+      "russian": "Она будет нашим другом?",
+      "spanish": "¿Será ella nuestra amiga?",
+      "french": "Sera‑t‑elle notre amie?",
+      "german": "Wird sie unsere Freundin sein?"
+    },
+    {
+      "id": 34,
+      "english": "We will not be her lawyers.",
+      "russian": "Мы не будем её адвокатами.",
+      "spanish": "No seremos sus abogados.",
+      "french": "Nous ne serons pas ses avocats.",
+      "german": "Wir werden nicht ihre Anwälte sein."
+    },
+    {
+      "id": 35,
+      "english": "Did he find his bag?",
+      "russian": "Он нашел свою сумку?",
+      "spanish": "¿Encontró él su bolso?",
+      "french": "A‑t‑il trouvé son sac?",
+      "german": "Hat er seine Tasche gefunden?"
+    },
+    {
+      "id": 36,
+      "english": "He forgot his pencil.",
+      "russian": "Он забыл свой карандаш.",
+      "spanish": "Él olvidó su lápiz.",
+      "french": "Il a oublié son crayon.",
+      "german": "Er hat seinen Bleistift vergessen."
+    },
+    {
+      "id": 37,
+      "english": "Was she our designer?",
+      "russian": "Она была нашим дизайнером?",
+      "spanish": "¿Fue ella nuestra diseñadora?",
+      "french": "Était‑elle notre designer?",
+      "german": "War sie unsere Designerin?"
+    },
+    {
+      "id": 38,
+      "english": "Did she help her friend?",
+      "russian": "Она помогала своему другу?",
+      "spanish": "¿Ayudó ella a su amigo?",
+      "french": "A‑t‑elle aidé son ami?",
+      "german": "Hat sie ihrem Freund geholfen?"
+    },
+    {
+      "id": 39,
+      "english": "He lost his bag.",
+      "russian": "Он потерял свою сумку.",
+      "spanish": "Él perdió su bolso.",
+      "french": "Il a perdu son sac.",
+      "german": "Er hat seine Tasche verloren."
+    },
+    {
+      "id": 40,
+      "english": "We helped your brother.",
+      "russian": "Мы помогли твоему брату.",
+      "spanish": "Ayudamos a tu hermano.",
+      "french": "Nous avons aidé ton frère.",
+      "german": "Wir haben deinem Bruder geholfen."
+    },
+    {
+      "id": 41,
+      "english": "We were his friends.",
+      "russian": "Мы были его друзьями.",
+      "spanish": "Éramos sus amigos.",
+      "french": "Nous étions ses amis.",
+      "german": "Wir waren seine Freunde."
+    },
+    {
+      "id": 42,
+      "english": "She lost her bag.",
+      "russian": "Она потеряла свою сумку.",
+      "spanish": "Ella perdió su bolso.",
+      "french": "Elle a perdu son sac.",
+      "german": "Sie hat ihre Tasche verloren."
+    },
+    {
+      "id": 43,
+      "english": "You will be his teacher.",
+      "russian": "Ты будешь его учителем.",
+      "spanish": "Serás su maestro.",
+      "french": "Tu seras son professeur.",
+      "german": "Du wirst sein Lehrer sein."
+    },
+    {
+      "id": 44,
+      "english": "It is his bag.",
+      "russian": "Это его сумка.",
+      "spanish": "Es su bolso.",
+      "french": "C'est son sac.",
+      "german": "Das ist seine Tasche."
+    },
+    {
+      "id": 45,
+      "english": "She was not their driver.",
+      "russian": "Она не была их водителем.",
+      "spanish": "Ella no era su conductora.",
+      "french": "Elle n'était pas leur conductrice.",
+      "german": "Sie war nicht ihre Fahrerin."
+    },
+    {
+      "id": 46,
+      "english": "You were not her doctor.",
+      "russian": "Ты не был её врачом.",
+      "spanish": "No fuiste su médico.",
+      "french": "Tu n'étais pas son médecin.",
+      "german": "Du warst nicht ihr Arzt."
+    },
+    {
+      "id": 47,
+      "english": "Are you her accountant?",
+      "russian": "Ты её бухгалтер?",
+      "spanish": "¿Eres su contador?",
+      "french": "Es‑tu son comptable?",
+      "german": "Bist du ihr Buchhalter?"
+    },
+    {
+      "id": 48,
+      "english": "She was your accountant.",
+      "russian": "Она была твоим бухгалтером.",
+      "spanish": "Ella fue tu contadora.",
+      "french": "Elle était ton comptable.",
+      "german": "Sie war deine Buchhalterin."
+    },
+    {
+      "id": 49,
+      "english": "We were their teachers.",
+      "russian": "Мы были их учителями.",
+      "spanish": "Éramos sus profesores.",
+      "french": "Nous étions leurs professeurs.",
+      "german": "Wir waren ihre Lehrer."
+    },
+    {
+      "id": 50,
+      "english": "Will they be his partners?",
+      "russian": "Они будут его партнёрами?",
+      "spanish": "¿Serán ellos sus socios?",
+      "french": "Seront‑ils ses partenaires?",
+      "german": "Werden sie seine Partner sein?"
+    },
+    {
+      "id": 51,
+      "english": "Are they his guides?",
+      "russian": "Они его гиды?",
+      "spanish": "¿Son ellos sus guías?",
+      "french": "Sont‑ils ses guides?",
+      "german": "Sind sie seine Reiseleiter?"
+    },
+    {
+      "id": 52,
+      "english": "You are my friend.",
+      "russian": "Ты мой друг.",
+      "spanish": "Eres mi amigo.",
+      "french": "Tu es mon ami.",
+      "german": "Du bist mein Freund."
+    },
+    {
+      "id": 53,
+      "english": "It is our bag.",
+      "russian": "Это наша сумка.",
+      "spanish": "Es nuestra bolsa.",
+      "french": "C'est notre sac.",
+      "german": "Das ist unsere Tasche."
+    },
+    {
+      "id": 54,
+      "english": "I was her manager.",
+      "russian": "Я был её менеджером.",
+      "spanish": "Fui su gerente.",
+      "french": "J'étais son manager.",
+      "german": "Ich war ihr Manager."
+    },
+    {
+      "id": 55,
+      "english": "They will be our assistants.",
+      "russian": "Они будут нашими помощниками.",
+      "spanish": "Ellos serán nuestros asistentes.",
+      "french": "Ils seront nos assistants.",
+      "german": "Sie werden unsere Assistenten sein."
+    },
+    {
+      "id": 56,
+      "english": "You will be her consultant.",
+      "russian": "Ты будешь её консультантом.",
+      "spanish": "Serás su consultor.",
+      "french": "Tu seras son consultant.",
+      "german": "Du wirst ihr Berater sein."
+    },
+    {
+      "id": 57,
+      "english": "He was their doctor.",
+      "russian": "Он был их врачом.",
+      "spanish": "Él fue su médico.",
+      "french": "Il était leur médecin.",
+      "german": "Er war ihr Arzt."
+    },
+    {
+      "id": 58,
+      "english": "Did he help his friend?",
+      "russian": "Он помогал своему другу?",
+      "spanish": "¿Ayudó él a su amigo?",
+      "french": "A‑t‑il aidé son ami?",
+      "german": "Hat er seinem Freund geholfen?"
+    },
+    {
+      "id": 59,
+      "english": "Will they be her consultants?",
+      "russian": "Они будут её консультантами?",
+      "spanish": "¿Serán ellos sus consultores?",
+      "french": "Seront‑ils ses consultants?",
+      "german": "Werden sie ihre Berater sein?"
+    },
+    {
+      "id": 60,
+      "english": "He brought his bag.",
+      "russian": "Он принес свою сумку.",
+      "spanish": "Él trajo su bolso.",
+      "french": "Il a apporté son sac.",
+      "german": "Er brachte seine Tasche."
+    },
+    {
+      "id": 61,
+      "english": "Did you see her book?",
+      "russian": "Ты видел её книгу?",
+      "spanish": "¿Viste su libro?",
+      "french": "As‑tu vu son livre?",
+      "german": "Hast du ihr Buch gesehen?"
+    },
+    {
+      "id": 62,
+      "english": "She lost her pencil.",
+      "russian": "Она потеряла свой карандаш.",
+      "spanish": "Ella perdió su lápiz.",
+      "french": "Elle a perdu son crayon.",
+      "german": "Sie hat ihren Bleistift verloren."
+    },
+    {
+      "id": 63,
+      "english": "It is his pencil.",
+      "russian": "Это его карандаш.",
+      "spanish": "Es su lápiz.",
+      "french": "C'est son crayon.",
+      "german": "Das ist sein Bleistift."
+    },
+    {
+      "id": 64,
+      "english": "She put her book.",
+      "russian": "Она положила свою книгу.",
+      "spanish": "Ella puso su libro.",
+      "french": "Elle a posé son livre.",
+      "german": "Sie legte ihr Buch hin."
+    },
+    {
+      "id": 65,
+      "english": "He lost his book.",
+      "russian": "Он потерял свою книгу.",
+      "spanish": "Él perdió su libro.",
+      "french": "Il a perdu son livre.",
+      "german": "Er hat sein Buch verloren."
+    },
+    {
+      "id": 66,
+      "english": "Were they her lawyers?",
+      "russian": "Они были её адвокатами?",
+      "spanish": "¿Eran ellos sus abogados?",
+      "french": "Étaient‑ils ses avocats?",
+      "german": "Waren sie ihre Anwälte?"
+    },
+    {
+      "id": 67,
+      "english": "Did you see his bag?",
+      "russian": "Ты видел его сумку?",
+      "spanish": "¿Viste su bolso?",
+      "french": "As‑tu vu son sac?",
+      "german": "Hast du seine Tasche gesehen?"
+    },
+    {
+      "id": 68,
+      "english": "Did she find her pencil?",
+      "russian": "Она нашла свой карандаш?",
+      "spanish": "¿Encontró ella su lápiz?",
+      "french": "A‑t‑elle trouvé son crayon?",
+      "german": "Hat sie ihren Bleistift gefunden?"
+    },
+    {
+      "id": 69,
+      "english": "They were her drivers.",
+      "russian": "Они были её водителями.",
+      "spanish": "Ellos eran sus conductores.",
+      "french": "Ils étaient ses chauffeurs.",
+      "german": "Sie waren ihre Fahrer."
+    },
+    {
+      "id": 70,
+      "english": "He is their partner.",
+      "russian": "Он их партнёр.",
+      "spanish": "Él es su socio.",
+      "french": "Il est leur partenaire.",
+      "german": "Er ist ihr Partner."
+    },
+    {
+      "id": 71,
+      "english": "Was he your driver?",
+      "russian": "Он был твоим водителем?",
+      "spanish": "¿Fue él tu conductor?",
+      "french": "Était‑il ton chauffeur?",
+      "german": "War er dein Fahrer?"
+    },
+    {
+      "id": 72,
+      "english": "Is he their dentist?",
+      "russian": "Он их дантист?",
+      "spanish": "¿Es él su dentista?",
+      "french": "Est‑il leur dentiste?",
+      "german": "Ist er ihr Zahnarzt?"
+    },
+    {
+      "id": 73,
+      "english": "He is our designer.",
+      "russian": "Он наш дизайнер.",
+      "spanish": "Él es nuestro diseñador.",
+      "french": "Il est notre designer.",
+      "german": "Er ist unser Designer."
+    },
+    {
+      "id": 74,
+      "english": "They were not our drivers.",
+      "russian": "Они не были нашими водителями.",
+      "spanish": "Ellos no eran nuestros conductores.",
+      "french": "Ils n'étaient pas nos chauffeurs.",
+      "german": "Sie waren nicht unsere Fahrer."
+    },
+    {
+      "id": 75,
+      "english": "Was he her assistant?",
+      "russian": "Он был её помощником?",
+      "spanish": "¿Fue él su asistente?",
+      "french": "Était‑il son assistant?",
+      "german": "War er ihr Assistent?"
+    }
+  ],
+
+  "exam": {
+    "sentences": [
+      {
+        "id": 1,
+        "sentence_en": "He put your pencil.",
+        "translations": {
+          "ru": "Он положил твой карандаш.",
+          "es": "Él puso tu lápiz.",
+          "fr": "Il a posé ton crayon.",
+          "de": "Er legte deinen Bleistift hin."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "I", "They"] },
+          { "correct": "put", "alternatives": ["took", "found", "lost"] },
+          { "correct": "your", "alternatives": ["his", "her", "my"] },
+          { "correct": "pencil", "alternatives": ["pen", "book", "bag"] }
+        ]
+      },
+      {
+        "id": 2,
+        "sentence_en": "It is not his pen.",
+        "translations": {
+          "ru": "Это не его ручка.",
+          "es": "No es su bolígrafo.",
+          "fr": "Ce n'est pas son stylo.",
+          "de": "Das ist nicht sein Stift."
+        },
+        "words": [
+          { "correct": "It", "alternatives": ["That", "He", "One"] },
+          { "correct": "is", "alternatives": ["was", "will be", "has"] },
+          { "correct": "not", "alternatives": ["never", "no", "always"] },
+          { "correct": "his", "alternatives": ["her", "your", "their"] },
+          { "correct": "pen", "alternatives": ["pencil", "book", "phone"] }
+        ]
+      },
+      {
+        "id": 3,
+        "sentence_en": "I am not his doctor.",
+        "translations": {
+          "ru": "Я не его врач.",
+          "es": "No soy su médico.",
+          "fr": "Je ne suis pas son médecin.",
+          "de": "Ich bin nicht sein Arzt."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["She", "We", "They"] },
+          { "correct": "am", "alternatives": ["was", "will be", "has"] },
+          { "correct": "not", "alternatives": ["never", "no", "always"] },
+          { "correct": "his", "alternatives": ["her", "your", "their"] },
+          { "correct": "doctor", "alternatives": ["dentist", "lawyer", "assistant"] }
+        ]
+      },
+      {
+        "id": 4,
+        "sentence_en": "Were you their dentist?",
+        "translations": {
+          "ru": "Ты был их дантистом?",
+          "es": "¿Fuiste su dentista?",
+          "fr": "Étiez‑vous leur dentiste?",
+          "de": "Warst du ihr Zahnarzt?"
+        },
+        "words": [
+          { "correct": "Were", "alternatives": ["Was", "Are", "Will"] },
+          { "correct": "you", "alternatives": ["I", "He", "They"] },
+          { "correct": "their", "alternatives": ["his", "her", "my"] },
+          { "correct": "dentist", "alternatives": ["doctor", "lawyer", "assistant"] }
+        ]
+      },
+      {
+        "id": 5,
+        "sentence_en": "She will not be our driver.",
+        "translations": {
+          "ru": "Она не будет нашим водителем.",
+          "es": "Ella no será nuestra conductora.",
+          "fr": "Elle ne sera pas notre conductrice.",
+          "de": "Sie wird nicht unsere Fahrerin sein."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "I", "They"] },
+          { "correct": "will", "alternatives": ["is", "was", "has"] },
+          { "correct": "not", "alternatives": ["never", "no", "always"] },
+          { "correct": "be", "alternatives": ["become", "have", "see"] },
+          { "correct": "our", "alternatives": ["his", "her", "my"] },
+          { "correct": "driver", "alternatives": ["assistant", "partner", "lawyer"] }
+        ]
+      },
+      {
+        "id": 6,
+        "sentence_en": "I will be your manager.",
+        "translations": {
+          "ru": "Я буду твоим менеджером.",
+          "es": "Seré tu gerente.",
+          "fr": "Je serai ton manager.",
+          "de": "Ich werde dein Manager sein."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["She", "We", "They"] },
+          { "correct": "will", "alternatives": ["am", "was", "has"] },
+          { "correct": "be", "alternatives": ["become", "have", "see"] },
+          { "correct": "your", "alternatives": ["his", "her", "my"] },
+          { "correct": "manager", "alternatives": ["assistant", "partner", "lawyer"] }
+        ]
+      },
+      {
+        "id": 7,
+        "sentence_en": "She found her pencil.",
+        "translations": {
+          "ru": "Она нашла свой карандаш.",
+          "es": "Ella encontró su lápiz.",
+          "fr": "Elle a trouvé son crayon.",
+          "de": "Sie hat ihren Bleistift gefunden."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "I", "They"] },
+          { "correct": "found", "alternatives": ["lost", "took", "put"] },
+          { "correct": "her", "alternatives": ["his", "your", "my"] },
+          { "correct": "pencil", "alternatives": ["pen", "book", "bag"] }
+        ]
+      },
+      {
+        "id": 8,
+        "sentence_en": "I brought her pencil.",
+        "translations": {
+          "ru": "Я принес её карандаш.",
+          "es": "Traje su lápiz.",
+          "fr": "J'ai apporté son crayon.",
+          "de": "Ich habe ihren Bleistift gebracht."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["She", "We", "They"] },
+          { "correct": "brought", "alternatives": ["lost", "took", "put"] },
+          { "correct": "her", "alternatives": ["his", "your", "my"] },
+          { "correct": "pencil", "alternatives": ["pen", "book", "bag"] }
+        ]
+      },
+      {
+        "id": 9,
+        "sentence_en": "Were you her consultant?",
+        "translations": {
+          "ru": "Ты был её консультантом?",
+          "es": "¿Fuiste su consultor?",
+          "fr": "Étiez‑vous son consultant?",
+          "de": "Warst du ihr Berater?"
+        },
+        "words": [
+          { "correct": "Were", "alternatives": ["Was", "Are", "Will"] },
+          { "correct": "you", "alternatives": ["I", "He", "They"] },
+          { "correct": "her", "alternatives": ["his", "your", "my"] },
+          { "correct": "consultant", "alternatives": ["lawyer", "assistant", "partner"] }
+        ]
+      },
+      {
+        "id": 10,
+        "sentence_en": "She lost her pen.",
+        "translations": {
+          "ru": "Она потеряла свою ручку.",
+          "es": "Ella perdió su bolígrafo.",
+          "fr": "Elle a perdu son stylo.",
+          "de": "Sie hat ihren Stift verloren."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "I", "They"] },
+          { "correct": "lost", "alternatives": ["found", "took", "put"] },
+          { "correct": "her", "alternatives": ["his", "your", "my"] },
+          { "correct": "pen", "alternatives": ["pencil", "book", "bag"] }
+        ]
+      },
+      {
+        "id": 11,
+        "sentence_en": "He was your designer.",
+        "translations": {
+          "ru": "Он был твоим дизайнером.",
+          "es": "Él fue tu diseñador.",
+          "fr": "Il était ton designer.",
+          "de": "Er war dein Designer."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "I", "They"] },
+          { "correct": "was", "alternatives": ["is", "will be", "has"] },
+          { "correct": "your", "alternatives": ["his", "her", "my"] },
+          { "correct": "designer", "alternatives": ["lawyer", "assistant", "partner"] }
+        ]
+      },
+      {
+        "id": 12,
+        "sentence_en": "We will not be your consultants.",
+        "translations": {
+          "ru": "Мы не будем твоими консультантами.",
+          "es": "No seremos tus consultores.",
+          "fr": "Nous ne serons pas vos consultants.",
+          "de": "Wir werden nicht deine Berater sein."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "She"] },
+          { "correct": "will", "alternatives": ["am", "was", "has"] },
+          { "correct": "not", "alternatives": ["never", "no", "always"] },
+          { "correct": "be", "alternatives": ["become", "have", "see"] },
+          { "correct": "your", "alternatives": ["his", "her", "my"] },
+          { "correct": "consultants", "alternatives": ["lawyers", "assistants", "partners"] }
+        ]
+      },
+      {
+        "id": 13,
+        "sentence_en": "Were they his accountants?",
+        "translations": {
+          "ru": "Они были его бухгалтерами?",
+          "es": "¿Eran ellos sus contadores?",
+          "fr": "Étaient‑ils ses comptables?",
+          "de": "Waren sie seine Buchhalter?"
+        },
+        "words": [
+          { "correct": "Were", "alternatives": ["Was", "Are", "Will"] },
+          { "correct": "they", "alternatives": ["I", "She", "We"] },
+          { "correct": "his", "alternatives": ["her", "your", "my"] },
+          { "correct": "accountants", "alternatives": ["lawyers", "assistants", "partners"] }
+        ]
+      },
+      {
+        "id": 14,
+        "sentence_en": "We are not his drivers.",
+        "translations": {
+          "ru": "Мы не его водители.",
+          "es": "No somos sus conductores.",
+          "fr": "Nous ne sommes pas ses chauffeurs.",
+          "de": "Wir sind nicht seine Fahrer."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "She"] },
+          { "correct": "are", "alternatives": ["am", "was", "has"] },
+          { "correct": "not", "alternatives": ["never", "no", "always"] },
+          { "correct": "his", "alternatives": ["her", "your", "my"] },
+          { "correct": "drivers", "alternatives": ["lawyers", "assistants", "partners"] }
+        ]
+      },
+      {
+        "id": 15,
+        "sentence_en": "They will be your lawyers.",
+        "translations": {
+          "ru": "Они будут твоими адвокатами.",
+          "es": "Ellos serán tus abogados.",
+          "fr": "Ils seront tes avocats.",
+          "de": "Sie werden deine Anwälte sein."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "I", "She"] },
+          { "correct": "will", "alternatives": ["am", "was", "has"] },
+          { "correct": "be", "alternatives": ["become", "have", "see"] },
+          { "correct": "your", "alternatives": ["his", "her", "my"] },
+          { "correct": "lawyers", "alternatives": ["lawyer", "assistant", "partner"] }
+        ]
+      },
+      {
+        "id": 16,
+        "sentence_en": "He is our partner.",
+        "translations": {
+          "ru": "Он наш партнёр.",
+          "es": "Él es nuestro socio.",
+          "fr": "Il est notre partenaire.",
+          "de": "Er ist unser Partner."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "I", "They"] },
+          { "correct": "is", "alternatives": ["am", "was", "has"] },
+          { "correct": "our", "alternatives": ["his", "her", "my"] },
+          { "correct": "partner", "alternatives": ["lawyer", "assistant", "lawyers"] }
+        ]
+      },
+      {
+        "id": 17,
+        "sentence_en": "You are my accountant.",
+        "translations": {
+          "ru": "Ты мой бухгалтер.",
+          "es": "Eres mi contador.",
+          "fr": "Tu es mon comptable.",
+          "de": "Du bist mein Buchhalter."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["I", "He", "They"] },
+          { "correct": "are", "alternatives": ["am", "was", "has"] },
+          { "correct": "my", "alternatives": ["his", "her", "your"] },
+          { "correct": "accountant", "alternatives": ["lawyer", "assistant", "lawyers"] }
+        ]
+      },
+      {
+        "id": 18,
+        "sentence_en": "It is her book.",
+        "translations": {
+          "ru": "Это её книга.",
+          "es": "Es su libro.",
+          "fr": "C'est son livre.",
+          "de": "Das ist ihr Buch."
+        },
+        "words": [
+          { "correct": "It", "alternatives": ["That", "He", "One"] },
+          { "correct": "is", "alternatives": ["am", "was", "has"] },
+          { "correct": "her", "alternatives": ["his", "your", "my"] },
+          { "correct": "book", "alternatives": ["pen", "pencil", "bag"] }
+        ]
+      },
+      {
+        "id": 19,
+        "sentence_en": "He is not my guide.",
+        "translations": {
+          "ru": "Он не мой гид.",
+          "es": "Él no es mi guía.",
+          "fr": "Il n'est pas mon guide.",
+          "de": "Er ist nicht mein Reiseleiter."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "I", "They"] },
+          { "correct": "is", "alternatives": ["am", "was", "has"] },
+          { "correct": "not", "alternatives": ["never", "no", "always"] },
+          { "correct": "my", "alternatives": ["his", "her", "your"] },
+          { "correct": "guide", "alternatives": ["assistant", "partner", "lawyer"] }
+        ]
+      },
+      {
+        "id": 20,
+        "sentence_en": "Is he your guide?",
+        "translations": {
+          "ru": "Он твой гид?",
+          "es": "¿Es él tu guía?",
+          "fr": "Est‑il ton guide?",
+          "de": "Ist er dein Reiseleiter?"
+        },
+        "words": [
+          { "correct": "Is", "alternatives": ["Was", "Are", "Will"] },
+          { "correct": "he", "alternatives": ["she", "it", "they"] },
+          { "correct": "your", "alternatives": ["his", "her", "my"] },
+          { "correct": "guide", "alternatives": ["assistant", "partner", "lawyer"] }
+        ]
+      },
+      {
+        "id": 21,
+        "sentence_en": "Did he take her book?",
+        "translations": {
+          "ru": "Он брал её книгу?",
+          "es": "¿Tomó él su libro?",
+          "fr": "A‑t‑il pris son livre?",
+          "de": "Hat er ihr Buch genommen?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Does", "Is", "Will"] },
+          { "correct": "he", "alternatives": ["she", "they", "you"] },
+          { "correct": "take", "alternatives": ["put", "find", "lose"] },
+          { "correct": "her", "alternatives": ["his", "your", "their"] },
+          { "correct": "book", "alternatives": ["pen", "pencil", "bag"] }
+        ]
+      },
+      {
+        "id": 22,
+        "sentence_en": "They are your consultants.",
+        "translations": {
+          "ru": "Они твои консультанты.",
+          "es": "Ellos son tus consultores.",
+          "fr": "Ils sont tes consultants.",
+          "de": "Sie sind deine Berater."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "He", "I"] },
+          { "correct": "are", "alternatives": ["were", "will be", "have"] },
+          { "correct": "your", "alternatives": ["his", "her", "my"] },
+          { "correct": "consultants", "alternatives": ["lawyers", "doctors", "managers"] }
+        ]
+      },
+      {
+        "id": 23,
+        "sentence_en": "She is my driver.",
+        "translations": {
+          "ru": "Она мой водитель.",
+          "es": "Ella es mi conductora.",
+          "fr": "Elle est ma conductrice.",
+          "de": "Sie ist meine Fahrerin."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "I", "They"] },
+          { "correct": "is", "alternatives": ["was", "will be", "has"] },
+          { "correct": "my", "alternatives": ["his", "her", "your"] },
+          { "correct": "driver", "alternatives": ["doctor", "lawyer", "consultant"] }
+        ]
+      },
+      {
+        "id": 24,
+        "sentence_en": "It is our pen.",
+        "translations": {
+          "ru": "Это наша ручка.",
+          "es": "Es nuestro bolígrafo.",
+          "fr": "C'est notre stylo.",
+          "de": "Das ist unser Stift."
+        },
+        "words": [
+          { "correct": "It", "alternatives": ["That", "He", "One"] },
+          { "correct": "is", "alternatives": ["was", "will be", "has"] },
+          { "correct": "our", "alternatives": ["my", "your", "their"] },
+          { "correct": "pen", "alternatives": ["pencil", "book", "bag"] }
+        ]
+      },
+      {
+        "id": 25,
+        "sentence_en": "We will be their friends.",
+        "translations": {
+          "ru": "Мы будем их друзьями.",
+          "es": "Seremos sus amigos.",
+          "fr": "Nous serons leurs amis.",
+          "de": "Wir werden ihre Freunde sein."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "He"] },
+          { "correct": "will", "alternatives": ["are", "were", "have"] },
+          { "correct": "be", "alternatives": ["become", "have", "see"] },
+          { "correct": "their", "alternatives": ["your", "his", "her"] },
+          { "correct": "friends", "alternatives": ["partners", "drivers", "consultants"] }
+        ]
+      },
+      {
+        "id": 26,
+        "sentence_en": "We were her partners.",
+        "translations": {
+          "ru": "Мы были её партнёрами.",
+          "es": "Éramos sus socios.",
+          "fr": "Nous étions ses partenaires.",
+          "de": "Wir waren ihre Partner."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "He"] },
+          { "correct": "were", "alternatives": ["are", "will be", "have"] },
+          { "correct": "her", "alternatives": ["his", "your", "their"] },
+          { "correct": "partners", "alternatives": ["friends", "drivers", "lawyers"] }
+        ]
+      },
+      {
+        "id": 27,
+        "sentence_en": "You are her assistant.",
+        "translations": {
+          "ru": "Ты её помощник.",
+          "es": "Eres su asistente.",
+          "fr": "Tu es son assistant.",
+          "de": "Du bist ihr Assistent."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["I", "He", "They"] },
+          { "correct": "are", "alternatives": ["were", "will be", "have"] },
+          { "correct": "her", "alternatives": ["his", "your", "their"] },
+          { "correct": "assistant", "alternatives": ["driver", "consultant", "lawyer"] }
+        ]
+      },
+      {
+        "id": 28,
+        "sentence_en": "It is my book.",
+        "translations": {
+          "ru": "Это моя книга.",
+          "es": "Es mi libro.",
+          "fr": "C'est mon livre.",
+          "de": "Das ist mein Buch."
+        },
+        "words": [
+          { "correct": "It", "alternatives": ["That", "He", "One"] },
+          { "correct": "is", "alternatives": ["was", "will be", "has"] },
+          { "correct": "my", "alternatives": ["your", "his", "her"] },
+          { "correct": "book", "alternatives": ["pen", "pencil", "bag"] }
+        ]
+      },
+      {
+        "id": 29,
+        "sentence_en": "Are they our friends?",
+        "translations": {
+          "ru": "Они наши друзья?",
+          "es": "¿Son ellos nuestros amigos?",
+          "fr": "Sont‑ils nos amis?",
+          "de": "Sind sie unsere Freunde?"
+        },
+        "words": [
+          { "correct": "Are", "alternatives": ["Were", "Will", "Have"] },
+          { "correct": "they", "alternatives": ["you", "he", "she"] },
+          { "correct": "our", "alternatives": ["your", "his", "her"] },
+          { "correct": "friends", "alternatives": ["partners", "lawyers", "doctors"] }
+        ]
+      },
+      {
+        "id": 30,
+        "sentence_en": "You were not his guide.",
+        "translations": {
+          "ru": "Ты не был его гидом.",
+          "es": "No fuiste su guía.",
+          "fr": "Tu n'étais pas son guide.",
+          "de": "Du warst nicht sein Reiseleiter."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["I", "He", "They"] },
+          { "correct": "were", "alternatives": ["are", "will be", "have"] },
+          { "correct": "not", "alternatives": ["never", "no", "always"] },
+          { "correct": "his", "alternatives": ["her", "your", "my"] },
+          { "correct": "guide", "alternatives": ["driver", "partner", "lawyer"] }
+        ]
+      },
+      {
+        "id": 31,
+        "sentence_en": "I will be her guide.",
+        "translations": {
+          "ru": "Я буду её гидом.",
+          "es": "Seré su guía.",
+          "fr": "Je serai son guide.",
+          "de": "Ich werde ihr Reiseleiter sein."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["You", "He", "They"] },
+          { "correct": "will", "alternatives": ["am", "was", "have"] },
+          { "correct": "be", "alternatives": ["become", "have", "see"] },
+          { "correct": "her", "alternatives": ["his", "your", "their"] },
+          { "correct": "guide", "alternatives": ["driver", "partner", "lawyer"] }
+        ]
+      },
+      {
+        "id": 32,
+        "sentence_en": "She was not my partner.",
+        "translations": {
+          "ru": "Она не была моим партнёром.",
+          "es": "Ella no era mi socia.",
+          "fr": "Elle n'était pas ma partenaire.",
+          "de": "Sie war nicht meine Partnerin."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "I", "They"] },
+          { "correct": "was", "alternatives": ["is", "will be", "has"] },
+          { "correct": "not", "alternatives": ["never", "no", "always"] },
+          { "correct": "my", "alternatives": ["his", "her", "your"] },
+          { "correct": "partner", "alternatives": ["guide", "driver", "assistant"] }
+        ]
+      },
+      {
+        "id": 33,
+        "sentence_en": "Will she be our friend?",
+        "translations": {
+          "ru": "Она будет нашим другом?",
+          "es": "¿Será ella nuestra amiga?",
+          "fr": "Sera‑t‑elle notre amie?",
+          "de": "Wird sie unsere Freundin sein?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Is", "Was", "Has"] },
+          { "correct": "she", "alternatives": ["he", "they", "you"] },
+          { "correct": "be", "alternatives": ["become", "have", "see"] },
+          { "correct": "our", "alternatives": ["your", "his", "her"] },
+          { "correct": "friend", "alternatives": ["partner", "driver", "guide"] }
+        ]
+      },
+      {
+        "id": 34,
+        "sentence_en": "We will not be her lawyers.",
+        "translations": {
+          "ru": "Мы не будем её адвокатами.",
+          "es": "No seremos sus abogados.",
+          "fr": "Nous ne serons pas ses avocats.",
+          "de": "Wir werden nicht ihre Anwälte sein."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "He"] },
+          { "correct": "will", "alternatives": ["are", "were", "have"] },
+          { "correct": "not", "alternatives": ["never", "no", "always"] },
+          { "correct": "be", "alternatives": ["become", "have", "see"] },
+          { "correct": "her", "alternatives": ["his", "your", "their"] },
+          { "correct": "lawyers", "alternatives": ["doctors", "partners", "guides"] }
+        ]
+      },
+      {
+        "id": 35,
+        "sentence_en": "Did he find his bag?",
+        "translations": {
+          "ru": "Он нашел свою сумку?",
+          "es": "¿Encontró él su bolso?",
+          "fr": "A‑t‑il trouvé son sac?",
+          "de": "Hat er seine Tasche gefunden?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Does", "Is", "Will"] },
+          { "correct": "he", "alternatives": ["she", "they", "you"] },
+          { "correct": "find", "alternatives": ["lose", "put", "take"] },
+          { "correct": "his", "alternatives": ["her", "your", "their"] },
+          { "correct": "bag", "alternatives": ["book", "pen", "pencil"] }
+        ]
+      },
+      {
+        "id": 36,
+        "sentence_en": "He forgot his pencil.",
+        "translations": {
+          "ru": "Он забыл свой карандаш.",
+          "es": "Él olvidó su lápiz.",
+          "fr": "Il a oublié son crayon.",
+          "de": "Er hat seinen Bleistift vergessen."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "I", "They"] },
+          { "correct": "forgot", "alternatives": ["found", "took", "lost"] },
+          { "correct": "his", "alternatives": ["her", "your", "my"] },
+          { "correct": "pencil", "alternatives": ["pen", "book", "bag"] }
+        ]
+      },
+      {
+        "id": 37,
+        "sentence_en": "Was she our designer?",
+        "translations": {
+          "ru": "Она была нашим дизайнером?",
+          "es": "¿Fue ella nuestra diseñadora?",
+          "fr": "Était‑elle notre designer?",
+          "de": "War sie unsere Designerin?"
+        },
+        "words": [
+          { "correct": "Was", "alternatives": ["Is", "Will", "Did"] },
+          { "correct": "she", "alternatives": ["he", "they", "you"] },
+          { "correct": "our", "alternatives": ["your", "his", "her"] },
+          { "correct": "designer", "alternatives": ["driver", "consultant", "assistant"] }
+        ]
+      },
+      {
+        "id": 38,
+        "sentence_en": "Did she help her friend?",
+        "translations": {
+          "ru": "Она помогала своему другу?",
+          "es": "¿Ayudó ella a su amigo?",
+          "fr": "A‑t‑elle aidé son ami?",
+          "de": "Hat sie ihrem Freund geholfen?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Does", "Is", "Will"] },
+          { "correct": "she", "alternatives": ["he", "they", "you"] },
+          { "correct": "help", "alternatives": ["find", "see", "take"] },
+          { "correct": "her", "alternatives": ["his", "your", "their"] },
+          { "correct": "friend", "alternatives": ["partner", "driver", "assistant"] }
+        ]
+      },
+      {
+        "id": 39,
+        "sentence_en": "He lost his bag.",
+        "translations": {
+          "ru": "Он потерял свою сумку.",
+          "es": "Él perdió su bolso.",
+          "fr": "Il a perdu son sac.",
+          "de": "Er hat seine Tasche verloren."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "I", "They"] },
+          { "correct": "lost", "alternatives": ["found", "took", "put"] },
+          { "correct": "his", "alternatives": ["her", "your", "my"] },
+          { "correct": "bag", "alternatives": ["book", "pen", "pencil"] }
+        ]
+      },
+      {
+        "id": 40,
+        "sentence_en": "We helped your brother.",
+        "translations": {
+          "ru": "Мы помогли твоему брату.",
+          "es": "Ayudamos a tu hermano.",
+          "fr": "Nous avons aidé ton frère.",
+          "de": "Wir haben deinem Bruder geholfen."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "He"] },
+          { "correct": "helped", "alternatives": ["saw", "found", "took"] },
+          { "correct": "your", "alternatives": ["his", "her", "my"] },
+          { "correct": "brother", "alternatives": ["sister", "friend", "father"] }
+        ]
+      },
+      {
+        "id": 41,
+        "sentence_en": "We were his friends.",
+        "translations": {
+          "ru": "Мы были его друзьями.",
+          "es": "Éramos sus amigos.",
+          "fr": "Nous étions ses amis.",
+          "de": "Wir waren seine Freunde."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "She"] },
+          { "correct": "were", "alternatives": ["are", "will be", "have"] },
+          { "correct": "his", "alternatives": ["her", "your", "my"] },
+          { "correct": "friends", "alternatives": ["partners", "lawyers", "drivers"] }
+        ]
+      },
+      {
+        "id": 42,
+        "sentence_en": "She lost her bag.",
+        "translations": {
+          "ru": "Она потеряла свою сумку.",
+          "es": "Ella perdió su bolso.",
+          "fr": "Elle a perdu son sac.",
+          "de": "Sie hat ihre Tasche verloren."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "I", "They"] },
+          { "correct": "lost", "alternatives": ["found", "took", "put"] },
+          { "correct": "her", "alternatives": ["his", "your", "my"] },
+          { "correct": "bag", "alternatives": ["book", "pen", "pencil"] }
+        ]
+      },
+      {
+        "id": 43,
+        "sentence_en": "You will be his teacher.",
+        "translations": {
+          "ru": "Ты будешь его учителем.",
+          "es": "Serás su maestro.",
+          "fr": "Tu seras son professeur.",
+          "de": "Du wirst sein Lehrer sein."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["I", "She", "They"] },
+          { "correct": "will", "alternatives": ["are", "were", "have"] },
+          { "correct": "be", "alternatives": ["become", "have", "see"] },
+          { "correct": "his", "alternatives": ["her", "your", "my"] },
+          { "correct": "teacher", "alternatives": ["doctor", "lawyer", "consultant"] }
+        ]
+      },
+      {
+        "id": 44,
+        "sentence_en": "It is his bag.",
+        "translations": {
+          "ru": "Это его сумка.",
+          "es": "Es su bolso.",
+          "fr": "C'est son sac.",
+          "de": "Das ist seine Tasche."
+        },
+        "words": [
+          { "correct": "It", "alternatives": ["That", "He", "One"] },
+          { "correct": "is", "alternatives": ["was", "will be", "has"] },
+          { "correct": "his", "alternatives": ["her", "your", "my"] },
+          { "correct": "bag", "alternatives": ["book", "pen", "pencil"] }
+        ]
+      },
+      {
+        "id": 45,
+        "sentence_en": "She was not their driver.",
+        "translations": {
+          "ru": "Она не была их водителем.",
+          "es": "Ella no era su conductora.",
+          "fr": "Elle n'était pas leur conductrice.",
+          "de": "Sie war nicht ihre Fahrerin."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "I", "They"] },
+          { "correct": "was", "alternatives": ["is", "will be", "has"] },
+          { "correct": "not", "alternatives": ["never", "no", "always"] },
+          { "correct": "their", "alternatives": ["his", "her", "your"] },
+          { "correct": "driver", "alternatives": ["doctor", "lawyer", "consultant"] }
+        ]
+      },
+      {
+        "id": 46,
+        "sentence_en": "You were not her doctor.",
+        "translations": {
+          "ru": "Ты не был её врачом.",
+          "es": "No fuiste su médico.",
+          "fr": "Tu n'étais pas son médecin.",
+          "de": "Du warst nicht ihr Arzt."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["I", "He", "They"] },
+          { "correct": "were", "alternatives": ["are", "will be", "have"] },
+          { "correct": "not", "alternatives": ["never", "no", "always"] },
+          { "correct": "her", "alternatives": ["his", "your", "my"] },
+          { "correct": "doctor", "alternatives": ["driver", "lawyer", "consultant"] }
+        ]
+      },
+      {
+        "id": 47,
+        "sentence_en": "Are you her accountant?",
+        "translations": {
+          "ru": "Ты её бухгалтер?",
+          "es": "¿Eres su contador?",
+          "fr": "Es‑tu son comptable?",
+          "de": "Bist du ihr Buchhalter?"
+        },
+        "words": [
+          { "correct": "Are", "alternatives": ["Were", "Will", "Have"] },
+          { "correct": "you", "alternatives": ["they", "he", "she"] },
+          { "correct": "her", "alternatives": ["his", "your", "my"] },
+          { "correct": "accountant", "alternatives": ["doctor", "lawyer", "consultant"] }
+        ]
+      },
+      {
+        "id": 48,
+        "sentence_en": "She was your accountant.",
+        "translations": {
+          "ru": "Она была твоим бухгалтером.",
+          "es": "Ella fue tu contadora.",
+          "fr": "Elle était ton comptable.",
+          "de": "Sie war deine Buchhalterin."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "I", "They"] },
+          { "correct": "was", "alternatives": ["is", "will be", "has"] },
+          { "correct": "your", "alternatives": ["his", "her", "my"] },
+          { "correct": "accountant", "alternatives": ["doctor", "lawyer", "consultant"] }
+        ]
+      },
+      {
+        "id": 49,
+        "sentence_en": "We were their teachers.",
+        "translations": {
+          "ru": "Мы были их учителями.",
+          "es": "Éramos sus profesores.",
+          "fr": "Nous étions leurs professeurs.",
+          "de": "Wir waren ihre Lehrer."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "She"] },
+          { "correct": "were", "alternatives": ["are", "will be", "have"] },
+          { "correct": "their", "alternatives": ["his", "her", "your"] },
+          { "correct": "teachers", "alternatives": ["doctors", "lawyers", "drivers"] }
+        ]
+      },
+      {
+        "id": 50,
+        "sentence_en": "Will they be his partners?",
+        "translations": {
+          "ru": "Они будут его партнёрами?",
+          "es": "¿Serán ellos sus socios?",
+          "fr": "Seront‑ils ses partenaires?",
+          "de": "Werden sie seine Partner sein?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Are", "Were", "Have"] },
+          { "correct": "they", "alternatives": ["we", "he", "she"] },
+          { "correct": "be", "alternatives": ["become", "have", "see"] },
+          { "correct": "his", "alternatives": ["her", "your", "my"] },
+          { "correct": "partners", "alternatives": ["teachers", "doctors", "lawyers"] }
+        ]
+      },
+      {
+        "id": 51,
+        "sentence_en": "Are they his guides?",
+        "translations": {
+          "ru": "Они его гиды?",
+          "es": "¿Son ellos sus guías?",
+          "fr": "Sont‑ils ses guides?",
+          "de": "Sind sie seine Reiseleiter?"
+        },
+        "words": [
+          { "correct": "Are", "alternatives": ["Were", "Will", "Have"] },
+          { "correct": "they", "alternatives": ["we", "he", "she"] },
+          { "correct": "his", "alternatives": ["her", "your", "my"] },
+          { "correct": "guides", "alternatives": ["teachers", "doctors", "lawyers"] }
+        ]
+      },
+      {
+        "id": 52,
+        "sentence_en": "You are my friend.",
+        "translations": {
+          "ru": "Ты мой друг.",
+          "es": "Eres mi amigo.",
+          "fr": "Tu es mon ami.",
+          "de": "Du bist mein Freund."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["He", "She", "They"] },
+          { "correct": "are", "alternatives": ["were", "will be", "have"] },
+          { "correct": "my", "alternatives": ["his", "her", "their"] },
+          { "correct": "friend", "alternatives": ["partner", "doctor", "lawyer"] }
+        ]
+      },
+      {
+        "id": 53,
+        "sentence_en": "It is our bag.",
+        "translations": {
+          "ru": "Это наша сумка.",
+          "es": "Es nuestra bolsa.",
+          "fr": "C'est notre sac.",
+          "de": "Das ist unsere Tasche."
+        },
+        "words": [
+          { "correct": "It", "alternatives": ["That", "He", "One"] },
+          { "correct": "is", "alternatives": ["was", "will be", "has"] },
+          { "correct": "our", "alternatives": ["my", "your", "their"] },
+          { "correct": "bag", "alternatives": ["book", "pen", "pencil"] }
+        ]
+      },
+      {
+        "id": 54,
+        "sentence_en": "I was her manager.",
+        "translations": {
+          "ru": "Я был её менеджером.",
+          "es": "Fui su gerente.",
+          "fr": "J'étais son manager.",
+          "de": "Ich war ihr Manager."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["You", "He", "They"] },
+          { "correct": "was", "alternatives": ["am", "will be", "have"] },
+          { "correct": "her", "alternatives": ["his", "your", "their"] },
+          { "correct": "manager", "alternatives": ["doctor", "lawyer", "consultant"] }
+        ]
+      },
+      {
+        "id": 55,
+        "sentence_en": "They will be our assistants.",
+        "translations": {
+          "ru": "Они будут нашими помощниками.",
+          "es": "Ellos serán nuestros asistentes.",
+          "fr": "Ils seront nos assistants.",
+          "de": "Sie werden unsere Assistenten sein."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "He", "She"] },
+          { "correct": "will", "alternatives": ["are", "were", "have"] },
+          { "correct": "be", "alternatives": ["become", "have", "see"] },
+          { "correct": "our", "alternatives": ["my", "your", "their"] },
+          { "correct": "assistants", "alternatives": ["doctors", "lawyers", "managers"] }
+        ]
+      },
+      {
+        "id": 56,
+        "sentence_en": "You will be her consultant.",
+        "translations": {
+          "ru": "Ты будешь её консультантом.",
+          "es": "Serás su consultor.",
+          "fr": "Tu seras son consultant.",
+          "de": "Du wirst ihr Berater sein."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["I", "He", "They"] },
+          { "correct": "will", "alternatives": ["are", "were", "have"] },
+          { "correct": "be", "alternatives": ["become", "have", "see"] },
+          { "correct": "her", "alternatives": ["his", "your", "my"] },
+          { "correct": "consultant", "alternatives": ["doctor", "lawyer", "manager"] }
+        ]
+      },
+      {
+        "id": 57,
+        "sentence_en": "He was their doctor.",
+        "translations": {
+          "ru": "Он был их врачом.",
+          "es": "Él fue su médico.",
+          "fr": "Il était leur médecin.",
+          "de": "Er war ihr Arzt."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "I", "They"] },
+          { "correct": "was", "alternatives": ["is", "will be", "has"] },
+          { "correct": "their", "alternatives": ["his", "her", "your"] },
+          { "correct": "doctor", "alternatives": ["consultant", "lawyer", "manager"] }
+        ]
+      },
+      {
+        "id": 58,
+        "sentence_en": "Did he help his friend?",
+        "translations": {
+          "ru": "Он помогал своему другу?",
+          "es": "¿Ayudó él a su amigo?",
+          "fr": "A‑t‑il aidé son ami?",
+          "de": "Hat er seinem Freund geholfen?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Does", "Is", "Will"] },
+          { "correct": "he", "alternatives": ["she", "you", "they"] },
+          { "correct": "help", "alternatives": ["find", "see", "take"] },
+          { "correct": "his", "alternatives": ["her", "your", "my"] },
+          { "correct": "friend", "alternatives": ["partner", "doctor", "lawyer"] }
+        ]
+      },
+      {
+        "id": 59,
+        "sentence_en": "Will they be her consultants?",
+        "translations": {
+          "ru": "Они будут её консультантами?",
+          "es": "¿Serán ellos sus consultores?",
+          "fr": "Seront‑ils ses consultants?",
+          "de": "Werden sie ihre Berater sein?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Are", "Were", "Have"] },
+          { "correct": "they", "alternatives": ["we", "he", "she"] },
+          { "correct": "be", "alternatives": ["become", "have", "see"] },
+          { "correct": "her", "alternatives": ["his", "your", "my"] },
+          { "correct": "consultants", "alternatives": ["doctors", "lawyers", "managers"] }
+        ]
+      },
+      {
+        "id": 60,
+        "sentence_en": "He brought his bag.",
+        "translations": {
+          "ru": "Он принес свою сумку.",
+          "es": "Él trajo su bolso.",
+          "fr": "Il a apporté son sac.",
+          "de": "Er brachte seine Tasche."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "I", "They"] },
+          { "correct": "brought", "alternatives": ["found", "lost", "took"] },
+          { "correct": "his", "alternatives": ["her", "your", "my"] },
+          { "correct": "bag", "alternatives": ["book", "pen", "pencil"] }
+        ]
+      },
+      {
+        "id": 61,
+        "sentence_en": "Did you see her book?",
+        "translations": {
+          "ru": "Ты видел её книгу?",
+          "es": "¿Viste su libro?",
+          "fr": "As‑tu vu son livre?",
+          "de": "Hast du ihr Buch gesehen?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Does", "Is", "Will"] },
+          { "correct": "you", "alternatives": ["he", "she", "they"] },
+          { "correct": "see", "alternatives": ["find", "take", "lose"] },
+          { "correct": "her", "alternatives": ["his", "your", "my"] },
+          { "correct": "book", "alternatives": ["bag", "pen", "pencil"] }
+        ]
+      },
+      {
+        "id": 62,
+        "sentence_en": "She lost her pencil.",
+        "translations": {
+          "ru": "Она потеряла свой карандаш.",
+          "es": "Ella perdió su lápiz.",
+          "fr": "Elle a perdu son crayon.",
+          "de": "Sie hat ihren Bleistift verloren."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "I", "They"] },
+          { "correct": "lost", "alternatives": ["found", "took", "put"] },
+          { "correct": "her", "alternatives": ["his", "your", "my"] },
+          { "correct": "pencil", "alternatives": ["pen", "book", "bag"] }
+        ]
+      },
+      {
+        "id": 63,
+        "sentence_en": "It is his pencil.",
+        "translations": {
+          "ru": "Это его карандаш.",
+          "es": "Es su lápiz.",
+          "fr": "C'est son crayon.",
+          "de": "Das ist sein Bleistift."
+        },
+        "words": [
+          { "correct": "It", "alternatives": ["That", "He", "One"] },
+          { "correct": "is", "alternatives": ["was", "will be", "has"] },
+          { "correct": "his", "alternatives": ["her", "your", "my"] },
+          { "correct": "pencil", "alternatives": ["pen", "book", "bag"] }
+        ]
+      },
+      {
+        "id": 64,
+        "sentence_en": "She put her book.",
+        "translations": {
+          "ru": "Она положила свою книгу.",
+          "es": "Ella puso su libro.",
+          "fr": "Elle a posé son livre.",
+          "de": "Sie legte ihr Buch hin."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "I", "They"] },
+          { "correct": "put", "alternatives": ["found", "lost", "took"] },
+          { "correct": "her", "alternatives": ["his", "your", "my"] },
+          { "correct": "book", "alternatives": ["pen", "pencil", "bag"] }
+        ]
+      },
+      {
+        "id": 65,
+        "sentence_en": "He lost his book.",
+        "translations": {
+          "ru": "Он потерял свою книгу.",
+          "es": "Él perdió su libro.",
+          "fr": "Il a perdu son livre.",
+          "de": "Er hat sein Buch verloren."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "I", "They"] },
+          { "correct": "lost", "alternatives": ["found", "took", "put"] },
+          { "correct": "his", "alternatives": ["her", "your", "my"] },
+          { "correct": "book", "alternatives": ["pen", "pencil", "bag"] }
+        ]
+      },
+      {
+        "id": 66,
+        "sentence_en": "Were they her lawyers?",
+        "translations": {
+          "ru": "Они были её адвокатами?",
+          "es": "¿Eran ellos sus abogados?",
+          "fr": "Étaient‑ils ses avocats?",
+          "de": "Waren sie ihre Anwälte?"
+        },
+        "words": [
+          { "correct": "Were", "alternatives": ["Are", "Will", "Have"] },
+          { "correct": "they", "alternatives": ["we", "he", "she"] },
+          { "correct": "her", "alternatives": ["his", "your", "my"] },
+          { "correct": "lawyers", "alternatives": ["doctors", "consultants", "managers"] }
+        ]
+      },
+      {
+        "id": 67,
+        "sentence_en": "Did you see his bag?",
+        "translations": {
+          "ru": "Ты видел его сумку?",
+          "es": "¿Viste su bolso?",
+          "fr": "As‑tu vu son sac?",
+          "de": "Hast du seine Tasche gesehen?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Does", "Is", "Will"] },
+          { "correct": "you", "alternatives": ["he", "she", "they"] },
+          { "correct": "see", "alternatives": ["find", "take", "lose"] },
+          { "correct": "his", "alternatives": ["her", "your", "my"] },
+          { "correct": "bag", "alternatives": ["book", "pen", "pencil"] }
+        ]
+      },
+      {
+        "id": 68,
+        "sentence_en": "Did she find her pencil?",
+        "translations": {
+          "ru": "Она нашла свой карандаш?",
+          "es": "¿Encontró ella su lápiz?",
+          "fr": "A‑t‑elle trouvé son crayon?",
+          "de": "Hat sie ihren Bleistift gefunden?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Does", "Is", "Will"] },
+          { "correct": "she", "alternatives": ["he", "you", "they"] },
+          { "correct": "find", "alternatives": ["lose", "take", "put"] },
+          { "correct": "her", "alternatives": ["his", "your", "my"] },
+          { "correct": "pencil", "alternatives": ["pen", "book", "bag"] }
+        ]
+      },
+      {
+        "id": 69,
+        "sentence_en": "They were her drivers.",
+        "translations": {
+          "ru": "Они были её водителями.",
+          "es": "Ellos eran sus conductores.",
+          "fr": "Ils étaient ses chauffeurs.",
+          "de": "Sie waren ihre Fahrer."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "He", "She"] },
+          { "correct": "were", "alternatives": ["are", "will be", "have"] },
+          { "correct": "her", "alternatives": ["his", "your", "my"] },
+          { "correct": "drivers", "alternatives": ["doctors", "lawyers", "consultants"] }
+        ]
+      },
+      {
+        "id": 70,
+        "sentence_en": "He is their partner.",
+        "translations": {
+          "ru": "Он их партнёр.",
+          "es": "Él es su socio.",
+          "fr": "Il est leur partenaire.",
+          "de": "Er ist ihr Partner."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "I", "They"] },
+          { "correct": "is", "alternatives": ["was", "will be", "has"] },
+          { "correct": "their", "alternatives": ["his", "her", "your"] },
+          { "correct": "partner", "alternatives": ["doctor", "lawyer", "consultant"] }
+        ]
+      },
+      {
+        "id": 71,
+        "sentence_en": "Was he your driver?",
+        "translations": {
+          "ru": "Он был твоим водителем?",
+          "es": "¿Fue él tu conductor?",
+          "fr": "Était‑il ton chauffeur?",
+          "de": "War er dein Fahrer?"
+        },
+        "words": [
+          { "correct": "Was", "alternatives": ["Is", "Will", "Has"] },
+          { "correct": "he", "alternatives": ["she", "you", "they"] },
+          { "correct": "your", "alternatives": ["his", "her", "my"] },
+          { "correct": "driver", "alternatives": ["doctor", "lawyer", "consultant"] }
+        ]
+      },
+      {
+        "id": 72,
+        "sentence_en": "Is he their dentist?",
+        "translations": {
+          "ru": "Он их дантист?",
+          "es": "¿Es él su dentista?",
+          "fr": "Est‑il leur dentiste?",
+          "de": "Ist er ihr Zahnarzt?"
+        },
+        "words": [
+          { "correct": "Is", "alternatives": ["Was", "Will", "Has"] },
+          { "correct": "he", "alternatives": ["she", "you", "they"] },
+          { "correct": "their", "alternatives": ["his", "her", "your"] },
+          { "correct": "dentist", "alternatives": ["doctor", "lawyer", "consultant"] }
+        ]
+      },
+      {
+        "id": 73,
+        "sentence_en": "He is our designer.",
+        "translations": {
+          "ru": "Он наш дизайнер.",
+          "es": "Él es nuestro diseñador.",
+          "fr": "Il est notre designer.",
+          "de": "Er ist unser Designer."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "I", "They"] },
+          { "correct": "is", "alternatives": ["was", "will be", "has"] },
+          { "correct": "our", "alternatives": ["my", "your", "their"] },
+          { "correct": "designer", "alternatives": ["doctor", "lawyer", "consultant"] }
+        ]
+      },
+      {
+        "id": 74,
+        "sentence_en": "They were not our drivers.",
+        "translations": {
+          "ru": "Они не были нашими водителями.",
+          "es": "Ellos no eran nuestros conductores.",
+          "fr": "Ils n'étaient pas nos chauffeurs.",
+          "de": "Sie waren nicht unsere Fahrer."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "He", "She"] },
+          { "correct": "were", "alternatives": ["are", "will be", "have"] },
+          { "correct": "not", "alternatives": ["never", "no", "always"] },
+          { "correct": "our", "alternatives": ["my", "your", "their"] },
+          { "correct": "drivers", "alternatives": ["doctors", "lawyers", "consultants"] }
+        ]
+      },
+      {
+        "id": 75,
+        "sentence_en": "Was he her assistant?",
+        "translations": {
+          "ru": "Он был её помощником?",
+          "es": "¿Fue él su asistente?",
+          "fr": "Était‑il son assistant?",
+          "de": "War er ihr Assistent?"
+        },
+        "words": [
+          { "correct": "Was", "alternatives": ["Is", "Will", "Has"] },
+          { "correct": "he", "alternatives": ["she", "you", "they"] },
+          { "correct": "her", "alternatives": ["his", "your", "my"] },
+          { "correct": "assistant", "alternatives": ["doctor", "lawyer", "consultant"] }
+        ]
+      }
+    ]
+  }
+}
+
+  

@@ -1,0 +1,2714 @@
+{
+  "id": 8,
+  "title": {
+    "english": "Time Prepositions",
+    "russian": "Предлоги времени",
+    "spanish": "Preposiciones de tiempo",
+    "french": "Prépositions de temps",
+    "german": "Zeitpräpositionen"
+  },
+  "description": {
+    "english": "In this lesson, we will learn about prepositions used to indicate time in English.",
+    "russian": "В этом уроке мы изучим предлоги, используемые для обозначения времени в английском языке.",
+    "spanish": "En esta lección, aprenderemos sobre las preposiciones utilizadas para indicar tiempo en inglés.",
+    "french": "Dans cette leçon, nous apprendrons les prépositions utilisées pour indiquer le temps en anglais.",
+    "german": "In dieser Lektion lernen wir Präpositionen, die im Englischen zur Angabe von Zeit verwendet werden."
+  },
+  "detailedDescription": {
+    "russian": {
+      "title": "Урок 8 — Предлоги времени",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Объяснение предлогов времени"
+        },
+        {
+          "type": "heading",
+          "content": "(Без предлога)"
+        },
+        {
+          "type": "text",
+          "content": "**Когда?** — Когда используешь слова типа today, tomorrow, yesterday, now, а также this/next/last + время.\n**Почему?** — Эти слова уже сами по себе указывают на время, предлог не нужен."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "on"
+        },
+        {
+          "type": "text",
+          "content": "**Когда?** — С конкретными днями (понедельник, пятница и т.д.) и датами.\n**Почему?** — Потому что это точка во времени, но не час, а день."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "in"
+        },
+        {
+          "type": "text",
+          "content": "**Когда?** — С месяцами, годами, сезонами, временем суток и промежутком времени (через).\n**Почему?** — Это большой период времени, поэтому нужен in."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "at"
+        },
+        {
+          "type": "text",
+          "content": "**Когда?** — С точным временем (часы), ночью, выходными, полночью.\n**Почему?** — Это самая точная точка времени, поэтому at."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "ago"
+        },
+        {
+          "type": "text",
+          "content": "**Когда?** — Когда говоришь, сколько времени назад что-то произошло.\n**Почему?** — Указывает на прошедшее время от текущего момента."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Упрощённая таблица предлогов времени"
+        },
+        {
+          "type": "table",
+          "headers": ["Предлог", "Когда используем", "Пример (англ.)", "Перевод"],
+          "rows": [
+            ["(Без предлога)", "today, yesterday, tomorrow, now", "I worked yesterday", "Я работал вчера"],
+            ["(Без предлога)", "this / next / last + время", "He'll come next week", "Он придет на следующей неделе"],
+            ["on", "Дни недели", "We met on Monday", "Мы встретились в понедельник"],
+            ["on", "Даты (число + месяц)", "Party is on May 5th", "Вечеринка пятого мая"],
+            ["in", "Месяцы", "I was born in August", "Я родился в августе"],
+            ["in", "Годы", "She moved here in 2006", "Она переехала в 2006"],
+            ["in", "Сезоны", "It snows in winter", "Идёт снег зимой"],
+            ["in", "Время дня (morning, evening, afternoon)", "I study in the evening", "Я учусь вечером"],
+            ["in", "Через промежуток времени", "I'll call in an hour", "Я позвоню через час"],
+            ["at", "Ночь, полдень, полночь", "I sleep at night", "Я сплю ночью"],
+            ["at", "Выходные", "Concert is at the weekend", "Концерт на выходных"],
+            ["at", "Точное время (часы)", "Bus arrives at 9 o'clock", "Автобус приезжает в 9"],
+            ["ago", "Сколько времени назад", "We met 5 days ago", "Мы встретились 5 дней назад"]
+          ]
+        }
+      ]
+    },
+    "spanish": {
+      "title": "Lección 8 — Expresiones de tiempo y preposiciones en inglés",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "¿Qué son las expresiones de tiempo?"
+        },
+        {
+          "type": "text",
+          "content": "En inglés, usamos expresiones de tiempo para decir cuándo ocurre una acción:\npor ejemplo: hoy, mañana, el lunes, en agosto, hace 3 días, en una hora, etc.\n\nPero a diferencia del español, en inglés hay que usar preposiciones específicas según el tipo de expresión:\non, in, at, o a veces ninguna. También se usa ago para decir \"hace\"."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "1. Sin preposición"
+        },
+        {
+          "type": "text",
+          "content": "Estas palabras se usan sin preposición en inglés, directamente:\n • **today** — hoy\n • **tomorrow** — mañana\n • **yesterday** — ayer\n • **now** — ahora\n • también con:\n • **next week** — la próxima semana\n • **this month** — este mes\n • **last year** — el año pasado"
+        },
+        {
+          "type": "text",
+          "content": "Ejemplos:\n • I worked yesterday.\n(Trabajé ayer)\n • He will come next week.\n(Él vendrá la próxima semana)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "2. Preposición on"
+        },
+        {
+          "type": "text",
+          "content": "Usamos **on** para momentos más específicos, como:\n • Días de la semana: on Monday, on Friday\n • Fechas concretas: on the 5th of May, on July 1st"
+        },
+        {
+          "type": "text",
+          "content": "Ejemplos:\n • We met on Monday.\n(Nos conocimos el lunes)\n • The party is on May 5th.\n(La fiesta es el 5 de mayo)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "3. Preposición in"
+        },
+        {
+          "type": "text",
+          "content": "Usamos **in** para períodos más largos o menos exactos:\n • Meses: in August, in December\n • Años: in 2006, in 1990\n • Estaciones: in winter, in summer\n • Partes del día: in the morning, in the evening, in the afternoon\n • En un futuro (tras un período de tiempo): in an hour, in two weeks"
+        },
+        {
+          "type": "text",
+          "content": "Ejemplos:\n • I was born in August.\n(Nací en agosto)\n • I study in the morning.\n(Estudio por la mañana)\n • She'll call me in an hour.\n(Me llamará en una hora)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "4. Preposición at"
+        },
+        {
+          "type": "text",
+          "content": "Usamos **at** para momentos muy concretos y cortos:\n • Horas exactas: at 9 o'clock, at 6:30\n • La noche: at night\n • El fin de semana (en inglés británico): at the weekend\n • Mediodía y medianoche: at noon, at midnight"
+        },
+        {
+          "type": "text",
+          "content": "Ejemplos:\n • I sleep at night.\n(Duermo por la noche)\n • The meeting is at 9 o'clock.\n(La reunión es a las 9)\n • The concert is at the weekend.\n(El concierto es el fin de semana)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "5. Palabra ago"
+        },
+        {
+          "type": "text",
+          "content": "**ago** significa \"hace\" en español.\nSiempre se coloca después del tiempo que ha pasado.\n\nEstructura:\n[number] + [unidad de tiempo] + ago"
+        },
+        {
+          "type": "text",
+          "content": "Ejemplos:\n • We met 5 days ago.\n(Nos conocimos hace 5 días)\n • She moved here a year ago.\n(Se mudó aquí hace un año)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Resumen visual"
+        },
+        {
+          "type": "table",
+          "headers": ["Preposición", "Cuándo se usa", "Ejemplo en inglés", "Traducción"],
+          "rows": [
+            ["(Sin preposición)", "today, yesterday, tomorrow, now; this/next/last + tiempo", "I worked yesterday", "Trabajé ayer"],
+            ["on", "días de la semana, fechas concretas", "on Monday, on May 5th", "el lunes, el 5 de mayo"],
+            ["in", "meses, años, estaciones, partes del día, futuro general", "in August, in 2006, in winter", "en agosto, en 2006, en invierno"],
+            ["at", "hora exacta, noche, fin de semana, noon/midnight", "at night, at 9 o'clock", "por la noche, a las 9"],
+            ["ago", "cuánto tiempo ha pasado", "5 days ago", "hace 5 días"]
+          ]
+        }
+      ]
+    },
+    "french": {
+      "title": "Leçon 8 — Les expressions de temps et les prépositions en anglais",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "C'est quoi une préposition de temps ?"
+        },
+        {
+          "type": "text",
+          "content": "En anglais, on utilise plusieurs prépositions pour indiquer quand une action se passe.\nCe sont surtout : on, in, at, et ago.\n\nMais attention : ces prépositions ne correspondent pas toujours à celles qu'on utiliserait en français.\nIl faut donc apprendre dans quels cas utiliser laquelle, même si en français on dirait simplement \"le lundi\", \"en août\", \"à 9h\", etc."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "1. Sans préposition (pas de mot devant)"
+        },
+        {
+          "type": "text",
+          "content": "Il y a certains mots de temps qui n'ont pas besoin de préposition en anglais.\nCe sont :\n • **today** – aujourd'hui\n • **tomorrow** – demain\n • **yesterday** – hier\n • **now** – maintenant\nEt aussi :\n • **next week** / **last year** / **this month** – la semaine prochaine, l'année dernière, ce mois-ci"
+        },
+        {
+          "type": "text",
+          "content": "Exemples :\n • I worked yesterday.\n(J'ai travaillé hier)\n • He'll come next week.\n(Il viendra la semaine prochaine)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "2. Préposition on"
+        },
+        {
+          "type": "text",
+          "content": "On utilise **on** quand on parle de jours précis :\n • Jours de la semaine : on Monday, on Friday\n • Dates exactes : on the 5th of May, on July 1st"
+        },
+        {
+          "type": "text",
+          "content": "Exemples :\n • We met on Monday.\n(On s'est rencontrés lundi)\n • The meeting is on May 5th.\n(La réunion est le 5 mai)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "3. Préposition in"
+        },
+        {
+          "type": "text",
+          "content": "On utilise **in** pour les périodes générales, pas précises à l'heure près :\n • Mois : in August, in December\n • Années : in 2006, in 1990\n • Saisons : in winter, in summer\n • Moments de la journée : in the morning, in the evening, in the afternoon\n • Délai futur : in an hour, in two weeks"
+        },
+        {
+          "type": "text",
+          "content": "Exemples :\n • I was born in August.\n(Je suis né en août)\n • I'll call you in an hour.\n(Je t'appelle dans une heure)\n • She studies in the evening.\n(Elle étudie le soir)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "4. Préposition at"
+        },
+        {
+          "type": "text",
+          "content": "On utilise **at** pour des moments très précis :\n • Heures exactes : at 9 o'clock, at 6:30\n • La nuit : at night\n • Le week-end (en anglais britannique) : at the weekend\n • Midi et minuit : at noon, at midnight"
+        },
+        {
+          "type": "text",
+          "content": "Exemples :\n • I sleep at night.\n(Je dors la nuit)\n • The bus comes at 9 o'clock.\n(Le bus arrive à 9h)\n • The party is at the weekend.\n(La fête est le week-end)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "5. Le mot ago"
+        },
+        {
+          "type": "text",
+          "content": "Le mot **ago** veut dire \"il y a\" en français, mais il vient après la durée.\nOn utilise cette structure pour dire depuis combien de temps quelque chose est arrivé.\n\nStructure :\n[durée] + ago"
+        },
+        {
+          "type": "text",
+          "content": "Exemples :\n • We met 5 days ago.\n(On s'est rencontrés il y a 5 jours)\n • She moved here a year ago.\n(Elle a déménagé ici il y a un an)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Résumé clair"
+        },
+        {
+          "type": "table",
+          "headers": ["Préposition", "Quand on l'utilise", "Exemple anglais", "Traduction française"],
+          "rows": [
+            ["(aucune)", "today, tomorrow, yesterday, now; this/next/last + période", "I worked yesterday", "J'ai travaillé hier"],
+            ["on", "jours de la semaine, dates précises", "on Monday, on May 5th", "le lundi, le 5 mai"],
+            ["in", "mois, années, saisons, moments de la journée, futur général", "in August, in winter", "en août, en hiver"],
+            ["at", "heure, nuit, midi, minuit, week-end", "at night, at 9 o'clock", "la nuit, à 9h"],
+            ["ago", "pour dire \"il y a\"", "5 days ago", "il y a 5 jours"]
+          ]
+        }
+      ]
+    },
+    "german": {
+      "title": "Lektion 8 — Zeitangaben und Präpositionen im Englischen",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Was sind Zeitpräpositionen im Englischen?"
+        },
+        {
+          "type": "text",
+          "content": "Im Englischen verwendet man bestimmte Präpositionen, um zu sagen, wann etwas passiert.\nDie wichtigsten sind: on, in, at und ago.\n\nDiese Präpositionen entsprechen nicht direkt den deutschen Präpositionen wie am, im, um oder vor.\nDeshalb ist es wichtig zu wissen, wann man welche Präposition im Englischen verwendet."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "1. Ohne Präposition"
+        },
+        {
+          "type": "text",
+          "content": "Einige Zeitwörter stehen ohne Präposition im Englischen. Dazu gehören:\n • **today** – heute\n • **tomorrow** – morgen\n • **yesterday** – gestern\n • **now** – jetzt\n\nAuch bei Zeitangaben mit:\n • **this / next / last** + Zeitangabe\nz. B. this month, next week, last year"
+        },
+        {
+          "type": "text",
+          "content": "Beispiele:\n • I worked yesterday.\n(Ich habe gestern gearbeitet)\n • He'll come next week.\n(Er kommt nächste Woche)\n\nHinweis:\nIm Deutschen benutzt man am oder in (z. B. \"am Montag\", \"im August\"),\nim Englischen aber oft gar keine Präposition – das ist ein häufiger Fehler!"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "2. Präposition on"
+        },
+        {
+          "type": "text",
+          "content": "Verwendung:\n • Bei Wochentagen: on Monday, on Friday\n • Bei konkreten Daten: on the 5th of May, on July 1st"
+        },
+        {
+          "type": "text",
+          "content": "Beispiele:\n • We met on Monday.\n(Wir haben uns am Montag getroffen)\n • The party is on May 5th.\n(Die Party ist am 5. Mai)\n\nMerktipp:\nIm Deutschen sagt man am, aber im Englischen on!"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "3. Präposition in"
+        },
+        {
+          "type": "text",
+          "content": "Verwendung:\n • Bei Monaten: in August\n • Bei Jahren: in 2006\n • Bei Jahreszeiten: in winter\n • Bei Tageszeiten: in the morning, in the evening\n • Bei Zeiträumen in der Zukunft: in an hour, in two days"
+        },
+        {
+          "type": "text",
+          "content": "Beispiele:\n • I was born in August.\n(Ich wurde im August geboren)\n • I'll call you in an hour.\n(Ich rufe dich in einer Stunde an)\n • She studies in the evening.\n(Sie lernt am Abend)\n\nHinweis:\nin wird im Englischen häufiger verwendet als im im Deutschen. Besonders bei Tageszeiten sagt man im Englischen in the morning, im Deutschen aber \"am Morgen\"."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "4. Präposition at"
+        },
+        {
+          "type": "text",
+          "content": "Verwendung:\n • Bei Uhrzeiten: at 9 o'clock, at 6:30\n • Bei \"night\": at night\n • Bei \"noon\" und \"midnight\": at noon, at midnight\n • (Im britischen Englisch) auch beim Wochenende: at the weekend"
+        },
+        {
+          "type": "text",
+          "content": "Beispiele:\n • I sleep at night.\n(Ich schlafe nachts)\n • The meeting is at 9 o'clock.\n(Das Meeting ist um 9 Uhr)\n • We're going out at the weekend.\n(Wir gehen am Wochenende aus)\n\nAchtung:\nIm Deutschen sagt man am Wochenende, aber im Britischen Englisch at the weekend!"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "5. Wort ago"
+        },
+        {
+          "type": "text",
+          "content": "Bedeutung:\n**ago** bedeutet \"vor\" im Sinne von \"vor X Tagen / Jahren\"\nEs steht immer nach der Zeitangabe.\n\nStruktur:\n[Zahl] + [Zeiteinheit] + ago"
+        },
+        {
+          "type": "text",
+          "content": "Beispiele:\n • We met 5 days ago.\n(Wir haben uns vor 5 Tagen getroffen)\n • She moved here a year ago.\n(Sie ist vor einem Jahr hergezogen)\n\nMerktipp:\nIm Deutschen steht \"vor\" vorne – im Englischen hinten: \"5 days ago\"."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Zusammenfassung"
+        },
+        {
+          "type": "table",
+          "headers": ["Präposition", "Wann?", "Beispiel (Englisch)", "Übersetzung (Deutsch)"],
+          "rows": [
+            ["(ohne Präposition)", "today, tomorrow, yesterday, now; next/last", "I worked yesterday", "Ich habe gestern gearbeitet"],
+            ["on", "Wochentage, Daten", "on Monday, on May 5th", "am Montag, am 5. Mai"],
+            ["in", "Monate, Jahre, Jahreszeiten, Tageszeiten, Zeiträume", "in August, in winter", "im August, im Winter"],
+            ["at", "Uhrzeit, Nacht, Wochenende, Mittag/Mitternacht", "at night, at 9 o'clock", "nachts, um 9 Uhr"],
+            ["ago", "wie lange etwas zurückliegt", "5 days ago", "vor 5 Tagen"]
+          ]
+        }
+      ]
+    }
+  },
+  "vocabulary": {
+    "firstList": [
+      {
+        "number": 1,
+        "english": "yesterday",
+        "russian": "вчера",
+        "spanish": "ayer",
+        "french": "hier",
+        "german": "gestern"
+      },
+      {
+        "number": 2,
+        "english": "today",
+        "russian": "сегодня",
+        "spanish": "hoy",
+        "french": "aujourd'hui",
+        "german": "heute"
+      },
+      {
+        "number": 3,
+        "english": "tomorrow",
+        "russian": "завтра",
+        "spanish": "mañana",
+        "french": "demain",
+        "german": "morgen"
+      },
+      {
+        "number": 4,
+        "english": "weekend",
+        "russian": "выходные",
+        "spanish": "fin de semana",
+        "french": "week-end",
+        "german": "Wochenende"
+      },
+      {
+        "number": 5,
+        "english": "next",
+        "russian": "следующий",
+        "spanish": "siguiente",
+        "french": "prochain",
+        "german": "nächste"
+      },
+      {
+        "number": 6,
+        "english": "last",
+        "russian": "прошлый, последний",
+        "spanish": "último",
+        "french": "dernier",
+        "german": "letzte"
+      },
+      {
+        "number": 7,
+        "english": "minute",
+        "russian": "минута",
+        "spanish": "minuto",
+        "french": "minute",
+        "german": "Minute"
+      },
+      {
+        "number": 8,
+        "english": "hour",
+        "russian": "час",
+        "spanish": "hora",
+        "french": "heure",
+        "german": "Stunde"
+      },
+      {
+        "number": 9,
+        "english": "day",
+        "russian": "день",
+        "spanish": "día",
+        "french": "jour",
+        "german": "Tag"
+      },
+      {
+        "number": 10,
+        "english": "week",
+        "russian": "неделя",
+        "spanish": "semana",
+        "french": "semaine",
+        "german": "Woche"
+      },
+      {
+        "number": 11,
+        "english": "month",
+        "russian": "месяц",
+        "spanish": "mes",
+        "french": "mois",
+        "german": "Monat"
+      },
+      {
+        "number": 12,
+        "english": "year",
+        "russian": "год",
+        "spanish": "año",
+        "french": "an",
+        "german": "Jahr"
+      },
+      {
+        "number": 13,
+        "english": "summer",
+        "russian": "лето",
+        "spanish": "verano",
+        "french": "été",
+        "german": "Sommer"
+      },
+      {
+        "number": 14,
+        "english": "autumn",
+        "russian": "осень",
+        "spanish": "otoño",
+        "french": "automne",
+        "german": "Herbst"
+      },
+      {
+        "number": 15,
+        "english": "winter",
+        "russian": "зима",
+        "spanish": "invierno",
+        "french": "hiver",
+        "german": "Winter"
+      },
+      {
+        "number": 16,
+        "english": "spring",
+        "russian": "весна",
+        "spanish": "primavera",
+        "french": "printemps",
+        "german": "Frühling"
+      },
+      {
+        "number": 17,
+        "english": "morning",
+        "russian": "утро",
+        "spanish": "mañana",
+        "french": "matin",
+        "german": "Morgen"
+      },
+      {
+        "number": 18,
+        "english": "evening",
+        "russian": "вечер",
+        "spanish": "tarde",
+        "french": "soir",
+        "german": "Abend"
+      },
+      {
+        "number": 19,
+        "english": "afternoon",
+        "russian": "после полудня",
+        "spanish": "tarde",
+        "french": "après-midi",
+        "german": "Nachmittag"
+      },
+      {
+        "number": 20,
+        "english": "noon",
+        "russian": "полдень",
+        "spanish": "mediodía",
+        "french": "midi",
+        "german": "Mittag"
+      },
+      {
+        "number": 21,
+        "english": "midnight",
+        "russian": "полночь",
+        "spanish": "medianoche",
+        "french": "minuit",
+        "german": "Mitternacht"
+      },
+      {
+        "number": 22,
+        "english": "zero",
+        "russian": "ноль",
+        "spanish": "cero",
+        "french": "zéro",
+        "german": "null"
+      },
+      {
+        "number": 23,
+        "english": "one",
+        "russian": "один",
+        "spanish": "uno",
+        "french": "un",
+        "german": "eins"
+      },
+      {
+        "number": 24,
+        "english": "two",
+        "russian": "два",
+        "spanish": "dos",
+        "french": "deux",
+        "german": "zwei"
+      },
+      {
+        "number": 25,
+        "english": "three",
+        "russian": "три",
+        "spanish": "tres",
+        "french": "trois",
+        "german": "drei"
+      },
+      {
+        "number": 26,
+        "english": "four",
+        "russian": "четыре",
+        "spanish": "cuatro",
+        "french": "quatre",
+        "german": "vier"
+      },
+      {
+        "number": 27,
+        "english": "five",
+        "russian": "пять",
+        "spanish": "cinco",
+        "french": "cinq",
+        "german": "fünf"
+      },
+      {
+        "number": 28,
+        "english": "six",
+        "russian": "шесть",
+        "spanish": "seis",
+        "french": "six",
+        "german": "sechs"
+      },
+      {
+        "number": 29,
+        "english": "seven",
+        "russian": "семь",
+        "spanish": "siete",
+        "french": "sept",
+        "german": "sieben"
+      },
+      {
+        "number": 30,
+        "english": "eight",
+        "russian": "восемь",
+        "spanish": "ocho",
+        "french": "huit",
+        "german": "acht"
+      },
+      {
+        "number": 31,
+        "english": "nine",
+        "russian": "девять",
+        "spanish": "nueve",
+        "french": "neuf",
+        "german": "neun"
+      },
+      {
+        "number": 32,
+        "english": "ten",
+        "russian": "десять",
+        "spanish": "diez",
+        "french": "dix",
+        "german": "zehn"
+      },
+      {
+        "number": 33,
+        "english": "eleven",
+        "russian": "одиннадцать",
+        "spanish": "once",
+        "french": "onze",
+        "german": "elf"
+      },
+      {
+        "number": 34,
+        "english": "twelve",
+        "russian": "двенадцать",
+        "spanish": "doce",
+        "french": "douze",
+        "german": "zwölf"
+      },
+      {
+        "number": 35,
+        "english": "thirteen",
+        "russian": "тринадцать",
+        "spanish": "trece",
+        "french": "treize",
+        "german": "dreizehn"
+      },
+      {
+        "number": 36,
+        "english": "fourteen",
+        "russian": "четырнадцать",
+        "spanish": "catorce",
+        "french": "quatorze",
+        "german": "vierzehn"
+      },
+      {
+        "number": 37,
+        "english": "fifteen",
+        "russian": "пятнадцать",
+        "spanish": "quince",
+        "french": "quinze",
+        "german": "fünfzehn"
+      },
+      {
+        "number": 38,
+        "english": "sixteen",
+        "russian": "шестнадцать",
+        "spanish": "dieciséis",
+        "french": "seize",
+        "german": "sechzehn"
+      },
+      {
+        "number": 39,
+        "english": "seventeen",
+        "russian": "семнадцать",
+        "spanish": "diecisiete",
+        "french": "dix-sept",
+        "german": "siebzehn"
+      },
+      {
+        "number": 40,
+        "english": "eighteen",
+        "russian": "восемнадцать",
+        "spanish": "dieciocho",
+        "french": "dix-huit",
+        "german": "achtzehn"
+      },
+      {
+        "number": 41,
+        "english": "nineteen",
+        "russian": "девятнадцать",
+        "spanish": "diecinueve",
+        "french": "dix-neuf",
+        "german": "neunzehn"
+      },
+      {
+        "number": 42,
+        "english": "twenty",
+        "russian": "двадцать",
+        "spanish": "veinte",
+        "french": "vingt",
+        "german": "zwanzig"
+      },
+      {
+        "number": 43,
+        "english": "January",
+        "russian": "январь",
+        "spanish": "enero",
+        "french": "janvier",
+        "german": "Januar"
+      },
+      {
+        "number": 44,
+        "english": "February",
+        "russian": "февраль",
+        "spanish": "febrero",
+        "french": "février",
+        "german": "Februar"
+      },
+      {
+        "number": 45,
+        "english": "March",
+        "russian": "март",
+        "spanish": "marzo",
+        "french": "mars",
+        "german": "März"
+      },
+      {
+        "number": 46,
+        "english": "April",
+        "russian": "апрель",
+        "spanish": "abril",
+        "french": "avril",
+        "german": "April"
+      },
+      {
+        "number": 47,
+        "english": "May",
+        "russian": "май",
+        "spanish": "mayo",
+        "french": "mai",
+        "german": "Mai"
+      },
+      {
+        "number": 48,
+        "english": "June",
+        "russian": "июнь",
+        "spanish": "junio",
+        "french": "juin",
+        "german": "Juni"
+      },
+      {
+        "number": 49,
+        "english": "July",
+        "russian": "июль",
+        "spanish": "julio",
+        "french": "juillet",
+        "german": "Juli"
+      },
+      {
+        "number": 50,
+        "english": "August",
+        "russian": "август",
+        "spanish": "agosto",
+        "french": "août",
+        "german": "August"
+      },
+      {
+        "number": 51,
+        "english": "September",
+        "russian": "сентябрь",
+        "spanish": "septiembre",
+        "french": "septembre",
+        "german": "September"
+      },
+      {
+        "number": 52,
+        "english": "October",
+        "russian": "октябрь",
+        "spanish": "octubre",
+        "french": "octobre",
+        "german": "Oktober"
+      },
+      {
+        "number": 53,
+        "english": "November",
+        "russian": "ноябрь",
+        "spanish": "noviembre",
+        "french": "novembre",
+        "german": "November"
+      },
+      {
+        "number": 54,
+        "english": "December",
+        "russian": "декабрь",
+        "spanish": "diciembre",
+        "french": "décembre",
+        "german": "Dezember"
+      },
+      {
+        "number": 55,
+        "english": "Monday",
+        "russian": "понедельник",
+        "spanish": "lunes",
+        "french": "lundi",
+        "german": "Montag"
+      },
+      {
+        "number": 56,
+        "english": "Tuesday",
+        "russian": "вторник",
+        "spanish": "martes",
+        "french": "mardi",
+        "german": "Dienstag"
+      },
+      {
+        "number": 57,
+        "english": "Wednesday",
+        "russian": "среда",
+        "spanish": "miércoles",
+        "french": "mercredi",
+        "german": "Mittwoch"
+      },
+      {
+        "number": 58,
+        "english": "Thursday",
+        "russian": "четверг",
+        "spanish": "jueves",
+        "french": "jeudi",
+        "german": "Donnerstag"
+      },
+      {
+        "number": 59,
+        "english": "Friday",
+        "russian": "пятница",
+        "spanish": "viernes",
+        "french": "vendredi",
+        "german": "Freitag"
+      },
+      {
+        "number": 60,
+        "english": "Saturday",
+        "russian": "суббота",
+        "spanish": "sábado",
+        "french": "samedi",
+        "german": "Samstag"
+      },
+      {
+        "number": 61,
+        "english": "Sunday",
+        "russian": "воскресенье",
+        "spanish": "domingo",
+        "french": "dimanche",
+        "german": "Sonntag"
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "english": "They aren't here at noon.",
+      "russian": "Они не бывают здесь в полдень.",
+      "spanish": "Ellos no están aquí al mediodía.",
+      "german": "Sie sind mittags nicht hier.",
+      "french": "Ils ne sont pas ici à midi."
+    },
+    {
+      "id": 2,
+      "english": "We met them at noon.",
+      "russian": "Мы встретили их в полдень.",
+      "spanish": "Los encontramos al mediodía.",
+      "german": "Wir haben sie um Mittag getroffen.",
+      "french": "Nous les avons rencontrés à midi."
+    },
+    {
+      "id": 3,
+      "english": "Will he write them tomorrow?",
+      "russian": "Он напишет им завтра?",
+      "spanish": "¿Les escribirá él mañana?",
+      "german": "Wird er ihnen morgen schreiben?",
+      "french": "Va-t-il leur écrire demain ?"
+    },
+    {
+      "id": 4,
+      "english": "Did you work on the 15th of October?",
+      "russian": "Ты работал 15 октября?",
+      "spanish": "¿Trabajaste el 15 de octubre?",
+      "german": "Hast du am 15. Oktober gearbeitet?",
+      "french": "As-tu travaillé le 15 octobre ?"
+    },
+    {
+      "id": 5,
+      "english": "She'll be there tomorrow.",
+      "russian": "Она будет там завтра.",
+      "spanish": "Ella estará allí mañana.",
+      "german": "Sie wird morgen dort sein.",
+      "french": "Elle sera là demain."
+    },
+    {
+      "id": 6,
+      "english": "They won't be there tomorrow.",
+      "russian": "Они не будут там завтра.",
+      "spanish": "Ellos no estarán allí mañana.",
+      "german": "Sie werden morgen nicht dort sein.",
+      "french": "Ils ne seront pas là demain."
+    },
+    {
+      "id": 7,
+      "english": "They'll start next spring.",
+      "russian": "Они начнут следующей весной.",
+      "spanish": "Ellos comenzarán la próxima primavera.",
+      "german": "Sie werden im nächsten Frühling anfangen.",
+      "french": "Ils commenceront au printemps prochain."
+    },
+    {
+      "id": 8,
+      "english": "I will be there in the evening.",
+      "russian": "Я буду там вечером.",
+      "spanish": "Estaré allí por la tarde.",
+      "german": "Ich werde am Abend dort sein.",
+      "french": "Je serai là le soir."
+    },
+    {
+      "id": 9,
+      "english": "We won't be there tomorrow.",
+      "russian": "Мы не будем там завтра.",
+      "spanish": "No estaremos allí mañana.",
+      "german": "Wir werden morgen nicht dort sein.",
+      "french": "Nous ne serons pas là demain."
+    },
+    {
+      "id": 10,
+      "english": "She will finish school this winter.",
+      "russian": "Она закончит школу этой зимой.",
+      "spanish": "Ella terminará la escuela este invierno.",
+      "german": "Sie wird diesen Winter die Schule beenden.",
+      "french": "Elle terminera l'école cet hiver."
+    },
+    {
+      "id": 11,
+      "english": "I didn't write them in the afternoon.",
+      "russian": "Я не писал им днем.",
+      "spanish": "No les escribí por la tarde.",
+      "german": "Ich habe ihnen am Nachmittag nicht geschrieben.",
+      "french": "Je ne leur ai pas écrit dans l'après-midi."
+    },
+    {
+      "id": 12,
+      "english": "Will you read at midnight?",
+      "russian": "Ты будешь читать в полночь?",
+      "spanish": "¿Leerás a medianoche?",
+      "german": "Wirst du um Mitternacht lesen?",
+      "french": "Liras-tu à minuit ?"
+    },
+    {
+      "id": 13,
+      "english": "Did the meeting start at two o'clock?",
+      "russian": "Встреча началась в 2 часа?",
+      "spanish": "¿Comenzó la reunión a las dos?",
+      "german": "Hat das Treffen um zwei Uhr begonnen?",
+      "french": "La réunion a-t-elle commencé à deux heures ?"
+    },
+    {
+      "id": 14,
+      "english": "We sent him that letter in March.",
+      "russian": "Мы послали ему то письмо в марте.",
+      "spanish": "Le enviamos esa carta en marzo.",
+      "german": "Wir haben ihm diesen Brief im März geschickt.",
+      "french": "Nous lui avons envoyé cette lettre en mars."
+    },
+    {
+      "id": 15,
+      "english": "Will the concert be at the weekend?",
+      "russian": "Концерт будет в выходные?",
+      "spanish": "¿Será el concierto el fin de semana?",
+      "german": "Wird das Konzert am Wochenende sein?",
+      "french": "Le concert aura-t-il lieu le week-end ?"
+    },
+    {
+      "id": 16,
+      "english": "I was here today.",
+      "russian": "Я был здесь сегодня.",
+      "spanish": "Estuve aquí hoy.",
+      "german": "Ich war heute hier.",
+      "french": "J'étais ici aujourd'hui."
+    },
+    {
+      "id": 17,
+      "english": "Was he here at night?",
+      "russian": "Он был здесь ночью?",
+      "spanish": "¿Estuvo él aquí por la noche?",
+      "german": "War er nachts hier?",
+      "french": "Était-il ici la nuit ?"
+    },
+    {
+      "id": 18,
+      "english": "He doesn't sleep at night.",
+      "russian": "Он не спит ночью.",
+      "spanish": "Él no duerme por la noche.",
+      "german": "Er schläft nachts nicht.",
+      "french": "Il ne dort pas la nuit."
+    },
+    {
+      "id": 19,
+      "english": "She finished school last winter.",
+      "russian": "Она закончила школу прошлой зимой.",
+      "spanish": "Ella terminó la escuela el invierno pasado.",
+      "german": "Sie hat letzten Winter die Schule beendet.",
+      "french": "Elle a terminé l'école l'hiver dernier."
+    },
+    {
+      "id": 20,
+      "english": "I'll show you in summer.",
+      "russian": "Я покажу тебе летом.",
+      "spanish": "Te lo mostraré en verano.",
+      "german": "Ich werde es dir im Sommer zeigen.",
+      "french": "Je te montrerai en été."
+    },
+    {
+      "id": 21,
+      "english": "He will be there in autumn.",
+      "russian": "Он будет там осенью.",
+      "spanish": "Él estará allí en otoño.",
+      "german": "Er wird im Herbst dort sein.",
+      "french": "Il sera là en automne."
+    },
+    {
+      "id": 22,
+      "english": "We won't sleep on Friday.",
+      "russian": "Мы не будем спать в пятницу.",
+      "spanish": "No dormiremos el viernes.",
+      "german": "Wir werden am Freitag nicht schlafen.",
+      "french": "Nous ne dormirons pas vendredi."
+    },
+    {
+      "id": 23,
+      "english": "They were not there yesterday.",
+      "russian": "Они не были там вчера.",
+      "spanish": "Ellos no estuvieron allí ayer.",
+      "german": "Sie waren gestern nicht dort.",
+      "french": "Ils n'étaient pas là hier."
+    },
+    {
+      "id": 24,
+      "english": "Will you pay him today?",
+      "russian": "Ты заплатишь ему сегодня?",
+      "spanish": "¿Le pagarás hoy?",
+      "german": "Wirst du ihm heute bezahlen?",
+      "french": "Le paieras-tu aujourd'hui ?"
+    },
+    {
+      "id": 25,
+      "english": "Will we eat today?",
+      "russian": "Мы будем есть сегодня?",
+      "spanish": "¿Comeremos hoy?",
+      "german": "Werden wir heute essen?",
+      "french": "Allons-nous manger aujourd'hui ?"
+    },
+    {
+      "id": 26,
+      "english": "Did he read in the evening?",
+      "russian": "Он читал вечером?",
+      "spanish": "¿Leyó él por la tarde?",
+      "german": "Hat er abends gelesen?",
+      "french": "A-t-il lu le soir ?"
+    },
+    {
+      "id": 27,
+      "english": "She wasn't here in the morning.",
+      "russian": "Она не была здесь утром.",
+      "spanish": "Ella no estuvo aquí por la mañana.",
+      "german": "Sie war morgens nicht hier.",
+      "french": "Elle n'était pas ici le matin."
+    },
+    {
+      "id": 28,
+      "english": "They will be there next winter.",
+      "russian": "Они будут там следующей зимой.",
+      "spanish": "Ellos estarán allí el próximo invierno.",
+      "german": "Sie werden im nächsten Winter dort sein.",
+      "french": "Ils seront là l'hiver prochain."
+    },
+    {
+      "id": 29,
+      "english": "I was there in spring.",
+      "russian": "Я был там весной.",
+      "spanish": "Estuve allí en primavera.",
+      "german": "Ich war im Frühling dort.",
+      "french": "J'étais là au printemps."
+    },
+    {
+      "id": 30,
+      "english": "The meeting won't be at the weekend.",
+      "russian": "Встречи не будет в выходные.",
+      "spanish": "La reunión no será el fin de semana.",
+      "german": "Das Treffen wird am Wochenende nicht stattfinden.",
+      "french": "La réunion n'aura pas lieu le week-end."
+    },
+    {
+      "id": 31,
+      "english": "We met them at midnight.",
+      "russian": "Мы встретили их в полночь.",
+      "spanish": "Los encontramos a medianoche.",
+      "german": "Wir haben sie um Mitternacht getroffen.",
+      "french": "Nous les avons rencontrés à minuit."
+    },
+    {
+      "id": 32,
+      "english": "They didn't help me in spring.",
+      "russian": "Они не помогли мне весной.",
+      "spanish": "No me ayudaron en primavera.",
+      "german": "Sie haben mir im Frühling nicht geholfen.",
+      "french": "Ils ne m'ont pas aidé au printemps."
+    },
+    {
+      "id": 33,
+      "english": "He was here in the morning.",
+      "russian": "Он был здесь утром.",
+      "spanish": "Él estuvo aquí por la mañana.",
+      "german": "Er war morgens hier.",
+      "french": "Il était ici le matin."
+    },
+    {
+      "id": 34,
+      "english": "She didn't go there at seven o'clock.",
+      "russian": "Она не ходила туда в 7 часов.",
+      "spanish": "Ella no fue allí a las siete.",
+      "german": "Sie ist um sieben Uhr nicht dorthin gegangen.",
+      "french": "Elle n'est pas allée là-bas à sept heures."
+    },
+    {
+      "id": 35,
+      "english": "We traveled last spring.",
+      "russian": "Мы путешествовали прошлой весной.",
+      "spanish": "Viajamos la primavera pasada.",
+      "german": "Wir sind letzten Frühling gereist.",
+      "french": "Nous avons voyagé le printemps dernier."
+    },
+    {
+      "id": 36,
+      "english": "They were there three days ago.",
+      "russian": "Они были там три дня назад.",
+      "spanish": "Ellos estuvieron allí hace tres días.",
+      "german": "Sie waren vor drei Tagen dort.",
+      "french": "Ils étaient là il y a trois jours."
+    },
+    {
+      "id": 37,
+      "english": "Did you work on Sunday?",
+      "russian": "Ты работал в воскресенье?",
+      "spanish": "¿Trabajaste el domingo?",
+      "german": "Hast du am Sonntag gearbeitet?",
+      "french": "As-tu travaillé dimanche ?"
+    },
+    {
+      "id": 38,
+      "english": "He won't be here on Saturday.",
+      "russian": "Он не будет здесь в субботу.",
+      "spanish": "Él no estará aquí el sábado.",
+      "german": "Er wird am Samstag nicht hier sein.",
+      "french": "Il ne sera pas ici samedi."
+    },
+    {
+      "id": 39,
+      "english": "They were here on the 28th of July.",
+      "russian": "Они были здесь 28 июля.",
+      "spanish": "Ellos estuvieron aquí el 28 de julio.",
+      "german": "Sie waren am 28. Juli hier.",
+      "french": "Ils étaient ici le 28 juillet."
+    },
+    {
+      "id": 40,
+      "english": "The meeting will be at the weekend.",
+      "russian": "Встреча будет в выходные.",
+      "spanish": "La reunión será el fin de semana.",
+      "german": "Das Treffen wird am Wochenende stattfinden.",
+      "french": "La réunion aura lieu le week-end."
+    },
+    {
+      "id": 41,
+      "english": "They didn't meet me yesterday.",
+      "russian": "Они не встречали меня вчера.",
+      "spanish": "Ellos no me encontraron ayer.",
+      "german": "Sie haben mich gestern nicht getroffen.",
+      "french": "Ils ne m'ont pas rencontré hier."
+    },
+    {
+      "id": 42,
+      "english": "We studied at midnight.",
+      "russian": "Мы учились в полночь.",
+      "spanish": "Estudiamos a medianoche.",
+      "german": "Wir haben um Mitternacht gelernt.",
+      "french": "Nous avons étudié à minuit."
+    },
+    {
+      "id": 43,
+      "english": "Did you finish at midnight?",
+      "russian": "Ты закончил в полночь?",
+      "spanish": "¿Terminaste a medianoche?",
+      "german": "Hast du um Mitternacht fertiggemacht?",
+      "french": "As-tu terminé à minuit ?"
+    },
+    {
+      "id": 44,
+      "english": "We were there in the afternoon.",
+      "russian": "Мы были там днем.",
+      "spanish": "Estuvimos allí por la tarde.",
+      "german": "Wir waren am Nachmittag dort.",
+      "french": "Nous étions là dans l'après-midi."
+    },
+    {
+      "id": 45,
+      "english": "Where will they go at nine o'clock?",
+      "russian": "Куда они пойдут в 9 часов?",
+      "spanish": "¿A dónde irán a las nueve?",
+      "german": "Wohin werden sie um neun Uhr gehen?",
+      "french": "Où iront-ils à neuf heures ?"
+    },
+    {
+      "id": 46,
+      "english": "We were here today.",
+      "russian": "Мы были здесь сегодня.",
+      "spanish": "Estuvimos aquí hoy.",
+      "german": "Wir waren heute hier.",
+      "french": "Nous étions ici aujourd'hui."
+    },
+    {
+      "id": 47,
+      "english": "He was here in the evening.",
+      "russian": "Он был здесь вечером.",
+      "spanish": "Él estuvo aquí por la tarde.",
+      "german": "Er war abends hier.",
+      "french": "Il était ici le soir."
+    },
+    {
+      "id": 48,
+      "english": "I won't work tomorrow.",
+      "russian": "Я не буду работать завтра.",
+      "spanish": "No trabajaré mañana.",
+      "german": "Ich werde morgen nicht arbeiten.",
+      "french": "Je ne travaillerai pas demain."
+    },
+    {
+      "id": 49,
+      "english": "I'll find her in an hour.",
+      "russian": "Я найду её через час.",
+      "spanish": "La encontraré en una hora.",
+      "german": "Ich werde sie in einer Stunde finden.",
+      "french": "Je la trouverai dans une heure."
+    },
+    {
+      "id": 50,
+      "english": "I'll be there on the 24th of June.",
+      "russian": "Я буду там 24 июня.",
+      "spanish": "Estaré allí el 24 de junio.",
+      "german": "Ich werde am 24. Juni dort sein.",
+      "french": "Je serai là le 24 juin."
+    },
+    {
+      "id": 51,
+      "english": "He won't be here this month.",
+      "russian": "Его не будет здесь в этом месяце.",
+      "spanish": "Él no estará aquí este mes.",
+      "german": "Er wird diesen Monat nicht hier sein.",
+      "french": "Il ne sera pas ici ce mois-ci."
+    },
+    {
+      "id": 52,
+      "english": "I'll go there at twelve o'clock.",
+      "russian": "Я пойду туда в 12 часов.",
+      "spanish": "Iré allí a las doce.",
+      "german": "Ich werde um zwölf Uhr dorthin gehen.",
+      "french": "J'irai là-bas à midi."
+    },
+    {
+      "id": 53,
+      "english": "We didn't tell her in January.",
+      "russian": "Мы не рассказали ей в январе.",
+      "spanish": "No se lo dijimos en enero.",
+      "german": "Wir haben es ihr im Januar nicht gesagt.",
+      "french": "Nous ne le lui avons pas dit en janvier."
+    },
+    {
+      "id": 54,
+      "english": "Did you meet him at night?",
+      "russian": "Ты встретил его ночью?",
+      "spanish": "¿Lo encontraste por la noche?",
+      "german": "Hast du ihn nachts getroffen?",
+      "french": "L'as-tu rencontré la nuit ?"
+    },
+    {
+      "id": 55,
+      "english": "Was she there in winter?",
+      "russian": "Она была там зимой?",
+      "spanish": "¿Estuvo ella allí en invierno?",
+      "german": "War sie im Winter dort?",
+      "french": "Était-elle là en hiver ?"
+    },
+    {
+      "id": 56,
+      "english": "We saw him at noon.",
+      "russian": "Мы видели его в полдень.",
+      "spanish": "Lo vimos al mediodía.",
+      "german": "Wir haben ihn mittags gesehen.",
+      "french": "Nous l'avons vu à midi."
+    },
+    {
+      "id": 57,
+      "english": "Will you watch films at night?",
+      "russian": "Ты будешь смотреть фильмы ночью?",
+      "spanish": "¿Verás películas por la noche?",
+      "german": "Wirst du nachts Filme schauen?",
+      "french": "Vas-tu regarder des films la nuit ?"
+    },
+    {
+      "id": 58,
+      "english": "I was there in 1997.",
+      "russian": "Я был там в 1997.",
+      "spanish": "Estuve allí en 1997.",
+      "german": "Ich war 1997 dort.",
+      "french": "J'étais là en 1997."
+    },
+    {
+      "id": 59,
+      "english": "We read at noon.",
+      "russian": "Мы читали в полдень.",
+      "spanish": "Leímos al mediodía.",
+      "german": "Wir haben mittags gelesen.",
+      "french": "Nous avons lu à midi."
+    },
+    {
+      "id": 60,
+      "english": "Did you sleep at night?",
+      "russian": "Ты спал ночью?",
+      "spanish": "¿Dormiste por la noche?",
+      "german": "Hast du nachts geschlafen?",
+      "french": "As-tu dormi la nuit ?"
+    },
+    {
+      "id": 61,
+      "english": "He won't be there in the evening.",
+      "russian": "Он не будет там вечером.",
+      "spanish": "Él no estará allí por la tarde.",
+      "german": "Er wird abends nicht dort sein.",
+      "french": "Il ne sera pas là le soir."
+    },
+    {
+      "id": 62,
+      "english": "He won't show her in the evening.",
+      "russian": "Он не покажет ей вечером.",
+      "spanish": "Él no se lo mostrará por la tarde.",
+      "german": "Er wird es ihr abends nicht zeigen.",
+      "french": "Il ne lui montrera pas le soir."
+    },
+    {
+      "id": 63,
+      "english": "The concert didn't start at five o'clock.",
+      "russian": "Концерт не начался в 5 часов.",
+      "spanish": "El concierto no comenzó a las cinco.",
+      "german": "Das Konzert begann nicht um fünf Uhr.",
+      "french": "Le concert n'a pas commencé à cinq heures."
+    },
+    {
+      "id": 64,
+      "english": "They won't meet me at the weekend.",
+      "russian": "Они не встретят меня в выходные.",
+      "spanish": "No me encontrarán el fin de semana.",
+      "german": "Sie werden mich am Wochenende nicht treffen.",
+      "french": "Ils ne me rencontreront pas le week-end."
+    },
+    {
+      "id": 65,
+      "english": "I'll travel next summer.",
+      "russian": "Я буду путешествовать следующим летом.",
+      "spanish": "Viajaré el próximo verano.",
+      "german": "Ich werde nächsten Sommer reisen.",
+      "french": "Je voyagerai l'été prochain."
+    },
+    {
+      "id": 66,
+      "english": "They'll be here in five years.",
+      "russian": "Они будут здесь через 5 лет.",
+      "spanish": "Ellos estarán aquí en cinco años.",
+      "german": "Sie werden in fünf Jahren hier sein.",
+      "french": "Ils seront ici dans cinq ans."
+    },
+    {
+      "id": 67,
+      "english": "We studied at noon.",
+      "russian": "Мы учились в полдень.",
+      "spanish": "Estudiamos al mediodía.",
+      "german": "Wir haben mittags gelernt.",
+      "french": "Nous avons étudié à midi."
+    },
+    {
+      "id": 68,
+      "english": "We finished last month.",
+      "russian": "Мы закончили в прошлом месяце.",
+      "spanish": "Terminamos el mes pasado.",
+      "german": "Wir haben letzten Monat abgeschlossen.",
+      "french": "Nous avons terminé le mois dernier."
+    },
+    {
+      "id": 69,
+      "english": "He won't be there in the afternoon.",
+      "russian": "Он не будет там днем.",
+      "spanish": "Él no estará allí por la tarde.",
+      "german": "Er wird am Nachmittag nicht dort sein.",
+      "french": "Il ne sera pas là dans l'après-midi."
+    },
+    {
+      "id": 70,
+      "english": "Was she here in the evening?",
+      "russian": "Она была здесь вечером?",
+      "spanish": "¿Estuvo ella aquí por la tarde?",
+      "german": "War sie abends hier?",
+      "french": "Était-elle ici le soir ?"
+    },
+    {
+      "id": 71,
+      "english": "Will you tell me in the afternoon?",
+      "russian": "Ты расскажешь мне днем?",
+      "spanish": "¿Me lo contarás por la tarde?",
+      "german": "Wirst du es mir am Nachmittag erzählen?",
+      "french": "Me le diras-tu dans l'après-midi ?"
+    }
+  ],
+  "exam": {
+    "sentences": [
+      {
+        "id": 1,
+        "sentence_en": "They aren't here at noon.",
+        "translations": {
+          "ru": "Они не бывают здесь в полдень.",
+          "es": "Ellos no están aquí al mediodía.",
+          "fr": "Ils ne sont pas ici à midi.",
+          "de": "Sie sind mittags nicht hier."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "I", "He"] },
+          { "correct": "aren't", "alternatives": ["isn't", "wasn't", "won't"] },
+          { "correct": "here", "alternatives": ["there", "nowhere", "outside"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "noon", "alternatives": ["midnight", "morning", "afternoon"] }
+        ]
+      },
+      {
+        "id": 2,
+        "sentence_en": "We met them at noon.",
+        "translations": {
+          "ru": "Мы встретили их в полдень.",
+          "es": "Los encontramos al mediodía.",
+          "fr": "Nous les avons rencontrés à midi.",
+          "de": "Wir haben sie um Mittag getroffen."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "He"] },
+          { "correct": "met", "alternatives": ["meet", "meets", "meeting"] },
+          { "correct": "them", "alternatives": ["us", "him", "her"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "noon", "alternatives": ["midnight", "morning", "afternoon"] }
+        ]
+      },
+      {
+        "id": 3,
+        "sentence_en": "Will he write them tomorrow?",
+        "translations": {
+          "ru": "Он напишет им завтра?",
+          "es": "¿Les escribirá él mañana?",
+          "fr": "Va-t-il leur écrire demain ?",
+          "de": "Wird er ihnen morgen schreiben?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Does", "Did", "Can"] },
+          { "correct": "he", "alternatives": ["she", "they", "we"] },
+          { "correct": "write", "alternatives": ["writes", "wrote", "writing"] },
+          { "correct": "them", "alternatives": ["us", "him", "her"] },
+          { "correct": "tomorrow", "alternatives": ["yesterday", "today", "tonight"] }
+        ]
+      },
+      {
+        "id": 4,
+        "sentence_en": "Did you work on the 15th of October?",
+        "translations": {
+          "ru": "Ты работал 15 октября?",
+          "es": "¿Trabajaste el 15 de octubre?",
+          "fr": "As-tu travaillé le 15 octobre ?",
+          "de": "Hast du am 15. Oktober gearbeitet?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Do", "Does", "Will"] },
+          { "correct": "you", "alternatives": ["he", "she", "they"] },
+          { "correct": "work", "alternatives": ["worked", "working", "walk"] },
+          { "correct": "on", "alternatives": ["in", "at", "by"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "15th", "alternatives": ["14th", "16th", "18th"] },
+          { "correct": "of", "alternatives": ["in", "at", "by"] },
+          { "correct": "October", "alternatives": ["November", "September", "March"] }
+        ]
+      },
+      {
+        "id": 5,
+        "sentence_en": "She'll be there tomorrow.",
+        "translations": {
+          "ru": "Она будет там завтра.",
+          "es": "Ella estará allí mañana.",
+          "fr": "Elle sera là demain.",
+          "de": "Sie wird morgen dort sein."
+        },
+        "words": [
+          { "correct": "She'll", "alternatives": ["He'll", "They'll", "You'll"] },
+          { "correct": "be", "alternatives": ["is", "was", "are"] },
+          { "correct": "there", "alternatives": ["here", "nowhere", "outside"] },
+          { "correct": "tomorrow", "alternatives": ["yesterday", "today", "tonight"] }
+        ]
+      },
+      {
+        "id": 6,
+        "sentence_en": "They won't be there tomorrow.",
+        "translations": {
+          "ru": "Они не будут там завтра.",
+          "es": "Ellos no estarán allí mañana.",
+          "fr": "Ils ne seront pas là demain.",
+          "de": "Sie werden morgen nicht dort sein."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "I", "He"] },
+          { "correct": "won't", "alternatives": ["will", "would", "can't"] },
+          { "correct": "be", "alternatives": ["is", "was", "are"] },
+          { "correct": "there", "alternatives": ["here", "nowhere", "outside"] },
+          { "correct": "tomorrow", "alternatives": ["yesterday", "today", "tonight"] }
+        ]
+      },
+      {
+        "id": 7,
+        "sentence_en": "They'll start next spring.",
+        "translations": {
+          "ru": "Они начнут следующей весной.",
+          "es": "Ellos comenzarán la próxima primavera.",
+          "fr": "Ils commenceront au printemps prochain.",
+          "de": "Sie werden im nächsten Frühling anfangen."
+        },
+        "words": [
+          { "correct": "They'll", "alternatives": ["We'll", "He'll", "You'll"] },
+          { "correct": "start", "alternatives": ["starts", "started", "stop"] },
+          { "correct": "next", "alternatives": ["last", "this", "first"] },
+          { "correct": "spring", "alternatives": ["summer", "autumn", "winter"] }
+        ]
+      },
+      {
+        "id": 8,
+        "sentence_en": "I will be there in the evening.",
+        "translations": {
+          "ru": "Я буду там вечером.",
+          "es": "Estaré allí por la tarde.",
+          "fr": "Je serai là le soir.",
+          "de": "Ich werde am Abend dort sein."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "We"] },
+          { "correct": "will", "alternatives": ["am", "was", "are"] },
+          { "correct": "be", "alternatives": ["is", "was", "are"] },
+          { "correct": "there", "alternatives": ["here", "nowhere", "outside"] },
+          { "correct": "in", "alternatives": ["at", "on", "by"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "evening", "alternatives": ["morning", "afternoon", "night"] }
+        ]
+      },
+      {
+        "id": 9,
+        "sentence_en": "We won't be there tomorrow.",
+        "translations": {
+          "ru": "Мы не будем там завтра.",
+          "es": "No estaremos allí mañana.",
+          "fr": "Nous ne serons pas là demain.",
+          "de": "Wir werden morgen nicht dort sein."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "He"] },
+          { "correct": "won't", "alternatives": ["will", "would", "can't"] },
+          { "correct": "be", "alternatives": ["is", "was", "are"] },
+          { "correct": "there", "alternatives": ["here", "nowhere", "outside"] },
+          { "correct": "tomorrow", "alternatives": ["yesterday", "today", "tonight"] }
+        ]
+      },
+      {
+        "id": 10,
+        "sentence_en": "She will finish school this winter.",
+        "translations": {
+          "ru": "Она закончит школу этой зимой.",
+          "es": "Ella terminará la escuela este invierno.",
+          "fr": "Elle terminera l'école cet hiver.",
+          "de": "Sie wird diesen Winter die Schule beenden."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "will", "alternatives": ["am", "was", "are"] },
+          { "correct": "finish", "alternatives": ["finishes", "finished", "finishing"] },
+          { "correct": "school", "alternatives": ["work", "home", "office"] },
+          { "correct": "this", "alternatives": ["last", "next", "first"] },
+          { "correct": "winter", "alternatives": ["summer", "autumn", "spring"] }
+        ]
+      },
+      {
+        "id": 11,
+        "sentence_en": "I didn't write them in the afternoon.",
+        "translations": {
+          "ru": "Я не писал им днем.",
+          "es": "No les escribí por la tarde.",
+          "fr": "Je ne leur ai pas écrit dans l'après-midi.",
+          "de": "Ich habe ihnen am Nachmittag nicht geschrieben."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "We"] },
+          { "correct": "didn't", "alternatives": ["don't", "won't", "wasn't"] },
+          { "correct": "write", "alternatives": ["writes", "wrote", "writing"] },
+          { "correct": "them", "alternatives": ["us", "him", "her"] },
+          { "correct": "in", "alternatives": ["at", "on", "by"] },
+          { "correct": "the", "alternatives": ["a", "an", "of"] },
+          { "correct": "afternoon", "alternatives": ["morning", "evening", "night"] }
+        ]
+      },
+      {
+        "id": 12,
+        "sentence_en": "Will you read at midnight?",
+        "translations": {
+          "ru": "Ты будешь читать в полночь?",
+          "es": "¿Leerás a medianoche?",
+          "fr": "Liras-tu à minuit ?",
+          "de": "Wirst du um Mitternacht lesen?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Does", "Did", "Is"] },
+          { "correct": "you", "alternatives": ["he", "she", "they"] },
+          { "correct": "read", "alternatives": ["reads", "reading", "readed"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "midnight", "alternatives": ["noon", "morning", "evening"] }
+        ]
+      },
+      {
+        "id": 13,
+        "sentence_en": "Did the meeting start at two o'clock?",
+        "translations": {
+          "ru": "Встреча началась в 2 часа?",
+          "es": "¿Comenzó la reunión a las dos?",
+          "fr": "La réunion a-t-elle commencé à deux heures ?",
+          "de": "Hat das Treffen um zwei Uhr begonnen?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Do", "Does", "Will"] },
+          { "correct": "the meeting", "alternatives": ["a meeting", "the party", "the lesson"] },
+          { "correct": "start", "alternatives": ["starts", "started", "stop"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "two o'clock", "alternatives": ["three o'clock", "four o'clock", "five o'clock"] }
+        ]
+      },
+      {
+        "id": 14,
+        "sentence_en": "We sent him that letter in March.",
+        "translations": {
+          "ru": "Мы послали ему то письмо в марте.",
+          "es": "Le enviamos esa carta en marzo.",
+          "fr": "Nous lui avons envoyé cette lettre en mars.",
+          "de": "Wir haben ihm diesen Brief im März geschickt."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "She"] },
+          { "correct": "sent", "alternatives": ["send", "sending", "sends"] },
+          { "correct": "him", "alternatives": ["us", "them", "her"] },
+          { "correct": "that", "alternatives": ["this", "these", "those"] },
+          { "correct": "letter", "alternatives": ["email", "message", "note"] },
+          { "correct": "in", "alternatives": ["at", "on", "by"] },
+          { "correct": "March", "alternatives": ["April", "May", "June"] }
+        ]
+      },
+      {
+        "id": 15,
+        "sentence_en": "Will the concert be at the weekend?",
+        "translations": {
+          "ru": "Концерт будет в выходные?",
+          "es": "¿Será el concierto el fin de semana?",
+          "fr": "Le concert aura-t-il lieu le week-end ?",
+          "de": "Wird das Konzert am Wochenende sein?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Does", "Did", "Can"] },
+          { "correct": "the concert", "alternatives": ["the party", "the meeting", "the lesson"] },
+          { "correct": "be", "alternatives": ["is", "was", "are"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "the weekend", "alternatives": ["the weekday", "the holiday", "the evening"] }
+        ]
+      },
+      {
+        "id": 16,
+        "sentence_en": "I was here today.",
+        "translations": {
+          "ru": "Я был здесь сегодня.",
+          "es": "Estuve aquí hoy.",
+          "fr": "J'étais ici aujourd'hui.",
+          "de": "Ich war heute hier."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "It"] },
+          { "correct": "was", "alternatives": ["is", "are", "be"] },
+          { "correct": "here", "alternatives": ["there", "now", "soon"] },
+          { "correct": "today", "alternatives": ["yesterday", "tomorrow", "tonight"] }
+        ]
+      },
+      {
+        "id": 17,
+        "sentence_en": "Was he here at night?",
+        "translations": {
+          "ru": "Он был здесь ночью?",
+          "es": "¿Estuvo él aquí por la noche?",
+          "fr": "Était-il ici la nuit ?",
+          "de": "War er nachts hier?"
+        },
+        "words": [
+          { "correct": "Was", "alternatives": ["Is", "Are", "Did"] },
+          { "correct": "he", "alternatives": ["she", "it", "you"] },
+          { "correct": "here", "alternatives": ["there", "now", "soon"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "night", "alternatives": ["morning", "afternoon", "midnight"] }
+        ]
+      },
+      {
+        "id": 18,
+        "sentence_en": "He doesn't sleep at night.",
+        "translations": {
+          "ru": "Он не спит ночью.",
+          "es": "Él no duerme por la noche.",
+          "fr": "Il ne dort pas la nuit.",
+          "de": "Er schläft nachts nicht."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "doesn't", "alternatives": ["don't", "won't", "wasn't"] },
+          { "correct": "sleep", "alternatives": ["sleeps", "sleeping", "slept"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "night", "alternatives": ["morning", "afternoon", "midnight"] }
+        ]
+      },
+      {
+        "id": 19,
+        "sentence_en": "She finished school last winter.",
+        "translations": {
+          "ru": "Она закончила школу прошлой зимой.",
+          "es": "Ella terminó la escuela el invierno pasado.",
+          "fr": "Elle a terminé l'école l'hiver dernier.",
+          "de": "Sie hat letzten Winter die Schule beendet."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "It", "You"] },
+          { "correct": "finished", "alternatives": ["finishes", "finishing", "finish"] },
+          { "correct": "school", "alternatives": ["office", "garden", "market"] },
+          { "correct": "last", "alternatives": ["next", "this", "first"] },
+          { "correct": "winter", "alternatives": ["summer", "spring", "autumn"] }
+        ]
+      },
+      {
+        "id": 20,
+        "sentence_en": "I'll show you in summer.",
+        "translations": {
+          "ru": "Я покажу тебе летом.",
+          "es": "Te lo mostraré en verano.",
+          "fr": "Je te montrerai en été.",
+          "de": "Ich werde es dir im Sommer zeigen."
+        },
+        "words": [
+          { "correct": "I'll", "alternatives": ["He'll", "She'll", "You'll"] },
+          { "correct": "show", "alternatives": ["give", "take", "find"] },
+          { "correct": "you", "alternatives": ["him", "her", "it"] },
+          { "correct": "in", "alternatives": ["at", "on", "by"] },
+          { "correct": "summer", "alternatives": ["winter", "spring", "autumn"] }
+        ]
+      },
+      {
+        "id": 21,
+        "sentence_en": "He will be there in autumn.",
+        "translations": {
+          "ru": "Он будет там осенью.",
+          "es": "Él estará allí en otoño.",
+          "fr": "Il sera là en automne.",
+          "de": "Er wird im Herbst dort sein."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "It", "You"] },
+          { "correct": "will", "alternatives": ["can", "should", "must"] },
+          { "correct": "be", "alternatives": ["see", "go", "stay"] },
+          { "correct": "there", "alternatives": ["here", "now", "soon"] },
+          { "correct": "in", "alternatives": ["at", "on", "by"] },
+          { "correct": "autumn", "alternatives": ["summer", "spring", "winter"] }
+        ]
+      },
+      {
+        "id": 22,
+        "sentence_en": "We won't sleep on Friday.",
+        "translations": {
+          "ru": "Мы не будем спать в пятницу.",
+          "es": "No dormiremos el viernes.",
+          "fr": "Nous ne dormirons pas vendredi.",
+          "de": "Wir werden am Freitag nicht schlafen."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "He", "You"] },
+          { "correct": "won't", "alternatives": ["can't", "shouldn't", "didn't"] },
+          { "correct": "sleep", "alternatives": ["eat", "read", "run"] },
+          { "correct": "on", "alternatives": ["in", "at", "by"] },
+          { "correct": "Friday", "alternatives": ["Monday", "Tuesday", "Sunday"] }
+        ]
+      },
+      {
+        "id": 23,
+        "sentence_en": "They were not there yesterday.",
+        "translations": {
+          "ru": "Они не были там вчера.",
+          "es": "Ellos no estuvieron allí ayer.",
+          "fr": "Ils n'étaient pas là hier.",
+          "de": "Sie waren gestern nicht dort."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "I", "She"] },
+          { "correct": "were", "alternatives": ["was", "is", "are"] },
+          { "correct": "not", "alternatives": ["never", "no", "always"] },
+          { "correct": "there", "alternatives": ["here", "everywhere", "nowhere"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "now"] }
+        ]
+      },
+      {
+        "id": 24,
+        "sentence_en": "Will you pay him today?",
+        "translations": {
+          "ru": "Ты заплатишь ему сегодня?",
+          "es": "¿Le pagarás hoy?",
+          "fr": "Le paieras-tu aujourd'hui ?",
+          "de": "Wirst du ihm heute bezahlen?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Can", "Should", "Did"] },
+          { "correct": "you", "alternatives": ["he", "she", "they"] },
+          { "correct": "pay", "alternatives": ["buy", "sell", "take"] },
+          { "correct": "him", "alternatives": ["her", "me", "us"] },
+          { "correct": "today", "alternatives": ["yesterday", "tomorrow", "tonight"] }
+        ]
+      },
+      {
+        "id": 25,
+        "sentence_en": "Will we eat today?",
+        "translations": {
+          "ru": "Мы будем есть сегодня?",
+          "es": "¿Comeremos hoy?",
+          "fr": "Allons-nous manger aujourd'hui ?",
+          "de": "Werden wir heute essen?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Can", "Should", "Did"] },
+          { "correct": "we", "alternatives": ["they", "he", "you"] },
+          { "correct": "eat", "alternatives": ["read", "run", "sleep"] },
+          { "correct": "today", "alternatives": ["yesterday", "tomorrow", "tonight"] }
+        ]
+      },
+      {
+        "id": 26,
+        "sentence_en": "Did he read in the evening?",
+        "translations": {
+          "ru": "Он читал вечером?",
+          "es": "¿Leyó él por la tarde?",
+          "fr": "A-t-il lu le soir ?",
+          "de": "Hat er abends gelesen?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Will", "Can", "Does"] },
+          { "correct": "he", "alternatives": ["she", "it", "you"] },
+          { "correct": "read", "alternatives": ["eat", "run", "sleep"] },
+          { "correct": "in", "alternatives": ["at", "on", "by"] },
+          { "correct": "the evening", "alternatives": ["the morning", "the night", "the afternoon"] }
+        ]
+      },
+      {
+        "id": 27,
+        "sentence_en": "She wasn't here in the morning.",
+        "translations": {
+          "ru": "Она не была здесь утром.",
+          "es": "Ella no estuvo aquí por la mañana.",
+          "fr": "Elle n'était pas ici le matin.",
+          "de": "Sie war morgens nicht hier."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "It", "You"] },
+          { "correct": "wasn't", "alternatives": ["isn't", "aren't", "weren't"] },
+          { "correct": "here", "alternatives": ["there", "now", "soon"] },
+          { "correct": "in", "alternatives": ["at", "on", "by"] },
+          { "correct": "the morning", "alternatives": ["the evening", "the night", "the afternoon"] }
+        ]
+      },
+      {
+        "id": 28,
+        "sentence_en": "They will be there next winter.",
+        "translations": {
+          "ru": "Они будут там следующей зимой.",
+          "es": "Ellos estarán allí el próximo invierno.",
+          "fr": "Ils seront là l'hiver prochain.",
+          "de": "Sie werden im nächsten Winter dort sein."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "He", "You"] },
+          { "correct": "will", "alternatives": ["can", "should", "must"] },
+          { "correct": "be", "alternatives": ["see", "go", "stay"] },
+          { "correct": "there", "alternatives": ["here", "now", "soon"] },
+          { "correct": "next", "alternatives": ["last", "first", "this"] },
+          { "correct": "winter", "alternatives": ["summer", "spring", "autumn"] }
+        ]
+      },
+      {
+        "id": 29,
+        "sentence_en": "I was there in spring.",
+        "translations": {
+          "ru": "Я был там весной.",
+          "es": "Estuve allí en primavera.",
+          "fr": "J'étais là au printemps.",
+          "de": "Ich war im Frühling dort."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "It"] },
+          { "correct": "was", "alternatives": ["is", "are", "be"] },
+          { "correct": "there", "alternatives": ["here", "now", "soon"] },
+          { "correct": "in", "alternatives": ["at", "on", "by"] },
+          { "correct": "spring", "alternatives": ["summer", "autumn", "winter"] }
+        ]
+      },
+      {
+        "id": 30,
+        "sentence_en": "The meeting won't be at the weekend.",
+        "translations": {
+          "ru": "Встречи не будет в выходные.",
+          "es": "La reunión no será el fin de semana.",
+          "fr": "La réunion n'aura pas lieu le week-end.",
+          "de": "Das Treffen wird am Wochenende nicht stattfinden."
+        },
+        "words": [
+          { "correct": "The meeting", "alternatives": ["A party", "A lesson", "A concert"] },
+          { "correct": "won't", "alternatives": ["can't", "shouldn't", "didn't"] },
+          { "correct": "be", "alternatives": ["see", "go", "stay"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "the weekend", "alternatives": ["the morning", "the evening", "the holiday"] }
+        ]
+      },
+      {
+        "id": 31,
+        "sentence_en": "We met them at midnight.",
+        "translations": {
+          "ru": "Мы встретили их в полночь.",
+          "es": "Los encontramos a medianoche.",
+          "fr": "Nous les avons rencontrés à minuit.",
+          "de": "Wir haben sie um Mitternacht getroffen."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "He", "You"] },
+          { "correct": "met", "alternatives": ["meet", "see", "find"] },
+          { "correct": "them", "alternatives": ["us", "him", "her"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "midnight", "alternatives": ["noon", "morning", "evening"] }
+        ]
+      },
+      {
+        "id": 32,
+        "sentence_en": "They didn't help me in spring.",
+        "translations": {
+          "ru": "Они не помогли мне весной.",
+          "es": "No me ayudaron en primavera.",
+          "fr": "Ils ne m'ont pas aidé au printemps.",
+          "de": "Sie haben mir im Frühling nicht geholfen."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "He", "You"] },
+          { "correct": "didn't", "alternatives": ["can't", "won't", "wasn't"] },
+          { "correct": "help", "alternatives": ["find", "show", "take"] },
+          { "correct": "me", "alternatives": ["us", "him", "her"] },
+          { "correct": "in", "alternatives": ["at", "on", "by"] },
+          { "correct": "spring", "alternatives": ["summer", "autumn", "winter"] }
+        ]
+      },
+      {
+        "id": 33,
+        "sentence_en": "He was here in the morning.",
+        "translations": {
+          "ru": "Он был здесь утром.",
+          "es": "Él estuvo aquí por la mañana.",
+          "fr": "Il était ici le matin.",
+          "de": "Er war morgens hier."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "It", "You"] },
+          { "correct": "was", "alternatives": ["is", "are", "be"] },
+          { "correct": "here", "alternatives": ["there", "now", "soon"] },
+          { "correct": "in", "alternatives": ["at", "on", "by"] },
+          { "correct": "the morning", "alternatives": ["the evening", "the night", "the afternoon"] }
+        ]
+      },
+      {
+        "id": 34,
+        "sentence_en": "She didn't go there at seven o'clock.",
+        "translations": {
+          "ru": "Она не ходила туда в 7 часов.",
+          "es": "Ella no fue allí a las siete.",
+          "fr": "Elle n'est pas allée là-bas à sept heures.",
+          "de": "Sie ist um sieben Uhr nicht dorthin gegangen."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "It", "You"] },
+          { "correct": "didn't", "alternatives": ["can't", "won't", "wasn't"] },
+          { "correct": "go", "alternatives": ["run", "walk", "come"] },
+          { "correct": "there", "alternatives": ["here", "now", "soon"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "seven o'clock", "alternatives": ["six o'clock", "eight o'clock", "nine o'clock"] }
+        ]
+      },
+      {
+        "id": 35,
+        "sentence_en": "We traveled last spring.",
+        "translations": {
+          "ru": "Мы путешествовали прошлой весной.",
+          "es": "Viajamos la primavera pasada.",
+          "fr": "Nous avons voyagé le printemps dernier.",
+          "de": "Wir sind letzten Frühling gereist."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "He", "You"] },
+          { "correct": "traveled", "alternatives": ["walked", "ran", "drove"] },
+          { "correct": "last", "alternatives": ["next", "first", "this"] },
+          { "correct": "spring", "alternatives": ["summer", "autumn", "winter"] }
+        ]
+      },
+      {
+        "id": 36,
+        "sentence_en": "They were there three days ago.",
+        "translations": {
+          "ru": "Они были там три дня назад.",
+          "es": "Ellos estuvieron allí hace tres días.",
+          "fr": "Ils étaient là il y a trois jours.",
+          "de": "Sie waren vor drei Tagen dort."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "He", "You"] },
+          { "correct": "were", "alternatives": ["was", "are", "is"] },
+          { "correct": "there", "alternatives": ["here", "now", "soon"] },
+          { "correct": "three", "alternatives": ["two", "four", "five"] },
+          { "correct": "days", "alternatives": ["weeks", "months", "years"] },
+          { "correct": "ago", "alternatives": ["before", "after", "later"] }
+        ]
+      },
+      {
+        "id": 37,
+        "sentence_en": "Did you work on Sunday?",
+        "translations": {
+          "ru": "Ты работал в воскресенье?",
+          "es": "¿Trabajaste el domingo?",
+          "fr": "As-tu travaillé dimanche ?",
+          "de": "Hast du am Sonntag gearbeitet?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Will", "Can", "Does"] },
+          { "correct": "you", "alternatives": ["he", "she", "they"] },
+          { "correct": "work", "alternatives": ["read", "run", "sleep"] },
+          { "correct": "on", "alternatives": ["in", "at", "by"] },
+          { "correct": "Sunday", "alternatives": ["Monday", "Tuesday", "Friday"] }
+        ]
+      },
+      {
+        "id": 38,
+        "sentence_en": "He won't be here on Saturday.",
+        "translations": {
+          "ru": "Он не будет здесь в субботу.",
+          "es": "Él no estará aquí el sábado.",
+          "fr": "Il ne sera pas ici samedi.",
+          "de": "Er wird am Samstag nicht hier sein."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "It", "You"] },
+          { "correct": "won't", "alternatives": ["can't", "shouldn't", "didn't"] },
+          { "correct": "be", "alternatives": ["see", "go", "stay"] },
+          { "correct": "here", "alternatives": ["there", "now", "soon"] },
+          { "correct": "on", "alternatives": ["in", "at", "by"] },
+          { "correct": "Saturday", "alternatives": ["Monday", "Tuesday", "Friday"] }
+        ]
+      },
+      {
+        "id": 39,
+        "sentence_en": "They were here on the 28th of July.",
+        "translations": {
+          "ru": "Они были здесь 28 июля.",
+          "es": "Ellos estuvieron aquí el 28 de julio.",
+          "fr": "Ils étaient ici le 28 juillet.",
+          "de": "Sie waren am 28. Juli hier."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "He", "You"] },
+          { "correct": "were", "alternatives": ["was", "are", "is"] },
+          { "correct": "here", "alternatives": ["there", "now", "soon"] },
+          { "correct": "on", "alternatives": ["in", "at", "by"] },
+          { "correct": "the 28th", "alternatives": ["a 28th", "the 29th", "the 30th"] },
+          { "correct": "of", "alternatives": ["in", "at", "by"] },
+          { "correct": "July", "alternatives": ["June", "August", "September"] }
+        ]
+      },
+      {
+        "id": 40,
+        "sentence_en": "The meeting will be at the weekend.",
+        "translations": {
+          "ru": "Встреча будет в выходные.",
+          "es": "La reunión será el fin de semana.",
+          "fr": "La réunion aura lieu le week-end.",
+          "de": "Das Treffen wird am Wochenende stattfinden."
+        },
+        "words": [
+          { "correct": "The meeting", "alternatives": ["A party", "A lesson", "A concert"] },
+          { "correct": "will", "alternatives": ["can", "should", "must"] },
+          { "correct": "be", "alternatives": ["see", "go", "stay"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "the weekend", "alternatives": ["the morning", "the evening", "the holiday"] }
+        ]
+      },
+      {
+        "id": 41,
+        "sentence_en": "They didn't meet me yesterday.",
+        "translations": {
+          "ru": "Они не встречали меня вчера.",
+          "es": "Ellos no me encontraron ayer.",
+          "fr": "Ils ne m'ont pas rencontré hier.",
+          "de": "Sie haben mich gestern nicht getroffen."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "I", "She"] },
+          { "correct": "didn't", "alternatives": ["don't", "won't", "wasn't"] },
+          { "correct": "meet", "alternatives": ["meets", "meeting", "met"] },
+          { "correct": "me", "alternatives": ["us", "him", "her"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "now"] }
+        ]
+      },
+      {
+        "id": 42,
+        "sentence_en": "We studied at midnight.",
+        "translations": {
+          "ru": "Мы учились в полночь.",
+          "es": "Estudiamos a medianoche.",
+          "fr": "Nous avons étudié à minuit.",
+          "de": "Wir haben um Mitternacht gelernt."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "She"] },
+          { "correct": "studied", "alternatives": ["study", "studies", "studying"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "midnight", "alternatives": ["noon", "morning", "evening"] }
+        ]
+      },
+      {
+        "id": 43,
+        "sentence_en": "Did you finish at midnight?",
+        "translations": {
+          "ru": "Ты закончил в полночь?",
+          "es": "¿Terminaste a medianoche?",
+          "fr": "As-tu terminé à minuit ?",
+          "de": "Hast du um Mitternacht fertiggemacht?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Do", "Does", "Will"] },
+          { "correct": "you", "alternatives": ["he", "she", "they"] },
+          { "correct": "finish", "alternatives": ["finishes", "finished", "finishing"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "midnight", "alternatives": ["noon", "morning", "evening"] }
+        ]
+      },
+      {
+        "id": 44,
+        "sentence_en": "We were there in the afternoon.",
+        "translations": {
+          "ru": "Мы были там днем.",
+          "es": "Estuvimos allí por la tarde.",
+          "fr": "Nous étions là dans l'après-midi.",
+          "de": "Wir waren am Nachmittag dort."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "She"] },
+          { "correct": "were", "alternatives": ["was", "is", "are"] },
+          { "correct": "there", "alternatives": ["here", "everywhere", "nowhere"] },
+          { "correct": "in", "alternatives": ["at", "on", "by"] },
+          { "correct": "the afternoon", "alternatives": ["the morning", "the evening", "the night"] }
+        ]
+      },
+      {
+        "id": 45,
+        "sentence_en": "Where will they go at nine o'clock?",
+        "translations": {
+          "ru": "Куда они пойдут в 9 часов?",
+          "es": "¿A dónde irán a las nueve?",
+          "fr": "Où iront-ils à neuf heures ?",
+          "de": "Wohin werden sie um neun Uhr gehen?"
+        },
+        "words": [
+          { "correct": "Where", "alternatives": ["When", "What", "Why"] },
+          { "correct": "will", "alternatives": ["am", "was", "are"] },
+          { "correct": "they", "alternatives": ["he", "she", "we"] },
+          { "correct": "go", "alternatives": ["goes", "going", "went"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "nine o'clock", "alternatives": ["ten o'clock", "eight o'clock", "seven o'clock"] }
+        ]
+      },
+      {
+        "id": 46,
+        "sentence_en": "We were here today.",
+        "translations": {
+          "ru": "Мы были здесь сегодня.",
+          "es": "Estuvimos aquí hoy.",
+          "fr": "Nous étions ici aujourd'hui.",
+          "de": "Wir waren heute hier."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "She"] },
+          { "correct": "were", "alternatives": ["was", "is", "are"] },
+          { "correct": "here", "alternatives": ["there", "everywhere", "nowhere"] },
+          { "correct": "today", "alternatives": ["yesterday", "tomorrow", "now"] }
+        ]
+      },
+      {
+        "id": 47,
+        "sentence_en": "He was here in the evening.",
+        "translations": {
+          "ru": "Он был здесь вечером.",
+          "es": "Él estuvo aquí por la tarde.",
+          "fr": "Il était ici le soir.",
+          "de": "Er war abends hier."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "was", "alternatives": ["is", "are", "were"] },
+          { "correct": "here", "alternatives": ["there", "everywhere", "nowhere"] },
+          { "correct": "in", "alternatives": ["at", "on", "by"] },
+          { "correct": "the evening", "alternatives": ["the morning", "the afternoon", "the night"] }
+        ]
+      },
+      {
+        "id": 48,
+        "sentence_en": "I won't work tomorrow.",
+        "translations": {
+          "ru": "Я не буду работать завтра.",
+          "es": "No trabajaré mañana.",
+          "fr": "Je ne travaillerai pas demain.",
+          "de": "Ich werde morgen nicht arbeiten."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "They"] },
+          { "correct": "won't", "alternatives": ["will", "would", "wasn't"] },
+          { "correct": "work", "alternatives": ["works", "working", "worked"] },
+          { "correct": "tomorrow", "alternatives": ["yesterday", "today", "now"] }
+        ]
+      },
+      {
+        "id": 49,
+        "sentence_en": "I'll find her in an hour.",
+        "translations": {
+          "ru": "Я найду её через час.",
+          "es": "La encontraré en una hora.",
+          "fr": "Je la trouverai dans une heure.",
+          "de": "Ich werde sie in einer Stunde finden."
+        },
+        "words": [
+          { "correct": "I'll", "alternatives": ["He'll", "She'll", "They'll"] },
+          { "correct": "find", "alternatives": ["finds", "finding", "found"] },
+          { "correct": "her", "alternatives": ["him", "us", "them"] },
+          { "correct": "in", "alternatives": ["at", "on", "by"] },
+          { "correct": "an hour", "alternatives": ["a day", "a week", "a month"] }
+        ]
+      },
+      {
+        "id": 50,
+        "sentence_en": "I'll be there on the 24th of June.",
+        "translations": {
+          "ru": "Я буду там 24 июня.",
+          "es": "Estaré allí el 24 de junio.",
+          "fr": "Je serai là le 24 juin.",
+          "de": "Ich werde am 24. Juni dort sein."
+        },
+        "words": [
+          { "correct": "I'll", "alternatives": ["He'll", "She'll", "They'll"] },
+          { "correct": "be", "alternatives": ["is", "was", "are"] },
+          { "correct": "there", "alternatives": ["here", "everywhere", "nowhere"] },
+          { "correct": "on", "alternatives": ["in", "at", "by"] },
+          { "correct": "the 24th", "alternatives": ["a 24rd", "the 25th", "the 26th"] },
+          { "correct": "of", "alternatives": ["in", "at", "by"] },
+          { "correct": "June", "alternatives": ["July", "May", "August"] }
+        ]
+      },
+      {
+        "id": 51,
+        "sentence_en": "He won't be here this month.",
+        "translations": {
+          "ru": "Его не будет здесь в этом месяце.",
+          "es": "Él no estará aquí este mes.",
+          "fr": "Il ne sera pas ici ce mois-ci.",
+          "de": "Er wird diesen Monat nicht hier sein."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "won't", "alternatives": ["didn't", "doesn't", "isn't"] },
+          { "correct": "be", "alternatives": ["go", "come", "stay"] },
+          { "correct": "here", "alternatives": ["there", "home", "away"] },
+          { "correct": "this month", "alternatives": ["last month", "next month", "that month"] }
+        ]
+      },
+      {
+        "id": 52,
+        "sentence_en": "I'll go there at twelve o'clock.",
+        "translations": {
+          "ru": "Я пойду туда в 12 часов.",
+          "es": "Iré allí a las doce.",
+          "fr": "J'irai là-bas à midi.",
+          "de": "Ich werde um zwölf Uhr dorthin gehen."
+        },
+        "words": [
+          { "correct": "I'll", "alternatives": ["He'll", "She'll", "They'll"] },
+          { "correct": "go", "alternatives": ["goes", "going", "went"] },
+          { "correct": "there", "alternatives": ["here", "everywhere", "nowhere"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "twelve o'clock", "alternatives": ["eleven o'clock", "ten o'clock", "nine o'clock"] }
+        ]
+      },
+      {
+        "id": 53,
+        "sentence_en": "We didn't tell her in January.",
+        "translations": {
+          "ru": "Мы не рассказали ей в январе.",
+          "es": "No se lo dijimos en enero.",
+          "fr": "Nous ne le lui avons pas dit en janvier.",
+          "de": "Wir haben es ihr im Januar nicht gesagt."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "She"] },
+          { "correct": "didn't", "alternatives": ["don't", "won't", "wasn't"] },
+          { "correct": "tell", "alternatives": ["tells", "telling", "told"] },
+          { "correct": "her", "alternatives": ["him", "us", "them"] },
+          { "correct": "in", "alternatives": ["at", "on", "by"] },
+          { "correct": "January", "alternatives": ["February", "March", "April"] }
+        ]
+      },
+      {
+        "id": 54,
+        "sentence_en": "Did you meet him at night?",
+        "translations": {
+          "ru": "Ты встретил его ночью?",
+          "es": "¿Lo encontraste por la noche?",
+          "fr": "L'as-tu rencontré la nuit ?",
+          "de": "Hast du ihn nachts getroffen?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Do", "Does", "Will"] },
+          { "correct": "you", "alternatives": ["he", "she", "they"] },
+          { "correct": "meet", "alternatives": ["meets", "meeting", "met"] },
+          { "correct": "him", "alternatives": ["us", "them", "her"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "night", "alternatives": ["day", "morning", "evening"] }
+        ]
+      },
+      {
+        "id": 55,
+        "sentence_en": "Was she there in winter?",
+        "translations": {
+          "ru": "Она была там зимой?",
+          "es": "¿Estuvo ella allí en invierno?",
+          "fr": "Était-elle là en hiver ?",
+          "de": "War sie im Winter dort?"
+        },
+        "words": [
+          { "correct": "Was", "alternatives": ["Is", "Are", "Were"] },
+          { "correct": "she", "alternatives": ["he", "they", "we"] },
+          { "correct": "there", "alternatives": ["here", "everywhere", "nowhere"] },
+          { "correct": "in", "alternatives": ["at", "on", "by"] },
+          { "correct": "winter", "alternatives": ["summer", "autumn", "spring"] }
+        ]
+      },
+      {
+        "id": 56,
+        "sentence_en": "We saw him at noon.",
+        "translations": {
+          "ru": "Мы видели его в полдень.",
+          "es": "Lo vimos al mediodía.",
+          "fr": "Nous l'avons vu à midi.",
+          "de": "Wir haben ihn mittags gesehen."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "She"] },
+          { "correct": "saw", "alternatives": ["see", "seeing", "sees"] },
+          { "correct": "him", "alternatives": ["us", "them", "her"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "noon", "alternatives": ["midnight", "morning", "evening"] }
+        ]
+      },
+      {
+        "id": 57,
+        "sentence_en": "Will you watch films at night?",
+        "translations": {
+          "ru": "Ты будешь смотреть фильмы ночью?",
+          "es": "¿Verás películas por la noche?",
+          "fr": "Vas-tu regarder des films la nuit ?",
+          "de": "Wirst du nachts Filme schauen?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Does", "Did", "Is"] },
+          { "correct": "you", "alternatives": ["he", "she", "they"] },
+          { "correct": "watch", "alternatives": ["watches", "watching", "watched"] },
+          { "correct": "films", "alternatives": ["movies", "shows", "videos"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "night", "alternatives": ["day", "morning", "evening"] }
+        ]
+      },
+      {
+        "id": 58,
+        "sentence_en": "I was there in 1997.",
+        "translations": {
+          "ru": "Я был там в 1997.",
+          "es": "Estuve allí en 1997.",
+          "fr": "J'étais là en 1997.",
+          "de": "Ich war 1997 dort."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "They"] },
+          { "correct": "was", "alternatives": ["is", "are", "were"] },
+          { "correct": "there", "alternatives": ["here", "everywhere", "nowhere"] },
+          { "correct": "in", "alternatives": ["at", "on", "by"] },
+          { "correct": "1997", "alternatives": ["1996", "1998", "1999"] }
+        ]
+      },
+      {
+        "id": 59,
+        "sentence_en": "We read at noon.",
+        "translations": {
+          "ru": "Мы читали в полдень.",
+          "es": "Leímos al mediodía.",
+          "fr": "Nous avons lu à midi.",
+          "de": "Wir haben mittags gelesen."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "She"] },
+          { "correct": "read", "alternatives": ["reads", "reading", "readed"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "noon", "alternatives": ["midnight", "morning", "evening"] }
+        ]
+      },
+      {
+        "id": 60,
+        "sentence_en": "Did you sleep at night?",
+        "translations": {
+          "ru": "Ты спал ночью?",
+          "es": "¿Dormiste por la noche?",
+          "fr": "As-tu dormi la nuit ?",
+          "de": "Hast du nachts geschlafen?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Do", "Does", "Will"] },
+          { "correct": "you", "alternatives": ["he", "she", "they"] },
+          { "correct": "sleep", "alternatives": ["sleeps", "sleeping", "slept"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "night", "alternatives": ["day", "morning", "evening"] }
+        ]
+      },
+      {
+        "id": 61,
+        "sentence_en": "He won't be there in the evening.",
+        "translations": {
+          "ru": "Он не будет там вечером.",
+          "es": "Él no estará allí por la tarde.",
+          "fr": "Il ne sera pas là le soir.",
+          "de": "Er wird abends nicht dort sein."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "won't", "alternatives": ["will", "would", "wasn't"] },
+          { "correct": "be", "alternatives": ["is", "was", "are"] },
+          { "correct": "there", "alternatives": ["here", "everywhere", "nowhere"] },
+          { "correct": "in", "alternatives": ["at", "on", "by"] },
+          { "correct": "the evening", "alternatives": ["the morning", "the afternoon", "the night"] }
+        ]
+      },
+      {
+        "id": 62,
+        "sentence_en": "He won't show her in the evening.",
+        "translations": {
+          "ru": "Он не покажет ей вечером.",
+          "es": "Él no se lo mostrará por la tarde.",
+          "fr": "Il ne lui montrera pas le soir.",
+          "de": "Er wird es ihr abends nicht zeigen."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "won't", "alternatives": ["will", "would", "wasn't"] },
+          { "correct": "show", "alternatives": ["shows", "showing", "showed"] },
+          { "correct": "her", "alternatives": ["him", "us", "them"] },
+          { "correct": "in", "alternatives": ["at", "on", "by"] },
+          { "correct": "the evening", "alternatives": ["the morning", "the afternoon", "the night"] }
+        ]
+      },
+      {
+        "id": 63,
+        "sentence_en": "The concert didn't start at five o'clock.",
+        "translations": {
+          "ru": "Концерт не начался в 5 часов.",
+          "es": "El concierto no comenzó a las cinco.",
+          "fr": "Le concert n'a pas commencé à cinq heures.",
+          "de": "Das Konzert begann nicht um fünf Uhr."
+        },
+        "words": [
+          { "correct": "The concert", "alternatives": ["The party", "The lesson", "The meeting"] },
+          { "correct": "didn't", "alternatives": ["doesn't", "isn't", "wasn't"] },
+          { "correct": "start", "alternatives": ["finish", "open", "close"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "five o'clock", "alternatives": ["six o'clock", "four o'clock", "seven o'clock"] }
+        ]
+      },
+      {
+        "id": 64,
+        "sentence_en": "They won't meet me at the weekend.",
+        "translations": {
+          "ru": "Они не встретят меня в выходные.",
+          "es": "No me encontrarán el fin de semana.",
+          "fr": "Ils ne me rencontreront pas le week-end.",
+          "de": "Sie werden mich am Wochenende nicht treffen."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "I", "She"] },
+          { "correct": "won't", "alternatives": ["will", "would", "wasn't"] },
+          { "correct": "meet", "alternatives": ["meets", "meeting", "met"] },
+          { "correct": "me", "alternatives": ["us", "him", "her"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "the weekend", "alternatives": ["the morning", "the evening", "the holiday"] }
+        ]
+      },
+      {
+        "id": 65,
+        "sentence_en": "I'll travel next summer.",
+        "translations": {
+          "ru": "Я буду путешествовать следующим летом.",
+          "es": "Viajaré el próximo verano.",
+          "fr": "Je voyagerai l'été prochain.",
+          "de": "Ich werde nächsten Sommer reisen."
+        },
+        "words": [
+          { "correct": "I'll", "alternatives": ["He'll", "She'll", "They'll"] },
+          { "correct": "travel", "alternatives": ["travels", "traveling", "traveled"] },
+          { "correct": "next", "alternatives": ["last", "this", "previous"] },
+          { "correct": "summer", "alternatives": ["winter", "autumn", "spring"] }
+        ]
+      },
+      {
+        "id": 66,
+        "sentence_en": "They'll be here in five years.",
+        "translations": {
+          "ru": "Они будут здесь через 5 лет.",
+          "es": "Ellos estarán aquí en cinco años.",
+          "fr": "Ils seront ici dans cinq ans.",
+          "de": "Sie werden in fünf Jahren hier sein."
+        },
+        "words": [
+          { "correct": "They'll", "alternatives": ["We'll", "He'll", "She'll"] },
+          { "correct": "be", "alternatives": ["is", "was", "are"] },
+          { "correct": "here", "alternatives": ["there", "everywhere", "nowhere"] },
+          { "correct": "in", "alternatives": ["at", "on", "by"] },
+          { "correct": "five years", "alternatives": ["four years", "six years", "seven years"] }
+        ]
+      },
+      {
+        "id": 67,
+        "sentence_en": "We studied at noon.",
+        "translations": {
+          "ru": "Мы учились в полдень.",
+          "es": "Estudiamos al mediodía.",
+          "fr": "Nous avons étudié à midi.",
+          "de": "Wir haben mittags gelernt."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "She"] },
+          { "correct": "studied", "alternatives": ["study", "studies", "studying"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "noon", "alternatives": ["midnight", "morning", "evening"] }
+        ]
+      },
+      {
+        "id": 68,
+        "sentence_en": "We finished last month.",
+        "translations": {
+          "ru": "Мы закончили в прошлом месяце.",
+          "es": "Terminamos el mes pasado.",
+          "fr": "Nous avons terminé le mois dernier.",
+          "de": "Wir haben letzten Monat abgeschlossen."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "She"] },
+          { "correct": "finished", "alternatives": ["finish", "finishes", "finishing"] },
+          { "correct": "last", "alternatives": ["this", "next", "previous"] },
+          { "correct": "month", "alternatives": ["week", "year", "day"] }
+        ]
+      },
+      {
+        "id": 69,
+        "sentence_en": "He won't be there in the afternoon.",
+        "translations": {
+          "ru": "Он не будет там днем.",
+          "es": "Él no estará allí por la tarde.",
+          "fr": "Il ne sera pas là dans l'après-midi.",
+          "de": "Er wird am Nachmittag nicht dort sein."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "won't", "alternatives": ["will", "would", "wasn't"] },
+          { "correct": "be", "alternatives": ["is", "was", "are"] },
+          { "correct": "there", "alternatives": ["here", "everywhere", "nowhere"] },
+          { "correct": "in", "alternatives": ["at", "on", "by"] },
+          { "correct": "the afternoon", "alternatives": ["the morning", "the evening", "the night"] }
+        ]
+      },
+      {
+        "id": 70,
+        "sentence_en": "Was she here in the evening?",
+        "translations": {
+          "ru": "Она была здесь вечером?",
+          "es": "¿Estuvo ella aquí por la tarde?",
+          "fr": "Était-elle ici le soir ?",
+          "de": "War sie abends hier?"
+        },
+        "words": [
+          { "correct": "Was", "alternatives": ["Is", "Are", "Were"] },
+          { "correct": "she", "alternatives": ["he", "they", "we"] },
+          { "correct": "here", "alternatives": ["there", "everywhere", "nowhere"] },
+          { "correct": "in", "alternatives": ["at", "on", "by"] },
+          { "correct": "the evening", "alternatives": ["the morning", "the afternoon", "the night"] }
+        ]
+      },
+      {
+        "id": 71,
+        "sentence_en": "Will you tell me in the afternoon?",
+        "translations": {
+          "ru": "Ты расскажешь мне днем?",
+          "es": "¿Me lo contarás por la tarde?",
+          "fr": "Me le diras-tu dans l'après-midi ?",
+          "de": "Wirst du es mir am Nachmittag erzählen?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Does", "Did", "Is"] },
+          { "correct": "you", "alternatives": ["he", "she", "they"] },
+          { "correct": "tell", "alternatives": ["tells", "telling", "told"] },
+          { "correct": "me", "alternatives": ["us", "him", "her"] },
+          { "correct": "in", "alternatives": ["at", "on", "by"] },
+          { "correct": "the afternoon", "alternatives": ["the morning", "the evening", "the night"] }
+        ]
+      }
+    ]
+  }
+}

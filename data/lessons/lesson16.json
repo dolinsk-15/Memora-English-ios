@@ -1,0 +1,2873 @@
+{
+  "id": 16,
+  "title": {
+    "english": "Phrasal Verbs",
+    "russian": "Фразовые глаголы",
+    "spanish": "Verbos Frasales",
+    "french": "Verbes à Particule",
+    "german": "Phrasal Verben"
+  },
+  "description": {
+    "english": "In this lesson, we'll learn about phrasal verbs in English.",
+    "russian": "Фразовый глагол (phrasal verb) — это устойчивая связка из глагола и предлога (или наречия), которая образует новое значение, отличное от исходного значения глагола.",
+    "spanish": "En esta lección, aprenderemos sobre los verbos frasales en inglés.",
+    "french": "Dans cette leçon, nous apprendrons les verbes à particule en anglais.",
+    "german": "In dieser Lektion lernen wir die Phrasal Verben im Englischen."
+  },
+  "detailedDescription": {
+    "russian": {
+      "title": "Урок 16 — Фразовые глаголы (Phrasal Verbs)",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Фразовые глаголы (Phrasal Verbs)"
+        },
+        {
+          "type": "text",
+          "content": "Фразовый глагол (phrasal verb) — это устойчивая связка из глагола и предлога (или наречия), которая образует новое значение, отличное от исходного значения глагола."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Аналогия с русским языком"
+        },
+        {
+          "type": "text",
+          "content": "В русском языке одна и та же основа «делать» + приставка создаёт разные значения:\ncделать, переделать, отделать, подделать и т.д.\n\nТак и в английском:\nглагол go, come, take, give, put, turn и другие, в сочетании с предлогами или наречиями (up, down, off, etc.) образуют фразовые глаголы с новыми значениями."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "1. Почему это важно?"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Фразовые глаголы очень распространены в разговорной речи.",
+            "В деловом и формальном английском — реже.",
+            "Знание фразовых глаголов делает вашу речь естественной и «английской» по звучанию."
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Примеры распространённых фразовых глаголов"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "go"
+        },
+        {
+          "type": "table",
+          "headers": ["Частица", "Значение", "Пример"],
+          "rows": [
+            ["up", "подниматься; взбираться", "The prices are going up. — Цены растут."],
+            ["down", "опускаться, снижаться", "His temperature is going down. — Температура падает."],
+            ["on", "продолжать; происходить", "The show must go on. — Шоу должно продолжаться."],
+            ["out", "выходить; пойти в город; погаснуть", "The lights went out. — Свет погас."],
+            ["back", "возвращаться", "Go back three pages. — Вернись на три страницы."],
+            ["away", "уходить", "Don't go away, please. — Не уходи, пожалуйста."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "come"
+        },
+        {
+          "type": "table",
+          "headers": ["Частица", "Значение", "Пример"],
+          "rows": [
+            ["up", "возникнуть, появиться", "His name came up during our conversation."],
+            ["down", "спуститься; упасть", "She came down the stairs."],
+            ["down with", "заболеть", "The tree came down with a loud crash."],
+            ["out", "выйти (о книге); стать известным", "This book just came out."],
+            ["back", "вернуться", "She asked him to come back."]
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Примечание:\n • Come down — движение к говорящему\n • Go down — движение вниз, но не к говорящему"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "look"
+        },
+        {
+          "type": "table",
+          "headers": ["Частица", "Значение", "Пример"],
+          "rows": [
+            ["up", "смотреть вверх; искать информацию", "Look up this word in the dictionary."],
+            ["for", "искать; надеяться", "I am looking for my socks."],
+            ["after", "присматривать за кем-то", "I look after my younger brother."],
+            ["forward to", "ждать с нетерпением", "I look forward to the weekend."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "take"
+        },
+        {
+          "type": "table",
+          "headers": ["Частица", "Значение", "Пример"],
+          "rows": [
+            ["up", "начать что-то новое; занимать (время)", "Gardening takes up a lot of time."],
+            ["off", "снимать одежду; взлетать; сбрасывать вес", "The plane took off. / He took off his jacket."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "give"
+        },
+        {
+          "type": "table",
+          "headers": ["Частица", "Значение", "Пример"],
+          "rows": [
+            ["up", "сдаваться; бросать", "He gave up smoking."],
+            ["out", "раздавать; иссякнуть", "The teacher gave out the books."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "turn"
+        },
+        {
+          "type": "table",
+          "headers": ["Частица", "Значение", "Пример"],
+          "rows": [
+            ["on", "включать", "She turned on the light."],
+            ["off", "выключать", "Turn off the TV, please."],
+            ["out", "оказаться, выявиться", "He turned out to be right."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "put"
+        },
+        {
+          "type": "table",
+          "headers": ["Частица", "Значение", "Пример"],
+          "rows": [
+            ["on", "надевать; набирать вес", "I put on two kilos."],
+            ["off", "откладывать", "We put off the wedding."],
+            ["down", "положить; высадить пассажира", "I put the book down. / I can put you down anywhere."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "break"
+        },
+        {
+          "type": "table",
+          "headers": ["Частица", "Значение", "Пример"],
+          "rows": [
+            ["down", "ломаться", "My car broke down."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Разделяемые и неразделяемые фразовые глаголы"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Неразделяемые (частица всегда после глагола):"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "look after",
+            "look for",
+            "look forward to",
+            "go out / go up / go down",
+            "come down / come back / come out"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Пример:\nI look after my brother. — Я присматриваю за братом.\n(❌ нельзя сказать: I look my brother after)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Разделяемые (можно вставить дополнение между глаголом и частицей):"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "turn on / turn off / turn out",
+            "put on / put off / put down",
+            "give up / give out",
+            "take off",
+            "look up",
+            "break down (в переносном значении)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Примеры:\nI turned on the light.\nI turned the light on.\n\nЕсли дополнение — местоимение, оно обязательно ставится между глаголом и частицей:\nI turned it off. (❌ not: I turned off it)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Итог:"
+        },
+        {
+          "type": "text",
+          "content": "Фразовые глаголы — это живой язык. Даже зная базовые связки, вы сможете:\n • лучше понимать фильмы и сериалы,\n • выразительнее говорить,\n • ближе приблизиться к разговорному английскому."
+        }
+      ]
+    },
+    "spanish": {
+      "title": "Lección 16 — Los Phrasal Verbs en inglés",
+      "sections": [
+        {
+          "type": "text",
+          "content": "En inglés, los phrasal verbs (o verbos compuestos) son expresiones formadas por un verbo + una partícula (puede ser una preposición o un adverbio). Juntos, crean un significado diferente al del verbo original."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "1. ¿Cómo funcionan?"
+        },
+        {
+          "type": "text",
+          "content": "En español usamos prefijos o sufijos para modificar el significado de los verbos:\npor ejemplo: hacer → deshacer, rehacer, sobrehacer, etc.\n\nEn inglés, en vez de usar prefijos, se combinan los verbos comunes (como go, come, take, look, etc.) con partículas como up, out, off, on, etc., y se crean nuevas expresiones con significados diferentes."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "2. ¿Por qué son importantes?"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Se usan muchísimo en la vida diaria y conversaciones informales.",
+            "Su uso hace que tu inglés suene más natural y fluido.",
+            "Aunque a veces su significado se puede deducir por contexto, muchos tienen sentidos idiomáticos (es decir, que no se entienden literalmente)."
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "3. Ejemplos por verbo"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "GO"
+        },
+        {
+          "type": "table",
+          "headers": ["Partícula", "Significado", "Ejemplo"],
+          "rows": [
+            ["up", "subir / aumentar", "The prices are going up. — Los precios están subiendo."],
+            ["down", "bajar / disminuir", "His temperature is going down. — Su temperatura baja."],
+            ["on", "continuar / seguir", "The show must go on. — El show debe continuar."],
+            ["out", "salir / apagarse", "He went out to get a newspaper. — Salió a comprar el periódico."],
+            ["back", "volver", "Go back three pages. — Regresa tres páginas."],
+            ["away", "irse", "Don't go away. — No te vayas."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "COME"
+        },
+        {
+          "type": "table",
+          "headers": ["Partícula", "Significado", "Ejemplo"],
+          "rows": [
+            ["up", "surgir / mencionarse", "His name came up in the conversation. — Salió su nombre en la conversación."],
+            ["down", "bajar / caer", "She came down the stairs. — Bajó las escaleras."],
+            ["down with", "caer enfermo", "He came down with the flu. — Le dio gripe."],
+            ["out", "salir (libro); hacerse público", "This book just came out. — Este libro acaba de salir."],
+            ["back", "regresar", "She asked him to come back. — Le pidió que regresara."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "LOOK"
+        },
+        {
+          "type": "table",
+          "headers": ["Partícula", "Significado", "Ejemplo"],
+          "rows": [
+            ["up", "mirar hacia arriba; buscar información", "Look up the word. — Busca la palabra."],
+            ["for", "buscar; esperar", "I am looking for my keys. — Estoy buscando mis llaves."],
+            ["after", "cuidar a alguien", "I look after my sister. — Cuido a mi hermana."],
+            ["forward to", "esperar con ganas", "I look forward to the trip. — Espero con ansias el viaje."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "TAKE"
+        },
+        {
+          "type": "table",
+          "headers": ["Partícula", "Significado", "Ejemplo"],
+          "rows": [
+            ["up", "comenzar algo nuevo; ocupar tiempo/espacio", "Gardening takes up a lot of time. — La jardinería toma mucho tiempo."],
+            ["off", "quitarse ropa; despegar; perder peso", "He took off his shoes. — Se quitó los zapatos."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "GIVE"
+        },
+        {
+          "type": "table",
+          "headers": ["Partícula", "Significado", "Ejemplo"],
+          "rows": [
+            ["up", "rendirse; dejar de hacer algo", "He gave up smoking. — Dejó de fumar."],
+            ["out", "repartir; agotarse (energía)", "The teacher gave out the tests. — El profesor repartió los exámenes."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "TURN"
+        },
+        {
+          "type": "table",
+          "headers": ["Partícula", "Significado", "Ejemplo"],
+          "rows": [
+            ["on", "encender", "She turned on the light. — Encendió la luz."],
+            ["off", "apagar", "Turn off the TV. — Apaga la televisión."],
+            ["out", "resultar / terminar siendo", "He turned out to be right. — Resultó tener razón."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "PUT"
+        },
+        {
+          "type": "table",
+          "headers": ["Partícula", "Significado", "Ejemplo"],
+          "rows": [
+            ["on", "ponerse ropa; engordar", "I put on a jacket. — Me puse una chaqueta."],
+            ["off", "posponer", "We put off the meeting. — Pospusimos la reunión."],
+            ["down", "colocar algo; dejar a alguien (vehículo)", "Put down your phone. — Deja tu teléfono."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "BREAK"
+        },
+        {
+          "type": "table",
+          "headers": ["Partícula", "Significado", "Ejemplo"],
+          "rows": [
+            ["down", "romperse / averiarse", "My car broke down. — Mi coche se averió."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "4. Verbos separables e inseparables"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Inseparables"
+        },
+        {
+          "type": "text",
+          "content": "(No se puede poner nada entre el verbo y la partícula):"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "look after",
+            "look for",
+            "look forward to",
+            "go out / come down / come back"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Ejemplo:\nI look after my dog. — Cuido a mi perro.\n(No: ❌ I look my dog after)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Separables"
+        },
+        {
+          "type": "text",
+          "content": "(Puede ir el objeto entre el verbo y la partícula o después):"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "turn on / turn off / take off / put on / give up / put down / look up"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Ejemplos:\n• I turned on the light.\n• I turned the light on.\n\nPero si el objeto es pronombre, solo se puede poner en medio:\n\n• ✅ I turned it off.\n• ❌ I turned off it."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Resumen"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Los phrasal verbs son esenciales en inglés cotidiano.",
+            "Aprender los más comunes mejora tu fluidez.",
+            "A veces su significado no es literal: ¡memorízalos con contexto y ejemplos!"
+          ]
+        }
+      ]
+    },
+    "french": {
+      "title": "Leçon 16 — Les phrasal verbs en anglais",
+      "sections": [
+        {
+          "type": "text",
+          "content": "En anglais, un phrasal verb est une expression composée d'un verbe suivi d'une particule (préposition ou adverbe). Ensemble, ces éléments créent un nouveau sens, souvent très différent de la signification littérale du verbe."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "1. Pourquoi est-ce important ?"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Les phrasal verbs sont extrêmement fréquents dans le langage parlé et familier.",
+            "Ils permettent de parler comme un natif et d'avoir une communication plus naturelle.",
+            "Parfois, le sens est évident (sit down = s'asseoir), mais souvent, il faut apprendre l'expression complète (ex : look forward to = attendre avec impatience)."
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "2. Comment ça fonctionne ?"
+        },
+        {
+          "type": "text",
+          "content": "Contrairement au français, où l'on ajoute des préfixes (faire → refaire, défaire, satisfaire), en anglais, on combine un verbe simple avec une particule pour former un sens nouveau.\n\nExemples :\n • go out — sortir\n • give up — abandonner\n • take off — décoller / enlever"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "3. Exemples de phrasal verbs par verbe"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "GO"
+        },
+        {
+          "type": "table",
+          "headers": ["Particule", "Sens", "Exemple"],
+          "rows": [
+            ["up", "monter, augmenter", "Prices are going up. — Les prix augmentent."],
+            ["down", "descendre, baisser", "His temperature is going down. — Sa température baisse."],
+            ["on", "continuer", "The show must go on. — Le spectacle doit continuer."],
+            ["out", "sortir, s'éteindre", "The lights went out. — Les lumières se sont éteintes."],
+            ["back", "revenir", "Go back three pages. — Reviens trois pages en arrière."],
+            ["away", "partir", "Don't go away. — Ne pars pas."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "COME"
+        },
+        {
+          "type": "table",
+          "headers": ["Particule", "Sens", "Exemple"],
+          "rows": [
+            ["up", "apparaître, surgir", "His name came up. — Son nom a été mentionné."],
+            ["down", "descendre / tomber", "She came down the stairs. — Elle est descendue les escaliers."],
+            ["down with", "tomber malade", "He came down with the flu. — Il a attrapé la grippe."],
+            ["out", "être publié / devenir connu", "This book just came out. — Ce livre vient de sortir."],
+            ["back", "revenir", "She asked him to come back. — Elle lui a demandé de revenir."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "LOOK"
+        },
+        {
+          "type": "table",
+          "headers": ["Particule", "Sens", "Exemple"],
+          "rows": [
+            ["up", "chercher (info) / lever les yeux", "Look up this word. — Cherche ce mot dans le dictionnaire."],
+            ["for", "chercher", "I'm looking for my phone. — Je cherche mon téléphone."],
+            ["after", "s'occuper de quelqu'un", "I look after my brother. — Je m'occupe de mon frère."],
+            ["forward to", "attendre avec impatience", "I look forward to the weekend. — J'attends le week-end avec impatience."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "TAKE"
+        },
+        {
+          "type": "table",
+          "headers": ["Particule", "Sens", "Exemple"],
+          "rows": [
+            ["up", "commencer une activité ; prendre du temps", "Gardening takes up time. — Le jardinage prend du temps."],
+            ["off", "enlever (vêtements), décoller", "He took off his jacket. — Il a enlevé sa veste."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "GIVE"
+        },
+        {
+          "type": "table",
+          "headers": ["Particule", "Sens", "Exemple"],
+          "rows": [
+            ["up", "abandonner, renoncer", "He gave up smoking. — Il a arrêté de fumer."],
+            ["out", "distribuer, s'épuiser", "The teacher gave out the books. — Le prof a distribué les livres."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "TURN"
+        },
+        {
+          "type": "table",
+          "headers": ["Particule", "Sens", "Exemple"],
+          "rows": [
+            ["on", "allumer", "She turned on the light. — Elle a allumé la lumière."],
+            ["off", "éteindre", "Turn off the TV. — Éteins la télé."],
+            ["out", "s'avérer, se révéler", "He turned out to be right. — Il s'est avéré qu'il avait raison."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "PUT"
+        },
+        {
+          "type": "table",
+          "headers": ["Particule", "Sens", "Exemple"],
+          "rows": [
+            ["on", "mettre (un vêtement) ; prendre du poids", "I put on my coat. — J'ai mis mon manteau."],
+            ["off", "remettre à plus tard", "We put off the trip. — Nous avons reporté le voyage."],
+            ["down", "poser quelque chose ; déposer (qqn)", "Put the book down. — Pose le livre."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "BREAK"
+        },
+        {
+          "type": "table",
+          "headers": ["Particule", "Sens", "Exemple"],
+          "rows": [
+            ["down", "tomber en panne", "My car broke down. — Ma voiture est tombée en panne."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "4. Verbes à particule séparables et inséparables"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Inséparables"
+        },
+        {
+          "type": "text",
+          "content": "La particule reste collée au verbe.\nExemples :\n • look after\n • look forward to\n • go out\n • come back\n\n✅ I look after my grandmother.\n❌ I look my grandmother after."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Séparables"
+        },
+        {
+          "type": "text",
+          "content": "Le complément peut se placer entre le verbe et la particule, mais si c'est un pronom, il DOIT être au milieu.\n\nExemples :\n • ✅ I turned off the light.\n • ✅ I turned the light off.\n • ✅ I turned it off.\n • ❌ I turned off it.\n\nVerbes séparables dans cette leçon :\n • turn on / off / out\n • put on / off / down\n • give up / out\n • take off\n • look up"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Conclusion"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Les phrasal verbs sont essentiels pour comprendre et parler anglais naturellement.",
+            "Apprenez-les dans leur contexte, avec des exemples.",
+            "Plus vous les utilisez, plus vous parlerez comme un natif !"
+          ]
+        }
+      ]
+    },
+    "german": {
+      "title": "Lektion 16 — Phrasal Verbs im Englischen",
+      "sections": [
+        {
+          "type": "text",
+          "content": "Ein Phrasal Verb ist eine feste Verbindung aus einem Verb + einer Partikel (also einer Präposition oder einem Adverb), die gemeinsam eine neue Bedeutung ergeben – oft eine, die man nicht wörtlich aus dem Verb und der Partikel ableiten kann."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "1. Warum sind Phrasal Verbs wichtig?"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Sie sind sehr häufig im gesprochenen Englisch.",
+            "Sie machen dein Englisch natürlicher und flüssiger.",
+            "Viele Phrasal Verbs haben idiomatische Bedeutungen, d. h. die Kombination ergibt einen eigenen Sinn."
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "2. Wie funktionieren sie?"
+        },
+        {
+          "type": "text",
+          "content": "Im Deutschen verwenden wir Vorsilben wie \"ab-\", \"auf-\", \"aus-\", um die Bedeutung eines Verbs zu verändern:\nz. B. machen → abmachen, zumachen, ausmachen, vormachen\n\nIm Englischen passiert dasselbe mit Verben + Partikeln:\nz. B.\n • go out - ausgehen\n • give up - aufgeben\n • take off - ausziehen / abheben"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "3. Häufige Phrasal Verbs nach Verben gruppiert"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "GO"
+        },
+        {
+          "type": "table",
+          "headers": ["Partikel", "Bedeutung", "Beispiel"],
+          "rows": [
+            ["up", "steigen, nach oben gehen", "Prices are going up. — Die Preise steigen."],
+            ["down", "sinken, nach unten gehen", "His temperature is going down. — Seine Temperatur sinkt."],
+            ["on", "weitermachen", "The show must go on. — Die Show muss weitergehen."],
+            ["out", "hinausgehen, ausgehen, erlöschen", "The lights went out. — Das Licht ist ausgegangen."],
+            ["back", "zurückgehen", "Go back three pages. — Geh drei Seiten zurück."],
+            ["away", "weggehen", "Don't go away. — Geh nicht weg."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "COME"
+        },
+        {
+          "type": "table",
+          "headers": ["Partikel", "Bedeutung", "Beispiel"],
+          "rows": [
+            ["up", "auftauchen, erwähnt werden", "His name came up in the conversation. — Sein Name kam im Gespräch vor."],
+            ["down", "herunterkommen, fallen", "She came down the stairs. — Sie kam die Treppe herunter."],
+            ["down with", "krank werden", "He came down with the flu. — Er hat die Grippe bekommen."],
+            ["out", "herauskommen (Buch), bekannt werden", "The book just came out. — Das Buch ist gerade erschienen."],
+            ["back", "zurückkommen", "She asked him to come back. — Sie bat ihn zurückzukommen."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "LOOK"
+        },
+        {
+          "type": "table",
+          "headers": ["Partikel", "Bedeutung", "Beispiel"],
+          "rows": [
+            ["up", "nachschlagen / nach oben schauen", "Look up this word. — Schlag das Wort nach."],
+            ["for", "suchen", "I'm looking for my keys. — Ich suche meine Schlüssel."],
+            ["after", "sich kümmern um", "I look after my brother. — Ich kümmere mich um meinen Bruder."],
+            ["forward to", "sich auf etwas freuen", "I look forward to the holidays. — Ich freue mich auf die Ferien."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "TAKE"
+        },
+        {
+          "type": "table",
+          "headers": ["Partikel", "Bedeutung", "Beispiel"],
+          "rows": [
+            ["up", "mit etwas Neuem anfangen; Zeit beanspruchen", "Gardening takes up a lot of time. — Gartenarbeit nimmt viel Zeit in Anspruch."],
+            ["off", "ausziehen, abheben", "He took off his jacket. — Er zog seine Jacke aus."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "GIVE"
+        },
+        {
+          "type": "table",
+          "headers": ["Partikel", "Bedeutung", "Beispiel"],
+          "rows": [
+            ["up", "aufgeben, mit etwas aufhören", "He gave up smoking. — Er hörte mit dem Rauchen auf."],
+            ["out", "verteilen; versagen", "The teacher gave out the books. — Der Lehrer verteilte die Bücher."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "TURN"
+        },
+        {
+          "type": "table",
+          "headers": ["Partikel", "Bedeutung", "Beispiel"],
+          "rows": [
+            ["on", "einschalten", "She turned on the light. — Sie machte das Licht an."],
+            ["off", "ausschalten", "Turn off the TV. — Mach den Fernseher aus."],
+            ["out", "s'avérer, se révéler", "He turned out to be right. — Es stellte sich heraus, dass er recht hatte."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "PUT"
+        },
+        {
+          "type": "table",
+          "headers": ["Partikel", "Bedeutung", "Beispiel"],
+          "rows": [
+            ["on", "anziehen, zunehmen (Gewicht)", "I put on my jacket. — Ich zog meine Jacke an."],
+            ["off", "verschieben", "We put off the meeting. — Wir verschoben das Meeting."],
+            ["down", "ablegen, hinlegen; jemanden absetzen", "Put the book down. — Leg das Buch hin. / I'll put you down here. — Ich setze dich hier ab."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "BREAK"
+        },
+        {
+          "type": "table",
+          "headers": ["Partikel", "Bedeutung", "Beispiel"],
+          "rows": [
+            ["down", "kaputtgehen", "My car broke down. — Mein Auto ist kaputtgegangen."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "4. Trennbare und untrennbare Phrasal Verbs"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Untrennbare Verben"
+        },
+        {
+          "type": "text",
+          "content": "→ Die Partikel bleibt immer nach dem Objekt.\n\nBeispiele:\n • look after\n • look for\n • look forward to\n • go out / come back\n\n✅ I look after my sister.\n❌ I look my sister after."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Trennbare Verben"
+        },
+        {
+          "type": "text",
+          "content": "→ Man kann das Objekt zwischen Verb und Partikel setzen, besonders bei kurzen Objekten (z. B. Pronomen).\n\nBeispiele:\n • I turned off the light.\n • I turned the light off.\n • I turned it off. ✅\n • I turned off it. ❌\n\nTrennbare Verben in dieser Lektion:\n • turn on / off / out\n • put on / off / down\n • give up / out\n • take off\n • look up\n • break down"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Fazit"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Phrasal Verbs sind ein zentraler Teil der englischen Alltagssprache.",
+            "Viele von ihnen sind nicht wörtlich übersetzbar – man muss sie als feste Ausdrücke lernen.",
+            "Übe sie im Kontext, mit Beispielen, und nutze sie im Alltag – so klingt dein Englisch authentischer und natürlicher."
+          ]
+        }
+      ]
+    }
+  },
+  "vocabulary": {
+    "firstList": [
+      { "number": 1,  "english": "alcohol",      "russian": "алкоголь",      "spanish": "alcohol",          "french": "alcool",             "german": "Alkohol" },
+      { "number": 2,  "english": "audience",     "russian": "аудитория",     "spanish": "audiencia",        "french": "auditoire",          "german": "Publikum" },
+      { "number": 3,  "english": "babysitter",   "russian": "няня",          "spanish": "niñera",           "french": "baby-sitter",        "german": "Babysitter" },
+      { "number": 4,  "english": "building",     "russian": "здание",        "spanish": "edificio",         "french": "bâtiment",           "german": "Gebäude" },
+      { "number": 5,  "english": "business",     "russian": "бизнес",        "spanish": "negocio",          "french": "affaires",           "german": "Geschäft" },
+      { "number": 6,  "english": "cap",          "russian": "шапка",         "spanish": "gorro",            "french": "casquette",          "german": "Mütze" },
+      { "number": 7,  "english": "cat",          "russian": "кошка",         "spanish": "gato",             "french": "chat",               "german": "Katze" },
+      { "number": 8,  "english": "catalog",      "russian": "каталог",       "spanish": "catálogo",         "french": "catalogue",          "german": "Katalog" },
+      { "number": 9,  "english": "chess",        "russian": "шахматы",       "spanish": "ajedrez",          "french": "échecs",             "german": "Schach" },
+      { "number": 10, "english": "computer",     "russian": "компьютер",     "spanish": "computadora",      "french": "ordinateur",         "german": "Computer" },
+      { "number": 11, "english": "conversation", "russian": "беседа",        "spanish": "conversación",     "french": "conversation",       "german": "Gespräch" },
+      { "number": 12, "english": "cookie",       "russian": "печенье, булочка", "spanish": "galleta",      "french": "biscuit",            "german": "Keks" },
+      { "number": 13, "english": "corner",       "russian": "угол",          "spanish": "esquina",          "french": "coin",               "german": "Ecke" },
+      { "number": 14, "english": "cost",         "russian": "стоимость",     "spanish": "costo",            "french": "coût",               "german": "Kosten" },
+      { "number": 15, "english": "crash",        "russian": "треск",         "spanish": "choque",           "french": "crash",              "german": "Absturz" },
+      { "number": 16, "english": "decision",     "russian": "решение",       "spanish": "decisión",         "french": "décision",           "german": "Entscheidung" },
+      { "number": 17, "english": "dictionary",   "russian": "словарь",       "spanish": "diccionario",      "french": "dictionnaire",       "german": "Wörterbuch" },
+      { "number": 18, "english": "dog",          "russian": "собака",        "spanish": "perro",            "french": "chien",              "german": "Hund" },
+      { "number": 19, "english": "encyclopedia", "russian": "энциклопедия",  "spanish": "enciclopedia",     "french": "encyclopédie",       "german": "Enzyklopädie" },
+      { "number": 20, "english": "end",          "russian": "конец, окончание", "spanish": "fin",          "french": "fin",                "german": "Ende" },
+      { "number": 21, "english": "flight",       "russian": "полет, рейс",   "spanish": "vuelo",            "french": "vol",                "german": "Flug" },
+      { "number": 22, "english": "flu",          "russian": "грипп",         "spanish": "gripe",            "french": "grippe",             "german": "Grippe" },
+      { "number": 23, "english": "football",     "russian": "футбол",        "spanish": "fútbol",           "french": "football",           "german": "Fußball" },
+      { "number": 24, "english": "gardening",    "russian": "садоводство",   "spanish": "jardinería",       "french": "jardinage",          "german": "Gartenarbeit" },
+      { "number": 25, "english": "gloves",       "russian": "перчатки",      "spanish": "guantes",          "french": "gants",              "german": "Handschuhe" },
+      { "number": 26, "english": "ground",       "russian": "земля, грунт",  "spanish": "suelo",            "french": "sol",                "german": "Boden" },
+      { "number": 27, "english": "hill",         "russian": "холм",          "spanish": "colina",           "french": "colline",            "german": "Hügel" },
+      { "number": 28, "english": "hometown",     "russian": "родной город",  "spanish": "ciudad natal",     "french": "ville natale",       "german": "Heimatstadt" },
+      { "number": 29, "english": "illness",      "russian": "болезнь",       "spanish": "enfermedad",       "french": "maladie",            "german": "Krankheit" },
+      { "number": 30, "english": "jacket",       "russian": "пиджак",        "spanish": "chaqueta",         "french": "veste",              "german": "Jacke" },
+      { "number": 31, "english": "joke",         "russian": "шутка",         "spanish": "broma",            "french": "blague",             "german": "Witz" },
+      { "number": 32, "english": "knitting",     "russian": "вязание",       "spanish": "tejido",           "french": "tricot",             "german": "Stricken" },
+      { "number": 33, "english": "life",         "russian": "жизнь",         "spanish": "vida",             "french": "vie",                "german": "Leben" },
+      { "number": 34, "english": "light",        "russian": "свет",          "spanish": "luz",              "french": "lumière",            "german": "Licht" },
+      { "number": 35, "english": "lunch",        "russian": "обед",          "spanish": "almuerzo",         "french": "déjeuner",           "german": "Mittagessen" },
+      { "number": 36, "english": "machine",      "russian": "машина, механизм", "spanish": "máquina",     "french": "machine",            "german": "Maschine" },
+      { "number": 37, "english": "man",          "russian": "мужчина, человек", "spanish": "hombre",      "french": "homme",              "german": "Mann" },
+      { "number": 38, "english": "marriage",     "russian": "брак",          "spanish": "matrimonio",       "french": "mariage",            "german": "Ehe" },
+      { "number": 39, "english": "meteorite",    "russian": "метеорит",      "spanish": "meteorito",        "french": "météorite",          "german": "Meteorit" },
+      { "number": 40, "english": "name",         "russian": "имя",           "spanish": "nombre",           "french": "nom",                "german": "Name" },
+      { "number": 41, "english": "notebook",     "russian": "записная книжка", "spanish": "cuaderno",      "french": "carnet",             "german": "Notizbuch" },
+      { "number": 42, "english": "oil",          "russian": "нефть",         "spanish": "petróleo",         "french": "pétrole",            "german": "Öl" },
+      { "number": 43, "english": "page",         "russian": "страница",      "spanish": "página",           "french": "page",               "german": "Seite" },
+      { "number": 44, "english": "painting",     "russian": "рисование",     "spanish": "pintura",          "french": "peinture",           "german": "Malerei" },
+      { "number": 45, "english": "parrot",       "russian": "попугай",       "spanish": "loro",             "french": "perroquet",          "german": "Papagei" },
+      { "number": 46, "english": "peace",        "russian": "мир, покой",    "spanish": "paz",              "french": "paix",               "german": "Frieden" },
+      { "number": 47, "english": "photography",  "russian": "фотография",    "spanish": "fotografía",       "french": "photographie",       "german": "Fotografie" },
+      { "number": 48, "english": "place",        "russian": "место",         "spanish": "lugar",            "french": "lieu",               "german": "Ort" },
+      { "number": 49, "english": "plan",         "russian": "план",          "spanish": "plan",             "french": "plan",               "german": "Plan" },
+      { "number": 50, "english": "plane",        "russian": "самолет",       "spanish": "avión",            "french": "avion",              "german": "Flugzeug" },
+      { "number": 51, "english": "plant",        "russian": "растение, завод", "spanish": "planta",        "french": "plante",             "german": "Pflanze" },
+      { "number": 52, "english": "pneumonia",    "russian": "пневмония",     "spanish": "neumonía",         "french": "pneumonie",          "german": "Pneumonie" },
+      { "number": 53, "english": "price",        "russian": "цена",          "spanish": "precio",           "french": "prix",               "german": "Preis" },
+      { "number": 54, "english": "radio",        "russian": "радио",         "spanish": "radio",            "french": "radio",              "german": "Radio" },
+      { "number": 55, "english": "sales",        "russian": "продажи",       "spanish": "ventas",           "french": "ventes",             "german": "Verkäufe" },
+      { "number": 56, "english": "sheet",        "russian": "лист",          "spanish": "hoja",             "french": "feuille",            "german": "Blatt" },
+      { "number": 57, "english": "smoking",      "russian": "курение",       "spanish": "fumar",            "french": "tabagisme",          "german": "Rauchen" },
+      { "number": 58, "english": "socks",        "russian": "носки",         "spanish": "calcetines",       "french": "chaussettes",        "german": "Socken" },
+      { "number": 59, "english": "space",        "russian": "пространство, место", "spanish": "espacio",  "french": "espace",             "german": "Raum" },
+      { "number": 60, "english": "speaker",      "russian": "докладчик",     "spanish": "orador",           "french": "orateur",            "german": "Redner" },
+      { "number": 61, "english": "sports",       "russian": "спорт",         "spanish": "deportes",         "french": "sports",             "german": "Sport" },
+      { "number": 62, "english": "stairs",       "russian": "лестница, ступени", "spanish": "escaleras",   "french": "escaliers",          "german": "Treppe" },
+      { "number": 63, "english": "star",         "russian": "звезда",        "spanish": "estrella",         "french": "étoile",             "german": "Stern" },
+      { "number": 64, "english": "street",       "russian": "улица",         "spanish": "calle",            "french": "rue",                "german": "Straße" },
+      { "number": 65, "english": "strength",     "russian": "сила",          "spanish": "fuerza",           "french": "force",              "german": "Stärke" },
+      { "number": 66, "english": "sun",          "russian": "солнце",        "spanish": "sol",              "french": "soleil",             "german": "Sonne" },
+      { "number": 67, "english": "sunglasses",   "russian": "солнечные очки", "spanish": "gafas de sol",  "french": "lunettes de soleil", "german": "Sonnenbrille" },
+      { "number": 68, "english": "sweater",      "russian": "свитер",        "spanish": "suéter",           "french": "pull",               "german": "Pullover" },
+      { "number": 69, "english": "tap",          "russian": "кран",          "spanish": "grifo",            "french": "robinet",            "german": "Wasserhahn" },
+      { "number": 70, "english": "temperature",  "russian": "температура",   "spanish": "temperatura",      "french": "température",        "german": "Temperatur" },
+      { "number": 71, "english": "textbook",     "russian": "учебник",       "spanish": "libro de texto",   "french": "manuel",             "german": "Lehrbuch" },
+      { "number": 72, "english": "thing",        "russian": "вещь",          "spanish": "cosa",             "french": "chose",              "german": "Ding" },
+      { "number": 73, "english": "ticket",       "russian": "билет",         "spanish": "billete",          "french": "billet",             "german": "Ticket" },
+      { "number": 74, "english": "trip",         "russian": "поездка, путешествие", "spanish": "viaje",  "french": "voyage",            "german": "Reise" },
+      { "number": 75, "english": "trying",       "russian": "попытка",       "spanish": "intento",          "french": "tentative",          "german": "Versuch" },
+      { "number": 76, "english": "war",          "russian": "война",         "spanish": "guerra",           "french": "guerre",             "german": "Krieg" },
+      { "number": 77, "english": "wardrobe",     "russian": "гардероб",      "spanish": "armario",          "french": "armoire",            "german": "Kleiderschrank" },
+      { "number": 78, "english": "wedding",      "russian": "свадьба",       "spanish": "boda",             "french": "mariage",            "german": "Hochzeit" },
+      { "number": 79, "english": "weight",       "russian": "вес",           "spanish": "peso",             "french": "poids",              "german": "Gewicht" },
+      { "number": 80, "english": "word",         "russian": "слово",         "spanish": "palabra",          "french": "mot",                "german": "Wort" },
+      { "number": 81, "english": "decide",       "russian": "принимать решение", "spanish": "decidir",     "french": "décider",            "german": "entscheiden" },
+      { "number": 82, "english": "expect",       "russian": "ожидать, рассчитывать", "spanish": "esperar", "french": "attendre",           "german": "erwarten" },
+      { "number": 83, "english": "fall",         "russian": "падать",        "spanish": "caer",             "french": "tomber",             "german": "fallen" },
+      { "number": 84, "english": "join",         "russian": "присоединять",  "spanish": "unir",             "french": "rejoindre",          "german": "beitreten" },
+      { "number": 85, "english": "listen",       "russian": "слушать",       "spanish": "escuchar",         "french": "écouter",            "german": "zuhören" },
+      { "number": 86, "english": "need",         "russian": "нуждаться",     "spanish": "necesitar",        "french": "avoir besoin",       "german": "brauchen" },
+      { "number": 87, "english": "reply",        "russian": "отвечать",      "spanish": "responder",        "french": "répondre",           "german": "antworten" },
+      { "number": 88, "english": "spend",        "russian": "тратить, проводить", "spanish": "gastar",      "french": "dépenser",           "german": "ausgeben" },
+      { "number": 89, "english": "suggest",      "russian": "предлагать",    "spanish": "sugerir",          "french": "suggérer",           "german": "vorschlagen" },
+      { "number": 90, "english": "wait",         "russian": "ждать",         "spanish": "esperar",          "french": "attendre",           "german": "warten" },
+      { "number": 91, "english": "yell",         "russian": "кричать",       "spanish": "gritar",           "french": "crier",              "german": "schreien" },
+      { "number": 92, "english": "again",        "russian": "снова",         "spanish": "otra vez",         "french": "encore",             "german": "wieder" },
+      { "number": 93, "english": "between",      "russian": "между",         "spanish": "entre",            "french": "entre",              "german": "zwischen" },
+      { "number": 94, "english": "during",       "russian": "в течение",     "spanish": "durante",          "french": "durant",             "german": "während" },
+      { "number": 95, "english": "finally",      "russian": "окончательно",  "spanish": "finalmente",       "french": "finalement",         "german": "schließlich" },
+      { "number": 96, "english": "lately",       "russian": "недавно",       "spanish": "últimamente",      "french": "récemment",          "german": "in letzter Zeit" },
+      { "number": 97, "english": "later",        "russian": "позднее",       "spanish": "más tarde",        "french": "plus tard",          "german": "später" },
+      { "number": 98, "english": "often",        "russian": "часто",         "spanish": "a menudo",         "french": "souvent",            "german": "oft" },
+      { "number": 99, "english": "probably",     "russian": "возможно, вероятно", "spanish": "probablemente", "french": "probablement",      "german": "wahrscheinlich" },
+      { "number": 100,"english": "soon",         "russian": "скоро",         "spanish": "pronto",           "french": "bientôt",            "german": "bald" },
+      { "number": 101,"english": "suddenly",     "russian": "внезапно, вдруг","spanish": "de repente",     "french": "soudain",            "german": "plötzlich" }
+    ],
+    "secondList": [
+      { "number": 102, "english": "go up",          "russian": "подниматься, взбираться",          "spanish": "subir",                    "french": "monter",                       "german": "hinaufgehen" },
+      { "number": 103, "english": "go down",        "russian": "опускаться, снижаться, падать",   "spanish": "bajar",                    "french": "descendre",                    "german": "hinuntergehen" },
+      { "number": 104, "english": "go on",          "russian": "продолжать, происходить",         "spanish": "continuar",                "french": "continuer",                    "german": "weitergehen" },
+      { "number": 105, "english": "go out",         "russian": "выйти, погаснуть",                "spanish": "salir",                    "french": "sortir",                       "german": "ausgehen" },
+      { "number": 106, "english": "go back",        "russian": "вернуться (уйти)",                "spanish": "volver",                   "french": "retourner",                    "german": "zurückgehen" },
+      { "number": 107, "english": "go away",        "russian": "уйти",                            "spanish": "irse",                     "french": "s'en aller",                   "german": "weggehen" },
+      { "number": 108, "english": "come up",        "russian": "возникнуть, появиться",           "spanish": "surgir",                   "french": "survenir",                     "german": "auftauchen" },
+      { "number": 109, "english": "come down",      "russian": "спуститься, упасть",              "spanish": "bajar",                    "french": "descendre",                    "german": "herunterkommen" },
+      { "number": 110, "english": "come down with", "russian": "заболеть",                        "spanish": "caer enfermo de",          "french": "attraper (une maladie)",       "german": "sich etwas einfangen" },
+      { "number": 111, "english": "come out",       "russian": "выйти (о книге)",                 "spanish": "salir",                    "french": "paraître",                     "german": "herauskommen" },
+      { "number": 112, "english": "come back",      "russian": "вернуться (прийти)",              "spanish": "volver",                   "french": "revenir",                      "german": "zurückkommen" },
+      { "number": 113, "english": "look up",        "russian": "искать информацию",               "spanish": "buscar información",       "french": "chercher (dans un livre)",    "german": "nachschlagen" },
+      { "number": 114, "english": "look for",       "russian": "искать, надеяться",               "spanish": "buscar",                   "french": "chercher",                     "german": "suchen" },
+      { "number": 115, "english": "look after",     "russian": "присматривать за кем-то",         "spanish": "cuidar de",                "french": "s'occuper de",                 "german": "sich kümmern um" },
+      { "number": 116, "english": "look forward to","russian": "ждать с нетерпением",             "spanish": "esperar con ilusión",      "french": "attendre avec impatience",     "german": "sich freuen auf" },
+      { "number": 117, "english": "take up",        "russian": "приняться за новое, занимать",    "spanish": "empezar / ocupar",         "french": "se mettre à / prendre",        "german": "anfangen mit / aufnehmen" },
+      { "number": 118, "english": "take off",       "russian": "снимать (вещи), взлетать",        "spanish": "quitarse / despegar",      "french": "enlever / décoller",           "german": "ausziehen / abheben" },
+      { "number": 119, "english": "give up",        "russian": "сдаться, прекратить",             "spanish": "rendirse",                 "french": "abandonner",                   "german": "aufgeben" },
+      { "number": 120, "english": "give out",       "russian": "раздавать, иссякнуть",            "spanish": "repartir / agotarse",      "french": "distribuer / s'épuiser",       "german": "verteilen / ausgehen" },
+      { "number": 121, "english": "turn on",        "russian": "включать",                        "spanish": "encender",                 "french": "allumer",                      "german": "einschalten" },
+      { "number": 122, "english": "turn off",       "russian": "выключать",                       "spanish": "apagar",                   "french": "éteindre",                     "german": "ausschalten" },
+      { "number": 123, "english": "turn out",       "russian": "оказаться",                       "spanish": "resultar",                 "french": "s'avérer",                     "german": "sich herausstellen" },
+      { "number": 124, "english": "put on",         "russian": "надевать",                        "spanish": "ponerse",                  "french": "mettre",                       "german": "anziehen" },
+      { "number": 125, "english": "put off",        "russian": "откладывать (на время)",          "spanish": "aplazar",                  "french": "remettre / repousser",         "german": "verschieben" },
+      { "number": 126, "english": "put down",       "russian": "класть, откладывать",             "spanish": "poner / dejar",            "french": "poser",                        "german": "ablegen" },
+      { "number": 127, "english": "break down",     "russian": "ломать, ломаться",                "spanish": "averiarse / romper",       "french": "tomber en panne / casser",     "german": "kaputtgehen / zusammenbrechen" }
+    ]
+  },
+    "sentences": [
+      {
+        "id": 1,
+        "english": "Go back there and finish your work.",
+        "russian": "Вернись туда и закончи свою работу.",
+        "spanish": "Vuelve allí y termina tu trabajo.",
+        "german": "Geh dorthin zurück und beende deine Arbeit.",
+        "french": "Retourne là-bas et termine ton travail."
+      },
+      {
+        "id": 2,
+        "english": "Did you see how fast I came down that hill?",
+        "russian": "Ты видел, как быстро я спустилась с того холма?",
+        "spanish": "¿Viste qué rápido bajé esa colina?",
+        "german": "Hast du gesehen, wie schnell ich den Hügel herunterkam?",
+        "french": "As-tu vu à quelle vitesse je suis descendu cette colline ?"
+      },
+      {
+        "id": 3,
+        "english": "This information came up during the meeting.",
+        "russian": "Эта информация поступила во время встречи.",
+        "spanish": "Esta información surgió durante la reunión.",
+        "german": "Diese Information kam während des Treffens auf.",
+        "french": "Cette information est apparue pendant la réunion."
+      },
+      {
+        "id": 4,
+        "english": "People usually come down with a cold in winter.",
+        "russian": "Люди обычно заболевают простудой зимой.",
+        "spanish": "La gente suele resfriarse en invierno.",
+        "german": "Menschen erkälten sich im Winter meistens.",
+        "french": "Les gens attrapent généralement un rhume en hiver."
+      },
+      {
+        "id": 5,
+        "english": "The meeting went on longer than I expected.",
+        "russian": "Встреча продолжалась дольше, чем я ожидал.",
+        "spanish": "La reunión continuó más de lo que esperaba.",
+        "german": "Das Treffen dauerte länger als erwartet.",
+        "french": "La réunion a duré plus longtemps que je ne l'avais prévu."
+      },
+      {
+        "id": 6,
+        "english": "It’s already dark, turn on the light.",
+        "russian": "Уже темно, включи свет.",
+        "spanish": "Ya está oscuro, enciende la luz.",
+        "german": "Es ist schon dunkel, mach das Licht an.",
+        "french": "Il fait déjà nuit, allume la lumière."
+      },
+      {
+        "id": 7,
+        "english": "We’ll go back to England and nobody will see us again.",
+        "russian": "Мы вернемся в Англию и никто нас больше не увидит.",
+        "spanish": "Volveremos a Inglaterra y nadie nos volverá a ver.",
+        "german": "Wir kehren nach England zurück und niemand wird uns wiedersehen.",
+        "french": "Nous retournerons en Angleterre et personne ne nous reverra."
+      },
+      {
+        "id": 8,
+        "english": "You can look up this company in the catalog.",
+        "russian": "Вы можете поискать эту компанию в каталоге.",
+        "spanish": "Puedes buscar esta empresa en el catálogo.",
+        "german": "Du kannst diese Firma im Katalog nachschlagen.",
+        "french": "Tu peux chercher cette entreprise dans le catalogue."
+      },
+      {
+        "id": 9,
+        "english": "She asked him to come back.",
+        "russian": "Она просила его вернуться.",
+        "spanish": "Ella le pidió que regresara.",
+        "german": "Sie bat ihn zurückzukommen.",
+        "french": "Elle lui a demandé de revenir."
+      },
+      {
+        "id": 10,
+        "english": "The dog is looking for the cat.",
+        "russian": "Собака ищет кошку.",
+        "spanish": "El perro está buscando al gato.",
+        "german": "Der Hund sucht die Katze.",
+        "french": "Le chien cherche le chat."
+      },
+      {
+        "id": 11,
+        "english": "He went up the stairs to his room.",
+        "russian": "Он поднялся по лестнице в свою комнату.",
+        "spanish": "Subió las escaleras a su habitación.",
+        "german": "Er ging die Treppe hinauf zu seinem Zimmer.",
+        "french": "Il est monté les escaliers jusqu'à sa chambre."
+      },
+      {
+        "id": 12,
+        "english": "Planes take off every two hours.",
+        "russian": "Самолеты взлетают каждые два часа.",
+        "spanish": "Los aviones despegan cada dos horas.",
+        "german": "Flugzeuge starten alle zwei Stunden.",
+        "french": "Les avions décollent toutes les deux heures."
+      },
+      {
+        "id": 13,
+        "english": "I won’t go out this evening.",
+        "russian": "Я не выйду сегодня вечером.",
+        "spanish": "No saldré esta noche.",
+        "german": "Ich gehe heute Abend nicht aus.",
+        "french": "Je ne sortirai pas ce soir."
+      },
+      {
+        "id": 14,
+        "english": "I’ll buy this book when it comes out.",
+        "russian": "Я куплю эту книгу, когда она выйдет.",
+        "spanish": "Comprar é este libro cuando salga.",
+        "german": "Ich werde dieses Buch kaufen, wenn es erscheint.",
+        "french": "J'achèterai ce livre quand il sortira."
+      },
+      {
+        "id": 15,
+        "english": "Gardening takes up a lot of time.",
+        "russian": "Садоводство занимает много времени.",
+        "spanish": "La jardinería ocupa mucho tiempo.",
+        "german": "Gärtnern nimmt viel Zeit in Anspruch.",
+        "french": "Le jardinage prend beaucoup de temps."
+      },
+      {
+        "id": 16,
+        "english": "Don’t turn off the TV, I want to watch this film.",
+        "russian": "Не выключай телевизор, я хочу посмотреть этот фильм.",
+        "spanish": "No apagues la tele, quiero ver esta película.",
+        "german": "Schalte den Fernseher nicht aus, ich möchte diesen Film sehen.",
+        "french": "N'éteins pas la télé, je veux regarder ce film."
+      },
+      {
+        "id": 17,
+        "english": "We give up, tell us the end of the story.",
+        "russian": "Мы сдаемся, расскажи нам конец истории.",
+        "spanish": "Nos rendimos, cuéntanos el final de la historia.",
+        "german": "Wir geben auf, erzähl uns das Ende der Geschichte.",
+        "french": "On abandonne, raconte-nous la fin de l'histoire."
+      },
+      {
+        "id": 18,
+        "english": "We can’t put off making a decision.",
+        "russian": "Мы не можем откладывать принятие решения.",
+        "spanish": "No podemos posponer la decisión.",
+        "german": "Wir können die Entscheidung nicht aufschieben.",
+        "french": "Nous ne pouvons pas reporter la décision."
+      },
+      {
+        "id": 19,
+        "english": "Can your brother put off the wedding?",
+        "russian": "Твой брат может отложить свадьбу?",
+        "spanish": "¿Puede tu hermano posponer la boda?",
+        "german": "Kann dein Bruder die Hochzeit verschieben?",
+        "french": "Ton frère peut-il reporter le mariage ?"
+      },
+      {
+        "id": 20,
+        "english": "Our washing machine often breaks down.",
+        "russian": "Наша стиральная машина часто ломается.",
+        "spanish": "Nuestra lavadora se estropea a menudo.",
+        "german": "Unsere Waschmaschine geht oft kaputt.",
+        "french": "Notre machine à laver tombe souvent en panne."
+      },
+      {
+        "id": 21,
+        "english": "My new friend turned out to be a writer.",
+        "russian": "Мой новый друг оказался писателем.",
+        "spanish": "Mi nuevo amigo resultó ser escritor.",
+        "german": "Mein neuer Freund stellte sich als Schriftsteller heraus.",
+        "french": "Mon nouvel ami s'est avéré être un écrivain."
+      },
+      {
+        "id": 22,
+        "english": "He can’t turn off the computer.",
+        "russian": "Он не может выключить компьютер.",
+        "spanish": "No puede apagar la computadora.",
+        "german": "Er kann den Computer nicht ausschalten.",
+        "french": "Il ne peut pas éteindre l'ordinateur."
+      },
+      {
+        "id": 23,
+        "english": "You won’t repair your car, give it up!",
+        "russian": "Ты не починишь свою машину, брось это!",
+        "spanish": "No vas a reparar tu coche, ¡déjalo!",
+        "german": "Du wirst dein Auto nicht reparieren, gib es auf!",
+        "french": "Tu ne répareras pas ta voiture, laisse tomber !"
+      },
+      {
+        "id": 24,
+        "english": "He turned out to be an excellent actor.",
+        "russian": "Он оказался прекрасным актером.",
+        "spanish": "Resultó ser un actor excelente.",
+        "german": "Er stellte sich als hervorragender Schauspieler heraus.",
+        "french": "Il s'est avéré être un excellent acteur."
+      },
+      {
+        "id": 25,
+        "english": "I don’t want to come down with a cold or any other illness.",
+        "russian": "Я не хочу заболеть простудой или любой другой болезнью.",
+        "spanish": "No quiero resfriarme ni contraer otra enfermedad.",
+        "german": "Ich will mich nicht erkälten oder eine andere Krankheit bekommen.",
+        "french": "Je ne veux pas attraper un rhume ou une autre maladie."
+      },
+      {
+        "id": 26,
+        "english": "Let’s look for your cat tomorrow.",
+        "russian": "Давай поищем твою кошку завтра.",
+        "spanish": "Busquemos a tu gato mañana.",
+        "german": "Lass uns morgen nach deiner Katze suchen.",
+        "french": "Cherchons ton chat demain."
+      },
+      {
+        "id": 27,
+        "english": "Please come down to me.",
+        "russian": "Пожалуйста, спустись ко мне.",
+        "spanish": "Por favor, baja hasta mí.",
+        "german": "Bitte komm zu mir herunter.",
+        "french": "Descends jusqu'à moi, s'il te plaît."
+      },
+      {
+        "id": 28,
+        "english": "The sun will go down soon.",
+        "russian": "Скоро зайдет солнце.",
+        "spanish": "El sol se pondrá pronto.",
+        "german": "Die Sonne wird bald untergehen.",
+        "french": "Le soleil se couchera bientôt."
+      },
+      {
+        "id": 29,
+        "english": "I stopped writing and put down the pen.",
+        "russian": "Я перестал писать и отложил ручку.",
+        "spanish": "Dejé de escribir y dejé el bolígrafo.",
+        "german": "Ich hörte auf zu schreiben und legte den Stift hin.",
+        "french": "J'ai arrêté d'écrire et posé le stylo."
+      },
+      {
+        "id": 30,
+        "english": "Can you put me down at the next corner, please?",
+        "russian": "Вы можете высадить меня на следующем углу, пожалуйста?",
+        "spanish": "¿Puedes dejarme en la próxima esquina, por favor?",
+        "german": "Können Sie mich bitte an der nächsten Ecke absetzen?",
+        "french": "Pouvez-vous me déposer au prochain coin, s'il vous plaît ?"
+      },
+      {
+        "id": 31,
+        "english": "He broke down the door.",
+        "russian": "Он сломал дверь.",
+        "spanish": "Él rompió la puerta.",
+        "german": "Er brach die Tür auf.",
+        "french": "Il a défoncé la porte."
+      },
+      {
+        "id": 32,
+        "english": "Go down to the kitchen and close the window.",
+        "russian": "Спустись в кухню и закрой окно.",
+        "spanish": "Baja a la cocina y cierra la ventana.",
+        "german": "Geh in die Küche hinunter und schließe das Fenster.",
+        "french": "Descends à la cuisine et ferme la fenêtre."
+      },
+      {
+        "id": 33,
+        "english": "I want to take up painting.",
+        "russian": "Я хочу заниматься рисованием.",
+        "spanish": "Quiero empezar a pintar.",
+        "german": "Ich möchte mit dem Malen anfangen.",
+        "french": "Je veux me mettre à la peinture."
+      },
+      {
+        "id": 34,
+        "english": "The plane is taking off the ground.",
+        "russian": "Самолет взлетает с земли.",
+        "spanish": "El avión está despegando del suelo.",
+        "german": "Das Flugzeug hebt vom Boden ab.",
+        "french": "L'avion décolle du sol."
+      },
+      {
+        "id": 35,
+        "english": "I asked my friend to look for you.",
+        "russian": "Я попросил своего друга поискать тебя.",
+        "spanish": "Le pedí a mi amigo que te buscara.",
+        "german": "Ich habe meinen Freund gebeten, nach dir zu suchen.",
+        "french": "J'ai demandé à mon ami de te chercher."
+      },
+      {
+        "id": 36,
+        "english": "Put down the cookies and eat the apple.",
+        "russian": "Отложи печенье и ешь яблоко.",
+        "spanish": "Deja las galletas y come la manzana.",
+        "german": "Leg die Kekse weg und iss den Apfel.",
+        "french": "Pose les biscuits et mange la pomme."
+      },
+      {
+        "id": 37,
+        "english": "Go on, I love listening to you.",
+        "russian": "Продолжай, я люблю тебя слушать.",
+        "spanish": "Sigue, me encanta escucharte.",
+        "german": "Mach weiter, ich höre dir gerne zu.",
+        "french": "Vas-y, j'aime t'écouter."
+      },
+      {
+        "id": 38,
+        "english": "Never look up information on my computer!",
+        "russian": "Никогда не просматривай информацию на моем компьютере!",
+        "spanish": "¡Nunca busques información en mi computadora!",
+        "german": "Schlag niemals Informationen auf meinem Computer nach!",
+        "french": "Ne cherche jamais d'informations sur mon ordinateur !"
+      },
+      {
+        "id": 39,
+        "english": "I took up a new hobby.",
+        "russian": "Я взялся за новое хобби.",
+        "spanish": "Empecé un nuevo pasatiempo.",
+        "german": "Ich habe ein neues Hobby angefangen.",
+        "french": "Je me suis lancé dans un nouveau passe-temps."
+      },
+      {
+        "id": 40,
+        "english": "Don’t turn on the tap, there’s no water.",
+        "russian": "Не открывай кран, воды нет.",
+        "spanish": "No abras el grifo, no hay agua.",
+        "german": "Mach den Wasserhahn nicht auf, es gibt kein Wasser.",
+        "french": "N'ouvre pas le robinet, il n'y a pas d'eau."
+      },
+      {
+        "id": 41,
+        "english": "Their marriage broke down after a few months.",
+        "russian": "Их брак распался через несколько месяцев.",
+        "spanish": "Su matrimonio se rompió después de unos meses.",
+        "german": "Ihre Ehe zerbrach nach ein paar Monaten.",
+        "french": "Leur mariage s'est effondré après quelques mois."
+      },
+      {
+        "id": 42,
+        "english": "Go down to your friends immediately.",
+        "russian": "Спускайся к своим друзьям немедленно.",
+        "spanish": "Baja a tus amigos inmediatamente.",
+        "german": "Geh sofort zu deinen Freunden hinunter.",
+        "french": "Descends voir tes amis immédiatement."
+      },
+      {
+        "id": 43,
+        "english": "His temperature is going up.",
+        "russian": "Его температура поднимается.",
+        "spanish": "Su temperatura está subiendo.",
+        "german": "Seine Temperatur steigt.",
+        "french": "Sa température monte."
+      },
+      {
+        "id": 44,
+        "english": "We decided to put off the meeting.",
+        "russian": "Мы решили отложить встречу.",
+        "spanish": "Decidimos posponer la reunión.",
+        "german": "Wir beschlossen, das Treffen zu verschieben.",
+        "french": "Nous avons décidé de reporter la réunion."
+      },
+      {
+        "id": 45,
+        "english": "He turned out to be right.",
+        "russian": "Он оказался прав.",
+        "spanish": "Resultó tener razón.",
+        "german": "Er stellte sich als richtig heraus.",
+        "french": "Il s'est avéré avoir raison."
+      },
+      {
+        "id": 46,
+        "english": "Don’t go away without your friend.",
+        "russian": "Не уходи без своего друга.",
+        "spanish": "No te vayas sin tu amigo.",
+        "german": "Geh nicht ohne deinen Freund weg.",
+        "french": "Ne pars pas sans ton ami."
+      },
+      {
+        "id": 47,
+        "english": "Put on your cap.",
+        "russian": "Надень свою шапку.",
+        "spanish": "Ponte tu gorra.",
+        "german": "Setz deine Mütze auf.",
+        "french": "Mets ta casquette."
+      },
+      {
+        "id": 48,
+        "english": "He came back to his work.",
+        "russian": "Он вернулся к своей работе.",
+        "spanish": "Él volvió a su trabajo.",
+        "german": "Er kehrte zu seiner Arbeit zurück.",
+        "french": "Il est retourné à son travail."
+      },
+      {
+        "id": 49,
+        "english": "I can look after your plants.",
+        "russian": "Я могу ухаживать за вашими растениями.",
+        "spanish": "Puedo cuidar tus plantas.",
+        "german": "Ich kann mich um deine Pflanzen kümmern.",
+        "french": "Je peux m'occuper de tes plantes."
+      },
+      {
+        "id": 50,
+        "english": "I can’t put you down right here.",
+        "russian": "Я не могу высадить тебя прямо здесь.",
+        "spanish": "No puedo dejarte justo aquí.",
+        "german": "Ich kann dich nicht direkt hier absetzen.",
+        "french": "Je ne peux pas te déposer juste ici."
+      },
+      {
+        "id": 51,
+        "english": "Prices will go up in January, so buy it now.",
+        "russian": "Цены поднимутся в январе, поэтому покупай это сейчас.",
+        "spanish": "Los precios subirán en enero, así que cómpralo ahora.",
+        "german": "Die Preise werden im Januar steigen, also kauf es jetzt.",
+        "french": "Les prix augmenteront en janvier, alors achète-le maintenant."
+      },
+      {
+        "id": 52,
+        "english": "Never put on this black dress.",
+        "russian": "Никогда не надевай это черное платье.",
+        "spanish": "Nunca te pongas este vestido negro.",
+        "german": "Zieh dieses schwarze Kleid niemals an.",
+        "french": "Ne mets jamais cette robe noire."
+      },
+      {
+        "id": 53,
+        "english": "You can take the babysitter to look after your children.",
+        "russian": "Вы можете взять няню, чтобы присматривать за своими детьми.",
+        "spanish": "Puedes contratar a una niñera para cuidar de tus hijos.",
+        "german": "Du kannst eine Babysitterin nehmen, um auf deine Kinder aufzupassen.",
+        "french": "Tu peux engager une baby-sitter pour s'occuper de tes enfants."
+      },
+      {
+        "id": 54,
+        "english": "I love to look up at stars.",
+        "russian": "Я люблю смотреть вверх на звезды.",
+        "spanish": "Me encanta mirar las estrellas.",
+        "german": "Ich liebe es, zu den Sternen hinaufzuschauen.",
+        "french": "J'adore regarder les étoiles."
+      },
+      {
+        "id": 55,
+        "english": "He put down his newspaper and looked up.",
+        "russian": "Он отложил свою газету и посмотрел вверх.",
+        "spanish": "Dejó su periódico y miró hacia arriba.",
+        "german": "Er legte seine Zeitung hin und schaute nach oben.",
+        "french": "Il posa son journal et leva les yeux."
+      },
+      {
+        "id": 56,
+        "english": "I put on two kilos.",
+        "russian": "Я набрал два килограмма.",
+        "spanish": "Gané dos kilos.",
+        "german": "Ich habe zwei Kilo zugenommen.",
+        "french": "J'ai pris deux kilos."
+      },
+      {
+        "id": 57,
+        "english": "We went on playing tennis.",
+        "russian": "Мы продолжали играть в теннис.",
+        "spanish": "Seguimos jugando al tenis.",
+        "german": "Wir spielten weiter Tennis.",
+        "french": "Nous avons continué à jouer au tennis."
+      },
+      {
+        "id": 58,
+        "english": "Mary put on weight.",
+        "russian": "Мэри потолстела.",
+        "spanish": "Mary subió de peso.",
+        "german": "Mary nahm zu.",
+        "french": "Mary a pris du poids."
+      },
+      {
+        "id": 59,
+        "english": "The prices are going up again.",
+        "russian": "Цены снова растут.",
+        "spanish": "Los precios están subiendo otra vez.",
+        "german": "Die Preise steigen wieder.",
+        "french": "Les prix augmentent à nouveau."
+      },
+      {
+        "id": 60,
+        "english": "I turned on the tap but there was no water.",
+        "russian": "Я открыл кран, но воды не было.",
+        "spanish": "Abrí el grifo pero no había agua.",
+        "german": "Ich drehte den Wasserhahn auf, aber es kam kein Wasser.",
+        "french": "J'ai ouvert le robinet mais il n'y avait pas d'eau."
+      },
+      {
+        "id": 61,
+        "english": "We’ve already put off the decision three times.",
+        "russian": "Мы уже откладывали принятие решения три раза.",
+        "spanish": "Ya hemos pospuesto la decisión tres veces.",
+        "german": "Wir haben die Entscheidung schon dreimal verschoben.",
+        "french": "Nous avons déjà reporté la décision trois fois."
+      },
+      {
+        "id": 62,
+        "english": "We couldn’t go out of the building.",
+        "russian": "Мы не могли выйти из здания.",
+        "spanish": "No pudimos salir del edificio.",
+        "german": "Wir konnten das Gebäude nicht verlassen.",
+        "french": "Nous n'avons pas pu sortir du bâtiment."
+      },
+      {
+        "id": 63,
+        "english": "The teacher gave out the textbooks.",
+        "russian": "Учитель раздал учебники.",
+        "spanish": "El maestro repartió los libros de texto.",
+        "german": "Der Lehrer verteilte die Lehrbücher.",
+        "french": "Le professeur a distribué les manuels scolaires."
+      },
+      {
+        "id": 64,
+        "english": "We can look after your cat.",
+        "russian": "Мы можем присмотреть за твоей кошкой.",
+        "spanish": "Podemos cuidar de tu gato.",
+        "german": "Wir können auf deine Katze aufpassen.",
+        "french": "Nous pouvons nous occuper de ton chat."
+      },
+      {
+        "id": 65,
+        "english": "I must go up and stop her.",
+        "russian": "Я должен подняться наверх и остановить её.",
+        "spanish": "Debo subir y detenerla.",
+        "german": "Ich muss hinaufgehen und sie aufhalten.",
+        "french": "Je dois monter et l'arrêter."
+      },
+      {
+        "id": 66,
+        "english": "Why did you put off the meeting again?",
+        "russian": "Почему ты опять отложил встречу?",
+        "spanish": "¿Por qué pospusiste la reunión otra vez?",
+        "german": "Warum hast du das Treffen wieder verschoben?",
+        "french": "Pourquoi as-tu encore reporté la réunion ?"
+      }
+    ],
+  
+
+  "exam": {
+    "sentences": [
+      {
+        "id": 1,
+        "sentence_en": "Go back there and finish your work.",
+        "translations": {
+          "ru": "Вернись туда и закончи свою работу.",
+          "es": "Vuelve allí y termina tu trabajo.",
+          "fr": "Retourne là-bas et termine ton travail.",
+          "de": "Geh dorthin zurück und beende deine Arbeit."
+        },
+        "words": [
+          { "correct": "Go", "alternatives": ["Come", "Stay", "Sit"] },
+          { "correct": "back", "alternatives": ["up", "down", "on"] },
+          { "correct": "there", "alternatives": ["here", "where", "then"] },
+          { "correct": "and", "alternatives": ["or", "but", "with"] },
+          { "correct": "finish", "alternatives": ["start", "open", "close"] },
+          { "correct": "your", "alternatives": ["my", "his", "her"] },
+          { "correct": "work", "alternatives": ["game", "book", "car"] }
+        ]
+      },
+      {
+        "id": 2,
+        "sentence_en": "Did you see how fast I came down that hill?",
+        "translations": {
+          "ru": "Ты видел, как быстро я спустилась с того холма?",
+          "es": "¿Viste qué rápido bajé esa colina?",
+          "fr": "As-tu vu à quelle vitesse je suis descendu cette colline ?",
+          "de": "Hast du gesehen, wie schnell ich den Hügel herunterkam?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Do", "Does", "Will"] },
+          { "correct": "you", "alternatives": ["he", "she", "they"] },
+          { "correct": "see", "alternatives": ["say", "set", "sat"] },
+          { "correct": "how", "alternatives": ["who", "what", "when"] },
+          { "correct": "fast", "alternatives": ["slow", "late", "soon"] },
+          { "correct": "I", "alternatives": ["he", "she", "they"] },
+          { "correct": "came", "alternatives": ["sent", "bent", "wenty"] },
+          { "correct": "down", "alternatives": ["up", "back", "on"] },
+          { "correct": "that", "alternatives": ["this", "a", "the"] },
+          { "correct": "hill", "alternatives": ["mountain", "road", "car"] }
+        ]
+      },
+      {
+        "id": 3,
+        "sentence_en": "This information came up during the meeting.",
+        "translations": {
+          "ru": "Эта информация поступила во время встречи.",
+          "es": "Esta información surgió durante la reunión.",
+          "fr": "Cette information est apparue pendant la réunion.",
+          "de": "Diese Information kam während des Treffens auf."
+        },
+        "words": [
+          { "correct": "This", "alternatives": ["That", "A", "The"] },
+          { "correct": "information", "alternatives": ["news", "book", "story"] },
+          { "correct": "came", "alternatives": ["went", "go", "run"] },
+          { "correct": "up", "alternatives": ["down", "on", "back"] },
+          { "correct": "during", "alternatives": ["after", "before", "under"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "meeting", "alternatives": ["lesson", "party", "car"] }
+        ]
+      },
+      {
+        "id": 4,
+        "sentence_en": "People usually come down with a cold in winter.",
+        "translations": {
+          "ru": "Люди обычно заболевают простудой зимой.",
+          "es": "La gente suele resfriarse en invierno.",
+          "fr": "Les gens attrapent généralement un rhume en hiver.",
+          "de": "Menschen erkälten sich im Winter meistens."
+        },
+        "words": [
+          { "correct": "People", "alternatives": ["Cats", "Dogs", "Birds"] },
+          { "correct": "usually", "alternatives": ["never", "rarely", "sometimes"] },
+          { "correct": "come", "alternatives": ["go", "run", "walk"] },
+          { "correct": "down", "alternatives": ["up", "on", "back"] },
+          { "correct": "with", "alternatives": ["for", "to", "at"] },
+          { "correct": "a", "alternatives": ["the", "an", "this"] },
+          { "correct": "cold", "alternatives": ["flu", "rain", "snow"] },
+          { "correct": "in", "alternatives": ["on", "at", "to"] },
+          { "correct": "winter", "alternatives": ["summer", "spring", "autumn"] }
+        ]
+      },
+      {
+        "id": 5,
+        "sentence_en": "The meeting went on longer than I expected.",
+        "translations": {
+          "ru": "Встреча продолжалась дольше, чем я ожидал.",
+          "es": "La reunión continuó más de lo que esperaba.",
+          "fr": "La réunion a duré plus longtemps que je ne l'avais prévu.",
+          "de": "Das Treffen dauerte länger als erwartet."
+        },
+        "words": [
+          { "correct": "The", "alternatives": ["A", "This", "That"] },
+          { "correct": "meeting", "alternatives": ["party", "car", "book"] },
+          { "correct": "went", "alternatives": ["came", "run", "walked"] },
+          { "correct": "on", "alternatives": ["off", "up", "down"] },
+          { "correct": "longer", "alternatives": ["shorter", "faster", "slower"] },
+          { "correct": "than", "alternatives": ["and", "or", "but"] },
+          { "correct": "I", "alternatives": ["he", "she", "they"] },
+          { "correct": "expected", "alternatives": ["forgot", "knew", "saw"] }
+        ]
+      },
+      {
+        "id": 6,
+        "sentence_en": "It's already dark, turn on the light.",
+        "translations": {
+          "ru": "Уже темно, включи свет.",
+          "es": "Ya está oscuro, enciende la luz.",
+          "fr": "Il fait déjà nuit, allume la lumière.",
+          "de": "Es ist schon dunkel, mach das Licht an."
+        },
+        "words": [
+          { "correct": "It's", "alternatives": ["Its", "It was", "It"] },
+          { "correct": "already", "alternatives": ["not", "still", "never"] },
+          { "correct": "dark", "alternatives": ["light", "late", "early"] },
+          { "correct": "turn", "alternatives": ["put", "take", "move"] },
+          { "correct": "on", "alternatives": ["off", "up", "down"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "light", "alternatives": ["limp", "lump", "ramp"] }
+        ]
+      },
+      {
+        "id": 7,
+        "sentence_en": "We'll go back to England and nobody will see us again.",
+        "translations": {
+          "ru": "Мы вернемся в Англию и никто нас больше не увидит.",
+          "es": "Volveremos a Inglaterra y nadie nos volverá a ver.",
+          "fr": "Nous retournerons en Angleterre et personne ne nous reverra.",
+          "de": "Wir kehren nach England zurück und niemand wird uns wiedersehen."
+        },
+        "words": [
+          { "correct": "We'll", "alternatives": ["Well", "We", "Will"] },
+          { "correct": "go", "alternatives": ["come", "run", "walk"] },
+          { "correct": "back", "alternatives": ["up", "down", "on"] },
+          { "correct": "to", "alternatives": ["from", "with", "at"] },
+          { "correct": "England", "alternatives": ["France", "Spain", "Italy"] },
+          { "correct": "and", "alternatives": ["or", "but", "with"] },
+          { "correct": "nobody", "alternatives": ["somebody", "everybody", "anybody"] },
+          { "correct": "will", "alternatives": ["can", "should", "must"] },
+          { "correct": "see", "alternatives": ["say", "set", "sit"] },
+          { "correct": "us", "alternatives": ["them", "him", "her"] },
+          { "correct": "again", "alternatives": ["never", "always", "late"] }
+        ]
+      },
+      {
+        "id": 8,
+        "sentence_en": "You can look up this company in the catalog.",
+        "translations": {
+          "ru": "Вы можете поискать эту компанию в каталоге.",
+          "es": "Puedes buscar esta empresa en el catálogo.",
+          "fr": "Tu peux chercher cette entreprise dans le catalogue.",
+          "de": "Du kannst diese Firma im Katalog nachschlagen."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["He", "She", "They"] },
+          { "correct": "can", "alternatives": ["must", "should", "will"] },
+          { "correct": "look", "alternatives": ["fond", "bind", "fend"] },
+          { "correct": "up", "alternatives": ["down", "on", "back"] },
+          { "correct": "this", "alternatives": ["that", "the", "a"] },
+          { "correct": "company", "alternatives": ["book", "car", "pen"] },
+          { "correct": "in", "alternatives": ["at", "on", "by"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "catalog", "alternatives": ["magazine", "paper", "book"] }
+        ]
+      },
+      {
+        "id": 9,
+        "sentence_en": "She asked him to come back.",
+        "translations": {
+          "ru": "Она просила его вернуться.",
+          "es": "Ella le pidió que regresara.",
+          "fr": "Elle lui a demandé de revenir.",
+          "de": "Sie bat ihn zurückzukommen."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "asked", "alternatives": ["told", "wanted", "needed"] },
+          { "correct": "him", "alternatives": ["her", "them", "us"] },
+          { "correct": "to", "alternatives": ["for", "at", "with"] },
+          { "correct": "come", "alternatives": ["got", "gob", "goo"] },
+          { "correct": "back", "alternatives": ["up", "down", "on"] }
+        ]
+      },
+      {
+        "id": 10,
+        "sentence_en": "The dog is looking for the cat.",
+        "translations": {
+          "ru": "Собака ищет кошку.",
+          "es": "El perro está buscando al gato.",
+          "fr": "Le chien cherche le chat.",
+          "de": "Der Hund sucht die Katze."
+        },
+        "words": [
+          { "correct": "The", "alternatives": ["A", "An", "This"] },
+          { "correct": "dog", "alternatives": ["cat", "bird", "fish"] },
+          { "correct": "is", "alternatives": ["was", "are", "were"] },
+          { "correct": "looking", "alternatives": ["fining", "fending", "filing"] },
+          { "correct": "for", "alternatives": ["to", "with", "at"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "cat", "alternatives": ["dog", "bird", "fish"] }
+        ]
+      },
+      {
+        "id": 11,
+        "sentence_en": "He went up the stairs to his room.",
+        "translations": {
+          "ru": "Он поднялся по лестнице в свою комнату.",
+          "es": "Subió las escaleras a su habitación.",
+          "fr": "Il est monté les escaliers jusqu'à sa chambre.",
+          "de": "Er ging die Treppe hinauf zu seinem Zimmer."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "went", "alternatives": ["came", "run", "walked"] },
+          { "correct": "up", "alternatives": ["down", "on", "back"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "stairs", "alternatives": ["table", "window", "car"] },
+          { "correct": "to", "alternatives": ["from", "at", "with"] },
+          { "correct": "his", "alternatives": ["her", "their", "my"] },
+          { "correct": "room", "alternatives": ["house", "door", "bed"] }
+        ]
+      },
+      {
+        "id": 12,
+        "sentence_en": "Planes take off every two hours.",
+        "translations": {
+          "ru": "Самолеты взлетают каждые два часа.",
+          "es": "Los aviones despegan cada dos horas.",
+          "fr": "Les avions décollent toutes les deux heures.",
+          "de": "Flugzeuge starten alle zwei Stunden."
+        },
+        "words": [
+          { "correct": "Planes", "alternatives": ["Cars", "Trains", "Buses"] },
+          { "correct": "take", "alternatives": ["put", "get", "go"] },
+          { "correct": "off", "alternatives": ["on", "up", "down"] },
+          { "correct": "every", "alternatives": ["each", "some", "any"] },
+          { "correct": "two", "alternatives": ["three", "ten", "twelve"] },
+          { "correct": "hours", "alternatives": ["minutes", "days", "weeks"] }
+        ]
+      },
+      {
+        "id": 13,
+        "sentence_en": "I won't go out this evening.",
+        "translations": {
+          "ru": "Я не выйду сегодня вечером.",
+          "es": "No saldré esta noche.",
+          "fr": "Je ne sortirai pas ce soir.",
+          "de": "Ich gehe heute Abend nicht aus."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "They"] },
+          { "correct": "won't", "alternatives": ["will", "can't", "shouldn't"] },
+          { "correct": "go", "alternatives": ["come", "run", "walk"] },
+          { "correct": "out", "alternatives": ["in", "up", "down"] },
+          { "correct": "this", "alternatives": ["that", "the", "a"] },
+          { "correct": "evening", "alternatives": ["morning", "night", "day"] }
+        ]
+      },
+      {
+        "id": 14,
+        "sentence_en": "I'll buy this book when it comes out.",
+        "translations": {
+          "ru": "Я куплю эту книгу, когда она выйдет.",
+          "es": "Comprar é este libro cuando salga.",
+          "fr": "J'achèterai ce livre quand il sortira.",
+          "de": "Ich werde dieses Buch kaufen, wenn es erscheint."
+        },
+        "words": [
+          { "correct": "I'll", "alternatives": ["I", "He'll", "She'll"] },
+          { "correct": "buy", "alternatives": ["sell", "take", "give"] },
+          { "correct": "this", "alternatives": ["that", "the", "a"] },
+          { "correct": "book", "alternatives": ["pen", "car", "house"] },
+          { "correct": "when", "alternatives": ["where", "what", "why"] },
+          { "correct": "it", "alternatives": ["he", "she", "they"] },
+          { "correct": "comes", "alternatives": ["goes", "runs", "walks"] },
+          { "correct": "out", "alternatives": ["in", "up", "down"] }
+        ]
+      },
+      {
+        "id": 15,
+        "sentence_en": "Gardening takes up a lot of time.",
+        "translations": {
+          "ru": "Садоводство занимает много времени.",
+          "es": "La jardinería ocupa mucho tiempo.",
+          "fr": "Le jardinage prend beaucoup de temps.",
+          "de": "Gärtnern nimmt viel Zeit in Anspruch."
+        },
+        "words": [
+          { "correct": "Gardening", "alternatives": ["Cooking", "Reading", "Writing"] },
+          { "correct": "takes", "alternatives": ["puts", "gets", "goes"] },
+          { "correct": "up", "alternatives": ["down", "on", "off"] },
+          { "correct": "a", "alternatives": ["the", "an", "this"] },
+          { "correct": "lot", "alternatives": ["bit", "few", "some"] },
+          { "correct": "of", "alternatives": ["for", "to", "at"] },
+          { "correct": "time", "alternatives": ["money", "food", "car"] }
+        ]
+      },
+      {
+        "id": 16,
+        "sentence_en": "Don't turn off the TV, I want to watch this film.",
+        "translations": {
+          "ru": "Не выключай телевизор, я хочу посмотреть этот фильм.",
+          "es": "No apagues la tele, quiero ver esta película.",
+          "fr": "N'éteins pas la télé, je veux regarder ce film.",
+          "de": "Schalte den Fernseher nicht aus, ich möchte diesen Film sehen."
+        },
+        "words": [
+          { "correct": "Don't", "alternatives": ["Do", "Does", "Did"] },
+          { "correct": "turn", "alternatives": ["put", "take", "move"] },
+          { "correct": "off", "alternatives": ["on", "up", "down"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "TV", "alternatives": ["ratio", "rodeo", "radon"] },
+          { "correct": "I", "alternatives": ["he", "she", "they"] },
+          { "correct": "want", "alternatives": ["need", "like", "love"] },
+          { "correct": "to", "alternatives": ["for", "at", "with"] },
+          { "correct": "watch", "alternatives": ["see", "look", "find"] },
+          { "correct": "this", "alternatives": ["that", "the", "a"] },
+          { "correct": "film", "alternatives": ["show", "game", "song"] }
+        ]
+      },
+      {
+        "id": 17,
+        "sentence_en": "We give up, tell us the end of the story.",
+        "translations": {
+          "ru": "Мы сдаемся, расскажи нам конец истории.",
+          "es": "Nos rendimos, cuéntanos el final de la historia.",
+          "fr": "On abandonne, raconte-nous la fin de l'histoire.",
+          "de": "Wir geben auf, erzähl uns das Ende der Geschichte."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "He", "She"] },
+          { "correct": "give", "alternatives": ["take", "put", "go"] },
+          { "correct": "up", "alternatives": ["down", "on", "off"] },
+          { "correct": "tell", "alternatives": ["say", "speak", "talk"] },
+          { "correct": "us", "alternatives": ["them", "him", "her"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "end", "alternatives": ["start", "middle", "part"] },
+          { "correct": "of", "alternatives": ["in", "at", "by"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "story", "alternatives": ["book", "tale", "text"] }
+        ]
+      },
+      {
+        "id": 18,
+        "sentence_en": "We can't put off making a decision.",
+        "translations": {
+          "ru": "Мы не можем откладывать принятие решения.",
+          "es": "No podemos posponer la decisión.",
+          "fr": "Nous ne pouvons pas reporter la décision.",
+          "de": "Wir können die Entscheidung nicht aufschieben."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "He", "She"] },
+          { "correct": "can't", "alternatives": ["can", "won't", "don't"] },
+          { "correct": "put", "alternatives": ["take", "get", "go"] },
+          { "correct": "off", "alternatives": ["on", "up", "down"] },
+          { "correct": "making", "alternatives": ["doing", "taking", "going"] },
+          { "correct": "a", "alternatives": ["the", "an", "this"] },
+          { "correct": "decision", "alternatives": ["car", "book", "pen"] }
+        ]
+      },
+      {
+        "id": 19,
+        "sentence_en": "Can your brother put off the wedding?",
+        "translations": {
+          "ru": "Твой брат может отложить свадьбу?",
+          "es": "¿Puede tu hermano posponer la boda?",
+          "fr": "Ton frère peut-il reporter le mariage ?",
+          "de": "Kann dein Bruder die Hochzeit verschieben?"
+        },
+        "words": [
+          { "correct": "Can", "alternatives": ["Will", "Should", "Must"] },
+          { "correct": "your", "alternatives": ["his", "her", "their"] },
+          { "correct": "brother", "alternatives": ["sister", "father", "mother"] },
+          { "correct": "put", "alternatives": ["take", "get", "go"] },
+          { "correct": "off", "alternatives": ["on", "up", "down"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "wedding", "alternatives": ["party", "meeting", "car"] }
+        ]
+      },
+      {
+        "id": 20,
+        "sentence_en": "Our washing machine often breaks down.",
+        "translations": {
+          "ru": "Наша стиральная машина часто ломается.",
+          "es": "Nuestra lavadora se estropea a menudo.",
+          "fr": "Notre machine à laver tombe souvent en panne.",
+          "de": "Unsere Waschmaschine geht oft kaputt."
+        },
+        "words": [
+          { "correct": "Our", "alternatives": ["Their", "His", "Her"] },
+          { "correct": "washing", "alternatives": ["cooking", "driving", "reading"] },
+          { "correct": "machine", "alternatives": ["car", "book", "pen"] },
+          { "correct": "often", "alternatives": ["never", "rarely", "always"] },
+          { "correct": "breaks", "alternatives": ["puts", "gets", "goes"] },
+          { "correct": "down", "alternatives": ["up", "on", "off"] }
+        ]
+      },
+      {
+        "id": 21,
+        "sentence_en": "My new friend turned out to be a writer.",
+        "translations": {
+          "ru": "Мой новый друг оказался писателем.",
+          "es": "Mi nuevo amigo resultó ser escritor.",
+          "fr": "Mon nouvel ami s'est avéré être un écrivain.",
+          "de": "Mein neuer Freund stellte sich als Schriftsteller heraus."
+        },
+        "words": [
+          { "correct": "My", "alternatives": ["His", "Her", "Their"] },
+          { "correct": "new", "alternatives": ["old", "young", "small"] },
+          { "correct": "friend", "alternatives": ["brother", "sister", "cousin"] },
+          { "correct": "turned", "alternatives": ["went", "came", "put"] },
+          { "correct": "out", "alternatives": ["in", "on", "up"] },
+          { "correct": "to", "alternatives": ["for", "with", "at"] },
+          { "correct": "be", "alternatives": ["see", "do", "go"] },
+          { "correct": "a", "alternatives": ["the", "an", "this"] },
+          { "correct": "writer", "alternatives": ["driver", "teacher", "doctor"] }
+        ]
+      },
+      {
+        "id": 22,
+        "sentence_en": "He can't turn off the computer.",
+        "translations": {
+          "ru": "Он не может выключить компьютер.",
+          "es": "No puede apagar la computadora.",
+          "fr": "Il ne peut pas éteindre l'ordinateur.",
+          "de": "Er kann den Computer nicht ausschalten."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "can't", "alternatives": ["can", "won't", "don't"] },
+          { "correct": "turn", "alternatives": ["put", "take", "move"] },
+          { "correct": "off", "alternatives": ["on", "up", "down"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "computer", "alternatives": ["phone", "car", "book"] }
+        ]
+      },
+      {
+        "id": 23,
+        "sentence_en": "You won't repair your car, give it up!",
+        "translations": {
+          "ru": "Ты не починишь свою машину, брось это!",
+          "es": "No vas a reparar tu coche, ¡déjalo!",
+          "fr": "Tu ne répareras pas ta voiture, laisse tomber !",
+          "de": "Du wirst dein Auto nicht reparieren, gib es auf!"
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["He", "She", "They"] },
+          { "correct": "won't", "alternatives": ["will", "can't", "don't"] },
+          { "correct": "repair", "alternatives": ["break", "sell", "buy"] },
+          { "correct": "your", "alternatives": ["my", "his", "her"] },
+          { "correct": "car", "alternatives": ["bike", "phone", "computer"] },
+          { "correct": "give", "alternatives": ["take", "put", "go"] },
+          { "correct": "it", "alternatives": ["that", "this", "them"] },
+          { "correct": "up", "alternatives": ["down", "on", "off"] }
+        ]
+      },
+      {
+        "id": 24,
+        "sentence_en": "He turned out to be an excellent actor.",
+        "translations": {
+          "ru": "Он оказался прекрасным актером.",
+          "es": "Resultó ser un actor excelente.",
+          "fr": "Il s'est avéré être un excellent acteur.",
+          "de": "Er stellte sich als hervorragender Schauspieler heraus."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "turned", "alternatives": ["went", "came", "put"] },
+          { "correct": "out", "alternatives": ["in", "on", "up"] },
+          { "correct": "to", "alternatives": ["for", "with", "at"] },
+          { "correct": "be", "alternatives": ["see", "do", "go"] },
+          { "correct": "an", "alternatives": ["the", "a", "this"] },
+          { "correct": "excellent", "alternatives": ["poor", "bad", "average"] },
+          { "correct": "actor", "alternatives": ["writer", "driver", "doctor"] }
+        ]
+      },
+      {
+        "id": 25,
+        "sentence_en": "I don't want to come down with a cold or any other illness.",
+        "translations": {
+          "ru": "Я не хочу заболеть простудой или любой другой болезнью.",
+          "es": "No quiero resfriarme ni contraer otra enfermedad.",
+          "fr": "Je ne veux pas attraper un rhume ou une autre maladie.",
+          "de": "Ich will mich nicht erkälten oder eine andere Krankheit bekommen."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "They"] },
+          { "correct": "don't", "alternatives": ["do", "won't", "can't"] },
+          { "correct": "want", "alternatives": ["like", "need", "have"] },
+          { "correct": "to", "alternatives": ["for", "with", "at"] },
+          { "correct": "come", "alternatives": ["go", "run", "walk"] },
+          { "correct": "down", "alternatives": ["up", "on", "back"] },
+          { "correct": "with", "alternatives": ["for", "to", "at"] },
+          { "correct": "a", "alternatives": ["the", "an", "this"] },
+          { "correct": "cold", "alternatives": ["flu", "rain", "snow"] },
+          { "correct": "or", "alternatives": ["and", "but", "so"] },
+          { "correct": "any", "alternatives": ["some", "no", "many"] },
+          { "correct": "other", "alternatives": ["same", "different", "new"] },
+          { "correct": "illness", "alternatives": ["car", "book", "pen"] }
+        ]
+      },
+      {
+        "id": 26,
+        "sentence_en": "Let's look for your cat tomorrow.",
+        "translations": {
+          "ru": "Давай поищем твою кошку завтра.",
+          "es": "Busquemos a tu gato mañana.",
+          "fr": "Cherchons ton chat demain.",
+          "de": "Lass uns morgen nach deiner Katze suchen."
+        },
+        "words": [
+          { "correct": "Let's", "alternatives": ["Let", "Will", "Can"] },
+          { "correct": "look", "alternatives": ["find", "see", "read"] },
+          { "correct": "for", "alternatives": ["to", "with", "at"] },
+          { "correct": "your", "alternatives": ["my", "his", "her"] },
+          { "correct": "cat", "alternatives": ["dog", "bird", "fish"] },
+          { "correct": "tomorrow", "alternatives": ["today", "yesterday", "now"] }
+        ]
+      },
+      {
+        "id": 27,
+        "sentence_en": "Please come down to me.",
+        "translations": {
+          "ru": "Пожалуйста, спустись ко мне.",
+          "es": "Por favor, baja hasta mí.",
+          "fr": "Descends jusqu'à moi, s'il te plaît.",
+          "de": "Bitte komm zu mir herunter."
+        },
+        "words": [
+          { "correct": "Please", "alternatives": ["Just", "Now", "Then"] },
+          { "correct": "come", "alternatives": ["go", "run", "walk"] },
+          { "correct": "down", "alternatives": ["up", "on", "back"] },
+          { "correct": "to", "alternatives": ["for", "with", "at"] },
+          { "correct": "me", "alternatives": ["you", "him", "her"] }
+        ]
+      },
+      {
+        "id": 28,
+        "sentence_en": "The sun will go down soon.",
+        "translations": {
+          "ru": "Скоро зайдет солнце.",
+          "es": "El sol se pondrá pronto.",
+          "fr": "Le soleil se couchera bientôt.",
+          "de": "Die Sonne wird bald untergehen."
+        },
+        "words": [
+          { "correct": "The", "alternatives": ["A", "An", "This"] },
+          { "correct": "sun", "alternatives": ["moon", "star", "sky"] },
+          { "correct": "will", "alternatives": ["won't", "can", "must"] },
+          { "correct": "go", "alternatives": ["come", "run", "walk"] },
+          { "correct": "down", "alternatives": ["up", "on", "back"] },
+          { "correct": "soon", "alternatives": ["late", "never", "always"] }
+        ]
+      },
+      {
+        "id": 29,
+        "sentence_en": "I stopped writing and put down the pen.",
+        "translations": {
+          "ru": "Я перестал писать и отложил ручку.",
+          "es": "Dejé de escribir y dejé el bolígrafo.",
+          "fr": "J'ai arrêté d'écrire et posé le stylo.",
+          "de": "Ich hörte auf zu schreiben und legte den Stift hin."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "They"] },
+          { "correct": "stopped", "alternatives": ["started", "continued", "began"] },
+          { "correct": "writing", "alternatives": ["reading", "drawing", "talking"] },
+          { "correct": "and", "alternatives": ["or", "but", "so"] },
+          { "correct": "put", "alternatives": ["take", "get", "go"] },
+          { "correct": "down", "alternatives": ["up", "on", "off"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "pen", "alternatives": ["book", "car", "phone"] }
+        ]
+      },
+      {
+        "id": 30,
+        "sentence_en": "Can you put me down at the next corner, please?",
+        "translations": {
+          "ru": "Вы можете высадить меня на следующем углу, пожалуйста?",
+          "es": "¿Puedes dejarme en la próxima esquina, por favor?",
+          "fr": "Pouvez-vous me déposer au prochain coin, s'il vous plaît ?",
+          "de": "Können Sie mich bitte an der nächsten Ecke absetzen?"
+        },
+        "words": [
+          { "correct": "Can", "alternatives": ["Will", "Should", "Must"] },
+          { "correct": "you", "alternatives": ["he", "she", "they"] },
+          { "correct": "put", "alternatives": ["take", "get", "go"] },
+          { "correct": "me", "alternatives": ["you", "him", "her"] },
+          { "correct": "down", "alternatives": ["up", "on", "off"] },
+          { "correct": "at", "alternatives": ["in", "on", "to"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "next", "alternatives": ["last", "first", "old"] },
+          { "correct": "corner", "alternatives": ["street", "road", "table"] },
+          { "correct": "please", "alternatives": ["now", "here", "there"] }
+        ]
+      },
+      {
+        "id": 31,
+        "sentence_en": "He broke down the door.",
+        "translations": {
+          "ru": "Он сломал дверь.",
+          "es": "Él rompió la puerta.",
+          "fr": "Il a défoncé la porte.",
+          "de": "Er brach die Tür auf."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "broke", "alternatives": ["took", "put", "got"] },
+          { "correct": "down", "alternatives": ["up", "on", "off"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "door", "alternatives": ["window", "car", "pen"] }
+        ]
+      },
+      {
+        "id": 32,
+        "sentence_en": "Go down to the kitchen and close the window.",
+        "translations": {
+          "ru": "Спустись в кухню и закрой окно.",
+          "es": "Baja a la cocina y cierra la ventana.",
+          "fr": "Descends à la cuisine et ferme la fenêtre.",
+          "de": "Geh in die Küche hinunter und schließe das Fenster."
+        },
+        "words": [
+          { "correct": "Go", "alternatives": ["Come", "Run", "Walk"] },
+          { "correct": "down", "alternatives": ["up", "on", "off"] },
+          { "correct": "to", "alternatives": ["for", "with", "at"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "kitchen", "alternatives": ["room", "car", "pen"] },
+          { "correct": "and", "alternatives": ["or", "but", "with"] },
+          { "correct": "close", "alternatives": ["open", "move", "break"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "window", "alternatives": ["door", "car", "pen"] }
+        ]
+      },
+      {
+        "id": 33,
+        "sentence_en": "I want to take up painting.",
+        "translations": {
+          "ru": "Я хочу заниматься рисованием.",
+          "es": "Quiero empezar a pintar.",
+          "fr": "Je veux me mettre à la peinture.",
+          "de": "Ich möchte mit dem Malen anfangen."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "They"] },
+          { "correct": "want", "alternatives": ["need", "like", "have"] },
+          { "correct": "to", "alternatives": ["for", "with", "at"] },
+          { "correct": "take", "alternatives": ["put", "get", "go"] },
+          { "correct": "up", "alternatives": ["down", "on", "off"] },
+          { "correct": "painting", "alternatives": ["reading", "writing", "driving"] }
+        ]
+      },
+      {
+        "id": 34,
+        "sentence_en": "The plane is taking off the ground.",
+        "translations": {
+          "ru": "Самолет взлетает с земли.",
+          "es": "El avión está despegando del suelo.",
+          "fr": "L'avion décolle du sol.",
+          "de": "Das Flugzeug hebt vom Boden ab."
+        },
+        "words": [
+          { "correct": "The", "alternatives": ["A", "An", "This"] },
+          { "correct": "plane", "alternatives": ["car", "train", "bus"] },
+          { "correct": "is", "alternatives": ["was", "will", "has"] },
+          { "correct": "taking", "alternatives": ["putting", "getting", "going"] },
+          { "correct": "off", "alternatives": ["on", "up", "down"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "ground", "alternatives": ["sky", "car", "pen"] }
+        ]
+      },
+      {
+        "id": 35,
+        "sentence_en": "I asked my friend to look for you.",
+        "translations": {
+          "ru": "Я попросил своего друга поискать тебя.",
+          "es": "Le pedí a mi amigo que te buscara.",
+          "fr": "J'ai demandé à mon ami de te chercher.",
+          "de": "Ich habe meinen Freund gebeten, nach dir zu suchen."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "They"] },
+          { "correct": "asked", "alternatives": ["told", "wanted", "needed"] },
+          { "correct": "my", "alternatives": ["his", "her", "their"] },
+          { "correct": "friend", "alternatives": ["brother", "sister", "cousin"] },
+          { "correct": "to", "alternatives": ["for", "with", "at"] },
+          { "correct": "look", "alternatives": ["find", "see", "read"] },
+          { "correct": "for", "alternatives": ["to", "with", "at"] },
+          { "correct": "you", "alternatives": ["me", "him", "her"] }
+        ]
+      },
+      {
+        "id": 36,
+        "sentence_en": "Put down the cookies and eat the apple.",
+        "translations": {
+          "ru": "Отложи печенье и ешь яблоко.",
+          "es": "Deja las galletas y come la manzana.",
+          "fr": "Pose les biscuits et mange la pomme.",
+          "de": "Leg die Kekse weg und iss den Apfel."
+        },
+        "words": [
+          { "correct": "Put", "alternatives": ["Take", "Get", "Go"] },
+          { "correct": "down", "alternatives": ["up", "on", "off"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "cookies", "alternatives": ["apples", "bananas", "books"] },
+          { "correct": "and", "alternatives": ["or", "but", "with"] },
+          { "correct": "eat", "alternatives": ["read", "write", "draw"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "apple", "alternatives": ["cookie", "banana", "book"] }
+        ]
+      },
+      {
+        "id": 37,
+        "sentence_en": "Go on, I love listening to you.",
+        "translations": {
+          "ru": "Продолжай, я люблю тебя слушать.",
+          "es": "Sigue, me encanta escucharte.",
+          "fr": "Vas-y, j'aime t'écouter.",
+          "de": "Mach weiter, ich höre dir gerne zu."
+        },
+        "words": [
+          { "correct": "Go", "alternatives": ["Come", "Run", "Walk"] },
+          { "correct": "on", "alternatives": ["off", "up", "down"] },
+          { "correct": "I", "alternatives": ["he", "she", "they"] },
+          { "correct": "love", "alternatives": ["like", "hate", "see"] },
+          { "correct": "listening", "alternatives": ["reading", "writing", "driving"] },
+          { "correct": "to", "alternatives": ["for", "with", "at"] },
+          { "correct": "you", "alternatives": ["me", "him", "her"] }
+        ]
+      },
+      {
+        "id": 38,
+        "sentence_en": "Never look up information on my computer!",
+        "translations": {
+          "ru": "Никогда не просматривай информацию на моем компьютере!",
+          "es": "¡Nunca busques información en mi computadora!",
+          "fr": "Ne cherche jamais d'informations sur mon ordinateur !",
+          "de": "Schlag niemals Informationen auf meinem Computer nach!"
+        },
+        "words": [
+          { "correct": "Never", "alternatives": ["Always", "Sometimes", "Often"] },
+          { "correct": "look", "alternatives": ["find", "see", "read"] },
+          { "correct": "up", "alternatives": ["down", "on", "back"] },
+          { "correct": "information", "alternatives": ["book", "car", "pen"] },
+          { "correct": "on", "alternatives": ["in", "at", "to"] },
+          { "correct": "my", "alternatives": ["your", "his", "her"] },
+          { "correct": "computer", "alternatives": ["phone", "car", "book"] }
+        ]
+      },
+      {
+        "id": 39,
+        "sentence_en": "I took up a new hobby.",
+        "translations": {
+          "ru": "Я взялся за новое хобби.",
+          "es": "Empecé un nuevo pasatiempo.",
+          "fr": "Je me suis lancé dans un nouveau passe-temps.",
+          "de": "Ich habe ein neues Hobby angefangen."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "They"] },
+          { "correct": "took", "alternatives": ["put", "got", "went"] },
+          { "correct": "up", "alternatives": ["down", "on", "off"] },
+          { "correct": "a", "alternatives": ["the", "an", "this"] },
+          { "correct": "new", "alternatives": ["old", "used", "worn"] },
+          { "correct": "hobby", "alternatives": ["job", "car", "book"] }
+        ]
+      },
+      {
+        "id": 40,
+        "sentence_en": "Don't turn on the tap, there's no water.",
+        "translations": {
+          "ru": "Не открывай кран, воды нет.",
+          "es": "No abras el grifo, no hay agua.",
+          "fr": "N'ouvre pas le robinet, il n'y a pas d'eau.",
+          "de": "Mach den Wasserhahn nicht auf, es gibt kein Wasser."
+        },
+        "words": [
+          { "correct": "Don't", "alternatives": ["Do", "Won't", "Can't"] },
+          { "correct": "turn", "alternatives": ["put", "take", "move"] },
+          { "correct": "on", "alternatives": ["off", "up", "down"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "tap", "alternatives": ["door", "car", "pen"] },
+          { "correct": "there's", "alternatives": ["here's", "that's", "it's"] },
+          { "correct": "no", "alternatives": ["some", "any", "many"] },
+          { "correct": "water", "alternatives": ["milk", "juice", "tea"] }
+        ]
+      },
+      {
+        "id": 41,
+        "sentence_en": "Their marriage broke down after a few months.",
+        "translations": {
+          "ru": "Их брак распался через несколько месяцев.",
+          "es": "Su matrimonio se rompió después de unos meses.",
+          "fr": "Leur mariage s'est effondré après quelques mois.",
+          "de": "Ihre Ehe zerbrach nach ein paar Monaten."
+        },
+        "words": [
+          { "correct": "Their", "alternatives": ["My", "His", "Her"] },
+          { "correct": "marriage", "alternatives": ["house", "car", "job"] },
+          { "correct": "broke", "alternatives": ["took", "put", "got"] },
+          { "correct": "down", "alternatives": ["up", "on", "off"] },
+          { "correct": "after", "alternatives": ["before", "during", "under"] },
+          { "correct": "a", "alternatives": ["the", "an", "this"] },
+          { "correct": "few", "alternatives": ["many", "one", "some"] },
+          { "correct": "months", "alternatives": ["days", "years", "hours"] }
+        ]
+      },
+      {
+        "id": 42,
+        "sentence_en": "Go down to your friends immediately.",
+        "translations": {
+          "ru": "Спускайся к своим друзьям немедленно.",
+          "es": "Baja a tus amigos inmediatamente.",
+          "fr": "Descends voir tes amis immédiatement.",
+          "de": "Geh sofort zu deinen Freunden hinunter."
+        },
+        "words": [
+          { "correct": "Go", "alternatives": ["Come", "Run", "Walk"] },
+          { "correct": "down", "alternatives": ["up", "on", "off"] },
+          { "correct": "to", "alternatives": ["for", "with", "at"] },
+          { "correct": "your", "alternatives": ["my", "his", "her"] },
+          { "correct": "friends", "alternatives": ["parents", "cats", "books"] },
+          { "correct": "immediately", "alternatives": ["slowly", "never", "always"] }
+        ]
+      },
+      {
+        "id": 43,
+        "sentence_en": "His temperature is going up.",
+        "translations": {
+          "ru": "Его температура поднимается.",
+          "es": "Su temperatura está subiendo.",
+          "fr": "Sa température monte.",
+          "de": "Seine Temperatur steigt."
+        },
+        "words": [
+          { "correct": "His", "alternatives": ["Her", "My", "Their"] },
+          { "correct": "temperature", "alternatives": ["pressure", "weight", "speed"] },
+          { "correct": "is", "alternatives": ["was", "are", "were"] },
+          { "correct": "going", "alternatives": ["coming", "running", "walking"] },
+          { "correct": "up", "alternatives": ["down", "on", "off"] }
+        ]
+      },
+      {
+        "id": 44,
+        "sentence_en": "We decided to put off the meeting.",
+        "translations": {
+          "ru": "Мы решили отложить встречу.",
+          "es": "Decidimos posponer la reunión.",
+          "fr": "Nous avons décidé de reporter la réunion.",
+          "de": "Wir beschlossen, das Treffen zu verschieben."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "He", "She"] },
+          { "correct": "decided", "alternatives": ["wanted", "tried", "needed"] },
+          { "correct": "to", "alternatives": ["for", "with", "at"] },
+          { "correct": "put", "alternatives": ["take", "get", "go"] },
+          { "correct": "off", "alternatives": ["on", "up", "down"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "meeting", "alternatives": ["party", "car", "book"] }
+        ]
+      },
+      {
+        "id": 45,
+        "sentence_en": "He turned out to be right.",
+        "translations": {
+          "ru": "Он оказался прав.",
+          "es": "Resultó tener razón.",
+          "fr": "Il s'est avéré avoir raison.",
+          "de": "Er stellte sich als richtig heraus."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "I", "We"] },
+          { "correct": "turned", "alternatives": ["went", "came", "put"] },
+          { "correct": "out", "alternatives": ["in", "on", "up"] },
+          { "correct": "to", "alternatives": ["for", "with", "at"] },
+          { "correct": "be", "alternatives": ["see", "do", "go"] },
+          { "correct": "right", "alternatives": ["wrong", "late", "fast"] }
+        ]
+      },
+      {
+        "id": 46,
+        "sentence_en": "Don't go away without your friend.",
+        "translations": {
+          "ru": "Не уходи без своего друга.",
+          "es": "No te vayas sin tu amigo.",
+          "fr": "Ne pars pas sans ton ami.",
+          "de": "Geh nicht ohne deinen Freund weg."
+        },
+        "words": [
+          { "correct": "Don't", "alternatives": ["Do", "Won't", "Can't"] },
+          { "correct": "go", "alternatives": ["come", "run", "walk"] },
+          { "correct": "away", "alternatives": ["back", "up", "on"] },
+          { "correct": "without", "alternatives": ["with", "to", "for"] },
+          { "correct": "your", "alternatives": ["my", "his", "her"] },
+          { "correct": "friend", "alternatives": ["cat", "book", "car"] }
+        ]
+      },
+      {
+        "id": 47,
+        "sentence_en": "Put on your cap.",
+        "translations": {
+          "ru": "Надень свою шапку.",
+          "es": "Ponte tu gorra.",
+          "fr": "Mets ta casquette.",
+          "de": "Setz deine Mütze auf."
+        },
+        "words": [
+          { "correct": "Put", "alternatives": ["Take", "Get", "Go"] },
+          { "correct": "on", "alternatives": ["off", "up", "down"] },
+          { "correct": "your", "alternatives": ["my", "his", "her"] },
+          { "correct": "cap", "alternatives": ["hit", "hut", "hot"] }
+        ]
+      },
+      {
+        "id": 48,
+        "sentence_en": "He came back to his work.",
+        "translations": {
+          "ru": "Он вернулся к своей работе.",
+          "es": "Él volvió a su trabajo.",
+          "fr": "Il est retourné à son travail.",
+          "de": "Er kehrte zu seiner Arbeit zurück."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "I", "We"] },
+          { "correct": "came", "alternatives": ["went", "run", "walked"] },
+          { "correct": "back", "alternatives": ["up", "down", "on"] },
+          { "correct": "to", "alternatives": ["for", "with", "at"] },
+          { "correct": "his", "alternatives": ["her", "my", "your"] },
+          { "correct": "work", "alternatives": ["game", "book", "car"] }
+        ]
+      },
+      {
+        "id": 49,
+        "sentence_en": "I can look after your plants.",
+        "translations": {
+          "ru": "Я могу ухаживать за вашими растениями.",
+          "es": "Puedo cuidar tus plantas.",
+          "fr": "Je peux m'occuper de tes plantes.",
+          "de": "Ich kann mich um deine Pflanzen kümmern."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "They"] },
+          { "correct": "can", "alternatives": ["will", "must", "should"] },
+          { "correct": "look", "alternatives": ["find", "see", "read"] },
+          { "correct": "after", "alternatives": ["before", "with", "at"] },
+          { "correct": "your", "alternatives": ["my", "his", "her"] },
+          { "correct": "plants", "alternatives": ["cats", "books", "cars"] }
+        ]
+      },
+      {
+        "id": 50,
+        "sentence_en": "I can't put you down right here.",
+        "translations": {
+          "ru": "Я не могу высадить тебя прямо здесь.",
+          "es": "No puedo dejarte justo aquí.",
+          "fr": "Je ne peux pas te déposer juste ici.",
+          "de": "Ich kann dich nicht direkt hier absetzen."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "They"] },
+          { "correct": "can't", "alternatives": ["won't", "don't", "shouldn't"] },
+          { "correct": "put", "alternatives": ["take", "get", "go"] },
+          { "correct": "you", "alternatives": ["me", "him", "her"] },
+          { "correct": "down", "alternatives": ["up", "on", "off"] },
+          { "correct": "right", "alternatives": ["left", "wrong", "fast"] },
+          { "correct": "here", "alternatives": ["there", "inside", "away"] }
+        ]
+      },
+      {
+        "id": 51,
+        "sentence_en": "Prices will go up in January, so buy it now.",
+        "translations": {
+          "ru": "Цены поднимутся в январе, поэтому покупай это сейчас.",
+          "es": "Los precios subirán en enero, así que cómpralo ahora.",
+          "fr": "Les prix augmenteront en janvier, alors achète-le maintenant.",
+          "de": "Die Preise werden im Januar steigen, also kauf es jetzt."
+        },
+        "words": [
+          { "correct": "Prices", "alternatives": ["Costs", "Values", "Rates"] },
+          { "correct": "will", "alternatives": ["can", "must", "should"] },
+          { "correct": "go", "alternatives": ["come", "run", "walk"] },
+          { "correct": "up", "alternatives": ["down", "on", "off"] },
+          { "correct": "in", "alternatives": ["on", "at", "to"] },
+          { "correct": "January", "alternatives": ["March", "May", "July"] },
+          { "correct": "so", "alternatives": ["but", "or", "and"] },
+          { "correct": "buy", "alternatives": ["sell", "take", "give"] },
+          { "correct": "it", "alternatives": ["them", "us", "her"] },
+          { "correct": "now", "alternatives": ["later", "soon", "never"] }
+        ]
+      },
+      {
+        "id": 52,
+        "sentence_en": "Never put on this black dress.",
+        "translations": {
+          "ru": "Никогда не надевай это черное платье.",
+          "es": "Nunca te pongas este vestido negro.",
+          "fr": "Ne mets jamais cette robe noire.",
+          "de": "Zieh dieses schwarze Kleid niemals an."
+        },
+        "words": [
+          { "correct": "Never", "alternatives": ["Always", "Often", "Sometimes"] },
+          { "correct": "put", "alternatives": ["take", "get", "go"] },
+          { "correct": "on", "alternatives": ["off", "up", "down"] },
+          { "correct": "this", "alternatives": ["that", "the", "a"] },
+          { "correct": "black", "alternatives": ["white", "red", "blue"] },
+          { "correct": "dress", "alternatives": ["shirt", "hat", "car"] }
+        ]
+      },
+      {
+        "id": 53,
+        "sentence_en": "You can take the babysitter to look after your children.",
+        "translations": {
+          "ru": "Вы можете взять няню, чтобы присматривать за своими детьми.",
+          "es": "Puedes contratar a una niñera para cuidar de tus hijos.",
+          "fr": "Tu peux engager une baby-sitter pour s'occuper de tes enfants.",
+          "de": "Du kannst eine Babysitterin nehmen, um auf deine Kinder aufzupassen."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "can", "alternatives": ["will", "must", "should"] },
+          { "correct": "take", "alternatives": ["bring", "get", "put"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "babysitter", "alternatives": ["teacher", "nurse", "doctor"] },
+          { "correct": "to", "alternatives": ["for", "with", "at"] },
+          { "correct": "look", "alternatives": ["find", "see", "read"] },
+          { "correct": "after", "alternatives": ["before", "with", "at"] },
+          { "correct": "your", "alternatives": ["my", "his", "her"] },
+          { "correct": "children", "alternatives": ["parents", "cats", "books"] }
+        ]
+      },
+      {
+        "id": 54,
+        "sentence_en": "I love to look up at stars.",
+        "translations": {
+          "ru": "Я люблю смотреть вверх на звезды.",
+          "es": "Me encanta mirar las estrellas.",
+          "fr": "J'adore regarder les étoiles.",
+          "de": "Ich liebe es, zu den Sternen hinaufzuschauen."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "They"] },
+          { "correct": "love", "alternatives": ["hate", "like", "want"] },
+          { "correct": "to", "alternatives": ["for", "at", "with"] },
+          { "correct": "look", "alternatives": ["find", "see", "read"] },
+          { "correct": "up", "alternatives": ["down", "on", "back"] },
+          { "correct": "at", "alternatives": ["in", "on", "to"] },
+          { "correct": "stars", "alternatives": ["planets", "cars", "books"] }
+        ]
+      },
+      {
+        "id": 55,
+        "sentence_en": "He put down his newspaper and looked up.",
+        "translations": {
+          "ru": "Он отложил свою газету и посмотрел вверх.",
+          "es": "Dejó su periódico y miró hacia arriba.",
+          "fr": "Il posa son journal et leva les yeux.",
+          "de": "Er legte seine Zeitung hin und schaute nach oben."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "I", "We"] },
+          { "correct": "put", "alternatives": ["take", "get", "go"] },
+          { "correct": "down", "alternatives": ["up", "on", "off"] },
+          { "correct": "his", "alternatives": ["her", "my", "your"] },
+          { "correct": "newspaper", "alternatives": ["book", "car", "pen"] },
+          { "correct": "and", "alternatives": ["or", "but", "with"] },
+          { "correct": "looked", "alternatives": ["read", "wrote", "drew"] },
+          { "correct": "up", "alternatives": ["down", "on", "back"] }
+        ]
+      },
+      {
+        "id": 56,
+        "sentence_en": "I put on two kilos.",
+        "translations": {
+          "ru": "Я набрал два килограмма.",
+          "es": "Gané dos kilos.",
+          "fr": "J'ai pris deux kilos.",
+          "de": "Ich habe zwei Kilo zugenommen."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "They"] },
+          { "correct": "put", "alternatives": ["take", "get", "go"] },
+          { "correct": "on", "alternatives": ["off", "up", "down"] },
+          { "correct": "two", "alternatives": ["three", "ten", "twelve"] },
+          { "correct": "kilos", "alternatives": ["grams", "meters", "hours"] }
+        ]
+      },
+      {
+        "id": 57,
+        "sentence_en": "We went on playing tennis.",
+        "translations": {
+          "ru": "Мы продолжали играть в теннис.",
+          "es": "Seguimos jugando al tenis.",
+          "fr": "Nous avons continué à jouer au tennis.",
+          "de": "Wir spielten weiter Tennis."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "He", "She"] },
+          { "correct": "went", "alternatives": ["came", "run", "walked"] },
+          { "correct": "on", "alternatives": ["off", "up", "down"] },
+          { "correct": "playing", "alternatives": ["reading", "writing", "driving"] },
+          { "correct": "tennis", "alternatives": ["football", "chess", "books"] }
+        ]
+      },
+      {
+        "id": 58,
+        "sentence_en": "Mary put on weight.",
+        "translations": {
+          "ru": "Мэри потолстела.",
+          "es": "Mary subió de peso.",
+          "fr": "Mary a pris du poids.",
+          "de": "Mary nahm zu."
+        },
+        "words": [
+          { "correct": "Mary", "alternatives": ["John", "Kate", "Tom"] },
+          { "correct": "put", "alternatives": ["take", "get", "go"] },
+          { "correct": "on", "alternatives": ["off", "up", "down"] },
+          { "correct": "weight", "alternatives": ["height", "age", "speed"] }
+        ]
+      },
+      {
+        "id": 59,
+        "sentence_en": "The prices are going up again.",
+        "translations": {
+          "ru": "Цены снова растут.",
+          "es": "Los precios están subiendo otra vez.",
+          "fr": "Les prix augmentent à nouveau.",
+          "de": "Die Preise steigen wieder."
+        },
+        "words": [
+          { "correct": "The", "alternatives": ["A", "An", "This"] },
+          { "correct": "prices", "alternatives": ["costs", "rates", "values"] },
+          { "correct": "are", "alternatives": ["is", "was", "were"] },
+          { "correct": "going", "alternatives": ["coming", "running", "walking"] },
+          { "correct": "up", "alternatives": ["down", "on", "off"] },
+          { "correct": "again", "alternatives": ["never", "always", "late"] }
+        ]
+      },
+      {
+        "id": 60,
+        "sentence_en": "I turned on the tap but there was no water.",
+        "translations": {
+          "ru": "Я открыл кран, но воды не было.",
+          "es": "Abrí el grifo pero no había agua.",
+          "fr": "J'ai ouvert le robinet mais il n'y avait pas d'eau.",
+          "de": "Ich drehte den Wasserhahn auf, aber es kam kein Wasser."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "They"] },
+          { "correct": "turned", "alternatives": ["put", "took", "got"] },
+          { "correct": "on", "alternatives": ["off", "up", "down"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "tap", "alternatives": ["door", "car", "pen"] },
+          { "correct": "but", "alternatives": ["and", "or", "so"] },
+          { "correct": "there", "alternatives": ["here", "where", "when"] },
+          { "correct": "was", "alternatives": ["is", "were", "are"] },
+          { "correct": "no", "alternatives": ["some", "any", "many"] },
+          { "correct": "water", "alternatives": ["juice", "milk", "tea"] }
+        ]
+      },
+      {
+        "id": 61,
+        "sentence_en": "We've already put off the decision three times.",
+        "translations": {
+          "ru": "Мы уже откладывали принятие решения три раза.",
+          "es": "Ya hemos pospuesto la decisión tres veces.",
+          "fr": "Nous avons déjà reporté la décision trois fois.",
+          "de": "Wir haben die Entscheidung schon dreimal verschoben."
+        },
+        "words": [
+          { "correct": "We've", "alternatives": ["They've", "You've", "We've not"] },
+          { "correct": "already", "alternatives": ["never", "just", "soon"] },
+          { "correct": "put", "alternatives": ["take", "get", "go"] },
+          { "correct": "off", "alternatives": ["on", "up", "down"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "decision", "alternatives": ["car", "book", "pen"] },
+          { "correct": "three", "alternatives": ["two", "ten", "twelve"] },
+          { "correct": "times", "alternatives": ["days", "years", "hours"] }
+        ]
+      },
+      {
+        "id": 62,
+        "sentence_en": "We couldn't go out of the building.",
+        "translations": {
+          "ru": "Мы не могли выйти из здания.",
+          "es": "No pudimos salir del edificio.",
+          "fr": "Nous n'avons pas pu sortir du bâtiment.",
+          "de": "Wir konnten das Gebäude nicht verlassen."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "He", "She"] },
+          { "correct": "couldn't", "alternatives": ["can't", "won't", "shouldn't"] },
+          { "correct": "go", "alternatives": ["come", "run", "walk"] },
+          { "correct": "out", "alternatives": ["in", "up", "down"] },
+          { "correct": "of", "alternatives": ["for", "to", "at"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "building", "alternatives": ["car", "book", "pen"] }
+        ]
+      },
+      {
+        "id": 63,
+        "sentence_en": "The teacher gave out the textbooks.",
+        "translations": {
+          "ru": "Учитель раздал учебники.",
+          "es": "El maestro repartió los libros de texto.",
+          "fr": "Le professeur a distribué les manuels scolaires.",
+          "de": "Der Lehrer verteilte die Lehrbücher."
+        },
+        "words": [
+          { "correct": "The", "alternatives": ["A", "An", "This"] },
+          { "correct": "teacher", "alternatives": ["doctor", "nurse", "student"] },
+          { "correct": "gave", "alternatives": ["took", "put", "got"] },
+          { "correct": "out", "alternatives": ["in", "on", "up"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "textbooks", "alternatives": ["notebooks", "books", "pens"] }
+        ]
+      },
+      {
+        "id": 64,
+        "sentence_en": "We can look after your cat.",
+        "translations": {
+          "ru": "Мы можем присмотреть за твоей кошкой.",
+          "es": "Podemos cuidar de tu gato.",
+          "fr": "Nous pouvons nous occuper de ton chat.",
+          "de": "Wir können auf deine Katze aufpassen."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "He", "She"] },
+          { "correct": "can", "alternatives": ["will", "must", "should"] },
+          { "correct": "look", "alternatives": ["find", "see", "read"] },
+          { "correct": "after", "alternatives": ["before", "with", "at"] },
+          { "correct": "your", "alternatives": ["my", "his", "her"] },
+          { "correct": "cat", "alternatives": ["dog", "bird", "fish"] }
+        ]
+      },
+      {
+        "id": 65,
+        "sentence_en": "I must go up and stop her.",
+        "translations": {
+          "ru": "Я должен подняться наверх и остановить её.",
+          "es": "Debo subir y detenerla.",
+          "fr": "Je dois monter et l'arrêter.",
+          "de": "Ich muss hinaufgehen und sie aufhalten."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "They"] },
+          { "correct": "must", "alternatives": ["can", "will", "should"] },
+          { "correct": "go", "alternatives": ["come", "run", "walk"] },
+          { "correct": "up", "alternatives": ["down", "on", "off"] },
+          { "correct": "and", "alternatives": ["or", "but", "with"] },
+          { "correct": "stop", "alternatives": ["start", "open", "close"] },
+          { "correct": "her", "alternatives": ["him", "them", "me"] }
+        ]
+      },
+      {
+        "id": 66,
+        "sentence_en": "Why did you put off the meeting again?",
+        "translations": {
+          "ru": "Почему ты опять отложил встречу?",
+          "es": "¿Por qué pospusiste la reunión otra vez?",
+          "fr": "Pourquoi as-tu encore reporté la réunion ?",
+          "de": "Warum hast du das Treffen wieder verschoben?"
+        },
+        "words": [
+          { "correct": "Why", "alternatives": ["When", "Where", "How"] },
+          { "correct": "did", "alternatives": ["do", "does", "will"] },
+          { "correct": "you", "alternatives": ["he", "she", "they"] },
+          { "correct": "put", "alternatives": ["take", "get", "go"] },
+          { "correct": "off", "alternatives": ["on", "up", "down"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "meeting", "alternatives": ["party", "car", "book"] },
+          { "correct": "again", "alternatives": ["never", "always", "late"] }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2468 @@
+{
+  "id": 15,
+  "title": {
+    "english": "Imperative Mood",
+    "russian": "Повелительное наклонение",
+    "spanish": "Modo Imperativo",
+    "french": "Mode Impératif",
+    "german": "Imperativ"
+  },
+  "description": {
+    "english": "In this lesson, we'll learn about the Imperative Mood in English.",
+    "russian": "В английском языке повелительное наклонение используется для того, чтобы отдавать приказы, давать инструкции, призывать к действию или делать предложения.",
+    "spanish": "En esta lección, aprenderemos el modo imperativo en inglés.",
+    "french": "Dans cette leçon, nous apprendrons le mode impératif en anglais.",
+    "german": "In dieser Lektion lernen wir den Imperativ im Englischen."
+  },
+  "detailedDescription": {
+    "russian": {
+      "title": "Урок 15 — Повелительное наклонение (Imperative Mood)",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Повелительное наклонение (Imperative Mood)"
+        },
+        {
+          "type": "text",
+          "content": "В английском языке повелительное наклонение используется для того, чтобы отдавать приказы, давать инструкции, призывать к действию или делать предложения."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "1. Утвердительная форма"
+        },
+        {
+          "type": "text",
+          "content": "В повелительном наклонении глагол используется без подлежащего (без местоимения you) и стоит в начальной форме:"
+        },
+        {
+          "type": "heading",
+          "content": "Примеры:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Go! — Иди!",
+            "Take it! — Возьми это!",
+            "Do it. — Сделай это.",
+            "Come here. — Подойди сюда.",
+            "Phone me tomorrow. — Позвони мне завтра.",
+            "Be careful! — Будь осторожен!"
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "2. Отрицательная форма"
+        },
+        {
+          "type": "text",
+          "content": "Чтобы выразить запрет или отрицание, добавляется частица don't перед глаголом:"
+        },
+        {
+          "type": "heading",
+          "content": "Примеры:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Don't go! — Не иди!",
+            "Don't take it! — Не бери это!",
+            "Don't phone me. — Не звони мне."
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "3. Предложения с \"Let's\" — давайте…"
+        },
+        {
+          "type": "text",
+          "content": "Когда мы хотим пригласить кого-то к совместному действию, мы используем конструкцию Let's + глагол:"
+        },
+        {
+          "type": "heading",
+          "content": "Примеры:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Let's go there! — Давайте пойдём туда!",
+            "Let's do it! — Давайте сделаем это!",
+            "Let's dance! — Давайте потанцуем!"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Let's — это сокращение от let us."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "4. Let + местоимение — пусть кто-то… / разреши кому-то…"
+        },
+        {
+          "type": "text",
+          "content": "Глагол let можно также использовать с другими местоимениями, чтобы позволить кому-то что-то сделать или дать разрешение:"
+        },
+        {
+          "type": "heading",
+          "content": "Примеры:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Let him say. — Пусть он скажет / Дай ему сказать.",
+            "Let her work. — Пусть она работает / Дай ей поработать."
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "5. Вежливые просьбы с \"please\""
+        },
+        {
+          "type": "text",
+          "content": "Чтобы сделать просьбу вежливой, добавляется please — в начале или в конце предложения:"
+        },
+        {
+          "type": "heading",
+          "content": "Примеры:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Dance with me, please. — Потанцуй со мной, пожалуйста.",
+            "Don't start without me, please. — Не начинайте без меня, пожалуйста.",
+            "Tell about her, please. — Расскажи о ней, пожалуйста."
+          ]
+        }
+      ]
+    },
+    "spanish": {
+      "title": "Lección 15 — El modo imperativo en inglés (Imperative Mood)",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "El modo imperativo en inglés (Imperative Mood)"
+        },
+        {
+          "type": "text",
+          "content": "En inglés, usamos el modo imperativo para dar órdenes, hacer sugerencias, dar instrucciones o pedir algo de forma directa."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "1. Forma afirmativa"
+        },
+        {
+          "type": "text",
+          "content": "Para formar el imperativo afirmativo, simplemente usamos el verbo en infinitivo sin \"to\" y sin pronombre."
+        },
+        {
+          "type": "heading",
+          "content": "Ejemplos:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Go! — ¡Ve!",
+            "Take it! — ¡Tómalo!",
+            "Do it. — ¡Hazlo!",
+            "Come here. — ¡Ven aquí!",
+            "Phone me tomorrow. — Llámame mañana.",
+            "Be careful! — ¡Ten cuidado!"
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "2. Forma negativa"
+        },
+        {
+          "type": "text",
+          "content": "Para dar una orden negativa (decir lo que no hay que hacer), usamos \"don't\" + verbo."
+        },
+        {
+          "type": "heading",
+          "content": "Ejemplos:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Don't go! — ¡No vayas!",
+            "Don't take it! — ¡No lo tomes!",
+            "Don't phone me. — No me llames."
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "3. Sugerencias con \"Let's\" (¡Vamos a… / Hagamos…)"
+        },
+        {
+          "type": "text",
+          "content": "Cuando queremos incluirnos en la acción y sugerir algo al grupo, usamos la fórmula:\n\nLet's + verbo\n\nLet's es la forma corta de let us."
+        },
+        {
+          "type": "heading",
+          "content": "Ejemplos:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Let's go there! — ¡Vamos allí!",
+            "Let's do it! — ¡Hagámoslo!",
+            "Let's dance! — ¡Bailemos!"
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "4. Permitir o invitar a otra persona a hacer algo (Let + pronombre)"
+        },
+        {
+          "type": "text",
+          "content": "El verbo let también puede usarse para decir \"que alguien haga algo\" o \"permitirle a alguien hacer algo\":"
+        },
+        {
+          "type": "heading",
+          "content": "Ejemplos:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Let him say. — Que lo diga / Déjalo hablar.",
+            "Let her work. — Que trabaje / Déjala trabajar."
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "5. Peticiones corteses con \"please\""
+        },
+        {
+          "type": "text",
+          "content": "Para sonar más amable o educado, podemos añadir \"please\" (por favor) al principio o al final de la frase."
+        },
+        {
+          "type": "heading",
+          "content": "Ejemplos:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Dance with me, please. — Baila conmigo, por favor.",
+            "Don't start without me, please. — No empiecen sin mí, por favor.",
+            "Tell about her, please. — Cuéntame sobre ella, por favor."
+          ]
+        }
+      ]
+    },
+    "french": {
+      "title": "Leçon 15 — L'impératif en anglais (Imperative Mood)",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "L'impératif en anglais (Imperative Mood)"
+        },
+        {
+          "type": "text",
+          "content": "En anglais, on utilise l'impératif pour donner un ordre, faire une demande directe, donner une instruction ou faire une proposition."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "1. Forme affirmative"
+        },
+        {
+          "type": "text",
+          "content": "Pour former l'impératif affirmatif, on utilise simplement le verbe à l'infinitif sans \"to\", sans pronom sujet."
+        },
+        {
+          "type": "heading",
+          "content": "Exemples :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Go! — Va !",
+            "Take it! — Prends-le !",
+            "Do it. — Fais-le.",
+            "Come here. — Viens ici.",
+            "Phone me tomorrow. — Appelle-moi demain.",
+            "Be careful! — Fais attention ! / Sois prudent !"
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "2. Forme négative"
+        },
+        {
+          "type": "text",
+          "content": "Pour former une interdiction, on utilise \"don't\" + verbe."
+        },
+        {
+          "type": "heading",
+          "content": "Exemples :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Don't go! — Ne pars pas !",
+            "Don't take it! — Ne le prends pas !",
+            "Don't phone me. — Ne m'appelle pas."
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "3. Propositions avec \"Let's\" (Faisons… / Allons…)"
+        },
+        {
+          "type": "text",
+          "content": "Quand on veut proposer une action collective, on utilise :\n\nLet's + verbe\n\nLet's est la contraction de let us."
+        },
+        {
+          "type": "heading",
+          "content": "Exemples :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Let's go there! — Allons là-bas !",
+            "Let's do it! — Faisons-le !",
+            "Let's dance! — Dansons !"
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "4. Permettre à quelqu'un d'agir (Let + pronom)"
+        },
+        {
+          "type": "text",
+          "content": "Le verbe let peut aussi être utilisé avec un autre pronom pour dire « Laisse quelqu'un faire quelque chose » ou « Qu'il / qu'elle fasse »."
+        },
+        {
+          "type": "heading",
+          "content": "Exemples :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Let him say. — Qu'il parle / Laisse-le parler.",
+            "Let her work. — Qu'elle travaille / Laisse-la travailler."
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "5. Faire une demande polie avec \"please\""
+        },
+        {
+          "type": "text",
+          "content": "Pour rendre une demande plus polie, on ajoute \"please\" au début ou à la fin de la phrase."
+        },
+        {
+          "type": "heading",
+          "content": "Exemples :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Dance with me, please. — Danse avec moi, s'il te plaît.",
+            "Don't start without me, please. — Ne commencez pas sans moi, s'il vous plaît.",
+            "Tell about her, please. — Parle d'elle, s'il te plaît."
+          ]
+        }
+      ]
+    },
+    "german": {
+      "title": "Lektion 15 — Der Imperativ im Englischen",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Der Imperativ im Englischen"
+        },
+        {
+          "type": "text",
+          "content": "Im Englischen verwendet man den Imperativ, um Befehle, Aufforderungen, Anweisungen oder Vorschläge zu formulieren."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "1. Bejahte Form (Aufforderung)"
+        },
+        {
+          "type": "text",
+          "content": "Der englische Imperativ wird ganz einfach gebildet:\nMan verwendet das Verb in der Grundform (Infinitiv ohne \"to\"), ohne Subjekt."
+        },
+        {
+          "type": "heading",
+          "content": "Beispiele:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Go! — Geh!",
+            "Take it! — Nimm es!",
+            "Do it. — Mach es!",
+            "Come here. — Komm her!",
+            "Phone me tomorrow. — Ruf mich morgen an.",
+            "Be careful! — Sei vorsichtig!"
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "2. Verneinte Form"
+        },
+        {
+          "type": "text",
+          "content": "Um eine negative Aufforderung oder einen Verbot auszudrücken, verwendet man:\n\ndon't + Verb"
+        },
+        {
+          "type": "heading",
+          "content": "Beispiele:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Don't go! — Geh nicht!",
+            "Don't take it! — Nimm es nicht!",
+            "Don't phone me. — Ruf mich nicht an."
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "3. Vorschläge mit \"Let's\" (Lass uns…)"
+        },
+        {
+          "type": "text",
+          "content": "Wenn man eine Handlung gemeinsam vorschlägt, verwendet man:\n\nLet's + Verb\n→ Let's ist die Kurzform von let us."
+        },
+        {
+          "type": "heading",
+          "content": "Beispiele:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Let's go there! — Lass uns dorthin gehen!",
+            "Let's do it! — Lass es uns tun!",
+            "Let's dance! — Lass uns tanzen!"
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "4. Erlauben / Auffordern: Let + Pronomen"
+        },
+        {
+          "type": "text",
+          "content": "Mit dem Verb let kann man auch ausdrücken, dass jemand anderes etwas tun darf oder soll:"
+        },
+        {
+          "type": "heading",
+          "content": "Beispiele:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Let him say. — Lass ihn sprechen / Er soll etwas sagen.",
+            "Let her work. — Lass sie arbeiten / Sie soll arbeiten."
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "5. Höfliche Bitten mit \"please\""
+        },
+        {
+          "type": "text",
+          "content": "Um eine Bitte höflicher zu formulieren, fügt man please (bitte) am Ende oder Anfang des Satzes hinzu."
+        },
+        {
+          "type": "heading",
+          "content": "Beispiele:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Dance with me, please. — Tanz mit mir, bitte.",
+            "Don't start without me, please. — Fangt bitte nicht ohne mich an.",
+            "Tell about her, please. — Erzähl bitte über sie."
+          ]
+        }
+      ]
+    }
+  },
+  "vocabulary": {
+    "firstList": [
+      {
+        "number": 1,
+        "english": "lamp",
+        "russian": "лампа",
+        "spanish": "lámpara",
+        "french": "lampe",
+        "german": "Lampe"
+      },
+      {
+        "number": 2,
+        "english": "toy",
+        "russian": "игрушка",
+        "spanish": "juguete",
+        "french": "jouet",
+        "german": "Spielzeug"
+      },
+      {
+        "number": 3,
+        "english": "juice",
+        "russian": "сок",
+        "spanish": "jugo",
+        "french": "jus",
+        "german": "Saft"
+      },
+      {
+        "number": 4,
+        "english": "application",
+        "russian": "приложение",
+        "spanish": "aplicación",
+        "french": "application",
+        "german": "Anwendung"
+      },
+      {
+        "number": 5,
+        "english": "program",
+        "russian": "программа",
+        "spanish": "programa",
+        "french": "programme",
+        "german": "Programm"
+      },
+      {
+        "number": 6,
+        "english": "tie",
+        "russian": "галстук",
+        "spanish": "corbata",
+        "french": "cravate",
+        "german": "Krawatte"
+      },
+      {
+        "number": 7,
+        "english": "T-shirt",
+        "russian": "футболка",
+        "spanish": "camiseta",
+        "french": "t-shirt",
+        "german": "T-Shirt"
+      },
+      {
+        "number": 8,
+        "english": "jeans",
+        "russian": "джинсы",
+        "spanish": "vaqueros",
+        "french": "jean",
+        "german": "Jeans"
+      },
+      {
+        "number": 9,
+        "english": "chemistry",
+        "russian": "химия",
+        "spanish": "química",
+        "french": "chimie",
+        "german": "Chemie"
+      },
+      {
+        "number": 10,
+        "english": "geometry",
+        "russian": "геометрия",
+        "spanish": "geometría",
+        "french": "géométrie",
+        "german": "Geometrie"
+      },
+      {
+        "number": 11,
+        "english": "mathematics",
+        "russian": "математика",
+        "spanish": "matemáticas",
+        "french": "mathématiques",
+        "german": "Mathematik"
+      },
+      {
+        "number": 12,
+        "english": "check",
+        "russian": "проверять",
+        "spanish": "verificar",
+        "french": "vérifier",
+        "german": "überprüfen"
+      },
+      {
+        "number": 13,
+        "english": "hide",
+        "russian": "прятать",
+        "spanish": "esconder",
+        "french": "cacher",
+        "german": "verstecken"
+      },
+      {
+        "number": 14,
+        "english": "install",
+        "russian": "устанавливать",
+        "spanish": "instalar",
+        "french": "installer",
+        "german": "installieren"
+      },
+      {
+        "number": 15,
+        "english": "move",
+        "russian": "двигать",
+        "spanish": "mover",
+        "french": "bouger",
+        "german": "bewegen"
+      },
+      {
+        "number": 16,
+        "english": "repair",
+        "russian": "ремонтировать, чинить",
+        "spanish": "reparar",
+        "french": "réparer",
+        "german": "reparieren"
+      },
+      {
+        "number": 17,
+        "english": "sell",
+        "russian": "продавать",
+        "spanish": "vender",
+        "french": "vendre",
+        "german": "verkaufen"
+      },
+      {
+        "number": 18,
+        "english": "wash",
+        "russian": "мыть",
+        "spanish": "lavar",
+        "french": "laver",
+        "german": "waschen"
+      },
+      {
+        "number": 19,
+        "english": "dance",
+        "russian": "танцевать",
+        "spanish": "bailar",
+        "french": "danser",
+        "german": "tanzen"
+      },
+      {
+        "number": 20,
+        "english": "remember",
+        "russian": "помнить",
+        "spanish": "recordar",
+        "french": "se souvenir",
+        "german": "erinnern"
+      },
+      {
+        "number": 21,
+        "english": "swim",
+        "russian": "плавать",
+        "spanish": "nadar",
+        "french": "nager",
+        "german": "schwimmen"
+      },
+      {
+        "number": 22,
+        "english": "let",
+        "russian": "позволять",
+        "spanish": "permitir",
+        "french": "laisser",
+        "german": "lassen"
+      }
+    ]
+  },
+    "sentences": [
+      {
+        "id": 1,
+        "english": "Run to her.",
+        "russian": "Беги к ней.",
+        "spanish": "Corre hacia ella.",
+        "german": "Lauf zu ihr.",
+        "french": "Cours vers elle."
+      },
+      {
+        "id": 2,
+        "english": "Put those oranges here.",
+        "russian": "Положи те апельсины сюда.",
+        "spanish": "Pon esas naranjas aquí.",
+        "german": "Leg diese Orangen hierher.",
+        "french": "Mets ces oranges ici."
+      },
+      {
+        "id": 3,
+        "english": "Take this toy.",
+        "russian": "Возьми эту игрушку.",
+        "spanish": "Toma este juguete.",
+        "german": "Nimm dieses Spielzeug.",
+        "french": "Prends ce jouet."
+      },
+      {
+        "id": 4,
+        "english": "Find my jeans.",
+        "russian": "Найди мои джинсы.",
+        "spanish": "Encuentra mis vaqueros.",
+        "german": "Finde meine Jeans.",
+        "french": "Trouve mon jean."
+      },
+      {
+        "id": 5,
+        "english": "Write the notice.",
+        "russian": "Напиши уведомление.",
+        "spanish": "Escribe el aviso.",
+        "german": "Schreibe die Notiz.",
+        "french": "Écris l'avis."
+      },
+      {
+        "id": 6,
+        "english": "Read her letter.",
+        "russian": "Прочитай её письмо.",
+        "spanish": "Lee su carta.",
+        "german": "Lies ihren Brief.",
+        "french": "Lis sa lettre."
+      },
+      {
+        "id": 7,
+        "english": "Work with her.",
+        "russian": "Поработай с ней.",
+        "spanish": "Trabaja con ella.",
+        "german": "Arbeite mit ihr.",
+        "french": "Travaille avec elle."
+      },
+      {
+        "id": 8,
+        "english": "Give me my watch.",
+        "russian": "Дай мне мои часы.",
+        "spanish": "Dame mi reloj.",
+        "german": "Gib mir meine Uhr.",
+        "french": "Donne-moi ma montre."
+      },
+      {
+        "id": 9,
+        "english": "Forget about him.",
+        "russian": "Забудь о нём.",
+        "spanish": "Olvídate de él.",
+        "german": "Vergiss ihn.",
+        "french": "Oublie-le."
+      },
+      {
+        "id": 10,
+        "english": "Put that watch here.",
+        "russian": "Положи те часы сюда.",
+        "spanish": "Pon ese reloj aquí.",
+        "german": "Leg diese Uhr hierher.",
+        "french": "Mets cette montre ici."
+      },
+      {
+        "id": 11,
+        "english": "Write my letter.",
+        "russian": "Напиши моё письмо.",
+        "spanish": "Escribe mi carta.",
+        "german": "Schreib meinen Brief.",
+        "french": "Écris ma lettre."
+      },
+      {
+        "id": 12,
+      "english": "Don't send her article.",
+        "russian": "Не отправляй её статью.",
+        "spanish": "No envíes su artículo.",
+        "german": "Schick ihren Artikel nicht.",
+        "french": "N'envoie pas son article."
+      },
+      {
+        "id": 13,
+        "english": "Wash these oranges.",
+        "russian": "Помой эти апельсины.",
+        "spanish": "Lava estas naranjas.",
+        "german": "Wasch diese Orangen.",
+        "french": "Lave ces oranges."
+      },
+      {
+        "id": 14,
+        "english": "Write her note.",
+        "russian": "Напиши её записку.",
+        "spanish": "Escribe su nota.",
+        "german": "Schreib ihre Notiz.",
+        "french": "Écris sa note."
+      },
+      {
+        "id": 15,
+      "english": "Don't check the letter.",
+        "russian": "Не проверяй письмо.",
+        "spanish": "No revises la carta.",
+        "german": "Überprüfe den Brief nicht.",
+        "french": "Ne vérifie pas la lettre."
+      },
+      {
+        "id": 16,
+        "english": "Put that present here.",
+        "russian": "Положи тот подарок сюда.",
+        "spanish": "Pon ese regalo aquí.",
+        "german": "Leg dieses Geschenk hierher.",
+        "french": "Mets ce cadeau ici."
+      },
+      {
+        "id": 17,
+        "english": "Put my tablet here.",
+        "russian": "Положи мой планшет сюда.",
+        "spanish": "Pon mi tableta aquí.",
+        "german": "Leg mein Tablet hierher.",
+        "french": "Mets ma tablette ici."
+      },
+      {
+        "id": 18,
+      "english": "Don't drink this juice.",
+        "russian": "Не пей этот сок.",
+        "spanish": "No bebas este jugo.",
+        "german": "Trink diesen Saft nicht.",
+        "french": "Ne bois pas ce jus."
+      },
+      {
+        "id": 19,
+        "english": "Let him buy.",
+        "russian": "Дай ему купить.",
+        "spanish": "Déjalo comprar.",
+        "german": "Lass ihn kaufen.",
+        "french": "Laisse-le acheter."
+      },
+      {
+        "id": 20,
+        "english": "Close the window.",
+        "russian": "Закрой окно.",
+        "spanish": "Cierra la ventana.",
+        "german": "Schließe das Fenster.",
+        "french": "Ferme la fenêtre."
+      },
+      {
+        "id": 21,
+      "english": "Don't put my toy here.",
+        "russian": "Не клади мою игрушку сюда.",
+        "spanish": "No pongas mi juguete aquí.",
+        "german": "Leg mein Spielzeug nicht hierher.",
+        "french": "Ne mets pas mon jouet ici."
+      },
+      {
+        "id": 22,
+        "english": "Go with them.",
+        "russian": "Иди с ними.",
+        "spanish": "Ve con ellos.",
+        "german": "Geh mit ihnen.",
+        "french": "Va avec eux."
+      },
+      {
+        "id": 23,
+        "english": "Read her note.",
+        "russian": "Прочитай её записку.",
+        "spanish": "Lee su nota.",
+        "german": "Lies ihre Notiz.",
+        "french": "Lis sa note."
+      },
+      {
+        "id": 24,
+      "english": "Don't check my note.",
+        "russian": "Не проверяй мою записку.",
+        "spanish": "No revises mi nota.",
+        "german": "Überprüfe meine Notiz nicht.",
+        "french": "Ne vérifie pas ma note."
+      },
+      {
+        "id": 25,
+      "english": "Don't read this article.",
+        "russian": "Не читай эту статью.",
+        "spanish": "No leas este artículo.",
+        "german": "Lies diesen Artikel nicht.",
+        "french": "Ne lis pas cet article."
+      },
+      {
+        "id": 26,
+        "english": "Move that nightstand.",
+        "russian": "Подвинь ту тумбочку.",
+        "spanish": "Mueve esa mesita de noche.",
+        "german": "Rücke den Nachttisch.",
+        "french": "Déplace cette table de nuit."
+      },
+      {
+        "id": 27,
+        "english": "Swim to us.",
+        "russian": "Плыви к нам.",
+        "spanish": "Nada hacia nosotros.",
+        "german": "Schwimme zu uns.",
+        "french": "Nage vers nous."
+      },
+      {
+        "id": 28,
+      "english": "Don't take his toy.",
+        "russian": "Не бери его игрушку.",
+        "spanish": "No tomes su juguete.",
+        "german": "Nimm sein Spielzeug nicht.",
+        "french": "Ne prends pas son jouet."
+      },
+      {
+        "id": 29,
+      "english": "Don't put this toy here.",
+        "russian": "Не клади эту игрушку сюда.",
+        "spanish": "No pongas este juguete aquí.",
+        "german": "Leg dieses Spielzeug nicht hierher.",
+        "french": "Ne mets pas ce jouet ici."
+      },
+      {
+        "id": 30,
+        "english": "Close the box.",
+        "russian": "Закрой коробку.",
+        "spanish": "Cierra la caja.",
+        "german": "Schließe die Schachtel.",
+        "french": "Ferme la boîte."
+      },
+      {
+        "id": 31,
+      "english": "Don't seek my toy.",
+        "russian": "Не ищи мою игрушку.",
+        "spanish": "No busques mi juguete.",
+        "german": "Such mein Spielzeug nicht.",
+        "french": "Ne cherche pas mon jouet."
+      },
+      {
+        "id": 32,
+        "english": "Work without him.",
+        "russian": "Работай без него.",
+        "spanish": "Trabaja sin él.",
+        "german": "Arbeite ohne ihn.",
+        "french": "Travaille sans lui."
+      },
+      {
+        "id": 33,
+        "english": "Run to him.",
+        "russian": "Беги к нему.",
+        "spanish": "Corre hacia él.",
+        "german": "Lauf zu ihm.",
+        "french": "Cours vers lui."
+      },
+      {
+        "id": 34,
+        "english": "Repair your nightstand.",
+        "russian": "Отремонтируй свою тумбочку.",
+        "spanish": "Repara tu mesita de noche.",
+        "german": "Repariere deinen Nachttisch.",
+        "french": "Répare ta table de nuit."
+      },
+      {
+        "id": 35,
+        "english": "Think about me.",
+        "russian": "Подумай обо мне.",
+        "spanish": "Piensa en mí.",
+        "german": "Denk an mich.",
+        "french": "Pense à moi."
+      },
+      {
+        "id": 36,
+      "english": "Don't break his tablet.",
+        "russian": "Не ломай его планшет.",
+        "spanish": "No rompas su tableta.",
+        "german": "Zerbrich sein Tablet nicht.",
+        "french": "Ne casse pas sa tablette."
+      },
+      {
+        "id": 37,
+        "english": "Write his letter.",
+        "russian": "Напиши его письмо.",
+        "spanish": "Escribe su carta.",
+        "german": "Schreib seinen Brief.",
+        "french": "Écris sa lettre."
+      },
+      {
+        "id": 38,
+      "english": "Don't take these oranges.",
+        "russian": "Не бери эти апельсины.",
+        "spanish": "No tomes estas naranjas.",
+        "german": "Nimm diese Orangen nicht.",
+        "french": "Ne prends pas ces oranges."
+      },
+      {
+        "id": 39,
+        "english": "Go without us.",
+        "russian": "Иди без нас.",
+        "spanish": "Ve sin nosotros.",
+        "german": "Geh ohne uns.",
+        "french": "Va sans nous."
+      },
+      {
+        "id": 40,
+        "english": "Finish without me.",
+        "russian": "Заканчивай без меня.",
+        "spanish": "Termina sin mí.",
+        "german": "Beende es ohne mich.",
+        "french": "Termine sans moi."
+      },
+      {
+        "id": 41,
+      "english": "Don't put my phone here.",
+        "russian": "Не клади мой телефон сюда.",
+        "spanish": "No pongas mi teléfono aquí.",
+        "german": "Leg mein Handy nicht hierher.",
+        "french": "Ne mets pas mon téléphone ici."
+      },
+      {
+        "id": 42,
+        "english": "Install my game.",
+        "russian": "Установи мою игру.",
+        "spanish": "Instala mi juego.",
+        "german": "Installiere mein Spiel.",
+        "french": "Installe mon jeu."
+      },
+      {
+        "id": 43,
+      "english": "Don't turn this nightstand.",
+        "russian": "Не поворачивай эту тумбочку.",
+        "spanish": "No gires esta mesita de noche.",
+        "german": "Dreh diesen Nachttisch nicht.",
+        "french": "Ne tourne pas cette table de nuit."
+      },
+      {
+        "id": 44,
+      "english": "Don't check my letter.",
+        "russian": "Не проверяй моё письмо.",
+        "spanish": "No revises mi carta.",
+        "german": "Überprüfe meinen Brief nicht.",
+        "french": "Ne vérifie pas ma lettre."
+      },
+      {
+        "id": 45,
+        "english": "Buy without them.",
+        "russian": "Покупай без них.",
+        "spanish": "Compra sin ellos.",
+        "german": "Kauf ohne sie.",
+        "french": "Achète sans eux."
+      },
+      {
+        "id": 46,
+      "english": "Don't seek her tablet.",
+        "russian": "Не ищи её планшет.",
+        "spanish": "No busques su tableta.",
+        "german": "Such ihr Tablet nicht.",
+        "french": "Ne cherche pas sa tablette."
+      },
+      {
+        "id": 47,
+        "english": "Hide my pencil.",
+        "russian": "Спрячь мой карандаш.",
+        "spanish": "Esconde mi lápiz.",
+        "german": "Versteck meinen Bleistift.",
+        "french": "Cache mon crayon."
+      },
+      {
+        "id": 48,
+      "english": "Don't move her tablet.",
+        "russian": "Не двигай её планшет.",
+        "spanish": "No muevas su tableta.",
+        "german": "Bewege ihr Tablet nicht.",
+        "french": "Ne déplace pas sa tablette."
+      },
+      {
+        "id": 49,
+      "english": "Don't hide his phone.",
+        "russian": "Не прячь его телефон.",
+        "spanish": "No escondas su teléfono.",
+        "german": "Versteck sein Handy nicht.",
+        "french": "Ne cache pas son téléphone."
+      },
+      {
+        "id": 50,
+      "english": "Don't turn that nightstand.",
+        "russian": "Не поворачивай ту тумбочку.",
+        "spanish": "No gires esa mesita de noche.",
+        "german": "Dreh diesen Nachttisch nicht.",
+        "french": "Ne tourne pas cette table de nuit."
+      },
+      {
+        "id": 51,
+        "english": "Write my note.",
+        "russian": "Напиши мою записку.",
+        "spanish": "Escribe mi nota.",
+        "german": "Schreib meine Notiz.",
+        "french": "Écris ma note."
+      },
+      {
+        "id": 52,
+      "english": "Don't turn my tablet.",
+        "russian": "Не поворачивай мой планшет.",
+        "spanish": "No gires mi tableta.",
+        "german": "Dreh mein Tablet nicht.",
+        "french": "Ne tourne pas ma tablette."
+      },
+      {
+        "id": 53,
+        "english": "Check his notice.",
+        "russian": "Проверь его уведомление.",
+        "spanish": "Revisa su aviso.",
+        "german": "Überprüfe seine Notiz.",
+        "french": "Vérifie son avis."
+      },
+      {
+        "id": 54,
+      "english": "Don't take my watch.",
+        "russian": "Не бери мои часы.",
+        "spanish": "No tomes mi reloj.",
+        "german": "Nimm meine Uhr nicht.",
+        "french": "Ne prends pas ma montre."
+      },
+      {
+        "id": 55,
+        "english": "Work without us.",
+        "russian": "Работай без нас.",
+        "spanish": "Trabaja sin nosotros.",
+        "german": "Arbeite ohne uns.",
+        "french": "Travaille sans nous."
+      },
+      {
+        "id": 56,
+        "english": "Take her pencil.",
+        "russian": "Возьми её карандаш.",
+        "spanish": "Toma su lápiz.",
+        "german": "Nimm ihren Bleistift.",
+        "french": "Prends son crayon."
+      },
+      {
+        "id": 57,
+      "english": "Don't repair that lamp.",
+        "russian": "Не ремонтируй ту лампу.",
+        "spanish": "No repares esa lámpara.",
+        "german": "Repariere diese Lampe nicht.",
+        "french": "Ne répare pas cette lampe."
+      },
+      {
+        "id": 58,
+        "english": "Go with me.",
+        "russian": "Иди со мной.",
+        "spanish": "Ve conmigo.",
+        "german": "Geh mit mir.",
+        "french": "Viens avec moi."
+      },
+      {
+        "id": 59,
+        "english": "Show me your car.",
+        "russian": "Покажи мне свою машину.",
+        "spanish": "Muéstrame tu coche.",
+        "german": "Zeig mir dein Auto.",
+        "french": "Montre-moi ta voiture."
+      },
+      {
+        "id": 60,
+        "english": "Run with us.",
+        "russian": "Беги с нами.",
+        "spanish": "Corre con nosotros.",
+        "german": "Lauf mit uns.",
+        "french": "Cours avec nous."
+      },
+      {
+        "id": 61,
+        "english": "Read the article.",
+        "russian": "Прочитай статью.",
+        "spanish": "Lee el artículo.",
+        "german": "Lies den Artikel.",
+        "french": "Lis l'article."
+      },
+      {
+        "id": 62,
+      "english": "Don't hide her watch.",
+        "russian": "Не прячь её часы.",
+        "spanish": "No escondas su reloj.",
+        "german": "Versteck ihre Uhr nicht.",
+        "french": "Ne cache pas sa montre."
+      },
+      {
+        "id": 63,
+        "english": "Seek his tablet.",
+        "russian": "Ищи его планшет.",
+        "spanish": "Busca su tableta.",
+        "german": "Such sein Tablet.",
+        "french": "Cherche sa tablette."
+      },
+      {
+        "id": 64,
+      "english": "Don't send his note.",
+        "russian": "Не отправляй его записку.",
+        "spanish": "No envíes su nota.",
+        "german": "Schick seine Notiz nicht.",
+        "french": "N'envoie pas sa note."
+      },
+      {
+        "id": 65,
+        "english": "Dance with him.",
+        "russian": "Потанцуй с ним.",
+        "spanish": "Baila con él.",
+        "german": "Tanz mit ihm.",
+        "french": "Danse avec lui."
+      },
+      {
+        "id": 66,
+      "english": "Don't take this present.",
+        "russian": "Не бери этот подарок.",
+        "spanish": "No tomes este regalo.",
+        "german": "Nimm dieses Geschenk nicht.",
+        "french": "Ne prends pas ce cadeau."
+      },
+      {
+        "id": 67,
+        "english": "Let her send the letter.",
+        "russian": "Пусть она отправит письмо.",
+        "spanish": "Deja que ella envíe la carta.",
+        "german": "Lass sie den Brief schicken.",
+        "french": "Laisse-la envoyer la lettre."
+      },
+      {
+        "id": 68,
+      "english": "Don't turn his nightstand.",
+        "russian": "Не поворачивай его тумбочку.",
+        "spanish": "No gires su mesita de noche.",
+        "german": "Dreh seinen Nachttisch nicht.",
+        "french": "Ne tourne pas sa table de nuit."
+      },
+      {
+        "id": 69,
+        "english": "Sell without us.",
+        "russian": "Продавай без нас.",
+        "spanish": "Vende sin nosotros.",
+        "german": "Verkaufe ohne uns.",
+        "french": "Vends sans nous."
+      },
+      {
+        "id": 70,
+      "english": "Don't move my nightstand.",
+        "russian": "Не двигай мою тумбочку.",
+        "spanish": "No muevas mi mesita de noche.",
+        "german": "Bewege meinen Nachttisch nicht.",
+        "french": "Ne déplace pas ma table de nuit."
+      },
+      {
+        "id": 71,
+        "english": "Move your table.",
+        "russian": "Подвинь свой стол.",
+        "spanish": "Mueve tu mesa.",
+        "german": "Rücke deinen Tisch.",
+        "french": "Déplace ta table."
+      },
+      {
+        "id": 72,
+        "english": "Play with us.",
+        "russian": "Поиграй с нами.",
+        "spanish": "Juega con nosotros.",
+        "german": "Spiel mit uns.",
+        "french": "Joue avec nous."
+      },
+      {
+        "id": 73,
+        "english": "Read the notice.",
+        "russian": "Прочитай уведомление.",
+        "spanish": "Lee el aviso.",
+        "german": "Lies die Notiz.",
+        "french": "Lis l'avis."
+      },
+      {
+        "id": 74,
+        "english": "Hide her tablet.",
+        "russian": "Спрячь её планшет.",
+        "spanish": "Esconde su tableta.",
+        "german": "Versteck ihr Tablet.",
+        "french": "Cache sa tablette."
+      }
+  ],
+  "exam": {
+    "sentences": [
+      {
+        "id": 1,
+        "sentence_en": "Run to her.",
+        "translations": {
+          "ru": "Беги к ней.",
+          "es": "Corre hacia ella.",
+          "fr": "Cours vers elle.",
+          "de": "Lauf zu ihr."
+        },
+        "words": [
+          { "correct": "Run",   "alternatives": ["Walk", "Jump", "Sit"] },
+          { "correct": "to",    "alternatives": ["from", "with", "for"] },
+          { "correct": "her",   "alternatives": ["him", "them", "us"] }
+        ]
+      },
+      {
+        "id": 2,
+        "sentence_en": "Put those oranges here.",
+        "translations": {
+          "ru": "Положи те апельсины сюда.",
+          "es": "Pon esas naranjas aquí.",
+          "fr": "Mets ces oranges ici.",
+          "de": "Leg diese Orangen hierher."
+        },
+        "words": [
+          { "correct": "Put",     "alternatives": ["Take", "Move", "Pick"] },
+          { "correct": "those",   "alternatives": ["these", "that", "a"] },
+          { "correct": "oranges", "alternatives": ["apples", "bananas", "books"] },
+          { "correct": "here",    "alternatives": ["there", "inside", "out"] }
+        ]
+      },
+      {
+        "id": 3,
+        "sentence_en": "Take this toy.",
+        "translations": {
+          "ru": "Возьми эту игрушку.",
+          "es": "Toma este juguete.",
+          "fr": "Prends ce jouet.",
+          "de": "Nimm dieses Spielzeug."
+        },
+        "words": [
+          { "correct": "Take", "alternatives": ["Put", "Give", "Buy"] },
+          { "correct": "this", "alternatives": ["that", "these", "those"] },
+          { "correct": "toy",  "alternatives": ["game", "book", "box"] }
+        ]
+      },
+      {
+        "id": 4,
+        "sentence_en": "Find my jeans.",
+        "translations": {
+          "ru": "Найди мои джинсы.",
+          "es": "Encuentra mis vaqueros.",
+          "fr": "Trouve mon jean.",
+          "de": "Finde meine Jeans."
+        },
+        "words": [
+          { "correct": "Find",  "alternatives": ["Seek", "Lose", "Hide"] },
+          { "correct": "my",    "alternatives": ["your", "his", "her"] },
+          { "correct": "jeans", "alternatives": ["shirt", "dress", "shoes"] }
+        ]
+      },
+      {
+        "id": 5,
+        "sentence_en": "Write the notice.",
+        "translations": {
+          "ru": "Напиши уведомление.",
+          "es": "Escribe el aviso.",
+          "fr": "Écris l'avis.",
+          "de": "Schreibe die Notiz."
+        },
+        "words": [
+          { "correct": "Write",  "alternatives": ["Read", "Make", "Send"] },
+          { "correct": "the",    "alternatives": ["a", "this", "that"] },
+          { "correct": "notice", "alternatives": ["letter", "note", "article"] }
+        ]
+      },
+      {
+        "id": 6,
+        "sentence_en": "Read her letter.",
+        "translations": {
+          "ru": "Прочитай её письмо.",
+          "es": "Lee su carta.",
+          "fr": "Lis sa lettre.",
+          "de": "Lies ihren Brief."
+        },
+        "words": [
+          { "correct": "Read",   "alternatives": ["Write", "See", "Send"] },
+          { "correct": "her",    "alternatives": ["his", "their", "my"] },
+          { "correct": "letter", "alternatives": ["note", "email", "message"] }
+        ]
+      },
+      {
+        "id": 7,
+        "sentence_en": "Work with her.",
+        "translations": {
+          "ru": "Поработай с ней.",
+          "es": "Trabaja con ella.",
+          "fr": "Travaille avec elle.",
+          "de": "Arbeite mit ihr."
+        },
+        "words": [
+          { "correct": "Work",  "alternatives": ["Play", "Talk", "Walk"] },
+          { "correct": "with",  "alternatives": ["without", "for", "to"] },
+          { "correct": "her",   "alternatives": ["him", "them", "me"] }
+        ]
+      },
+      {
+        "id": 8,
+        "sentence_en": "Give me my watch.",
+        "translations": {
+          "ru": "Дай мне мои часы.",
+          "es": "Dame mi reloj.",
+          "fr": "Donne-moi ma montre.",
+          "de": "Gib mir meine Uhr."
+        },
+        "words": [
+          { "correct": "Give",  "alternatives": ["Take", "Show", "Put"] },
+          { "correct": "me",    "alternatives": ["him", "her", "them"] },
+          { "correct": "my",    "alternatives": ["your", "our", "their"] },
+          { "correct": "watch", "alternatives": ["phone", "book", "pen"] }
+        ]
+      },
+      {
+        "id": 9,
+        "sentence_en": "Forget about him.",
+        "translations": {
+          "ru": "Забудь о нём.",
+          "es": "Olvídate de él.",
+          "fr": "Oublie-le.",
+          "de": "Vergiss ihn."
+        },
+        "words": [
+          { "correct": "Forget", "alternatives": ["Remember", "Think", "Know"] },
+          { "correct": "about",  "alternatives": ["for", "of", "to"] },
+          { "correct": "him",    "alternatives": ["her", "them", "us"] }
+        ]
+      },
+      {
+        "id": 10,
+        "sentence_en": "Put that watch here.",
+        "translations": {
+          "ru": "Положи те часы сюда.",
+          "es": "Pon ese reloj aquí.",
+          "fr": "Mets cette montre ici.",
+          "de": "Leg diese Uhr hierher."
+        },
+        "words": [
+          { "correct": "Put",   "alternatives": ["Take", "Give", "Hold"] },
+          { "correct": "that",  "alternatives": ["this", "those", "a"] },
+          { "correct": "watch", "alternatives": ["phone", "pen", "box"] },
+          { "correct": "here",  "alternatives": ["there", "inside", "away"] }
+        ]
+      },
+      {
+        "id": 11,
+        "sentence_en": "Write my letter.",
+        "translations": {
+          "ru": "Напиши моё письмо.",
+          "es": "Escribe mi carta.",
+          "fr": "Écris ma lettre.",
+          "de": "Schreib meinen Brief."
+        },
+        "words": [
+          { "correct": "Write",  "alternatives": ["Read", "Send", "Check"] },
+          { "correct": "my",     "alternatives": ["your", "his", "her"] },
+          { "correct": "letter", "alternatives": ["article", "book", "story"] }
+        ]
+      },
+      {
+        "id": 12,
+        "sentence_en": "Don't send her article.",
+        "translations": {
+          "ru": "Не отправляй её статью.",
+          "es": "No envíes su artículo.",
+          "fr": "N'envoie pas son article.",
+          "de": "Schick ihren Artikel nicht."
+        },
+        "words": [
+          { "correct": "Don't",   "alternatives": ["Do", "Does", "Not"] },
+          { "correct": "send",    "alternatives": ["write", "read", "check"] },
+          { "correct": "her",     "alternatives": ["his", "their", "my"] },
+          { "correct": "article", "alternatives": ["book", "story", "box"] }
+        ]
+      },
+      {
+        "id": 13,
+        "sentence_en": "Wash these oranges.",
+        "translations": {
+          "ru": "Помой эти апельсины.",
+          "es": "Lava estas naranjas.",
+          "fr": "Lave ces oranges.",
+          "de": "Wasch diese Orangen."
+        },
+        "words": [
+          { "correct": "Wash",    "alternatives": ["Dry", "Cut", "Buy"] },
+          { "correct": "these",   "alternatives": ["those", "this", "the"] },
+          { "correct": "oranges", "alternatives": ["apples", "bananas", "pears"] }
+        ]
+      },
+      {
+        "id": 14,
+        "sentence_en": "Write her note.",
+        "translations": {
+          "ru": "Напиши её записку.",
+          "es": "Escribe su nota.",
+          "fr": "Écris sa note.",
+          "de": "Schreib ihre Notiz."
+        },
+        "words": [
+          { "correct": "Write", "alternatives": ["Read", "Send", "Check"] },
+          { "correct": "her",   "alternatives": ["his", "their", "my"] },
+          { "correct": "note",  "alternatives": ["article", "book", "story"] }
+        ]
+      },
+      {
+        "id": 15,
+        "sentence_en": "Don't check the letter.",
+        "translations": {
+          "ru": "Не проверяй письмо.",
+          "es": "No revises la carta.",
+          "fr": "Ne vérifie pas la lettre.",
+          "de": "Überprüfe den Brief nicht."
+        },
+        "words": [
+          { "correct": "Don't",  "alternatives": ["Do", "Does", "Not"] },
+          { "correct": "check",  "alternatives": ["send", "write", "read"] },
+          { "correct": "the",    "alternatives": ["a", "this", "that"] },
+          { "correct": "letter", "alternatives": ["article", "book", "story"] }
+        ]
+      },
+      {
+        "id": 16,
+        "sentence_en": "Put that present here.",
+        "translations": {
+          "ru": "Положи тот подарок сюда.",
+          "es": "Pon ese regalo aquí.",
+          "fr": "Mets ce cadeau ici.",
+          "de": "Leg dieses Geschenk hierher."
+        },
+        "words": [
+          { "correct": "Put",     "alternatives": ["Take", "Move", "Give"] },
+          { "correct": "that",    "alternatives": ["this", "a", "the"] },
+          { "correct": "present", "alternatives": ["box", "toy", "phone"] },
+          { "correct": "here",    "alternatives": ["there", "inside", "away"] }
+        ]
+      },
+      {
+        "id": 17,
+        "sentence_en": "Put my tablet here.",
+        "translations": {
+          "ru": "Положи мой планшет сюда.",
+          "es": "Pon mi tableta aquí.",
+          "fr": "Mets ma tablette ici.",
+          "de": "Leg mein Tablet hierher."
+        },
+        "words": [
+          { "correct": "Put",    "alternatives": ["Take", "Give", "Hide"] },
+          { "correct": "my",     "alternatives": ["your", "his", "her"] },
+          { "correct": "tablet", "alternatives": ["phone", "laptop", "watch"] },
+          { "correct": "here",   "alternatives": ["there", "inside", "away"] }
+        ]
+      },
+      {
+        "id": 18,
+        "sentence_en": "Don't drink this juice.",
+        "translations": {
+          "ru": "Не пей этот сок.",
+          "es": "No bebas este jugo.",
+          "fr": "Ne bois pas ce jus.",
+          "de": "Trink diesen Saft nicht."
+        },
+        "words": [
+          { "correct": "Don't", "alternatives": ["Do", "Does", "Not"] },
+          { "correct": "drink", "alternatives": ["eat", "buy", "wash"] },
+          { "correct": "this",  "alternatives": ["that", "the", "a"] },
+          { "correct": "juice", "alternatives": ["water", "milk", "tea"] }
+        ]
+      },
+      {
+        "id": 19,
+        "sentence_en": "Let him buy.",
+        "translations": {
+          "ru": "Дай ему купить.",
+          "es": "Déjalo comprar.",
+          "fr": "Laisse-le acheter.",
+          "de": "Lass ihn kaufen."
+        },
+        "words": [
+          { "correct": "Let", "alternatives": ["Make", "Lets", "Don't"] },
+          { "correct": "him", "alternatives": ["her", "them", "me"] },
+          { "correct": "buy", "alternatives": ["sell", "take", "eat"] }
+        ]
+      },
+      {
+        "id": 20,
+        "sentence_en": "Close the window.",
+        "translations": {
+          "ru": "Закрой окно.",
+          "es": "Cierra la ventana.",
+          "fr": "Ferme la fenêtre.",
+          "de": "Schließe das Fenster."
+        },
+        "words": [
+          { "correct": "Close",  "alternatives": ["Open", "Move", "Break"] },
+          { "correct": "the",    "alternatives": ["a", "this", "that"] },
+          { "correct": "window", "alternatives": ["door", "box", "book"] }
+        ]
+      },
+      {
+        "id": 21,
+        "sentence_en": "Don't put my toy here.",
+        "translations": {
+          "ru": "Не клади мою игрушку сюда.",
+          "es": "No pongas mi juguete aquí.",
+          "fr": "Ne mets pas mon jouet ici.",
+          "de": "Leg mein Spielzeug nicht hierher."
+        },
+        "words": [
+          { "correct": "Don't", "alternatives": ["Do", "Does", "Not"] },
+          { "correct": "put",   "alternatives": ["take", "hide", "move"] },
+          { "correct": "my",    "alternatives": ["your", "his", "her"] },
+          { "correct": "toy",   "alternatives": ["book", "box", "pen"] },
+          { "correct": "here",  "alternatives": ["there", "inside", "away"] }
+        ]
+      },
+      {
+        "id": 22,
+        "sentence_en": "Go with them.",
+        "translations": {
+          "ru": "Иди с ними.",
+          "es": "Ve con ellos.",
+          "fr": "Va avec eux.",
+          "de": "Geh mit ihnen."
+        },
+        "words": [
+          { "correct": "Go",   "alternatives": ["Stay", "Run", "Walk"] },
+          { "correct": "with", "alternatives": ["without", "to", "for"] },
+          { "correct": "them", "alternatives": ["us", "him", "her"] }
+        ]
+      },
+      {
+        "id": 23,
+        "sentence_en": "Read her note.",
+        "translations": {
+          "ru": "Прочитай её записку.",
+          "es": "Lee su nota.",
+          "fr": "Lis sa note.",
+          "de": "Lies ihre Notiz."
+        },
+        "words": [
+          { "correct": "Read", "alternatives": ["Write", "Send", "Check"] },
+          { "correct": "her",  "alternatives": ["his", "their", "my"] },
+          { "correct": "note", "alternatives": ["article", "book", "story"] }
+        ]
+      },
+      {
+        "id": 24,
+        "sentence_en": "Don't check my note.",
+        "translations": {
+          "ru": "Не проверяй мою записку.",
+          "es": "No revises mi nota.",
+          "fr": "Ne vérifie pas ma note.",
+          "de": "Überprüfe meine Notiz nicht."
+        },
+        "words": [
+          { "correct": "Don't", "alternatives": ["Do", "Does", "Not"] },
+          { "correct": "check", "alternatives": ["read", "write", "send"] },
+          { "correct": "my",    "alternatives": ["your", "his", "her"] },
+          { "correct": "note",  "alternatives": ["article", "book", "story"] }
+        ]
+      },
+      {
+        "id": 25,
+        "sentence_en": "Don't read this article.",
+        "translations": {
+          "ru": "Не читай эту статью.",
+          "es": "No leas este artículo.",
+          "fr": "Ne lis pas cet article.",
+          "de": "Lies diesen Artikel nicht."
+        },
+        "words": [
+          { "correct": "Don't",   "alternatives": ["Do", "Does", "Not"] },
+          { "correct": "read",    "alternatives": ["write", "send", "check"] },
+          { "correct": "this",    "alternatives": ["that", "the", "an"] },
+          { "correct": "article", "alternatives": ["book", "story", "box"] }
+        ]
+      },
+      {
+        "id": 26,
+        "sentence_en": "Move that nightstand.",
+        "translations": {
+          "ru": "Подвинь ту тумбочку.",
+          "es": "Mueve esa mesita de noche.",
+          "fr": "Déplace cette table de nuit.",
+          "de": "Rücke den Nachttisch."
+        },
+        "words": [
+          { "correct": "Move",       "alternatives": ["Lift", "Push", "Turn"] },
+          { "correct": "that",       "alternatives": ["this", "the", "a"] },
+          { "correct": "nightstand", "alternatives": ["table", "chair", "box"] }
+        ]
+      },
+      {
+        "id": 27,
+        "sentence_en": "Swim to us.",
+        "translations": {
+          "ru": "Плыви к нам.",
+          "es": "Nada hacia nosotros.",
+          "fr": "Nage vers nous.",
+          "de": "Schwimme zu uns."
+        },
+        "words": [
+          { "correct": "Swim", "alternatives": ["Run", "Walk", "Ride"] },
+          { "correct": "to",   "alternatives": ["from", "with", "for"] },
+          { "correct": "us",   "alternatives": ["them", "him", "her"] }
+        ]
+      },
+      {
+        "id": 28,
+        "sentence_en": "Don't take his toy.",
+        "translations": {
+          "ru": "Не бери его игрушку.",
+          "es": "No tomes su juguete.",
+          "fr": "Ne prends pas son jouet.",
+          "de": "Nimm sein Spielzeug nicht."
+        },
+        "words": [
+          { "correct": "Don't", "alternatives": ["Do", "Does", "Not"] },
+          { "correct": "take",  "alternatives": ["put", "buy", "sell"] },
+          { "correct": "his",   "alternatives": ["her", "their", "my"] },
+          { "correct": "toy",   "alternatives": ["book", "pen", "box"] }
+        ]
+      },
+      {
+        "id": 29,
+        "sentence_en": "Don't put this toy here.",
+        "translations": {
+          "ru": "Не клади эту игрушку сюда.",
+          "es": "No pongas este juguete aquí.",
+          "fr": "Ne mets pas ce jouet ici.",
+          "de": "Leg dieses Spielzeug nicht hierher."
+        },
+        "words": [
+          { "correct": "Don't", "alternatives": ["Do", "Does", "Not"] },
+          { "correct": "put",   "alternatives": ["take", "hide", "move"] },
+          { "correct": "this",  "alternatives": ["that", "the", "a"] },
+          { "correct": "toy",   "alternatives": ["book", "box", "pen"] },
+          { "correct": "here",  "alternatives": ["there", "inside", "away"] }
+        ]
+      },
+      {
+        "id": 30,
+        "sentence_en": "Close the box.",
+        "translations": {
+          "ru": "Закрой коробку.",
+          "es": "Cierra la caja.",
+          "fr": "Ferme la boîte.",
+          "de": "Schließe die Schachtel."
+        },
+        "words": [
+          { "correct": "Close", "alternatives": ["Open", "Move", "Break"] },
+          { "correct": "the",   "alternatives": ["a", "this", "that"] },
+          { "correct": "box",   "alternatives": ["bag", "door", "book"] }
+        ]
+      },
+      {
+        "id": 31,
+        "sentence_en": "Don't seek my toy.",
+        "translations": {
+          "ru": "Не ищи мою игрушку.",
+          "es": "No busques mi juguete.",
+          "fr": "Ne cherche pas mon jouet.",
+          "de": "Such mein Spielzeug nicht."
+        },
+        "words": [
+          { "correct": "Don't", "alternatives": ["Do", "Does", "Not"] },
+          { "correct": "seek",  "alternatives": ["find", "hide", "take"] },
+          { "correct": "my",    "alternatives": ["your", "his", "her"] },
+          { "correct": "toy",   "alternatives": ["book", "box", "pen"] }
+        ]
+      },
+      {
+        "id": 32,
+        "sentence_en": "Work without him.",
+        "translations": {
+          "ru": "Работай без него.",
+          "es": "Trabaja sin él.",
+          "fr": "Travaille sans lui.",
+          "de": "Arbeite ohne ihn."
+        },
+        "words": [
+          { "correct": "Work",    "alternatives": ["Play", "Run", "Walk"] },
+          { "correct": "without", "alternatives": ["with", "to", "for"] },
+          { "correct": "him",     "alternatives": ["her", "them", "me"] }
+        ]
+      },
+      {
+        "id": 33,
+        "sentence_en": "Run to him.",
+        "translations": {
+          "ru": "Беги к нему.",
+          "es": "Corre hacia él.",
+          "fr": "Cours vers lui.",
+          "de": "Lauf zu ihm."
+        },
+        "words": [
+          { "correct": "Run", "alternatives": ["Walk", "Go", "Jump"] },
+          { "correct": "to",  "alternatives": ["from", "with", "for"] },
+          { "correct": "him", "alternatives": ["her", "them", "us"] }
+        ]
+      },
+      {
+        "id": 34,
+        "sentence_en": "Repair your nightstand.",
+        "translations": {
+          "ru": "Отремонтируй свою тумбочку.",
+          "es": "Repara tu mesita de noche.",
+          "fr": "Répare ta table de nuit.",
+          "de": "Repariere deinen Nachttisch."
+        },
+        "words": [
+          { "correct": "Repair",     "alternatives": ["Break", "Sell", "Move"] },
+          { "correct": "your",       "alternatives": ["my", "his", "her"] },
+          { "correct": "nightstand", "alternatives": ["table", "chair", "box"] }
+        ]
+      },
+      {
+        "id": 35,
+        "sentence_en": "Think about me.",
+        "translations": {
+          "ru": "Подумай обо мне.",
+          "es": "Piensa en mí.",
+          "fr": "Pense à moi.",
+          "de": "Denk an mich."
+        },
+        "words": [
+          { "correct": "Think", "alternatives": ["Talk", "Walk", "Run"] },
+          { "correct": "about", "alternatives": ["for", "to", "with"] },
+          { "correct": "me",    "alternatives": ["you", "him", "her"] }
+        ]
+      },
+      {
+        "id": 36,
+        "sentence_en": "Don't break his tablet.",
+        "translations": {
+          "ru": "Не ломай его планшет.",
+          "es": "No rompas su tableta.",
+          "fr": "Ne casse pas sa tablette.",
+          "de": "Zerbrich sein Tablet nicht."
+        },
+        "words": [
+          { "correct": "Don't",  "alternatives": ["Do", "Does", "Not"] },
+          { "correct": "break",  "alternatives": ["repair", "buy", "take"] },
+          { "correct": "his",    "alternatives": ["her", "their", "my"] },
+          { "correct": "tablet", "alternatives": ["phone", "laptop", "watch"] }
+        ]
+      },
+      {
+        "id": 37,
+        "sentence_en": "Write his letter.",
+        "translations": {
+          "ru": "Напиши его письмо.",
+          "es": "Escribe su carta.",
+          "fr": "Écris sa lettre.",
+          "de": "Schreib seinen Brief."
+        },
+        "words": [
+          { "correct": "Write",  "alternatives": ["Read", "Send", "Check"] },
+          { "correct": "his",    "alternatives": ["her", "their", "my"] },
+          { "correct": "letter", "alternatives": ["note", "article", "email"] }
+        ]
+      },
+      {
+        "id": 38,
+        "sentence_en": "Don't take these oranges.",
+        "translations": {
+          "ru": "Не бери эти апельсины.",
+          "es": "No tomes estas naranjas.",
+          "fr": "Ne prends pas ces oranges.",
+          "de": "Nimm diese Orangen nicht."
+        },
+        "words": [
+          { "correct": "Don't",   "alternatives": ["Do", "Does", "Not"] },
+          { "correct": "take",    "alternatives": ["put", "buy", "sell"] },
+          { "correct": "these",   "alternatives": ["those", "this", "the"] },
+          { "correct": "oranges", "alternatives": ["grapes", "pears", "apples"] }
+        ]
+      },
+      {
+        "id": 39,
+        "sentence_en": "Go without us.",
+        "translations": {
+          "ru": "Иди без нас.",
+          "es": "Ve sin nosotros.",
+          "fr": "Va sans nous.",
+          "de": "Geh ohne uns."
+        },
+        "words": [
+          { "correct": "Go",      "alternatives": ["Stay", "Run", "Walk"] },
+          { "correct": "without", "alternatives": ["with", "to", "for"] },
+          { "correct": "us",      "alternatives": ["them", "him", "her"] }
+        ]
+      },
+      {
+        "id": 40,
+        "sentence_en": "Finish without me.",
+        "translations": {
+          "ru": "Заканчивай без меня.",
+          "es": "Termina sin mí.",
+          "fr": "Termine sans moi.",
+          "de": "Beende es ohne mich."
+        },
+        "words": [
+          { "correct": "Finish",  "alternatives": ["Start", "Begin", "Open"] },
+          { "correct": "without", "alternatives": ["with", "to", "for"] },
+          { "correct": "me",      "alternatives": ["you", "him", "her"] }
+        ]
+      },
+      {
+        "id": 41,
+        "sentence_en": "Don't put my phone here.",
+        "translations": {
+          "ru": "Не клади мой телефон сюда.",
+          "es": "No pongas mi teléfono aquí.",
+          "fr": "Ne mets pas mon téléphone ici.",
+          "de": "Leg mein Handy nicht hierher."
+        },
+        "words": [
+          { "correct": "Don't", "alternatives": ["Do", "Does", "Not"] },
+          { "correct": "put",   "alternatives": ["take", "hide", "move"] },
+          { "correct": "my",    "alternatives": ["your", "his", "her"] },
+          { "correct": "phone", "alternatives": ["tablet", "watch", "book"] },
+          { "correct": "here",  "alternatives": ["there", "inside", "away"] }
+        ]
+      },
+      {
+        "id": 42,
+        "sentence_en": "Install my game.",
+        "translations": {
+          "ru": "Установи мою игру.",
+          "es": "Instala mi juego.",
+          "fr": "Installe mon jeu.",
+          "de": "Installiere mein Spiel."
+        },
+        "words": [
+          { "correct": "Install", "alternatives": ["Delete", "Move", "Open"] },
+          { "correct": "my",      "alternatives": ["your", "his", "her"] },
+          { "correct": "game",    "alternatives": ["app", "song", "file"] }
+        ]
+      },
+      {
+        "id": 43,
+        "sentence_en": "Don't turn this nightstand.",
+        "translations": {
+          "ru": "Не поворачивай эту тумбочку.",
+          "es": "No gires esta mesita de noche.",
+          "fr": "Ne tourne pas cette table de nuit.",
+          "de": "Dreh diesen Nachttisch nicht."
+        },
+        "words": [
+          { "correct": "Don't",      "alternatives": ["Do", "Does", "Not"] },
+          { "correct": "turn",       "alternatives": ["move", "lift", "open"] },
+          { "correct": "this",       "alternatives": ["that", "the", "a"] },
+          { "correct": "nightstand", "alternatives": ["table", "chair", "box"] }
+        ]
+      },
+      {
+        "id": 44,
+        "sentence_en": "Don't check my letter.",
+        "translations": {
+          "ru": "Не проверяй моё письмо.",
+          "es": "No revises mi carta.",
+          "fr": "Ne vérifie pas ma lettre.",
+          "de": "Überprüfe meinen Brief nicht."
+        },
+        "words": [
+          { "correct": "Don't",  "alternatives": ["Do", "Does", "Not"] },
+          { "correct": "check",  "alternatives": ["read", "write", "send"] },
+          { "correct": "my",     "alternatives": ["your", "his", "her"] },
+          { "correct": "letter", "alternatives": ["note", "article", "book"] }
+        ]
+      },
+      {
+        "id": 45,
+        "sentence_en": "Buy without them.",
+        "translations": {
+          "ru": "Покупай без них.",
+          "es": "Compra sin ellos.",
+          "fr": "Achète sans eux.",
+          "de": "Kauf ohne sie."
+        },
+        "words": [
+          { "correct": "Buy",     "alternatives": ["Sell", "Take", "Give"] },
+          { "correct": "without", "alternatives": ["with", "to", "for"] },
+          { "correct": "them",    "alternatives": ["us", "him", "her"] }
+        ]
+      },
+      {
+        "id": 46,
+        "sentence_en": "Don't seek her tablet.",
+        "translations": {
+          "ru": "Не ищи её планшет.",
+          "es": "No busques su tableta.",
+          "fr": "Ne cherche pas sa tablette.",
+          "de": "Such ihr Tablet nicht."
+        },
+        "words": [
+          { "correct": "Don't",  "alternatives": ["Do", "Does", "Not"] },
+          { "correct": "seek",   "alternatives": ["find", "buy", "take"] },
+          { "correct": "her",    "alternatives": ["his", "their", "my"] },
+          { "correct": "tablet", "alternatives": ["phone", "laptop", "watch"] }
+        ]
+      },
+      {
+        "id": 47,
+        "sentence_en": "Hide my pencil.",
+        "translations": {
+          "ru": "Спрячь мой карандаш.",
+          "es": "Esconde mi lápiz.",
+          "fr": "Cache mon crayon.",
+          "de": "Versteck meinen Bleistift."
+        },
+        "words": [
+          { "correct": "Hide",   "alternatives": ["Show", "Give", "Take"] },
+          { "correct": "my",     "alternatives": ["your", "his", "her"] },
+          { "correct": "pencil", "alternatives": ["pen", "book", "box"] }
+        ]
+      },
+      {
+        "id": 48,
+        "sentence_en": "Don't move her tablet.",
+        "translations": {
+          "ru": "Не двигай её планшет.",
+          "es": "No muevas su tableta.",
+          "fr": "Ne déplace pas sa tablette.",
+          "de": "Bewege ihr Tablet nicht."
+        },
+        "words": [
+          { "correct": "Don't",  "alternatives": ["Do", "Does", "Not"] },
+          { "correct": "move",   "alternatives": ["break", "sell", "buy"] },
+          { "correct": "her",    "alternatives": ["his", "their", "my"] },
+          { "correct": "tablet", "alternatives": ["phone", "laptop", "watch"] }
+        ]
+      },
+      {
+        "id": 49,
+        "sentence_en": "Don't hide his phone.",
+        "translations": {
+          "ru": "Не прячь его телефон.",
+          "es": "No escondas su teléfono.",
+          "fr": "Ne cache pas son téléphone.",
+          "de": "Versteck sein Handy nicht."
+        },
+        "words": [
+          { "correct": "Don't", "alternatives": ["Do", "Does", "Not"] },
+          { "correct": "hide",  "alternatives": ["show", "take", "buy"] },
+          { "correct": "his",   "alternatives": ["her", "their", "my"] },
+          { "correct": "phone", "alternatives": ["tablet", "watch", "book"] }
+        ]
+      },
+      {
+        "id": 50,
+        "sentence_en": "Don't turn that nightstand.",
+        "translations": {
+          "ru": "Не поворачивай ту тумбочку.",
+          "es": "No gires esa mesita de noche.",
+          "fr": "Ne tourne pas cette table de nuit.",
+          "de": "Dreh diesen Nachttisch nicht."
+        },
+        "words": [
+          { "correct": "Don't",      "alternatives": ["Do", "Does", "Not"] },
+          { "correct": "turn",       "alternatives": ["move", "lift", "open"] },
+          { "correct": "that",       "alternatives": ["this", "the", "a"] },
+          { "correct": "nightstand", "alternatives": ["table", "chair", "box"] }
+        ]
+      },
+      {
+        "id": 51,
+        "sentence_en": "Write my note.",
+        "translations": {
+          "ru": "Напиши мою записку.",
+          "es": "Escribe mi nota.",
+          "fr": "Écris ma note.",
+          "de": "Schreib meine Notiz."
+        },
+        "words": [
+          { "correct": "Write", "alternatives": ["Read", "Check", "Send"] },
+          { "correct": "my",    "alternatives": ["your", "his", "her"] },
+          { "correct": "note",  "alternatives": ["letter", "article", "book"] }
+        ]
+      },
+      {
+        "id": 52,
+        "sentence_en": "Don't turn my tablet.",
+        "translations": {
+          "ru": "Не поворачивай мой планшет.",
+          "es": "No gires mi tableta.",
+          "fr": "Ne tourne pas ma tablette.",
+          "de": "Dreh mein Tablet nicht."
+        },
+        "words": [
+          { "correct": "Don't",  "alternatives": ["Do", "Does", "Not"] },
+          { "correct": "turn",   "alternatives": ["move", "break", "open"] },
+          { "correct": "my",     "alternatives": ["your", "his", "her"] },
+          { "correct": "tablet", "alternatives": ["phone", "laptop", "watch"] }
+        ]
+      },
+      {
+        "id": 53,
+        "sentence_en": "Check his notice.",
+        "translations": {
+          "ru": "Проверь его уведомление.",
+          "es": "Revisa su aviso.",
+          "fr": "Vérifie son avis.",
+          "de": "Überprüfe seine Notiz."
+        },
+        "words": [
+          { "correct": "Check",  "alternatives": ["Read", "Write", "Hide"] },
+          { "correct": "his",    "alternatives": ["her", "their", "my"] },
+          { "correct": "notice", "alternatives": ["article", "book", "story"] }
+        ]
+      },
+      {
+        "id": 54,
+        "sentence_en": "Don't take my watch.",
+        "translations": {
+          "ru": "Не бери мои часы.",
+          "es": "No tomes mi reloj.",
+          "fr": "Ne prends pas ma montre.",
+          "de": "Nimm meine Uhr nicht."
+        },
+        "words": [
+          { "correct": "Don't", "alternatives": ["Do", "Does", "Not"] },
+          { "correct": "take",  "alternatives": ["put", "buy", "sell"] },
+          { "correct": "my",    "alternatives": ["your", "his", "her"] },
+          { "correct": "watch", "alternatives": ["phone", "book", "pen"] }
+        ]
+      },
+      {
+        "id": 55,
+        "sentence_en": "Work without us.",
+        "translations": {
+          "ru": "Работай без нас.",
+          "es": "Trabaja sin nosotros.",
+          "fr": "Travaille sans nous.",
+          "de": "Arbeite ohne uns."
+        },
+        "words": [
+          { "correct": "Work",    "alternatives": ["Play", "Run", "Walk"] },
+          { "correct": "without", "alternatives": ["with", "to", "for"] },
+          { "correct": "us",      "alternatives": ["them", "him", "her"] }
+        ]
+      },
+      {
+        "id": 56,
+        "sentence_en": "Take her pencil.",
+        "translations": {
+          "ru": "Возьми её карандаш.",
+          "es": "Toma su lápiz.",
+          "fr": "Prends son crayon.",
+          "de": "Nimm ihren Bleistift."
+        },
+        "words": [
+          { "correct": "Take",   "alternatives": ["Put", "Give", "Hide"] },
+          { "correct": "her",    "alternatives": ["his", "their", "my"] },
+          { "correct": "pencil", "alternatives": ["pen", "book", "box"] }
+        ]
+      },
+      {
+        "id": 57,
+        "sentence_en": "Don't repair that lamp.",
+        "translations": {
+          "ru": "Не ремонтируй ту лампу.",
+          "es": "No repares esa lámpara.",
+          "fr": "Ne répare pas cette lampe.",
+          "de": "Repariere diese Lampe nicht."
+        },
+        "words": [
+          { "correct": "Don't",  "alternatives": ["Do", "Does", "Not"] },
+          { "correct": "repair", "alternatives": ["break", "move", "sell"] },
+          { "correct": "that",   "alternatives": ["this", "the", "a"] },
+          { "correct": "lamp",   "alternatives": ["light", "phone", "box"] }
+        ]
+      },
+      {
+        "id": 58,
+        "sentence_en": "Go with me.",
+        "translations": {
+          "ru": "Иди со мной.",
+          "es": "Ve conmigo.",
+          "fr": "Viens avec moi.",
+          "de": "Geh mit mir."
+        },
+        "words": [
+          { "correct": "Go",   "alternatives": ["Stay", "Run", "Walk"] },
+          { "correct": "with", "alternatives": ["without", "to", "for"] },
+          { "correct": "me",   "alternatives": ["you", "him", "her"] }
+        ]
+      },
+      {
+        "id": 59,
+        "sentence_en": "Show me your car.",
+        "translations": {
+          "ru": "Покажи мне свою машину.",
+          "es": "Muéstrame tu coche.",
+          "fr": "Montre-moi ta voiture.",
+          "de": "Zeig mir dein Auto."
+        },
+        "words": [
+          { "correct": "Show", "alternatives": ["Hide", "Give", "Buy"] },
+          { "correct": "me",   "alternatives": ["you", "him", "her"] },
+          { "correct": "your", "alternatives": ["my", "his", "their"] },
+          { "correct": "car",  "alternatives": ["bike", "bus", "train"] }
+        ]
+      },
+      {
+        "id": 60,
+        "sentence_en": "Run with us.",
+        "translations": {
+          "ru": "Беги с нами.",
+          "es": "Corre con nosotros.",
+          "fr": "Cours avec nous.",
+          "de": "Lauf mit uns."
+        },
+        "words": [
+          { "correct": "Run",  "alternatives": ["Walk", "Go", "Jump"] },
+          { "correct": "with", "alternatives": ["without", "to", "for"] },
+          { "correct": "us",   "alternatives": ["them", "him", "her"] }
+        ]
+      },
+      {
+        "id": 61,
+        "sentence_en": "Read the article.",
+        "translations": {
+          "ru": "Прочитай статью.",
+          "es": "Lee el artículo.",
+          "fr": "Lis l'article.",
+          "de": "Lies den Artikel."
+        },
+        "words": [
+          { "correct": "Read",    "alternatives": ["Write", "Send", "Check"] },
+          { "correct": "the",     "alternatives": ["a", "this", "that"] },
+          { "correct": "article", "alternatives": ["book", "story", "box"] }
+        ]
+      },
+      {
+        "id": 62,
+        "sentence_en": "Don't hide her watch.",
+        "translations": {
+          "ru": "Не прячь её часы.",
+          "es": "No escondas su reloj.",
+          "fr": "Ne cache pas sa montre.",
+          "de": "Versteck ihre Uhr nicht."
+        },
+        "words": [
+          { "correct": "Don't", "alternatives": ["Do", "Does", "Not"] },
+          { "correct": "hide",  "alternatives": ["show", "take", "buy"] },
+          { "correct": "her",   "alternatives": ["his", "their", "my"] },
+          { "correct": "watch", "alternatives": ["phone", "clock", "pen"] }
+        ]
+      },
+      {
+        "id": 63,
+        "sentence_en": "Seek his tablet.",
+        "translations": {
+          "ru": "Ищи его планшет.",
+          "es": "Busca su tableta.",
+          "fr": "Cherche sa tablette.",
+          "de": "Such sein Tablet."
+        },
+        "words": [
+          { "correct": "Seek",   "alternatives": ["Find", "Take", "Hide"] },
+          { "correct": "his",    "alternatives": ["her", "their", "my"] },
+          { "correct": "tablet", "alternatives": ["phone", "laptop", "watch"] }
+        ]
+      },
+      {
+        "id": 64,
+        "sentence_en": "Don't send his note.",
+        "translations": {
+          "ru": "Не отправляй его записку.",
+          "es": "No envíes su nota.",
+          "fr": "N'envoie pas sa note.",
+          "de": "Schick seine Notiz nicht."
+        },
+        "words": [
+          { "correct": "Don't", "alternatives": ["Do", "Does", "Not"] },
+          { "correct": "send",  "alternatives": ["write", "read", "check"] },
+          { "correct": "his",   "alternatives": ["her", "their", "my"] },
+          { "correct": "note",  "alternatives": ["letter", "article", "book"] }
+        ]
+      },
+      {
+        "id": 65,
+        "sentence_en": "Dance with him.",
+        "translations": {
+          "ru": "Потанцуй с ним.",
+          "es": "Baila con él.",
+          "fr": "Danse avec lui.",
+          "de": "Tanz mit ihm."
+        },
+        "words": [
+          { "correct": "Dance", "alternatives": ["Run", "Walk", "Sit"] },
+          { "correct": "with",  "alternatives": ["without", "to", "for"] },
+          { "correct": "him",   "alternatives": ["her", "them", "me"] }
+        ]
+      },
+      {
+        "id": 66,
+        "sentence_en": "Don't take this present.",
+        "translations": {
+          "ru": "Не бери этот подарок.",
+          "es": "No tomes este regalo.",
+          "fr": "Ne prends pas ce cadeau.",
+          "de": "Nimm dieses Geschenk nicht."
+        },
+        "words": [
+          { "correct": "Don't",   "alternatives": ["Do", "Does", "Not"] },
+          { "correct": "take",    "alternatives": ["give", "put", "buy"] },
+          { "correct": "this",    "alternatives": ["that", "these", "those"] },
+          { "correct": "present", "alternatives": ["box", "toy", "phone"] }
+        ]
+      },
+      {
+        "id": 67,
+        "sentence_en": "Let her send the letter.",
+        "translations": {
+          "ru": "Пусть она отправит письмо.",
+          "es": "Deja que ella envíe la carta.",
+          "fr": "Laisse-la envoyer la lettre.",
+          "de": "Lass sie den Brief schicken."
+        },
+        "words": [
+          { "correct": "Let",    "alternatives": ["Make", "Don't", "Lets"] },
+          { "correct": "her",    "alternatives": ["him", "them", "me"] },
+          { "correct": "send",   "alternatives": ["write", "read", "take"] },
+          { "correct": "the",    "alternatives": ["a", "this", "that"] },
+          { "correct": "letter", "alternatives": ["note", "email", "article"] }
+        ]
+      },
+      {
+        "id": 68,
+        "sentence_en": "Don't turn his nightstand.",
+        "translations": {
+          "ru": "Не поворачивай его тумбочку.",
+          "es": "No gires su mesita de noche.",
+          "fr": "Ne tourne pas sa table de nuit.",
+          "de": "Dreh seinen Nachttisch nicht."
+        },
+        "words": [
+          { "correct": "Don't",      "alternatives": ["Do", "Does", "Not"] },
+          { "correct": "turn",       "alternatives": ["move", "lift", "open"] },
+          { "correct": "his",        "alternatives": ["her", "their", "my"] },
+          { "correct": "nightstand", "alternatives": ["table", "chair", "box"] }
+        ]
+      },
+      {
+        "id": 69,
+        "sentence_en": "Sell without us.",
+        "translations": {
+          "ru": "Продавай без нас.",
+          "es": "Vende sin nosotros.",
+          "fr": "Vends sans nous.",
+          "de": "Verkaufe ohne uns."
+        },
+        "words": [
+          { "correct": "Sell",    "alternatives": ["Buy", "Take", "Give"] },
+          { "correct": "without", "alternatives": ["with", "to", "for"] },
+          { "correct": "us",      "alternatives": ["them", "him", "her"] }
+        ]
+      },
+      {
+        "id": 70,
+        "sentence_en": "Don't move my nightstand.",
+        "translations": {
+          "ru": "Не двигай мою тумбочку.",
+          "es": "No muevas mi mesita de noche.",
+          "fr": "Ne déplace pas ma table de nuit.",
+          "de": "Bewege meinen Nachttisch nicht."
+        },
+        "words": [
+          { "correct": "Don't",      "alternatives": ["Do", "Does", "Not"] },
+          { "correct": "move",       "alternatives": ["turn", "lift", "open"] },
+          { "correct": "my",         "alternatives": ["your", "his", "her"] },
+          { "correct": "nightstand", "alternatives": ["table", "chair", "box"] }
+        ]
+      },
+      {
+        "id": 71,
+        "sentence_en": "Move your table.",
+        "translations": {
+          "ru": "Подвинь свой стол.",
+          "es": "Mueve tu mesa.",
+          "fr": "Déplace ta table.",
+          "de": "Rücke deinen Tisch."
+        },
+        "words": [
+          { "correct": "Move",  "alternatives": ["Lift", "Turn", "Push"] },
+          { "correct": "your",  "alternatives": ["my", "his", "her"] },
+          { "correct": "table", "alternatives": ["chair", "box", "desk"] }
+        ]
+      },
+      {
+        "id": 72,
+        "sentence_en": "Play with us.",
+        "translations": {
+          "ru": "Поиграй с нами.",
+          "es": "Juega con nosotros.",
+          "fr": "Joue avec nous.",
+          "de": "Spiel mit uns."
+        },
+        "words": [
+          { "correct": "Play",  "alternatives": ["Work", "Run", "Walk"] },
+          { "correct": "with",  "alternatives": ["without", "to", "for"] },
+          { "correct": "us",    "alternatives": ["them", "him", "her"] }
+        ]
+      },
+      {
+        "id": 73,
+        "sentence_en": "Read the notice.",
+        "translations": {
+          "ru": "Прочитай уведомление.",
+          "es": "Lee el aviso.",
+          "fr": "Lis l'avis.",
+          "de": "Lies die Notiz."
+        },
+        "words": [
+          { "correct": "Read",    "alternatives": ["Write", "Send", "Check"] },
+          { "correct": "the",     "alternatives": ["a", "this", "that"] },
+          { "correct": "notice",  "alternatives": ["article", "note", "letter"] }
+        ]
+      },
+      {
+        "id": 74,
+        "sentence_en": "Hide her tablet.",
+        "translations": {
+          "ru": "Спрячь её планшет.",
+          "es": "Esconde su tableta.",
+          "fr": "Cache sa tablette.",
+          "de": "Versteck ihr Tablet."
+        },
+        "words": [
+          { "correct": "Hide",   "alternatives": ["Show", "Give", "Take"] },
+          { "correct": "her",    "alternatives": ["his", "their", "my"] },
+          { "correct": "tablet", "alternatives": ["phone", "laptop", "watch"] }
+        ]
+      }
+    ]          
+  }           
+}

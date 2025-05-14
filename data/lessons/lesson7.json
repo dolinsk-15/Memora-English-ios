@@ -1,0 +1,2850 @@
+{
+  "id": 7,
+  "title": {
+    "english": "Countable and Uncountable Nouns",
+    "russian": "Исчисляемые и неисчисляемые существительные",
+    "spanish": "Sustantivos contables e incontables",
+    "french": "Noms dénombrables et indénombrables",
+    "german": "Zählbare und nicht zählbare Substantive"
+  },
+  "description": {
+    "english": "In this lesson, we will learn about countable and uncountable nouns, and quantifiers like much/many and little/few.",
+    "russian": "В этом уроке мы рассмотрим исчисляемые и неисчисляемые существительные, а также слова-определители количества: much/many и little/few.",
+    "spanish": "En esta lección, aprenderemos sobre sustantivos contables e incontables, y cuantificadores como much/many y little/few.",
+    "french": "Dans cette leçon, nous apprendrons les noms dénombrables et indénombrables, ainsi que les quantificateurs comme much/many et little/few.",
+    "german": "In dieser Lektion lernen wir zählbare und nicht zählbare Substantive sowie Mengenwörter wie much/many und little/few."
+  },
+  "detailedDescription": {
+    "russian": {
+      "title": "Урок 7 — Исчисляемые и неисчисляемые существительные",
+      "sections": [
+        {
+          "type": "text",
+          "content": "В английском языке, как и в русском, существительные делятся на исчисляемые и неисчисляемые.\nИсчисляемые можно посчитать. Например: одна книга (one book), две книги (two books) и т.д.\nНеисчисляемые нельзя посчитать. Например: вода (water), соль (salt), бумага (paper)."
+        },
+        {
+          "type": "text",
+          "content": "Вроде бы все просто, но есть слова, которые вызывают сложности в определении — исчисляемые они или нет, плюс слова-исключения. Рассмотрим некоторые из них:"
+        },
+        {
+          "type": "text",
+          "content": "• **money** (деньги) — неисчисляемое.\nРазве мы не умеем считать деньги? Умеем, но делаем это с помощью других слов (монетки, рубли, доллары и т.д.)\n• **news** (новости) — неисчисляемое.\nВ русском можно сказать: \"У меня две новости\".\nНо в английском новости считаются кусочками (piece или bit):\nI have two pieces of news.\n• **people** (люди) — исчисляемое.\nTwo people (два человека), three people (три человека), но one person (один человек)."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Much / Many"
+        },
+        {
+          "type": "text",
+          "content": "Слова **much**, **many** (много, многое, многие) могут использоваться как дополнение к существительному, так и употребляться вместо него."
+        },
+        {
+          "type": "text",
+          "content": "**Much** употребляется только с неисчисляемыми существительными или вместо них:\n• How **much** money did he spend? — Сколько денег он потратил?\n• You haven't **much** time if you want to catch the bus. — У тебя немного времени, если хочешь успеть на этот автобус.\n• Not **much** was written about it. — Немного было написано об этом.\n• He does not eat **much**. — Он не ест много."
+        },
+        {
+          "type": "text",
+          "content": "**Many** употребляется только с исчисляемыми существительными или вместо них:\n• How **many** books do you have? — Сколько у тебя книг?\n• How **many** pupils are in this class? — Как много учеников в этом классе?\n• **Many** like to play football. — Многие любят играть в футбол.\n• Not **many** have heard of her. — Немногие о ней слышали."
+        },
+        {
+          "type": "text",
+          "content": "В современном английском языке часто вместо слов **much** и **many** используется их синоним **a lot of** (lots of).\n**A lot of** используется как с исчисляемыми, так и с неисчисляемыми существительными:\n• He always makes **a lot of** mistakes. — Он всегда делает много ошибок.\n• We have **a lot of** bags. — У нас много сумок."
+        },
+        {
+          "type": "text",
+          "content": "Если перед словом \"много\" стоит too (слишком), very (очень), so (так), how (как), as (также) — нужно использовать much и many.\nИспользование a lot of в этих случаях некорректно.\n• I have so much work to do — У меня так много работы.\n• She works too much. — Она работает слишком много.\n• You have made very many mistakes — Вы сделали очень много ошибок."
+        },
+        {
+          "type": "text",
+          "content": "В данном уроке выражение a lot of не используется. Отрабатываются только much и many."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Little / Few"
+        },
+        {
+          "type": "text",
+          "content": "Слова **little**, **few** (мало, недостаточно) могут использоваться как дополнение к существительному, так и употребляться вместо него."
+        },
+        {
+          "type": "text",
+          "content": "**Little** употребляется только с неисчисляемыми существительными:\n• We have **little** money. — У нас мало денег.\n• She ate very **little** at lunch. — Она поела очень мало в обед.\n• **Little** has been said about this event. — Мало было сказано об этом событии.\n• John spends **little** time with his family. — Джон проводит мало времени со своей семьей."
+        },
+        {
+          "type": "text",
+          "content": "**Few** употребляется только с исчисляемыми существительными:\n• He has **few** friends. — У него мало друзей.\n• **Few** managers admit their mistakes. — Мало руководителей признают свои ошибки.\n• He has read **few** books. — Он прочитал мало книг.\n• Many people were invited but **few** came. — Много людей было приглашено, но мало кто пришёл."
+        },
+        {
+          "type": "text",
+          "content": "**Little** и **few** могут употребляться с неопределенным артиклем в значении немного, несколько.\nРассмотрим в сравнении:\n• I have **a little** time. — У меня есть немного времени.\n• I have **little** time. — У меня есть мало времени.\n• I know **a few** words in Spanish. — Я знаю несколько слов по-испански.\n• I know **few** words in Spanish. — Я знаю мало слов по-испански.\n• I took **a few** photos. — Я сделал несколько фотографий.\n(Примечание: to take a photo – фотографировать.)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Слова-параметры"
+        },
+        {
+          "type": "table",
+          "headers": ["Категория", "Английский", "Перевод на русский"],
+          "rows": [
+            ["Люди", "everybody, everyone", "все"],
+            ["", "somebody, someone", "кто-то, кто-нибудь"],
+            ["", "anybody, anyone", "кто угодно, кто-нибудь"],
+            ["", "nobody, no one", "никто"],
+            ["Предметы", "everything", "всё"],
+            ["", "something", "что-то, что-нибудь"],
+            ["", "anything", "что угодно, что-нибудь"],
+            ["", "nothing", "ничего"],
+            ["Место", "everywhere", "везде"],
+            ["", "somewhere", "где-то, где-нибудь"],
+            ["", "anywhere", "где угодно, где-нибудь"],
+            ["", "nowhere", "нигде"],
+            ["Время", "always", "всегда"],
+            ["", "sometimes", "когда-то, иногда"],
+            ["", "never", "никогда"]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Примеры:"
+        },
+        {
+          "type": "text",
+          "content": "• He sees **everybody** — Он видит всех.\n• He speaks to **somebody**. — Он говорит с кем-то.\n• I saw him **somewhere**. — Я видел его где-то.\n• I **always** tell the truth. — Я всегда говорю правду.\n• I saw **someone** there. — Я видел кого-то там.\n• **Anyone** can help you. — Кто угодно может помочь тебе.\n• We bought **everything**. — Мы купили всё.\n• You can buy it **anywhere**. — Ты можешь купить это где угодно.\n• You will **sometimes** hear them. — Ты иногда будешь слышать их."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Пояснение по порядку слов:"
+        },
+        {
+          "type": "text",
+          "content": "Параметры времени в предложении обычно ставятся перед глаголом.\nВсе остальные параметры чаще ставятся после глагола."
+        },
+        {
+          "type": "text",
+          "content": "Вопросы: обычно используется **any** (anybody, anyone, anything, anywhere), а не some."
+        },
+        {
+          "type": "text",
+          "content": "Сравнение:\n• I saw **somebody**. — Я видел кого-то. (some — конкретно кто-то)\n• I did not see **anybody**. / I saw **nobody**. — Я никого не видел. (any — кто угодно)"
+        },
+        {
+          "type": "text",
+          "content": "Вопрос-ответ:\n• Did you see **anybody**? — Ты видел кого-то?\n• I saw **somebody**. — Я видел кого-то."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Дополнительные примеры:"
+        },
+        {
+          "type": "text",
+          "content": "• Is **anybody** here? — Есть здесь кто-нибудь?\n• There is **somebody** here. — Здесь кто-то есть.\n• Did you see **anything** interesting? — Ты видел что-нибудь интересное?\n• I see **something** interesting there. — Я вижу там что-то интересное."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Ошибки двойного отрицания"
+        },
+        {
+          "type": "text",
+          "content": "Когда используются слова **nobody**, **nothing**, **nowhere**, **never** — нельзя добавлять отрицание \"not\", как в русском:\n• I did not tell him nothing bad. — неправильно\n• I told him nothing bad. — правильно"
+        },
+        {
+          "type": "text",
+          "content": "Примеры:\n• There is **nothing** interesting here. — Здесь нет ничего интересного.\n• **Nobody** cares about my plans. — Никого не заботят мои планы."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Отрицание с any:"
+        },
+        {
+          "type": "text",
+          "content": "**anyone**, **anybody**, **anything**, **anywhere** не являются отрицаниями, поэтому в отрицательных предложениях их используют с not:\n• I did not tell him **anything** bad. — Я не сказал ему ничего плохого.\nили\nI told him **nothing** bad.\n• I did not see **anything** interesting here. — Я не видел здесь ничего интересного.\nили\nI saw **nothing** interesting here."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Единственное число:"
+        },
+        {
+          "type": "text",
+          "content": "Слова **everybody**, **everyone**, **somebody**, **someone**, **anybody**, **anyone**, **nobody**, **no one** — всегда единственного числа,\nпоэтому и глагол с ними употребляется в единственном числе:\n• **Someone** calls you. — Кто-то звонит тебе.\n• Does **anyone** hear me? — Кто-нибудь слышит меня?\n• **No one** was at home. — Никого не было дома."
+        }
+      ]
+    },
+    "german": {
+      "title": "Lektion 7 — Zählbare und nicht zählbare Substantive",
+      "sections": [
+        {
+          "type": "text",
+          "content": "Im Englischen, wie auch im Deutschen, unterscheidet man zwischen zählbaren (countable) und unzählbaren (uncountable) Substantiven."
+        },
+        {
+          "type": "text",
+          "content": "• Zählbare Substantive kann man zählen:\nz. B. one book, two books\n• Unzählbare Substantive kann man nicht direkt zählen:\nz. B. water (Wasser), salt (Salz), paper (Papier)"
+        },
+        {
+          "type": "text",
+          "content": "Es gibt aber Fälle, die für Deutschsprachige schwierig sind, da manche Wörter in beiden Sprachen unterschiedlich behandelt werden:\n• **money** (Geld) — im Englischen unzählbar, obwohl man im Deutschen \"viel Geld\", \"zwei Euro\" usw. sagen kann.\n→ How much money do you have?\n• **news** (Nachrichten) — auch unzählbar.\n→ Im Englischen: a piece of news oder two pieces of news\n• **people** (Leute) — im Englischen zählbar, obwohl es ein Kollektiv ist.\n→ two people, three people, one person"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Much / Many"
+        },
+        {
+          "type": "text",
+          "content": "Beide bedeuten \"viel\", aber:\n• **much** → mit unzählbaren Substantiven\n• **many** → mit zählbaren Substantiven"
+        },
+        {
+          "type": "text",
+          "content": "Beispiele mit **much**:\n• How **much** money did he spend?\n→ Wie viel Geld hat er ausgegeben?\n• You haven't **much** time.\n→ Du hast nicht viel Zeit.\n• Not **much** was written about it.\n→ Es wurde nicht viel darüber geschrieben.\n• He does not eat **much**.\n→ Er isst nicht viel."
+        },
+        {
+          "type": "text",
+          "content": "Beispiele mit **many**:\n• How **many** books do you have?\n→ Wie viele Bücher hast du?\n• **Many** like to play football.\n→ Viele spielen gern Fußball."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "A lot of / Lots of"
+        },
+        {
+          "type": "text",
+          "content": "Im modernen Englisch werden oft **a lot of** oder **lots of** statt much/many verwendet – für beide Typen von Substantiven:\n• a lot of money, a lot of people, lots of problems"
+        },
+        {
+          "type": "text",
+          "content": "Aber!\nWenn du Wörter wie too, very, so, how verwendest, musst du wieder much/many nutzen:\n• so much work\n• very many mistakes\n\n→ In diesem Unterricht verwenden wir nur much und many, nicht a lot of."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Little / Few"
+        },
+        {
+          "type": "text",
+          "content": "Beide bedeuten \"wenig\", aber:\n• **little** → mit unzählbaren Substantiven\n• **few** → mit zählbaren Substantiven"
+        },
+        {
+          "type": "text",
+          "content": "Beispiele:\n• We have **little** money.\n→ Wir haben wenig Geld.\n• He has **few** friends.\n→ Er hat wenige Freunde.\n• **Little** has been said.\n→ Es wurde wenig gesagt.\n• **Few** people came.\n→ Wenige Menschen kamen."
+        },
+        {
+          "type": "text",
+          "content": "Mit **a little** / **a few** wird die Bedeutung etwas positiver:\n• I have **a little** time → ein bisschen Zeit (ausreichend)\n• I know **a few** words in Spanish → ein paar Wörter (ausreichend)\n\nOhne \"a\":\n• I have **little** time → kaum Zeit\n• I know **few** words in Spanish → fast keine Freunde"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Unbestimmte Pronomen (Indefinite Pronouns)"
+        },
+        {
+          "type": "table",
+          "headers": ["Kategorie", "Englisch", "Deutsch"],
+          "rows": [
+            ["Personen", "everybody / everyone", "alle"],
+            ["", "somebody / someone", "jemand"],
+            ["", "anybody / anyone", "irgendjemand / jeder"],
+            ["", "nobody / no one", "niemand"],
+            ["Dinge", "everything", "alles"],
+            ["", "something", "etwas"],
+            ["", "anything", "irgendetwas / alles"],
+            ["", "nothing", "nichts"],
+            ["Orte", "everywhere", "überall"],
+            ["", "somewhere", "irgendwo"],
+            ["", "anywhere", "überall / irgendwo"],
+            ["", "nowhere", "nirgends"],
+            ["Zeit", "always", "immer"],
+            ["", "sometimes", "manchmal"],
+            ["", "never", "nie"]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Beispiele:"
+        },
+        {
+          "type": "text",
+          "content": "• He sees **everybody**.\n→ Er sieht alle.\n• He speaks to **somebody**.\n→ Er spricht mit jemandem.\n• I saw him **somewhere**.\n→ Ich habe ihn irgendwo gesehen.\n• I **always** tell the truth.\n→ Ich sage immer die Wahrheit.\n• **Anyone** can help you.\n→ Jeder kann dir helfen.\n• You can buy it **anywhere**.\n→ Du kannst es überall kaufen."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Wortstellung & Gebrauch"
+        },
+        {
+          "type": "text",
+          "content": "• Zeitangaben (**always**, **never**, **sometimes**) → stehen vor dem Verb:\nI **always** tell the truth.\n• Andere Pronomen → stehen meist nach dem Verb:\nHe sees **everybody**."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Any vs. Some"
+        },
+        {
+          "type": "text",
+          "content": "In Fragen nutzt man meist **any**:\n• Did you see **anybody**?\n→ Hast du jemanden gesehen?\n\nIn Aussagen nutzt man **some**:\n• I saw **somebody**.\n→ Ich habe jemanden gesehen.\n\n**any** = beliebig / irgendein\n**some** = bestimmt / irgendein konkreter"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Doppelte Verneinung – Fehler vermeiden"
+        },
+        {
+          "type": "text",
+          "content": "Im Deutschen:\nIch habe niemanden gesehen. → erlaubt doppelte Verneinung\n\nIm Englischen:\n→ KEINE doppelte Verneinung!"
+        },
+        {
+          "type": "text",
+          "content": "Falsch:\nI didn't say nothing.\n→ doppelte Verneinung → Fehler\n\nRichtig:\n• I didn't say **anything**.\n• I said **nothing**."
+        },
+        {
+          "type": "text",
+          "content": "Weitere Beispiele:\n• There is **nothing** interesting here.\n→ Hier gibt es nichts Interessantes.\n• **Nobody** cares about my plans.\n→ Niemand interessiert sich für meine Pläne."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Singular oder Plural?"
+        },
+        {
+          "type": "text",
+          "content": "Im Englischen werden die Wörter wie **everybody**, **somebody**, **nobody** immer als Singular betrachtet, auch wenn sie sich auf mehrere Personen beziehen."
+        },
+        {
+          "type": "text",
+          "content": "Beispiele:\n• **Someone** calls you.\n→ Jemand ruft dich an. (3. Person Singular)\n• Does **anyone** hear me?\n→ Hört mich jemand?\n• **No one** was at home.\n→ Niemand war zu Hause."
+        }
+      ]
+    },
+    "spanish": {
+      "title": "Lección 7 — Sustantivos contables e incontables",
+      "sections": [
+        {
+          "type": "text",
+          "content": "En inglés, al igual que en español, los sustantivos pueden ser contables (countable) o incontables (uncountable)."
+        },
+        {
+          "type": "text",
+          "content": "• Contables: se pueden contar individualmente.\nEj.: one book, two books → un libro, dos libros\n• Incontables: no se pueden contar directamente como unidades individuales.\nEj.: water (agua), salt (sal), money (dinero), paper (papel)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Casos que causan confusión:"
+        },
+        {
+          "type": "text",
+          "content": "• **money** (dinero) — incontable en inglés.\nAunque en español decimos mucho dinero o dos euros, en inglés no se puede decir two moneys.\nSe cuentan monedas o billetes: coins, dollars, etc.\n• **news** (noticias) — también es incontable.\nEn español decimos: tengo dos noticias, pero en inglés:\n→ I have two pieces of news.\n• **people** (gente) — contable en inglés.\n→ two people, one person\n(people se usa en plural, person en singular)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Much / Many"
+        },
+        {
+          "type": "text",
+          "content": "Ambos significan \"mucho/muchos\", pero tienen diferentes usos:\n• **much** → con sustantivos incontables\n• **many** → con sustantivos contables"
+        },
+        {
+          "type": "text",
+          "content": "Ejemplos con **much**:\n• How **much** money did he spend?\n¿Cuánto dinero gastó?\n• You haven't **much** time.\nNo tienes mucho tiempo.\n• He does not eat **much**.\nNo come mucho."
+        },
+        {
+          "type": "text",
+          "content": "Ejemplos con **many**:\n• How **many** books do you have?\n¿Cuántos libros tienes?\n• **Many** like to play football.\nA muchos les gusta jugar al fútbol."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "A lot of / Lots of"
+        },
+        {
+          "type": "text",
+          "content": "Se usan con ambos tipos de sustantivos, contables e incontables:\n• **a lot of** people\n• **a lot of** water"
+        },
+        {
+          "type": "text",
+          "content": "Pero si se usa con too, so, very, how, debes usar much / many, no a lot of.\n\nEjemplos :\n• I have **so much** work to do.\nTengo tanto trabajo que hacer.\n• You made **very many** mistakes.\nHas cometido muchísimos errores.\n\n→ En este tema solo trabajaremos much y many."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Little / Few"
+        },
+        {
+          "type": "text",
+          "content": "Significan \"poco\" o \"insuficiente\", y también dependen del tipo de sustantivo:\n• **little** → con incontables\n• **few** → con contables"
+        },
+        {
+          "type": "text",
+          "content": "Ejemplos:\n• We have **little** money.\nTenemos poco dinero.\n• He has **few** friends.\nTiene pocos amigos."
+        },
+        {
+          "type": "text",
+          "content": "Con el artículo a el sentido cambia y se vuelve más positivo:\n• **a little** → un poco (suficiente)\n• **a few** → unos pocos (suficientes)\n\nSin \"a\" implica escasez:\n→ **little** time — casi nada de tiempo\n→ **few** books — muy pocos libros"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Pronombres indefinidos (Indefinite Pronouns)"
+        },
+        {
+          "type": "table",
+          "headers": ["Categoría", "Inglés", "Español"],
+          "rows": [
+            ["Personas", "everybody / everyone", "todos / todo el mundo"],
+            ["", "somebody / someone", "alguien"],
+            ["", "anybody / anyone", "cualquiera / alguien"],
+            ["", "nobody / no one", "nadie"],
+            ["Cosas", "everything", "todo"],
+            ["", "something", "algo"],
+            ["", "anything", "cualquier cosa / algo"],
+            ["", "nothing", "nada"],
+            ["Lugares", "everywhere", "en todas partes"],
+            ["", "somewhere", "en algún lugar"],
+            ["", "anywhere", "donde sea / en cualquier lugar"],
+            ["", "nowhere", "en ningún lugar"],
+            ["Tiempo", "always", "siempre"],
+            ["", "sometimes", "a veces"],
+            ["", "never", "nunca"]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Ejemplos:"
+        },
+        {
+          "type": "text",
+          "content": "• He sees **everybody**.\nÉl ve a todos.\n• I saw **someone** there.\nVi a alguien allí.\n• You can buy it **anywhere**.\nPuedes comprarlo en cualquier lugar.\n• I **always** tell the truth.\nSiempre digo la verdad."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Orden de las palabras:"
+        },
+        {
+          "type": "text",
+          "content": "• Los adverbios de tiempo (**always**, **never**, **sometimes**) van antes del verbo principal:\nI **always** tell the truth.\n• Los pronombres indefinidos generalmente van después del verbo:\nHe sees **everybody**."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Any vs. Some"
+        },
+        {
+          "type": "text",
+          "content": "En preguntas se usa **any**:\n• Did you see **anybody**?\n¿Viste a alguien?\n\nEn afirmaciones se usa **some**:\n• I saw **somebody**.\nVi a alguien.\n\n**any** = cualquiera\n**some** = algún/algunos (en contexto definido)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Negación doble (error común)"
+        },
+        {
+          "type": "text",
+          "content": "En español es normal decir:\nNo vi nada.\n\nPero en inglés no se puede usar doble negación:"
+        },
+        {
+          "type": "text",
+          "content": "Incorrecto:\n• I didn't say nothing.\n\nCorrecto:\n• I didn't say **anything**.\n• I said **nothing**."
+        },
+        {
+          "type": "text",
+          "content": "Otros ejemplos:\n• There is **nothing** interesting here.\nNo hay nada interesante aquí.\n• **Nobody** cares about my plans.\nA nadie le importan mis planes."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Singulier ou pluriel"
+        },
+        {
+          "type": "text",
+          "content": "En inglés, pronombres como **everybody**, **nobody**, **somebody** se consideran singular.\nPor eso, el verbo va en tercera persona del singular:"
+        },
+        {
+          "type": "text",
+          "content": "Ejemplos:\n• **Someone** calls you.\nQuelqu'un t'appelle.\n• Does **anyone** hear me?\n¿Alguien me escucha?\n• **No one** was at home.\nNo había nadie en casa."
+        }
+      ]
+    },
+    "french": {
+      "title": "Leçon 7 — Noms dénombrables et indénombrables",
+      "sections": [
+        {
+          "type": "text",
+          "content": "En anglais, comme en français, les noms peuvent être dénombrables (countable) ou indénombrables (uncountable).\nMais l'usage diffère parfois entre les deux langues, et c'est là que les difficultés apparaissent."
+        },
+        {
+          "type": "text",
+          "content": "• Noms dénombrables : on peut les compter individuellement.\nExemples : one book, two books (un livre, deux livres)\n• Noms indénombrables : désignent une masse, un concept ou quelque chose qu'on ne peut pas compter sans unité de mesure.\nExemples : water (eau), salt (sel), money (argent), information"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Cas particuliers qui posent problème :"
+        },
+        {
+          "type": "text",
+          "content": "• **money** (argent) — est indénombrable en anglais, même si on dit deux euros en français.\nEn anglais, on dira : How much money do you have?\nOn ne compte pas \"money\" lui-même, mais les unités (coins, dollars, euros).\n• **news** (les nouvelles) — également indénombrable en anglais.\nEn français : deux nouvelles, mais en anglais :\n→ two pieces of news\n• **people** (les gens) — est dénombrable en anglais.\n→ Two people, one person"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Much / Many"
+        },
+        {
+          "type": "text",
+          "content": "Les deux signifient \"beaucoup\", mais :\n• **much** → avec des noms indénombrables\n• **many** → avec des noms dénombrables"
+        },
+        {
+          "type": "text",
+          "content": "Exemples avec **much** :\n• How **much** water do you drink?\nCombien d'eau bois-tu ?\n• I don't have **much** time.\nJe n'ai pas beaucoup de temps.\n• Not **much** was said.\nPeu de choses ont été dites."
+        },
+        {
+          "type": "text",
+          "content": "Exemples avec **many** :\n• How **many** books do you have?\nCombien de livres as-tu ?\n• **Many** students passed the exam.\nBeaucoup d'élèves ont réussi l'examen."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "A lot of / Lots of"
+        },
+        {
+          "type": "text",
+          "content": "Très fréquents à l'oral. On les utilise avec les deux types de noms :\n• **a lot of** people\n• **a lot of** sugar"
+        },
+        {
+          "type": "text",
+          "content": "Mais attention : si tu utilises too, so, very, how, il faut revenir à much / many, pas a lot of.\n\nExemples :\n• I have **so much** work.\nJ'ai tellement de travail.\n• You made **very many** mistakes.\nTu as fait vraiment beaucoup d'erreurs.\n\n→ Dans ce cours, on se concentre uniquement sur much et many."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Little / Few"
+        },
+        {
+          "type": "text",
+          "content": "Ils signifient \"peu\" ou \"pas assez\". Leur usage dépend aussi du type de nom :\n• **little** → avec des noms indénombrables\n• **few** → avec des noms dénombrables"
+        },
+        {
+          "type": "text",
+          "content": "Exemples :\n• We have **little** time.\nNous avons peu de temps.\n• He has **few** friends.\nIl a peu d'amis."
+        },
+        {
+          "type": "text",
+          "content": "Avec **a little** ou **a few**, le sens devient plus positif :\n• **a little** money = un peu d'argent (suffisant)\n• **a few** books = quelques livres (suffisants)\n\nSans \"a\" :\n→ **little** time = presque pas de temps\n→ **few** friends = presque pas d'amis"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Pronoms indéfinis (Indefinite Pronouns)"
+        },
+        {
+          "type": "table",
+          "headers": ["Catégorie", "Anglais", "Français"],
+          "rows": [
+            ["Personnes", "everybody / everyone", "tout le monde"],
+            ["", "somebody / someone", "quelqu'un"],
+            ["", "anybody / anyone", "n'importe qui / quelqu'un"],
+            ["", "nobody / no one", "personne"],
+            ["Choses", "everything", "tout"],
+            ["", "something", "quelque chose"],
+            ["", "anything", "n'importe quoi"],
+            ["", "nothing", "rien"],
+            ["Lieux", "everywhere", "partout"],
+            ["", "somewhere", "quelque part"],
+            ["", "anywhere", "n'importe où"],
+            ["", "nowhere", "nulle part"],
+            ["Temps", "always", "toujours"],
+            ["", "sometimes", "parfois"],
+            ["", "never", "jamais"]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Exemples pratiques :"
+        },
+        {
+          "type": "text",
+          "content": "• I saw **someone**.\nJ'ai vu quelqu'un.\n• Did you see **anybody**?\nAs-tu vu quelqu'un ?\n• I didn't see **anybody**.\nJe n'ai vu personne.\n• I saw **nobody**.\nJe n'ai vu personne.\n• **Everything** is fine.\nTout va bien.\n• There is **nothing** interesting here.\nIl n'y a rien d'intéressant ici."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Ordre des mots :"
+        },
+        {
+          "type": "text",
+          "content": "• Les adverbes de temps (**always**, **never**, **sometimes**) se placent avant le verbe principal.\nEx : I **always** tell the truth.\n• Les pronoms indéfinis (someone, nobody…) viennent généralement après le verbe.\nEx : He sees **everybody**."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Some vs. Any"
+        },
+        {
+          "type": "text",
+          "content": "En affirmation → **some**\n→ I saw **somebody**.\n(J'ai vu quelqu'un.)\n\nEn question ou négation → **any**\n→ Did you see **anybody**?\n(As-tu vu quelqu'un ?)\n→ I didn't see **anybody**.\n(Je n'ai vu personne.)\n\n**some** = un certain, spécifique\n**any** = n'importe lequel"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Erreur fréquente : double négation"
+        },
+        {
+          "type": "text",
+          "content": "En français, la double négation est normale : Je ne dis rien.\n\nMais en anglais, elle est incorrecte."
+        },
+        {
+          "type": "text",
+          "content": "Incorrect :\n• I didn't say nothing.\n\nCorrect :\n• I didn't say **anything**.\n• I said **nothing**."
+        },
+        {
+          "type": "text",
+          "content": "Autres exemples :\n• **Nobody** came to the party.\nPersonne n'est venu à la fête.\n• I saw **nothing** interesting.\nJe n'ai rien vu d'intéressant."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Singulier ou pluriel ?"
+        },
+        {
+          "type": "text",
+          "content": "Les pronoms comme **everybody**, **nobody**, **somebody** sont singuliers en anglais — même s'ils se réfèrent à plusieurs personnes."
+        },
+        {
+          "type": "text",
+          "content": "Exemples :\n• **Someone** calls you.\nQuelqu'un t'appelle. (verbe au singulier)\n• Does **anyone** hear me?\nEst-ce que quelqu'un m'entend ?\n• **No one** was at home.\nPersonne n'était à la maison."
+        }
+      ]
+    }
+  },
+  "vocabulary": {
+    "firstList": [
+      {
+        "number": 1,
+        "english": "everybody",
+        "russian": "все",
+        "spanish": "todos",
+        "french": "tout le monde",
+        "german": "alle"
+      },
+      {
+        "number": 2,
+        "english": "somebody",
+        "russian": "кто-то",
+        "spanish": "alguien",
+        "french": "quelqu'un",
+        "german": "jemand"
+      },
+      {
+        "number": 3,
+        "english": "anybody",
+        "russian": "кто угодно",
+        "spanish": "cualquiera",
+        "french": "n'importe qui",
+        "german": "irgendjemand"
+      },
+      {
+        "number": 4,
+        "english": "nobody",
+        "russian": "никто",
+        "spanish": "nadie",
+        "french": "personne",
+        "german": "niemand"
+      },
+      {
+        "number": 5,
+        "english": "everything",
+        "russian": "всё",
+        "spanish": "todo",
+        "french": "tout",
+        "german": "alles"
+      },
+      {
+        "number": 6,
+        "english": "something",
+        "russian": "что-то",
+        "spanish": "algo",
+        "french": "quelque chose",
+        "german": "etwas"
+      },
+      {
+        "number": 7,
+        "english": "anything",
+        "russian": "что угодно",
+        "spanish": "cualquier cosa",
+        "french": "n'importe quoi",
+        "german": "irgendetwas"
+      },
+      {
+        "number": 8,
+        "english": "nothing",
+        "russian": "ничего",
+        "spanish": "nada",
+        "french": "rien",
+        "german": "nichts"
+      },
+      {
+        "number": 9,
+        "english": "everywhere",
+        "russian": "везде",
+        "spanish": "en todas partes",
+        "french": "partout",
+        "german": "überall"
+      },
+      {
+        "number": 10,
+        "english": "somewhere",
+        "russian": "где-то",
+        "spanish": "en algún lugar",
+        "french": "quelque part",
+        "german": "irgendwo"
+      },
+      {
+        "number": 11,
+        "english": "anywhere",
+        "russian": "где угодно",
+        "spanish": "en cualquier lugar",
+        "french": "n'importe où",
+        "german": "irgendwo"
+      },
+      {
+        "number": 12,
+        "english": "nowhere",
+        "russian": "нигде",
+        "spanish": "en ninguna parte",
+        "french": "nulle part",
+        "german": "nirgendwo"
+      },
+      {
+        "number": 13,
+        "english": "always",
+        "russian": "всегда",
+        "spanish": "siempre",
+        "french": "toujours",
+        "german": "immer"
+      },
+      {
+        "number": 14,
+        "english": "sometimes",
+        "russian": "когда-то, иногда",
+        "spanish": "a veces",
+        "french": "parfois",
+        "german": "manchmal"
+      },
+      {
+        "number": 15,
+        "english": "never",
+        "russian": "никогда",
+        "spanish": "nunca",
+        "french": "jamais",
+        "german": "nie"
+      },
+      {
+        "number": 16,
+        "english": "food",
+        "russian": "еда",
+        "spanish": "comida",
+        "french": "nourriture",
+        "german": "Essen"
+      },
+      {
+        "number": 17,
+        "english": "sugar",
+        "russian": "сахар",
+        "spanish": "azúcar",
+        "french": "sucre",
+        "german": "Zucker"
+      },
+      {
+        "number": 18,
+        "english": "water",
+        "russian": "вода",
+        "spanish": "agua",
+        "french": "eau",
+        "german": "Wasser"
+      },
+      {
+        "number": 19,
+        "english": "coffee",
+        "russian": "кофе",
+        "spanish": "café",
+        "french": "café",
+        "german": "Kaffee"
+      },
+      {
+        "number": 20,
+        "english": "milk",
+        "russian": "молоко",
+        "spanish": "leche",
+        "french": "lait",
+        "german": "Milch"
+      },
+      {
+        "number": 21,
+        "english": "money",
+        "russian": "деньги",
+        "spanish": "dinero",
+        "french": "argent",
+        "german": "Geld"
+      },
+      {
+        "number": 22,
+        "english": "time",
+        "russian": "время",
+        "spanish": "tiempo",
+        "french": "temps",
+        "german": "Zeit"
+      },
+      {
+        "number": 23,
+        "english": "information",
+        "russian": "информация",
+        "spanish": "información",
+        "french": "information",
+        "german": "Information"
+      },
+      {
+        "number": 24,
+        "english": "news",
+        "russian": "новости",
+        "spanish": "noticias",
+        "french": "nouvelles",
+        "german": "Nachrichten"
+      },
+      {
+        "number": 25,
+        "english": "luggage",
+        "russian": "багаж",
+        "spanish": "equipaje",
+        "french": "bagage",
+        "german": "Gepäck"
+      },
+      {
+        "number": 26,
+        "english": "hold",
+        "russian": "держать",
+        "spanish": "sostener",
+        "french": "tenir",
+        "german": "halten"
+      },
+      {
+        "number": 27,
+        "english": "send",
+        "russian": "посылать",
+        "spanish": "enviar",
+        "french": "envoyer",
+        "german": "senden"
+      },
+      {
+        "number": 28,
+        "english": "talk",
+        "russian": "говорить",
+        "spanish": "hablar",
+        "french": "parler",
+        "german": "sprechen"
+      },
+      {
+        "number": 29,
+        "english": "have",
+        "russian": "иметь",
+        "spanish": "tener",
+        "french": "avoir",
+        "german": "haben"
+      },
+      {
+        "number": 30,
+        "english": "watch",
+        "russian": "смотреть",
+        "spanish": "mirar",
+        "french": "regarder",
+        "german": "anschauen"
+      },
+      {
+        "number": 31,
+        "english": "play",
+        "russian": "играть",
+        "spanish": "jugar",
+        "french": "jouer",
+        "german": "spielen"
+      },
+      {
+        "number": 32,
+        "english": "pass",
+        "russian": "сдавать",
+        "spanish": "aprobar",
+        "french": "réussir",
+        "german": "bestehen"
+      },
+      {
+        "number": 33,
+        "english": "bake",
+        "russian": "выпекать",
+        "spanish": "hornear",
+        "french": "cuire",
+        "german": "backen"
+      },
+      {
+        "number": 34,
+        "english": "stop",
+        "russian": "останавливаться",
+        "spanish": "detenerse",
+        "french": "s'arrêter",
+        "german": "anhalten"
+      },
+      {
+        "number": 35,
+        "english": "cook",
+        "russian": "готовить",
+        "spanish": "cocinar",
+        "french": "cuisiner",
+        "german": "kochen"
+      },
+      {
+        "number": 36,
+        "english": "seek",
+        "russian": "искать",
+        "spanish": "buscar",
+        "french": "chercher",
+        "german": "suchen"
+      },
+      {
+        "number": 37,
+        "english": "flower",
+        "russian": "цветок",
+        "spanish": "flor",
+        "french": "fleur",
+        "german": "Blume"
+      },
+      {
+        "number": 38,
+        "english": "present",
+        "russian": "подарок",
+        "spanish": "regalo",
+        "french": "cadeau",
+        "german": "Geschenk"
+      },
+      {
+        "number": 39,
+        "english": "message",
+        "russian": "сообщение",
+        "spanish": "mensaje",
+        "french": "message",
+        "german": "Nachricht"
+      },
+      {
+        "number": 40,
+        "english": "tennis",
+        "russian": "теннис",
+        "spanish": "tenis",
+        "french": "tennis",
+        "german": "Tennis"
+      },
+      {
+        "number": 41,
+        "english": "people",
+        "russian": "люди",
+        "spanish": "gente",
+        "french": "gens",
+        "german": "Leute"
+      },
+      {
+        "number": 42,
+        "english": "photo",
+        "russian": "фотография",
+        "spanish": "foto",
+        "french": "photo",
+        "german": "Foto"
+      },
+      {
+        "number": 43,
+        "english": "student",
+        "russian": "студент",
+        "spanish": "estudiante",
+        "french": "étudiant",
+        "german": "Student"
+      },
+      {
+        "number": 44,
+        "english": "exam",
+        "russian": "экзамен",
+        "spanish": "examen",
+        "french": "examen",
+        "german": "Prüfung"
+      },
+      {
+        "number": 45,
+        "english": "pie",
+        "russian": "пирог",
+        "spanish": "pastel",
+        "french": "tarte",
+        "german": "Kuchen"
+      },
+      {
+        "number": 46,
+        "english": "town",
+        "russian": "город",
+        "spanish": "pueblo",
+        "french": "ville",
+        "german": "Stadt"
+      },
+      {
+        "number": 47,
+        "english": "mistake",
+        "russian": "ошибка",
+        "spanish": "error",
+        "french": "erreur",
+        "german": "Fehler"
+      },
+      {
+        "number": 48,
+        "english": "holiday",
+        "russian": "выходной, праздник",
+        "spanish": "vacaciones",
+        "french": "vacances",
+        "german": "Urlaub"
+      },
+      {
+        "number": 49,
+        "english": "question",
+        "russian": "вопрос",
+        "spanish": "pregunta",
+        "french": "question",
+        "german": "Frage"
+      },
+      {
+        "number": 50,
+        "english": "bus",
+        "russian": "автобус",
+        "spanish": "autobús",
+        "french": "bus",
+        "german": "Bus"
+      },
+      {
+        "number": 51,
+        "english": "night",
+        "russian": "ночь",
+        "spanish": "noche",
+        "french": "nuit",
+        "german": "Nacht"
+      },
+      {
+        "number": 52,
+        "english": "girl",
+        "russian": "девочка",
+        "spanish": "niña",
+        "french": "fille",
+        "german": "Mädchen"
+      },
+      {
+        "number": 53,
+        "english": "party",
+        "russian": "вечеринка",
+        "spanish": "fiesta",
+        "french": "fête",
+        "german": "Party"
+      },
+      {
+        "number": 54,
+        "english": "summer",
+        "russian": "лето",
+        "spanish": "verano",
+        "french": "été",
+        "german": "Sommer"
+      },
+      {
+        "number": 55,
+        "english": "rain",
+        "russian": "дождь",
+        "spanish": "lluvia",
+        "french": "pluie",
+        "german": "Regen"
+      },
+      {
+        "number": 56,
+        "english": "physics",
+        "russian": "физика",
+        "spanish": "física",
+        "french": "physique",
+        "german": "Physik"
+      },
+      {
+        "number": 57,
+        "english": "classroom",
+        "russian": "класс (помещение)",
+        "spanish": "aula",
+        "french": "salle de classe",
+        "german": "Klassenzimmer"
+      },
+      {
+        "number": 58,
+        "english": "English",
+        "russian": "английский",
+        "spanish": "inglés",
+        "french": "anglais",
+        "german": "Englisch"
+      },
+      {
+        "number": 59,
+        "english": "German",
+        "russian": "немецкий",
+        "spanish": "alemán",
+        "french": "allemand",
+        "german": "Deutsch"
+      },
+      {
+        "number": 60,
+        "english": "French",
+        "russian": "французский",
+        "spanish": "francés",
+        "french": "français",
+        "german": "Französisch"
+      },
+      {
+        "number": 61,
+        "english": "Spanish",
+        "russian": "испанский",
+        "spanish": "español",
+        "french": "espagnol",
+        "german": "Spanisch"
+      },
+      {
+        "number": 62,
+        "english": "Russian",
+        "russian": "русский",
+        "spanish": "ruso",
+        "french": "russe",
+        "german": "Russisch"
+      },
+      {
+        "number": 63,
+        "english": "Italian",
+        "russian": "итальянский",
+        "spanish": "italiano",
+        "french": "italien",
+        "german": "Italienisch"
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "english": "She'll never meet you.",
+      "russian": "Она никогда не встретит тебя.",
+      "spanish": "Ella nunca te conocerá.",
+      "german": "Sie wird dich niemals treffen.",
+      "french": "Elle ne te rencontrera jamais."
+    },
+    {
+      "id": 2,
+      "english": "He won't see her anywhere.",
+      "russian": "Он не увидит ее нигде.",
+      "spanish": "Él no la verá en ningún lado.",
+      "german": "Er wird sie nirgends sehen.",
+      "french": "Il ne la verra nulle part."
+    },
+    {
+      "id": 3,
+      "english": "I don't have much time.",
+      "russian": "У меня нет много времени.",
+      "spanish": "No tengo mucho tiempo.",
+      "german": "Ich habe nicht viel Zeit.",
+      "french": "Je n'ai pas beaucoup de temps."
+    },
+    {
+      "id": 4,
+      "english": "How many photos did you take?",
+      "russian": "Как много фотографий ты сделал?",
+      "spanish": "¿Cuántas fotos tomaste?",
+      "german": "Wie viele Fotos hast du gemacht?",
+      "french": "Combien de photos as-tu prises ?"
+    },
+    {
+      "id": 5,
+      "english": "I wrote nothing.",
+      "russian": "Я ничего не писал.",
+      "spanish": "No escribí nada.",
+      "german": "Ich habe nichts geschrieben.",
+      "french": "Je n'ai rien écrit."
+    },
+    {
+      "id": 6,
+      "english": "She'll never love him.",
+      "russian": "Она никогда не будет любить его.",
+      "spanish": "Ella nunca lo amará.",
+      "german": "Sie wird ihn niemals lieben.",
+      "french": "Elle ne l'aimera jamais."
+    },
+    {
+      "id": 7,
+      "english": "He always loved me.",
+      "russian": "Он всегда любил меня.",
+      "spanish": "Él siempre me amó.",
+      "german": "Er hat mich immer geliebt.",
+      "french": "Il m'a toujours aimé."
+    },
+    {
+      "id": 8,
+      "english": "Somebody will write you.",
+      "russian": "Кто-нибудь напишет тебе.",
+      "spanish": "Alguien te escribirá.",
+      "german": "Jemand wird dir schreiben.",
+      "french": "Quelqu'un t'écrira."
+    },
+    {
+      "id": 9,
+      "english": "Few buses stop here.",
+      "russian": "Мало автобусов останавливается здесь.",
+      "spanish": "Pocos autobuses paran aquí.",
+      "german": "Wenige Busse halten hier.",
+      "french": "Peu de bus s'arrêtent ici."
+    },
+    {
+      "id": 10,
+      "english": "You brought nothing.",
+      "russian": "Ты ничего не принес.",
+      "spanish": "No trajiste nada.",
+      "german": "Du hast nichts mitgebracht.",
+      "french": "Tu n'as rien apporté."
+    },
+    {
+      "id": 11,
+      "english": "Anybody will answer you.",
+      "russian": "Кто угодно тебе ответит.",
+      "spanish": "Cualquiera te responderá.",
+      "german": "Jeder wird dir antworten.",
+      "french": "N'importe qui te répondra."
+    },
+    {
+      "id": 12,
+      "english": "She shows nothing.",
+      "russian": "Она ничего не показывает.",
+      "spanish": "Ella no muestra nada.",
+      "german": "Sie zeigt nichts.",
+      "french": "Elle ne montre rien."
+    },
+    {
+      "id": 13,
+      "english": "Did he find everybody?",
+      "russian": "Он нашел всех?",
+      "spanish": "¿Encontró a todos?",
+      "german": "Hat er alle gefunden?",
+      "french": "A-t-il trouvé tout le monde ?"
+    },
+    {
+      "id": 14,
+      "english": "Did he always love you?",
+      "russian": "Он всегда любил тебя?",
+      "spanish": "¿Siempre te amó?",
+      "german": "Hat er dich immer geliebt?",
+      "french": "T'a-t-il toujours aimé ?"
+    },
+    {
+      "id": 15,
+      "english": "I took few photos.",
+      "russian": "Я сделал мало фотографий.",
+      "spanish": "Tomé pocas fotos.",
+      "german": "Ich habe wenige Fotos gemacht.",
+      "french": "J'ai pris peu de photos."
+    },
+    {
+      "id": 16,
+      "english": "Did you write everybody?",
+      "russian": "Ты писал всем?",
+      "spanish": "¿Escribiste a todos?",
+      "german": "Hast du allen geschrieben?",
+      "french": "As-tu écrit à tout le monde ?"
+    },
+    {
+      "id": 17,
+      "english": "Does she show anything?",
+      "russian": "Она показывает что-нибудь?",
+      "spanish": "¿Ella muestra algo?",
+      "german": "Zeigt sie etwas?",
+      "french": "Montre-t-elle quelque chose ?"
+    },
+    {
+      "id": 18,
+      "english": "Did you see anything?",
+      "russian": "Ты видел что-нибудь?",
+      "spanish": "¿Viste algo?",
+      "german": "Hast du etwas gesehen?",
+      "french": "As-tu vu quelque chose ?"
+    },
+    {
+      "id": 19,
+      "english": "Will anybody send him a message?",
+      "russian": "Кто-нибудь пошлет ему сообщение?",
+      "spanish": "¿Alguien le enviará un mensaje?",
+      "german": "Wird ihm jemand eine Nachricht schicken?",
+      "french": "Quelqu'un lui enverra-t-il un message ?"
+    },
+    {
+      "id": 20,
+      "english": "I set nothing.",
+      "russian": "Я ничего не установил.",
+      "spanish": "No configuré nada.",
+      "german": "Ich habe nichts eingerichtet.",
+      "french": "Je n'ai rien configuré."
+    },
+    {
+      "id": 21,
+      "english": "Do you understand anybody?",
+      "russian": "Ты понимаешь кого-нибудь?",
+      "spanish": "¿Entiendes a alguien?",
+      "german": "Verstehst du jemanden?",
+      "french": "Comprends-tu quelqu'un ?"
+    },
+    {
+      "id": 22,
+      "english": "Did he help anybody?",
+      "russian": "Он помог кому-нибудь?",
+      "spanish": "¿Ayudó a alguien?",
+      "german": "Hat er jemandem geholfen?",
+      "french": "A-t-il aidé quelqu'un ?"
+    },
+    {
+      "id": 23,
+      "english": "Will anybody help him?",
+      "russian": "Кто-нибудь поможет ему?",
+      "spanish": "¿Alguien lo ayudará?",
+      "german": "Wird ihm jemand helfen?",
+      "french": "Quelqu'un l'aidera-t-il ?"
+    },
+    {
+      "id": 24,
+      "english": "Nobody brings him food.",
+      "russian": "Никто не приносит ему еду.",
+      "spanish": "Nadie le trae comida.",
+      "german": "Niemand bringt ihm Essen.",
+      "french": "Personne ne lui apporte de nourriture."
+    },
+    {
+      "id": 25,
+      "english": "They have little money.",
+      "russian": "У них мало денег.",
+      "spanish": "Tienen poco dinero.",
+      "german": "Sie haben wenig Geld.",
+      "french": "Ils ont peu d'argent."
+    },
+    {
+      "id": 26,
+      "english": "Few people speak Italian.",
+      "russian": "Мало людей говорит по-итальянски.",
+      "spanish": "Pocas personas hablan italiano.",
+      "german": "Wenige Menschen sprechen Italienisch.",
+      "french": "Peu de gens parlent italien."
+    },
+    {
+      "id": 27,
+      "english": "We'll show somebody.",
+      "russian": "Мы покажем кому-нибудь.",
+      "spanish": "Mostraremos a alguien.",
+      "german": "Wir werden jemandem zeigen.",
+      "french": "Nous montrerons à quelqu'un."
+    },
+    {
+      "id": 28,
+      "english": "Many old people live alone.",
+      "russian": "Много пожилых людей живут одни.",
+      "spanish": "Muchas personas mayores viven solas.",
+      "german": "Viele alte Menschen leben allein.",
+      "french": "Beaucoup de personnes âgées vivent seules."
+    },
+    {
+      "id": 29,
+      "english": "Does anybody tell him?",
+      "russian": "Кто-нибудь рассказывает ему?",
+      "spanish": "¿Alguien le cuenta?",
+      "german": "Erzählt ihm jemand?",
+      "french": "Quelqu'un lui raconte-t-il ?"
+    },
+    {
+      "id": 30,
+      "english": "You held everywhere.",
+      "russian": "Ты держал везде.",
+      "spanish": "Sostuviste en todas partes.",
+      "german": "Du hast überall gehalten.",
+      "french": "Tu as tenu partout."
+    },
+    {
+      "id": 31,
+      "english": "We'll hear everybody.",
+      "russian": "Мы услышим всех.",
+      "spanish": "Escucharemos a todos.",
+      "german": "Wir werden alle hören.",
+      "french": "Nous entendrons tout le monde."
+    },
+    {
+      "id": 32,
+      "english": "Anybody will understand you.",
+      "russian": "Кто угодно тебя поймет.",
+      "spanish": "Cualquiera te entenderá.",
+      "german": "Jeder wird dich verstehen.",
+      "french": "N'importe qui te comprendra."
+    },
+    {
+      "id": 33,
+      "english": "You did nothing.",
+      "russian": "Ты ничего не сделал.",
+      "spanish": "No hiciste nada.",
+      "german": "Du hast nichts getan.",
+      "french": "Tu n'as rien fait."
+    },
+    {
+      "id": 34,
+      "english": "I bought many books.",
+      "russian": "Я купил много книг.",
+      "spanish": "Compré muchos libros.",
+      "german": "Ich habe viele Bücher gekauft.",
+      "french": "J'ai acheté beaucoup de livres."
+    },
+    {
+      "id": 35,
+      "english": "Nobody meets us.",
+      "russian": "Никто не встречает нас.",
+      "spanish": "Nadie nos recibe.",
+      "german": "Niemand trifft uns.",
+      "french": "Personne ne nous rencontre."
+    },
+    {
+      "id": 36,
+      "english": "We have little luggage.",
+      "russian": "У нас мало багажа.",
+      "spanish": "Tenemos poco equipaje.",
+      "german": "Wir haben wenig Gepäck.",
+      "french": "Nous avons peu de bagages."
+    },
+    {
+      "id": 37,
+      "english": "Many people speak French.",
+      "russian": "Много людей говорит по-французски.",
+      "spanish": "Muchas personas hablan francés.",
+      "german": "Viele Menschen sprechen Französisch.",
+      "french": "Beaucoup de gens parlent français."
+    },
+    {
+      "id": 38,
+      "english": "She tells everybody.",
+      "russian": "Она рассказывает всем.",
+      "spanish": "Ella se lo cuenta a todos.",
+      "german": "Sie erzählt es allen.",
+      "french": "Elle le raconte à tout le monde."
+    },
+    {
+      "id": 39,
+      "english": "We help everybody.",
+      "russian": "Мы помогаем всем.",
+      "spanish": "Ayudamos a todos.",
+      "german": "Wir helfen allen.",
+      "french": "Nous aidons tout le monde."
+    },
+    {
+      "id": 40,
+      "english": "I have little information about him.",
+      "russian": "У меня мало сведений о нем.",
+      "spanish": "Tengo poca información sobre él.",
+      "german": "Ich habe wenig Informationen über ihn.",
+      "french": "J'ai peu d'informations sur lui."
+    },
+    {
+      "id": 41,
+      "english": "We have few chairs in the classroom.",
+      "russian": "У нас в классе мало стульев.",
+      "spanish": "Tenemos pocas sillas en el aula.",
+      "german": "Wir haben wenige Stühle im Klassenzimmer.",
+      "french": "Nous avons peu de chaises dans la classe."
+    },
+    {
+      "id": 42,
+      "english": "Many people speak Russian.",
+      "russian": "Много людей говорит по-русски.",
+      "spanish": "Muchas personas hablan ruso.",
+      "german": "Viele Menschen sprechen Russisch.",
+      "french": "Beaucoup de gens parlent russe."
+    },
+    {
+      "id": 43,
+      "english": "Does she tell everything?",
+      "russian": "Она рассказывает всё?",
+      "spanish": "¿Ella lo cuenta todo?",
+      "german": "Erzählt sie alles?",
+      "french": "Raconte-t-elle tout ?"
+    },
+    {
+      "id": 44,
+      "english": "Does she show everything?",
+      "russian": "Она показывает всё?",
+      "spanish": "¿Ella lo muestra todo?",
+      "german": "Zeigt sie alles?",
+      "french": "Montre-t-elle tout ?"
+    },
+    {
+      "id": 45,
+      "english": "Will I see you anywhere?",
+      "russian": "Я увижу тебя где-нибудь?",
+      "spanish": "¿Te veré en algún lugar?",
+      "german": "Werde ich dich irgendwo sehen?",
+      "french": "Est-ce que je te verrai quelque part ?"
+    },
+    {
+      "id": 46,
+      "english": "Does anybody see you?",
+      "russian": "Кто-нибудь видит тебя?",
+      "spanish": "¿Alguien te ve?",
+      "german": "Sieht dich jemand?",
+      "french": "Quelqu'un te voit-il ?"
+    },
+    {
+      "id": 47,
+      "english": "We read many books.",
+      "russian": "Мы читали много книг.",
+      "spanish": "Leímos muchos libros.",
+      "german": "Wir haben viele Bücher gelesen.",
+      "french": "Nous avons lu beaucoup de livres."
+    },
+    {
+      "id": 48,
+      "english": "Do you drink much coffee?",
+      "russian": "Ты пьешь много кофе?",
+      "spanish": "¿Bebes mucho café?",
+      "german": "Trinkst du viel Kaffee?",
+      "french": "Bois-tu beaucoup de café ?"
+    },
+    {
+      "id": 49,
+      "english": "Everybody asks you.",
+      "russian": "Все спрашивают тебя.",
+      "spanish": "Todos te preguntan.",
+      "german": "Jeder fragt dich.",
+      "french": "Tout le monde te pose la question."
+    },
+    {
+      "id": 50,
+      "english": "Anybody will buy it.",
+      "russian": "Кто угодно купит это.",
+      "spanish": "Cualquiera lo comprará.",
+      "german": "Jeder wird es kaufen.",
+      "french": "N'importe qui l'achètera."
+    },
+    {
+      "id": 51,
+      "english": "We meet nobody.",
+      "russian": "Мы никого не встречаем.",
+      "spanish": "No encontramos a nadie.",
+      "german": "Wir treffen niemanden.",
+      "french": "Nous ne rencontrons personne."
+    },
+    {
+      "id": 52,
+      "english": "Nobody showed her.",
+      "russian": "Никто не показал ей.",
+      "spanish": "Nadie le mostró.",
+      "german": "Niemand hat es ihr gezeigt.",
+      "french": "Personne ne lui a montré."
+    },
+    {
+      "id": 53,
+      "english": "Few students read books.",
+      "russian": "Мало студентов читает книги.",
+      "spanish": "Pocos estudiantes leen libros.",
+      "german": "Wenige Studenten lesen Bücher.",
+      "french": "Peu d'étudiants lisent des livres."
+    },
+    {
+      "id": 54,
+      "english": "Will we turn anywhere?",
+      "russian": "Мы повернём где-нибудь?",
+      "spanish": "¿Giraremos en algún lugar?",
+      "german": "Werden wir irgendwo abbiegen?",
+      "french": "Allons-nous tourner quelque part ?"
+    },
+    {
+      "id": 55,
+      "english": "He asks few questions.",
+      "russian": "Он задает мало вопросов.",
+      "spanish": "Él hace pocas preguntas.",
+      "german": "Er stellt wenige Fragen.",
+      "french": "Il pose peu de questions."
+    },
+    {
+      "id": 56,
+      "english": "Did anybody understand you?",
+      "russian": "Кто-нибудь понял тебя?",
+      "spanish": "¿Alguien te entendió?",
+      "german": "Hat dich jemand verstanden?",
+      "french": "Quelqu'un t'a-t-il compris ?"
+    },
+    {
+      "id": 57,
+      "english": "She speaks little German.",
+      "russian": "Она мало говорит по-немецки.",
+      "spanish": "Ella habla poco alemán.",
+      "german": "Sie spricht wenig Deutsch.",
+      "french": "Elle parle peu allemand."
+    },
+    {
+      "id": 58,
+      "english": "Few people speak Russian.",
+      "russian": "Мало людей говорит по-русски.",
+      "spanish": "Pocas personas hablan ruso.",
+      "german": "Wenige Menschen sprechen Russisch.",
+      "french": "Peu de gens parlent russe."
+    },
+    {
+      "id": 59,
+      "english": "I didn't buy many books.",
+      "russian": "Я не купил много книг.",
+      "spanish": "No compré muchos libros.",
+      "german": "Ich habe nicht viele Bücher gekauft.",
+      "french": "Je n'ai pas acheté beaucoup de livres."
+    },
+    {
+      "id": 60,
+      "english": "They give nothing.",
+      "russian": "Они ничего не дают.",
+      "spanish": "Ellos no dan nada.",
+      "german": "Sie geben nichts.",
+      "french": "Ils ne donnent rien."
+    },
+    {
+      "id": 61,
+      "english": "He saw her nowhere.",
+      "russian": "Он не видел ее нигде.",
+      "spanish": "Él no la vio en ningún lugar.",
+      "german": "Er sah sie nirgends.",
+      "french": "Il ne l'a vue nulle part."
+    },
+    {
+      "id": 62,
+      "english": "He brings nobody.",
+      "russian": "Он никого не приводит.",
+      "spanish": "Él no trae a nadie.",
+      "german": "Er bringt niemanden.",
+      "french": "Il n'apporte personne."
+    },
+    {
+      "id": 63,
+      "english": "Will we go anywhere?",
+      "russian": "Мы пойдем куда-нибудь?",
+      "spanish": "¿Iremos a algún lugar?",
+      "german": "Werden wir irgendwo hingehen?",
+      "french": "Allons-nous aller quelque part ?"
+    },
+    {
+      "id": 64,
+      "english": "We read something.",
+      "russian": "Мы что-то читали.",
+      "spanish": "Leímos algo.",
+      "german": "Wir haben etwas gelesen.",
+      "french": "Nous avons lu quelque chose."
+    },
+    {
+      "id": 65,
+      "english": "I'll tell everything.",
+      "russian": "Я расскажу всё.",
+      "spanish": "Lo contaré todo.",
+      "german": "Ich werde alles erzählen.",
+      "french": "Je raconterai tout."
+    },
+    {
+      "id": 66,
+      "english": "They see him nowhere.",
+      "russian": "Они не видят его нигде.",
+      "spanish": "Ellos no lo ven en ningún lado.",
+      "german": "Sie sehen ihn nirgends.",
+      "french": "Ils ne le voient nulle part."
+    },
+    {
+      "id": 67,
+      "english": "Everybody will ask him.",
+      "russian": "Все спросят его.",
+      "spanish": "Todos le preguntarán.",
+      "german": "Alle werden ihn fragen.",
+      "french": "Tout le monde lui posera la question."
+    },
+    {
+      "id": 68,
+      "english": "He'll ask somebody.",
+      "russian": "Он спросит кого-нибудь.",
+      "spanish": "Él preguntará a alguien.",
+      "german": "Er wird jemanden fragen.",
+      "french": "Il demandera à quelqu'un."
+    }
+  ],
+  "exam": {
+    "sentences": [
+      {
+        "id": 1,
+        "sentence_en": "She'll never meet you.",
+        "translations": {
+          "ru": "Она никогда не встретит тебя.",
+          "es": "Ella nunca te conocerá.",
+          "fr": "Elle ne te rencontrera jamais.",
+          "de": "Sie wird dich niemals treffen."
+        },
+        "words": [
+          { "correct": "She'll", "alternatives": ["He'll", "They'll", "You'll"] },
+          { "correct": "never", "alternatives": ["always", "sometimes", "anywhere"] },
+          { "correct": "meet", "alternatives": ["see", "help", "love"] },
+          { "correct": "you", "alternatives": ["him", "her", "us"] }
+        ]
+      },
+      {
+        "id": 2,
+        "sentence_en": "He won't see her anywhere.",
+        "translations": {
+          "ru": "Он не увидит ее нигде.",
+          "es": "Él no la verá en ningún lado.",
+          "fr": "Il ne la verra nulle part.",
+          "de": "Er wird sie nirgends sehen."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "won't", "alternatives": ["can't", "doesn't", "didn't"] },
+          { "correct": "see", "alternatives": ["meet", "help", "love"] },
+          { "correct": "her", "alternatives": ["him", "you", "us"] },
+          { "correct": "anywhere", "alternatives": ["nowhere", "everywhere", "somewhere"] }
+        ]
+      },
+      {
+        "id": 3,
+        "sentence_en": "I don't have much time.",
+        "translations": {
+          "ru": "У меня нет много времени.",
+          "es": "No tengo mucho tiempo.",
+          "fr": "Je n'ai pas beaucoup de temps.",
+          "de": "Ich habe nicht viel Zeit."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["You", "He", "We"] },
+          { "correct": "don't", "alternatives": ["can't", "won't", "didn't"] },
+          { "correct": "have", "alternatives": ["see", "meet", "help"] },
+          { "correct": "much", "alternatives": ["many", "few", "little"] },
+          { "correct": "time", "alternatives": ["money", "food", "coffee"] }
+        ]
+      },
+      {
+        "id": 4,
+        "sentence_en": "How many photos did you take?",
+        "translations": {
+          "ru": "Как много фотографий ты сделал?",
+          "es": "¿Cuántas fotos tomaste?",
+          "fr": "Combien de photos as-tu prises ?",
+          "de": "Wie viele Fotos hast du gemacht?"
+        },
+        "words": [
+          { "correct": "How many", "alternatives": ["How much", "How few", "How little"] },
+          { "correct": "photos", "alternatives": ["books", "mistakes", "buses"] },
+          { "correct": "did", "alternatives": ["does", "do", "will"] },
+          { "correct": "you", "alternatives": ["he", "she", "they"] },
+          { "correct": "take", "alternatives": ["see", "write", "buy"] }
+        ]
+      },
+      {
+        "id": 5,
+        "sentence_en": "I wrote nothing.",
+        "translations": {
+          "ru": "Я ничего не писал.",
+          "es": "No escribí nada.",
+          "fr": "Je n'ai rien écrit.",
+          "de": "Ich habe nichts geschrieben."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["You", "He", "We"] },
+          { "correct": "wrote", "alternatives": ["read", "bought", "saw"] },
+          { "correct": "nothing", "alternatives": ["something", "anything", "everything"] }
+        ]
+      },
+      {
+        "id": 6,
+        "sentence_en": "She'll never love him.",
+        "translations": {
+          "ru": "Она никогда не будет любить его.",
+          "es": "Ella nunca lo amará.",
+          "fr": "Elle ne l'aimera jamais.",
+          "de": "Sie wird ihn niemals lieben."
+        },
+        "words": [
+          { "correct": "She'll", "alternatives": ["He'll", "They'll", "You'll"] },
+          { "correct": "never", "alternatives": ["always", "sometimes", "anywhere"] },
+          { "correct": "love", "alternatives": ["meet", "see", "help"] },
+          { "correct": "him", "alternatives": ["her", "you", "us"] }
+        ]
+      },
+      {
+        "id": 7,
+        "sentence_en": "He always loved me.",
+        "translations": {
+          "ru": "Он всегда любил меня.",
+          "es": "Él siempre me amó.",
+          "fr": "Il m'a toujours aimé.",
+          "de": "Er hat mich immer geliebt."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "always", "alternatives": ["never", "sometimes", "everywhere"] },
+          { "correct": "loved", "alternatives": ["met", "saw", "helped"] },
+          { "correct": "me", "alternatives": ["you", "her", "him"] }
+        ]
+      },
+      {
+        "id": 8,
+        "sentence_en": "Somebody will write you.",
+        "translations": {
+          "ru": "Кто-нибудь напишет тебе.",
+          "es": "Alguien te escribirá.",
+          "fr": "Quelqu'un t'écrira.",
+          "de": "Jemand wird dir schreiben."
+        },
+        "words": [
+          { "correct": "Somebody", "alternatives": ["Anybody", "Nobody", "Everybody"] },
+          { "correct": "will", "alternatives": ["can", "does", "did"] },
+          { "correct": "write", "alternatives": ["read", "buy", "see"] },
+          { "correct": "you", "alternatives": ["him", "her", "us"] }
+        ]
+      },
+      {
+        "id": 9,
+        "sentence_en": "Few buses stop here.",
+        "translations": {
+          "ru": "Мало автобусов останавливается здесь.",
+          "es": "Pocos autobuses paran aquí.",
+          "fr": "Peu de bus s'arrêtent ici.",
+          "de": "Wenige Busse halten hier."
+        },
+        "words": [
+          { "correct": "Few", "alternatives": ["Many", "Little", "Much"] },
+          { "correct": "buses", "alternatives": ["people", "books", "photos"] },
+          { "correct": "stop", "alternatives": ["go", "see", "meet"] },
+          { "correct": "here", "alternatives": ["there", "everywhere", "nowhere"] }
+        ]
+      },
+      {
+        "id": 10,
+        "sentence_en": "You brought nothing.",
+        "translations": {
+          "ru": "Ты ничего не принес.",
+          "es": "No trajiste nada.",
+          "fr": "Tu n'as rien apporté.",
+          "de": "Du hast nichts mitgebracht."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["I", "He", "We"] },
+          { "correct": "brought", "alternatives": ["bought", "wrote", "read"] },
+          { "correct": "nothing", "alternatives": ["something", "anything", "everything"] }
+        ]
+      },
+      {
+        "id": 11,
+        "sentence_en": "Anybody will answer you.",
+        "translations": {
+          "ru": "Кто угодно тебе ответит.",
+          "es": "Cualquiera te responderá.",
+          "fr": "N'importe qui te répondra.",
+          "de": "Jeder wird dir antworten."
+        },
+        "words": [
+          { "correct": "Anybody", "alternatives": ["Somebody", "Nobody", "Everybody"] },
+          { "correct": "will", "alternatives": ["can", "does", "did"] },
+          { "correct": "answer", "alternatives": ["help", "meet", "see"] },
+          { "correct": "you", "alternatives": ["him", "her", "us"] }
+        ]
+      },
+      {
+        "id": 12,
+        "sentence_en": "She shows nothing.",
+        "translations": {
+          "ru": "Она ничего не показывает.",
+          "es": "Ella no muestra nada.",
+          "fr": "Elle ne montre rien.",
+          "de": "Sie zeigt nichts."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "shows", "alternatives": ["tells", "writes", "reads"] },
+          { "correct": "nothing", "alternatives": ["something", "anything", "everything"] }
+        ]
+      },
+      {
+        "id": 13,
+        "sentence_en": "Did he find everybody?",
+        "translations": {
+          "ru": "Он нашел всех?",
+          "es": "¿Encontró a todos?",
+          "fr": "A-t-il trouvé tout le monde ?",
+          "de": "Hat er alle gefunden?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Does", "Will", "Has"] },
+          { "correct": "he", "alternatives": ["she", "they", "you"] },
+          { "correct": "find", "alternatives": ["see", "meet", "help"] },
+          { "correct": "everybody", "alternatives": ["somebody", "nobody", "anybody"] }
+        ]
+      },
+      {
+        "id": 14,
+        "sentence_en": "Did he always love you?",
+        "translations": {
+          "ru": "Он всегда любил тебя?",
+          "es": "¿Siempre te amó?",
+          "fr": "T'a-t-il toujours aimé ?",
+          "de": "Hat er dich immer geliebt?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Does", "Will", "Has"] },
+          { "correct": "he", "alternatives": ["she", "they", "you"] },
+          { "correct": "always", "alternatives": ["never", "sometimes", "everywhere"] },
+          { "correct": "love", "alternatives": ["meet", "see", "help"] },
+          { "correct": "you", "alternatives": ["me", "her", "him"] }
+        ]
+      },
+      {
+        "id": 15,
+        "sentence_en": "I took few photos.",
+        "translations": {
+          "ru": "Я сделал мало фотографий.",
+          "es": "Tomé pocas fotos.",
+          "fr": "J'ai pris peu de photos.",
+          "de": "Ich habe wenige Fotos gemacht."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["You", "He", "We"] },
+          { "correct": "took", "alternatives": ["bought", "wrote", "read"] },
+          { "correct": "few", "alternatives": ["many", "much", "little"] },
+          { "correct": "photos", "alternatives": ["books", "mistakes", "buses"] }
+        ]
+      },
+      {
+        "id": 16,
+        "sentence_en": "Did you write everybody?",
+        "translations": {
+          "ru": "Ты писал всем?",
+          "es": "¿Escribiste a todos?",
+          "fr": "As-tu écrit à tout le monde ?",
+          "de": "Hast du allen geschrieben?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Does", "Will", "Has"] },
+          { "correct": "you", "alternatives": ["he", "she", "they"] },
+          { "correct": "write", "alternatives": ["read", "buy", "see"] },
+          { "correct": "everybody", "alternatives": ["somebody", "nobody", "anybody"] }
+        ]
+      },
+      {
+        "id": 17,
+        "sentence_en": "Does she show anything?",
+        "translations": {
+          "ru": "Она показывает что-нибудь?",
+          "es": "¿Ella muestra algo?",
+          "fr": "Montre-t-elle quelque chose ?",
+          "de": "Zeigt sie etwas?"
+        },
+        "words": [
+          { "correct": "Does", "alternatives": ["Did", "Will", "Has"] },
+          { "correct": "she", "alternatives": ["he", "they", "you"] },
+          { "correct": "show", "alternatives": ["tell", "write", "read"] },
+          { "correct": "anything", "alternatives": ["something", "nothing", "everything"] }
+        ]
+      },
+      {
+        "id": 18,
+        "sentence_en": "Did you see anything?",
+        "translations": {
+          "ru": "Ты видел что-нибудь?",
+          "es": "¿Viste algo?",
+          "fr": "As-tu vu quelque chose ?",
+          "de": "Hast du etwas gesehen?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Does", "Will", "Has"] },
+          { "correct": "you", "alternatives": ["he", "she", "they"] },
+          { "correct": "see", "alternatives": ["meet", "help", "love"] },
+          { "correct": "anything", "alternatives": ["something", "nothing", "everything"] }
+        ]
+      },
+      {
+        "id": 19,
+        "sentence_en": "Will anybody send him a message?",
+        "translations": {
+          "ru": "Кто-нибудь пошлет ему сообщение?",
+          "es": "¿Alguien le enviará un mensaje?",
+          "fr": "Quelqu'un lui enverra-t-il un message ?",
+          "de": "Wird ihm jemand eine Nachricht schicken?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Does", "Did", "Can"] },
+          { "correct": "anybody", "alternatives": ["somebody", "nobody", "everybody"] },
+          { "correct": "send", "alternatives": ["write", "read", "buy"] },
+          { "correct": "him", "alternatives": ["her", "you", "us"] },
+          { "correct": "a message", "alternatives": ["a present", "a photo", "a book"] }
+        ]
+      },
+      {
+        "id": 20,
+        "sentence_en": "I set nothing.",
+        "translations": {
+          "ru": "Я ничего не установил.",
+          "es": "No configuré nada.",
+          "fr": "Je n'ai rien configuré.",
+          "de": "Ich habe nichts eingerichtet."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["You", "He", "We"] },
+          { "correct": "set", "alternatives": ["wrote", "read", "bought"] },
+          { "correct": "nothing", "alternatives": ["something", "anything", "everything"] }
+        ]
+      },
+      {
+        "id": 21,
+        "sentence_en": "Do you understand anybody?",
+        "translations": {
+          "ru": "Ты понимаешь кого-нибудь?",
+          "es": "¿Entiendes a alguien?",
+          "fr": "Comprends-tu quelqu'un ?",
+          "de": "Verstehst du jemanden?"
+        },
+        "words": [
+          { "correct": "Do", "alternatives": ["Does", "Did", "Will"] },
+          { "correct": "you", "alternatives": ["he", "she", "they"] },
+          { "correct": "understand", "alternatives": ["help", "meet", "see"] },
+          { "correct": "anybody", "alternatives": ["somebody", "nobody", "everybody"] }
+        ]
+      },
+      {
+        "id": 22,
+        "sentence_en": "Did he help anybody?",
+        "translations": {
+          "ru": "Он помог кому-нибудь?",
+          "es": "¿Ayudó a alguien?",
+          "fr": "A-t-il aidé quelqu'un ?",
+          "de": "Hat er jemandem geholfen?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Does", "Will", "Has"] },
+          { "correct": "he", "alternatives": ["she", "they", "you"] },
+          { "correct": "help", "alternatives": ["meet", "see", "love"] },
+          { "correct": "anybody", "alternatives": ["somebody", "nobody", "everybody"] }
+        ]
+      },
+      {
+        "id": 23,
+        "sentence_en": "Will anybody help him?",
+        "translations": {
+          "ru": "Кто-нибудь поможет ему?",
+          "es": "¿Alguien lo ayudará?",
+          "fr": "Quelqu'un l'aidera-t-il ?",
+          "de": "Wird ihm jemand helfen?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Does", "Did", "Can"] },
+          { "correct": "anybody", "alternatives": ["somebody", "nobody", "everybody"] },
+          { "correct": "help", "alternatives": ["meet", "see", "love"] },
+          { "correct": "him", "alternatives": ["her", "you", "us"] }
+        ]
+      },
+      {
+        "id": 24,
+        "sentence_en": "Nobody brings him food.",
+        "translations": {
+          "ru": "Никто не приносит ему еду.",
+          "es": "Nadie le trae comida.",
+          "fr": "Personne ne lui apporte de nourriture.",
+          "de": "Niemand bringt ihm Essen."
+        },
+        "words": [
+          { "correct": "Nobody", "alternatives": ["Somebody", "Anybody", "Everybody"] },
+          { "correct": "brings", "alternatives": ["shows", "writes", "reads"] },
+          { "correct": "him", "alternatives": ["her", "you", "us"] },
+          { "correct": "food", "alternatives": ["money", "coffee", "water"] }
+        ]
+      },
+      {
+        "id": 25,
+        "sentence_en": "They have little money.",
+        "translations": {
+          "ru": "У них мало денег.",
+          "es": "Tienen poco dinero.",
+          "fr": "Ils ont peu d'argent.",
+          "de": "Sie haben wenig Geld."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "I"] },
+          { "correct": "have", "alternatives": ["see", "meet", "help"] },
+          { "correct": "little", "alternatives": ["few", "much", "many"] },
+          { "correct": "money", "alternatives": ["time", "food", "coffee"] }
+        ]
+      },
+      {
+        "id": 26,
+        "sentence_en": "Few people speak Italian.",
+        "translations": {
+          "ru": "Мало людей говорит по-итальянски.",
+          "es": "Pocas personas hablan italiano.",
+          "fr": "Peu de gens parlent italien.",
+          "de": "Wenige Menschen sprechen Italienisch."
+        },
+        "words": [
+          { "correct": "Few", "alternatives": ["Many", "Little", "Much"] },
+          { "correct": "people", "alternatives": ["students", "buses", "books"] },
+          { "correct": "speak", "alternatives": ["read", "write", "see"] },
+          { "correct": "Italian", "alternatives": ["French", "German", "Russian"] }
+        ]
+      },
+      {
+        "id": 27,
+        "sentence_en": "We'll show somebody.",
+        "translations": {
+          "ru": "Мы покажем кому-нибудь.",
+          "es": "Mostraremos a alguien.",
+          "fr": "Nous montrerons à quelqu'un.",
+          "de": "Wir werden jemandem zeigen."
+        },
+        "words": [
+          { "correct": "We'll", "alternatives": ["You'll", "They'll", "He'll"] },
+          { "correct": "show", "alternatives": ["tell", "write", "read"] },
+          { "correct": "somebody", "alternatives": ["anybody", "nobody", "everybody"] }
+        ]
+      },
+      {
+        "id": 28,
+        "sentence_en": "Many old people live alone.",
+        "translations": {
+          "ru": "Много пожилых людей живут одни.",
+          "es": "Muchas personas mayores viven solas.",
+          "fr": "Beaucoup de personnes âgées vivent seules.",
+          "de": "Viele alte Menschen leben allein."
+        },
+        "words": [
+          { "correct": "Many", "alternatives": ["Few", "Little", "Much"] },
+          { "correct": "old", "alternatives": ["young", "busy", "cheerful"] },
+          { "correct": "people", "alternatives": ["students", "buses", "books"] },
+          { "correct": "live", "alternatives": ["read", "write", "see"] },
+          { "correct": "alone", "alternatives": ["together", "everywhere", "nowhere"] }
+        ]
+      },
+      {
+        "id": 29,
+        "sentence_en": "Does anybody tell him?",
+        "translations": {
+          "ru": "Кто-нибудь рассказывает ему?",
+          "es": "¿Alguien le cuenta?",
+          "fr": "Quelqu'un lui raconte-t-il ?",
+          "de": "Erzählt ihm jemand?"
+        },
+        "words": [
+          { "correct": "Does", "alternatives": ["Did", "Will", "Has"] },
+          { "correct": "anybody", "alternatives": ["somebody", "nobody", "everybody"] },
+          { "correct": "tell", "alternatives": ["show", "write", "read"] },
+          { "correct": "him", "alternatives": ["her", "you", "us"] }
+        ]
+      },
+      {
+        "id": 30,
+        "sentence_en": "You held everywhere.",
+        "translations": {
+          "ru": "Ты держал везде.",
+          "es": "Sostuviste en todas partes.",
+          "fr": "Tu as tenu partout.",
+          "de": "Du hast überall gehalten."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["I", "He", "We"] },
+          { "correct": "held", "alternatives": ["bought", "wrote", "read"] },
+          { "correct": "everywhere", "alternatives": ["nowhere", "anywhere", "somewhere"] }
+        ]
+      },
+      {
+        "id": 31,
+        "sentence_en": "We'll hear everybody.",
+        "translations": {
+          "ru": "Мы услышим всех.",
+          "es": "Escucharemos a todos.",
+          "fr": "Nous entendrons tout le monde.",
+          "de": "Wir werden alle hören."
+        },
+        "words": [
+          { "correct": "We'll", "alternatives": ["They'll", "He'll", "You'll"] },
+          { "correct": "hear", "alternatives": ["see", "meet", "help"] },
+          { "correct": "everybody", "alternatives": ["somebody", "nobody", "anybody"] }
+        ]
+      },
+      {
+        "id": 32,
+        "sentence_en": "Anybody will understand you.",
+        "translations": {
+          "ru": "Кто угодно тебя поймет.",
+          "es": "Cualquiera te entenderá.",
+          "fr": "N'importe qui te comprendra.",
+          "de": "Jeder wird dich verstehen."
+        },
+        "words": [
+          { "correct": "Anybody", "alternatives": ["Somebody", "Nobody", "Everybody"] },
+          { "correct": "will", "alternatives": ["can", "does", "did"] },
+          { "correct": "understand", "alternatives": ["help", "meet", "see"] },
+          { "correct": "you", "alternatives": ["him", "her", "us"] }
+        ]
+      },
+      {
+        "id": 33,
+        "sentence_en": "You did nothing.",
+        "translations": {
+          "ru": "Ты ничего не сделал.",
+          "es": "No hiciste nada.",
+          "fr": "Tu n'as rien fait.",
+          "de": "Du hast nichts getan."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["I", "He", "We"] },
+          { "correct": "did", "alternatives": ["do", "does", "will"] },
+          { "correct": "nothing", "alternatives": ["something", "anything", "everything"] }
+        ]
+      },
+      {
+        "id": 34,
+        "sentence_en": "I bought many books.",
+        "translations": {
+          "ru": "Я купил много книг.",
+          "es": "Compré muchos libros.",
+          "fr": "J'ai acheté beaucoup de livres.",
+          "de": "Ich habe viele Bücher gekauft."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["You", "He", "We"] },
+          { "correct": "bought", "alternatives": ["read", "wrote", "saw"] },
+          { "correct": "many", "alternatives": ["few", "much", "little"] },
+          { "correct": "books", "alternatives": ["photos", "buses", "mistakes"] }
+        ]
+      },
+      {
+        "id": 35,
+        "sentence_en": "Nobody meets us.",
+        "translations": {
+          "ru": "Никто не встречает нас.",
+          "es": "Nadie nos recibe.",
+          "fr": "Personne ne nous rencontre.",
+          "de": "Niemand trifft uns."
+        },
+        "words": [
+          { "correct": "Nobody", "alternatives": ["Somebody", "Anybody", "Everybody"] },
+          { "correct": "meets", "alternatives": ["helps", "sees", "loves"] },
+          { "correct": "us", "alternatives": ["him", "her", "you"] }
+        ]
+      },
+      {
+        "id": 36,
+        "sentence_en": "We have little luggage.",
+        "translations": {
+          "ru": "У нас мало багажа.",
+          "es": "Tenemos poco equipaje.",
+          "fr": "Nous avons peu de bagages.",
+          "de": "Wir haben wenig Gepäck."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "I"] },
+          { "correct": "have", "alternatives": ["see", "meet", "help"] },
+          { "correct": "little", "alternatives": ["few", "much", "many"] },
+          { "correct": "luggage", "alternatives": ["money", "food", "coffee"] }
+        ]
+      },
+      {
+        "id": 37,
+        "sentence_en": "Many people speak French.",
+        "translations": {
+          "ru": "Много людей говорит по-французски.",
+          "es": "Muchas personas hablan francés.",
+          "fr": "Beaucoup de gens parlent français.",
+          "de": "Viele Menschen sprechen Französisch."
+        },
+        "words": [
+          { "correct": "Many", "alternatives": ["Few", "Little", "Much"] },
+          { "correct": "people", "alternatives": ["students", "buses", "books"] },
+          { "correct": "speak", "alternatives": ["read", "write", "see"] },
+          { "correct": "French", "alternatives": ["Italian", "German", "Russian"] }
+        ]
+      },
+      {
+        "id": 38,
+        "sentence_en": "She tells everybody.",
+        "translations": {
+          "ru": "Она рассказывает всем.",
+          "es": "Ella se lo cuenta a todos.",
+          "fr": "Elle le raconte à tout le monde.",
+          "de": "Sie erzählt es allen."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "tells", "alternatives": ["shows", "writes", "reads"] },
+          { "correct": "everybody", "alternatives": ["somebody", "nobody", "anybody"] }
+        ]
+      },
+      {
+        "id": 39,
+        "sentence_en": "We help everybody.",
+        "translations": {
+          "ru": "Мы помогаем всем.",
+          "es": "Ayudamos a todos.",
+          "fr": "Nous aidons tout le monde.",
+          "de": "Wir helfen allen."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "I"] },
+          { "correct": "help", "alternatives": ["see", "meet", "love"] },
+          { "correct": "everybody", "alternatives": ["somebody", "nobody", "anybody"] }
+        ]
+      },
+      {
+        "id": 40,
+        "sentence_en": "I have little information about him.",
+        "translations": {
+          "ru": "У меня мало сведений о нем.",
+          "es": "Tengo poca información sobre él.",
+          "fr": "J'ai peu d'informations sur lui.",
+          "de": "Ich habe wenig Informationen über ihn."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["You", "He", "We"] },
+          { "correct": "have", "alternatives": ["see", "meet", "help"] },
+          { "correct": "little", "alternatives": ["few", "much", "many"] },
+          { "correct": "information", "alternatives": ["money", "food", "coffee"] },
+          { "correct": "about", "alternatives": ["from", "for", "to"] },
+          { "correct": "him", "alternatives": ["her", "you", "us"] }
+        ]
+      },
+      {
+        "id": 41,
+        "sentence_en": "We have few chairs in the classroom.",
+        "translations": {
+          "ru": "У нас в классе мало стульев.",
+          "es": "Tenemos pocas sillas en el aula.",
+          "fr": "Nous avons peu de chaises dans la classe.",
+          "de": "Wir haben wenige Stühle im Klassenzimmer."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "I"] },
+          { "correct": "have", "alternatives": ["see", "meet", "help"] },
+          { "correct": "few", "alternatives": ["many", "much", "little"] },
+          { "correct": "chairs", "alternatives": ["tables", "books", "buses"] },
+          { "correct": "in", "alternatives": ["on", "at", "by"] },
+          { "correct": "the", "alternatives": ["a", "that", "this"] },
+          { "correct": "classroom", "alternatives": ["garden", "kitchen", "office"] }
+        ]
+      },
+      {
+        "id": 42,
+        "sentence_en": "Many people speak Russian.",
+        "translations": {
+          "ru": "Много людей говорит по-русски.",
+          "es": "Muchas personas hablan ruso.",
+          "fr": "Beaucoup de gens parlent russe.",
+          "de": "Viele Menschen sprechen Russisch."
+        },
+        "words": [
+          { "correct": "Many", "alternatives": ["Few", "Little", "Much"] },
+          { "correct": "people", "alternatives": ["students", "buses", "books"] },
+          { "correct": "speak", "alternatives": ["read", "write", "see"] },
+          { "correct": "Russian", "alternatives": ["French", "Italian", "German"] }
+        ]
+      },
+      {
+        "id": 43,
+        "sentence_en": "Does she tell everything?",
+        "translations": {
+          "ru": "Она рассказывает всё?",
+          "es": "¿Ella lo cuenta todo?",
+          "fr": "Raconte-t-elle tout ?",
+          "de": "Erzählt sie alles?"
+        },
+        "words": [
+          { "correct": "Does", "alternatives": ["Did", "Will", "Has"] },
+          { "correct": "she", "alternatives": ["he", "they", "you"] },
+          { "correct": "tell", "alternatives": ["show", "write", "read"] },
+          { "correct": "everything", "alternatives": ["something", "nothing", "anything"] }
+        ]
+      },
+      {
+        "id": 44,
+        "sentence_en": "Does she show everything?",
+        "translations": {
+          "ru": "Она показывает всё?",
+          "es": "¿Ella lo muestra todo?",
+          "fr": "Montre-t-elle tout ?",
+          "de": "Zeigt sie alles?"
+        },
+        "words": [
+          { "correct": "Does", "alternatives": ["Did", "Will", "Has"] },
+          { "correct": "she", "alternatives": ["he", "they", "you"] },
+          { "correct": "show", "alternatives": ["tell", "write", "read"] },
+          { "correct": "everything", "alternatives": ["something", "nothing", "anything"] }
+        ]
+      },
+      {
+        "id": 45,
+        "sentence_en": "Will I see you anywhere?",
+        "translations": {
+          "ru": "Я увижу тебя где-нибудь?",
+          "es": "¿Te veré en algún lugar?",
+          "fr": "Est-ce que je te verrai quelque part ?",
+          "de": "Werde ich dich irgendwo sehen?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Does", "Did", "Can"] },
+          { "correct": "I", "alternatives": ["You", "He", "We"] },
+          { "correct": "see", "alternatives": ["meet", "help", "love"] },
+          { "correct": "you", "alternatives": ["him", "her", "us"] },
+          { "correct": "anywhere", "alternatives": ["nowhere", "everywhere", "somewhere"] }
+        ]
+      },
+      {
+        "id": 46,
+        "sentence_en": "Does anybody see you?",
+        "translations": {
+          "ru": "Кто-нибудь видит тебя?",
+          "es": "¿Alguien te ve?",
+          "fr": "Quelqu'un te voit-il ?",
+          "de": "Sieht dich jemand?"
+        },
+        "words": [
+          { "correct": "Does", "alternatives": ["Did", "Will", "Has"] },
+          { "correct": "anybody", "alternatives": ["somebody", "nobody", "everybody"] },
+          { "correct": "see", "alternatives": ["meet", "help", "love"] },
+          { "correct": "you", "alternatives": ["him", "her", "us"] }
+        ]
+      },
+      {
+        "id": 47,
+        "sentence_en": "We read many books.",
+        "translations": {
+          "ru": "Мы читали много книг.",
+          "es": "Leímos muchos libros.",
+          "fr": "Nous avons lu beaucoup de livres.",
+          "de": "Wir haben viele Bücher gelesen."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "I"] },
+          { "correct": "read", "alternatives": ["bought", "wrote", "saw"] },
+          { "correct": "many", "alternatives": ["few", "much", "little"] },
+          { "correct": "books", "alternatives": ["photos", "buses", "mistakes"] }
+        ]
+      },
+      {
+        "id": 48,
+        "sentence_en": "Do you drink much coffee?",
+        "translations": {
+          "ru": "Ты пьешь много кофе?",
+          "es": "¿Bebes mucho café?",
+          "fr": "Bois-tu beaucoup de café ?",
+          "de": "Trinkst du viel Kaffee?"
+        },
+        "words": [
+          { "correct": "Do", "alternatives": ["Does", "Did", "Will"] },
+          { "correct": "you", "alternatives": ["he", "she", "they"] },
+          { "correct": "drink", "alternatives": ["eat", "buy", "see"] },
+          { "correct": "much", "alternatives": ["many", "few", "little"] },
+          { "correct": "coffee", "alternatives": ["water", "milk", "food"] }
+        ]
+      },
+      {
+        "id": 49,
+        "sentence_en": "Everybody asks you.",
+        "translations": {
+          "ru": "Все спрашивают тебя.",
+          "es": "Todos te preguntan.",
+          "fr": "Tout le monde te pose la question.",
+          "de": "Jeder fragt dich."
+        },
+        "words": [
+          { "correct": "Everybody", "alternatives": ["Somebody", "Anybody", "Nobody"] },
+          { "correct": "asks", "alternatives": ["helps", "meets", "loves"] },
+          { "correct": "you", "alternatives": ["him", "her", "us"] }
+        ]
+      },
+      {
+        "id": 50,
+        "sentence_en": "Anybody will buy it.",
+        "translations": {
+          "ru": "Кто угодно купит это.",
+          "es": "Cualquiera lo comprará.",
+          "fr": "N'importe qui l'achètera.",
+          "de": "Jeder wird es kaufen."
+        },
+        "words": [
+          { "correct": "Anybody", "alternatives": ["Somebody", "Nobody", "Everybody"] },
+          { "correct": "will", "alternatives": ["can", "does", "did"] },
+          { "correct": "buy", "alternatives": ["read", "write", "see"] },
+          { "correct": "it", "alternatives": ["him", "her", "us"] }
+        ]
+      },
+      {
+        "id": 51,
+        "sentence_en": "We meet nobody.",
+        "translations": {
+          "ru": "Мы никого не встречаем.",
+          "es": "No encontramos a nadie.",
+          "fr": "Nous ne rencontrons personne.",
+          "de": "Wir treffen niemanden."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "I"] },
+          { "correct": "meet", "alternatives": ["see", "help", "love"] },
+          { "correct": "nobody", "alternatives": ["somebody", "anybody", "everybody"] }
+        ]
+      },
+      {
+        "id": 52,
+        "sentence_en": "Nobody showed her.",
+        "translations": {
+          "ru": "Никто не показал ей.",
+          "es": "Nadie le mostró.",
+          "fr": "Personne ne lui a montré.",
+          "de": "Niemand hat es ihr gezeigt."
+        },
+        "words": [
+          { "correct": "Nobody", "alternatives": ["Somebody", "Anybody", "Everybody"] },
+          { "correct": "showed", "alternatives": ["told", "helped", "loved"] },
+          { "correct": "her", "alternatives": ["him", "you", "us"] }
+        ]
+      },
+      {
+        "id": 53,
+        "sentence_en": "Few students read books.",
+        "translations": {
+          "ru": "Мало студентов читает книги.",
+          "es": "Pocos estudiantes leen libros.",
+          "fr": "Peu d'étudiants lisent des livres.",
+          "de": "Wenige Studenten lesen Bücher."
+        },
+        "words": [
+          { "correct": "Few", "alternatives": ["Many", "Little", "Much"] },
+          { "correct": "students", "alternatives": ["people", "teachers", "girls"] },
+          { "correct": "read", "alternatives": ["buy", "write", "see"] },
+          { "correct": "books", "alternatives": ["photos", "messages", "papers"] }
+        ]
+      },
+      {
+        "id": 54,
+        "sentence_en": "Will we turn anywhere?",
+        "translations": {
+          "ru": "Мы повернём где-нибудь?",
+          "es": "¿Giraremos en algún lugar?",
+          "fr": "Allons-nous tourner quelque part ?",
+          "de": "Werden wir irgendwo abbiegen?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Does", "Did", "Can"] },
+          { "correct": "we", "alternatives": ["you", "they", "he"] },
+          { "correct": "turn", "alternatives": ["go", "stop", "look"] },
+          { "correct": "anywhere", "alternatives": ["nowhere", "everywhere", "somewhere"] }
+        ]
+      },
+      {
+        "id": 55,
+        "sentence_en": "He asks few questions.",
+        "translations": {
+          "ru": "Он задает мало вопросов.",
+          "es": "Él hace pocas preguntas.",
+          "fr": "Il pose peu de questions.",
+          "de": "Er stellt wenige Fragen."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "asks", "alternatives": ["has", "writes", "reads"] },
+          { "correct": "few", "alternatives": ["many", "much", "little"] },
+          { "correct": "questions", "alternatives": ["answers", "books", "friends"] }
+        ]
+      },
+      {
+        "id": 56,
+        "sentence_en": "Did anybody understand you?",
+        "translations": {
+          "ru": "Кто-нибудь понял тебя?",
+          "es": "¿Alguien te entendió?",
+          "fr": "Quelqu'un t'a-t-il compris ?",
+          "de": "Hat dich jemand verstanden?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Does", "Will", "Has"] },
+          { "correct": "anybody", "alternatives": ["somebody", "nobody", "everybody"] },
+          { "correct": "understand", "alternatives": ["help", "see", "love"] },
+          { "correct": "you", "alternatives": ["him", "her", "us"] }
+        ]
+      },
+      {
+        "id": 57,
+        "sentence_en": "She speaks little German.",
+        "translations": {
+          "ru": "Она мало говорит по-немецки.",
+          "es": "Ella habla poco alemán.",
+          "fr": "Elle parle peu allemand.",
+          "de": "Sie spricht wenig Deutsch."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "speaks", "alternatives": ["reads", "writes", "learns"] },
+          { "correct": "little", "alternatives": ["few", "much", "many"] },
+          { "correct": "German", "alternatives": ["English", "French", "Russian"] }
+        ]
+      },
+      {
+        "id": 58,
+        "sentence_en": "Few people speak Russian.",
+        "translations": {
+          "ru": "Мало людей говорит по-русски.",
+          "es": "Pocas personas hablan ruso.",
+          "fr": "Peu de gens parlent russe.",
+          "de": "Wenige Menschen sprechen Russisch."
+        },
+        "words": [
+          { "correct": "Few", "alternatives": ["Many", "Little", "Much"] },
+          { "correct": "people", "alternatives": ["students", "teachers", "children"] },
+          { "correct": "speak", "alternatives": ["learn", "write", "read"] },
+          { "correct": "Russian", "alternatives": ["German", "French", "Spanish"] }
+        ]
+      },
+      {
+        "id": 59,
+        "sentence_en": "I didn't buy many books.",
+        "translations": {
+          "ru": "Я не купил много книг.",
+          "es": "No compré muchos libros.",
+          "fr": "Je n'ai pas acheté beaucoup de livres.",
+          "de": "Ich habe nicht viele Bücher gekauft."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["You", "He", "We"] },
+          { "correct": "didn't", "alternatives": ["don't", "won't", "can't"] },
+          { "correct": "buy", "alternatives": ["read", "write", "see"] },
+          { "correct": "many", "alternatives": ["few", "much", "little"] },
+          { "correct": "books", "alternatives": ["photos", "messages", "papers"] }
+        ]
+      },
+      {
+        "id": 60,
+        "sentence_en": "They give nothing.",
+        "translations": {
+          "ru": "Они ничего не дают.",
+          "es": "Ellos no dan nada.",
+          "fr": "Ils ne donnent rien.",
+          "de": "Sie geben nichts."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "I"] },
+          { "correct": "give", "alternatives": ["take", "see", "have"] },
+          { "correct": "nothing", "alternatives": ["something", "anything", "everything"] }
+        ]
+      },
+      {
+        "id": 61,
+        "sentence_en": "He saw her nowhere.",
+        "translations": {
+          "ru": "Он не видел ее нигде.",
+          "es": "Él no la vio en ningún lugar.",
+          "fr": "Il ne l'a vue nulle part.",
+          "de": "Er sah sie nirgends."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "saw", "alternatives": ["met", "helped", "loved"] },
+          { "correct": "her", "alternatives": ["him", "you", "us"] },
+          { "correct": "nowhere", "alternatives": ["somewhere", "anywhere", "everywhere"] }
+        ]
+      },
+      {
+        "id": 62,
+        "sentence_en": "He brings nobody.",
+        "translations": {
+          "ru": "Он никого не приводит.",
+          "es": "Él no trae a nadie.",
+          "fr": "Il n'apporte personne.",
+          "de": "Er bringt niemanden."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "brings", "alternatives": ["takes", "sees", "helps"] },
+          { "correct": "nobody", "alternatives": ["somebody", "anybody", "everybody"] }
+        ]
+      },
+      {
+        "id": 63,
+        "sentence_en": "Will we go anywhere?",
+        "translations": {
+          "ru": "Мы пойдем куда-нибудь?",
+          "es": "¿Iremos a algún lugar?",
+          "fr": "Allons-nous aller quelque part ?",
+          "de": "Werden wir irgendwo hingehen?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Does", "Did", "Can"] },
+          { "correct": "we", "alternatives": ["you", "they", "he"] },
+          { "correct": "go", "alternatives": ["look", "turn", "stay"] },
+          { "correct": "anywhere", "alternatives": ["nowhere", "everywhere", "somewhere"] }
+        ]
+      },
+      {
+        "id": 64,
+        "sentence_en": "We read something.",
+        "translations": {
+          "ru": "Мы что-то читали.",
+          "es": "Leímos algo.",
+          "fr": "Nous avons lu quelque chose.",
+          "de": "Wir haben etwas gelesen."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "I"] },
+          { "correct": "read", "alternatives": ["wrote", "bought", "saw"] },
+          { "correct": "something", "alternatives": ["nothing", "anything", "everything"] }
+        ]
+      },
+      {
+        "id": 65,
+        "sentence_en": "I'll tell everything.",
+        "translations": {
+          "ru": "Я расскажу всё.",
+          "es": "Lo contaré todo.",
+          "fr": "Je raconterai tout.",
+          "de": "Ich werde alles erzählen."
+        },
+        "words": [
+          { "correct": "I'll", "alternatives": ["You'll", "He'll", "They'll"] },
+          { "correct": "tell", "alternatives": ["show", "write", "read"] },
+          { "correct": "everything", "alternatives": ["something", "nothing", "anything"] }
+        ]
+      },
+      {
+        "id": 66,
+        "sentence_en": "They see him nowhere.",
+        "translations": {
+          "ru": "Они не видят его нигде.",
+          "es": "Ellos no lo ven en ningún lado.",
+          "fr": "Ils ne le voient nulle part.",
+          "de": "Sie sehen ihn nirgends."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "I"] },
+          { "correct": "see", "alternatives": ["meet", "help", "love"] },
+          { "correct": "him", "alternatives": ["her", "you", "us"] },
+          { "correct": "nowhere", "alternatives": ["somewhere", "anywhere", "everywhere"] }
+        ]
+      },
+      {
+        "id": 67,
+        "sentence_en": "Everybody will ask him.",
+        "translations": {
+          "ru": "Все спросят его.",
+          "es": "Todos le preguntarán.",
+          "fr": "Tout le monde lui posera la question.",
+          "de": "Alle werden ihn fragen."
+        },
+        "words": [
+          { "correct": "Everybody", "alternatives": ["Somebody", "Anybody", "Nobody"] },
+          { "correct": "will", "alternatives": ["can", "does", "did"] },
+          { "correct": "ask", "alternatives": ["tell", "help", "see"] },
+          { "correct": "him", "alternatives": ["her", "you", "us"] }
+        ]
+      },
+      {
+        "id": 68,
+        "sentence_en": "He'll ask somebody.",
+        "translations": {
+          "ru": "Он спросит кого-нибудь.",
+          "es": "Él preguntará a alguien.",
+          "fr": "Il demandera à quelqu'un.",
+          "de": "Er wird jemanden fragen."
+        },
+        "words": [
+          { "correct": "He'll", "alternatives": ["She'll", "They'll", "We'll"] },
+          { "correct": "ask", "alternatives": ["tell", "help", "see"] },
+          { "correct": "somebody", "alternatives": ["anybody", "nobody", "everybody"] }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,3182 @@
+{
+  "id": 3,
+  "title": {
+    "english": "Lesson 3",
+    "russian": "Урок 3",
+    "spanish": "Lección 3",
+    "french": "Leçon 3",
+    "german": "Lektion 3"
+  },
+  "detailedDescription": {
+    "russian": {
+      "title": "Урок 3 — Глагол «to be»",
+      "sections": [
+        {
+          "type": "text",
+          "content": "Глагол «to be» (быть) — это глагол-связка, который обозначает присутствие."
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "В русском языке в настоящем времени это слово не используется. Мы не говорим «Я есть здесь», а говорим просто — «Я здесь».",
+            "В прошедшем и будущем времени мы используем его: «Я был здесь», «Я буду здесь».",
+            "В английском языке глагол «to be» используется всегда, в том числе в настоящем времени."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "То есть мы не можем сказать по-английски «Я здесь», надо говорить — «Я есть здесь».\n\nВсе глаголы в английском подчиняются базовой схеме (Урок 1 и 2), кроме to be.\n\nТак как это глагол состояния (а не действия), у него своя таблица:"
+        },
+        {
+          "type": "heading",
+          "content": "Будущее время"
+        },
+        {
+          "type": "table",
+          "headers": ["Вопрос", "Утверждение", "Отрицание"],
+          "rows": [
+            [
+              "Will I be?\nЯ буду?",
+              "I will be\nЯ буду",
+              "I will not be\nЯ не буду"
+            ],
+            [
+              "Will he be?\nОн будет?",
+              "He will be\nОн будет",
+              "He will not be\nОн не будет"
+            ],
+            [
+              "Will she be?\nОна будет?",
+              "She will be\nОна будет",
+              "She will not be\nОна не будет"
+            ],
+            [
+              "Will you be?\nТы будешь?",
+              "You will be\nТы будешь",
+              "You will not be\nТы не будешь"
+            ],
+            [
+              "Will we be?\nМы будем?",
+              "We will be\nМы будем",
+              "We will not be\nМы не будем"
+            ],
+            [
+              "Will they be?\nОни будут?",
+              "They will be\nОни будут",
+              "They will not be\nОни не будут"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Настоящее время"
+        },
+        {
+          "type": "table",
+          "headers": ["Вопрос", "Утверждение", "Отрицание"],
+          "rows": [
+            [
+              "Am I?\nЯ есть?",
+              "I am\nЯ есть",
+              "I am not\nЯ не есть"
+            ],
+            [
+              "Is he?\nОн есть?",
+              "He is\nОн есть",
+              "He is not\nОн не есть"
+            ],
+            [
+              "Is she?\nОна есть?",
+              "She is\nОна есть",
+              "She is not\nОна не есть"
+            ],
+            [
+              "Are you?\nТы есть?",
+              "You are\nТы есть",
+              "You are not\nТы не есть"
+            ],
+            [
+              "Are we?\nМы есть?",
+              "We are\nМы есть",
+              "We are not\nМы не есть"
+            ],
+            [
+              "Are they?\nОни есть?",
+              "They are\nОни есть",
+              "They are not\nОни не есть"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Прошедшее время"
+        },
+        {
+          "type": "table",
+          "headers": ["Вопрос", "Утверждение", "Отрицание"],
+          "rows": [
+            [
+              "Was I?\nЯ был?",
+              "I was\nЯ был",
+              "I was not\nЯ не был"
+            ],
+            [
+              "Was he?\nОн был?",
+              "He was\nОн был",
+              "He was not\nОн не был"
+            ],
+            [
+              "Was she?\nОна была?",
+              "She was\nОна была",
+              "She was not\nОна не была"
+            ],
+            [
+              "Were you?\nТы был?",
+              "You were\nТы был",
+              "You were not\nТы не был"
+            ],
+            [
+              "Were we?\nМы были?",
+              "We were\nМы были",
+              "We were not\nМы не были"
+            ],
+            [
+              "Were they?\nОни были?",
+              "They were\nОни были",
+              "They were not\nОни не были"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Глаголы want и like"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I like — переводится как «мне нравится»",
+            "I want — «я хочу», «мне хочется»"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Эти выражения употребляются с неопределённой формой глагола, используется связка to:"
+        },
+        {
+          "type": "heading",
+          "content": "Примеры:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I like to fly. — Мне нравится летать.",
+            "He wants to fly. — Ему хочется летать."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Оба глагола — правильные, подчиняются базовой схеме глаголов из уроков 1 и 2."
+        },
+        {
+          "type": "heading",
+          "content": "Выражение I would like / I'd like"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I would like — переводится как «я бы хотел»."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Употребляется с неопределённой формой глагола, используется связка to, как и с want/like."
+        },
+        {
+          "type": "heading",
+          "content": "Примеры:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I would like to ask. — Я бы хотел спросить.",
+            "I would like a cake. — Я бы хотел пирожное."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Также подчиняется базовой схеме будущего времени:"
+        },
+        {
+          "type": "table",
+          "headers": ["Вопрос", "Утверждение", "Отрицание"],
+          "rows": [
+            ["Would I like?", "I would like", "I would not like"],
+            ["Would he like?", "he would like", "he would not like"],
+            ["Would she like?", "she would like", "she would not like"],
+            ["Would you like?", "you would like", "you would not like"],
+            ["Would we like?", "we would like", "we would not like"],
+            ["Would they like?", "they would like", "they would not like"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Предлоги In и At"
+        },
+        {
+          "type": "text",
+          "content": "In — в (внутри ограниченного пространства, например, комната):\n• I am in the room. — Я в комнате.\n\nAt — на/в (мероприятие, событие):\n• He is at the conference. — Он на конференции."
+        },
+        {
+          "type": "heading",
+          "content": "Устойчивые выражения (неменяющаяся четвёрка):"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "At home — дома",
+            "At work — на работе",
+            "At school — в школе",
+            "In bed — в постели"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Эти выражения употребляются без артикля the"
+        },
+        {
+          "type": "heading",
+          "content": "Пример:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I am at home. — Я дома."
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Обобщённая таблица"
+        },
+        {
+          "type": "table",
+          "headers": ["In – в", "At – в, на", "Неменяющаяся четвёрка"],
+          "rows": [
+            ["in the house", "at the concert", "At home"],
+            ["in the office", "at the conference", "At work"],
+            ["in the room", "at the restaurant", "At school"],
+            ["in Moscow", "at the hotel", "In bed"],
+            ["in London", "at the meeting", ""],
+            ["in France", "", ""]
+          ]
+        }
+      ]
+    },
+    "french": {
+      "title": "Leçon 3 — Le verbe «to be», verbes «want / like», expression «would like», prépositions «in / at»",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "1. Le verbe to be (être)"
+        },
+        {
+          "type": "text",
+          "content": "En anglais, le verbe to be est toujours utilisé pour exprimer l'existence ou la présence, même au présent."
+        },
+        {
+          "type": "warning",
+          "content": "En français, comme en russe, on peut dire « Je suis ici » sans verbe (ex. : « Je suis ici »), mais en anglais on ne peut jamais omettre le verbe. Il faut toujours dire :\n\nI am here. (et non pas I here)"
+        },
+        {
+          "type": "text",
+          "content": "Ce verbe est irrégulier et a différentes formes selon le temps :"
+        },
+        {
+          "type": "heading",
+          "content": "Futur"
+        },
+        {
+          "type": "table",
+          "headers": ["Question", "Affirmation", "Négation"],
+          "rows": [
+            [
+              "Will I be?\nSerai-je?",
+              "I will be\nJe serai",
+              "I will not be\nJe ne serai pas"
+            ],
+            [
+              "Will he be?\nSera-t-il?",
+              "He will be\nIl sera",
+              "He will not be\nIl ne sera pas"
+            ],
+            [
+              "Will she be?\nSera-t-elle?",
+              "She will be\nElle sera",
+              "She will not be\nElle ne sera pas"
+            ],
+            [
+              "Will you be?\nSeras-tu?",
+              "You will be\nTu seras",
+              "You will not be\nTu ne seras pas"
+            ],
+            [
+              "Will we be?\nSerons-nous?",
+              "We will be\nNous serons",
+              "We will not be\nNous ne serons pas"
+            ],
+            [
+              "Will they be?\nSeront-ils?",
+              "They will be\nIls seront",
+              "They will not be\nIls ne seront pas"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Présent"
+        },
+        {
+          "type": "table",
+          "headers": ["Question", "Affirmation", "Négation"],
+          "rows": [
+            [
+              "Am I?\nSuis-je?",
+              "I am\nJe suis",
+              "I am not\nJe ne suis pas"
+            ],
+            [
+              "Is he?\nEst-il?",
+              "He is\nIl est",
+              "He is not\nIl n'est pas"
+            ],
+            [
+              "Is she?\nEst-elle?",
+              "She is\nElle est",
+              "She is not\nElle n'est pas"
+            ],
+            [
+              "Are you?\nEs-tu?",
+              "You are\nTu es",
+              "You are not\nTu n'es pas"
+            ],
+            [
+              "Are we?\nSommes-nous?",
+              "We are\nNous sommes",
+              "We are not\nNous ne sommes pas"
+            ],
+            [
+              "Are they?\nSont-ils?",
+              "They are\nIls sont",
+              "They are not\nIls ne sont pas"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Passé"
+        },
+        {
+          "type": "table",
+          "headers": ["Question", "Affirmation", "Négation"],
+          "rows": [
+            [
+              "Was I?\nÉtais-je?",
+              "I was\nJ'étais",
+              "I was not\nJe n'étais pas"
+            ],
+            [
+              "Was he?\nÉtait-il?",
+              "He was\nIl était",
+              "He was not\nIl n'était pas"
+            ],
+            [
+              "Was she?\nÉtait-elle?",
+              "She was\nElle était",
+              "She was not\nElle n'était pas"
+            ],
+            [
+              "Were you?\nÉtais-tu?",
+              "You were\nTu étais",
+              "You were not\nTu n'étais pas"
+            ],
+            [
+              "Were we?\nÉtions-nous?",
+              "We were\nNous étions",
+              "We were not\nNous n'étions pas"
+            ],
+            [
+              "Were they?\nÉtaient-ils?",
+              "They were\nIls étaient",
+              "They were not\nIls n'étaient pas"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "2. Les verbes want et like"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I like = J'aime / Cela me plaît",
+            "I want = Je veux / J'aimerais"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Comme en français, ces verbes sont suivis d'un infinitif avec \"to\" (comme aimer faire, vouloir aller)."
+        },
+        {
+          "type": "heading",
+          "content": "Exemples:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I like to swim. → J'aime nager.",
+            "He wants to eat. → Il veut manger."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Ces verbes sont réguliers et suivent le schéma simple du présent."
+        },
+        {
+          "type": "heading",
+          "content": "3. L'expression I would like / I'd like"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I would like = Je voudrais / J'aimerais"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "C'est une façon plus polie de dire I want.\nLà aussi, on utilise \"to\" + infinitif."
+        },
+        {
+          "type": "heading",
+          "content": "Exemples:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I would like to ask. → Je voudrais poser une question.",
+            "I would like a coffee. → Je voudrais un café."
+          ]
+        },
+        {
+          "type": "table",
+          "headers": ["Question", "Affirmation", "Négation"],
+          "rows": [
+            ["Would I like?", "I would like", "I would not like"],
+            ["Would he like?", "he would like", "he would not like"],
+            ["Would she like?", "she would like", "she would not like"],
+            ["Would you like?", "you would like", "you would not like"],
+            ["Would we like?", "we would like", "we would not like"],
+            ["Would they like?", "they would like", "they would not like"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "4. Prépositions in et at"
+        },
+        {
+          "type": "text",
+          "content": "Ces deux prépositions indiquent une localisation, mais leur usage dépend du contexte.\n\n- in = dans (espace fermé ou défini)\nI am in the room. → Je suis dans la pièce.\n\n- at = à / chez / lors de (lieu d'activité, événement, point précis)\nHe is at the conference. → Il est à la conférence."
+        },
+        {
+          "type": "heading",
+          "content": "Expressions figées sans article \"the\""
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "at home → à la maison",
+            "at work → au travail",
+            "at school → à l'école",
+            "in bed → au lit"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Exemple:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I am at home. → Je suis à la maison."
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Résumé des prépositions"
+        },
+        {
+          "type": "table",
+          "headers": ["In = dans", "At = à, chez", "Expressions fixes (sans the)"],
+          "rows": [
+            ["in the house", "at the concert", "at home"],
+            ["in the office", "at the conference", "at work"],
+            ["in the room", "at the restaurant", "at school"],
+            ["in Moscow", "at the hotel", "in bed"],
+            ["in London", "at the meeting", ""],
+            ["in France", "", ""]
+          ]
+        }
+      ]
+    },
+    "spanish": {
+      "title": "Lección 3 — El verbo \"to be\", los verbos \"want / like\", la expresión \"would like\" y las preposiciones \"in / at\"",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "1. El verbo to be (ser / estar)"
+        },
+        {
+          "type": "text",
+          "content": "En inglés, el verbo to be se usa siempre, incluso en presente."
+        },
+        {
+          "type": "warning",
+          "content": "En español decimos \"Estoy aquí\", con el verbo estar. En inglés no se puede omitir el verbo, siempre se necesita:\n\nI am here. → Estoy aquí (No se puede decir solo I here)."
+        },
+        {
+          "type": "text",
+          "content": "Este verbo es irregular y tiene muchas formas según el tiempo verbal:"
+        },
+        {
+          "type": "heading",
+          "content": "Futuro"
+        },
+        {
+          "type": "table",
+          "headers": ["Pregunta", "Afirmación", "Negación"],
+          "rows": [
+            [
+              "Will I be?\n¿Seré yo?",
+              "I will be\nYo seré",
+              "I will not be\nYo no seré"
+            ],
+            [
+              "Will he be?\n¿Será él?",
+              "He will be\nÉl será",
+              "He will not be\nÉl no será"
+            ],
+            [
+              "Will she be?\n¿Será ella?",
+              "She will be\nElla será",
+              "She will not be\nElla no será"
+            ],
+            [
+              "Will you be?\n¿Serás tú?",
+              "You will be\nTú serás",
+              "You will not be\nTú no serás"
+            ],
+            [
+              "Will we be?\n¿Seremos nosotros?",
+              "We will be\nNosotros seremos",
+              "We will not be\nNosotros no seremos"
+            ],
+            [
+              "Will they be?\n¿Serán ellos?",
+              "They will be\nEllos serán",
+              "They will not be\nEllos no serán"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Presente"
+        },
+        {
+          "type": "table",
+          "headers": ["Pregunta", "Afirmación", "Negación"],
+          "rows": [
+            [
+              "Am I?\n¿Soy yo?",
+              "I am\nYo soy",
+              "I am not\nYo no soy"
+            ],
+            [
+              "Is he?\n¿Es él?",
+              "He is\nÉl es",
+              "He is not\nÉl no es"
+            ],
+            [
+              "Is she?\n¿Es ella?",
+              "She is\nElla es",
+              "She is not\nElla no es"
+            ],
+            [
+              "Are you?\n¿Eres tú?",
+              "You are\nTú eres",
+              "You are not\nTú no eres"
+            ],
+            [
+              "Are we?\n¿Somos nosotros?",
+              "We are\nNosotros somos",
+              "We are not\nNosotros no somos"
+            ],
+            [
+              "Are they?\n¿Son ellos?",
+              "They are\nEllos son",
+              "They are not\nEllos no son"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Pasado"
+        },
+        {
+          "type": "table",
+          "headers": ["Pregunta", "Afirmación", "Negación"],
+          "rows": [
+            [
+              "Was I?\n¿Fui yo?",
+              "I was\nYo fui",
+              "I was not\nYo no fui"
+            ],
+            [
+              "Was he?\n¿Fue él?",
+              "He was\nÉl fue",
+              "He was not\nÉl no fue"
+            ],
+            [
+              "Was she?\n¿Fue ella?",
+              "She was\nElla fue",
+              "She was not\nElla no fue"
+            ],
+            [
+              "Were you?\n¿Fuiste tú?",
+              "You were\nTú fuiste",
+              "You were not\nTú no fuiste"
+            ],
+            [
+              "Were we?\n¿Fuimos nosotros?",
+              "We were\nNosotros fuimos",
+              "We were not\nNosotros no fuimos"
+            ],
+            [
+              "Were they?\n¿Fueron ellos?",
+              "They were\nEllos fueron",
+              "They were not\nEllos no fueron"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "2. Los verbos want y like"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I like = Me gusta",
+            "I want = Quiero / Me gustaría"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Estos verbos se usan con un verbo en infinitivo, como en español. En inglés, se conecta con la palabra \"to\":"
+        },
+        {
+          "type": "heading",
+          "content": "Ejemplos:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I like to fly. → Me gusta volar.",
+            "He wants to eat. → Él quiere comer."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Ambos verbos son regulares y siguen las reglas normales del presente."
+        },
+        {
+          "type": "heading",
+          "content": "3. Expresión I would like / I'd like"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I would like = Me gustaría / Quisiera"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Es una forma más cortés o suave de decir I want. También se usa con el infinitivo y la partícula \"to\"."
+        },
+        {
+          "type": "heading",
+          "content": "Ejemplos:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I would like to ask. → Me gustaría preguntar.",
+            "I would like a cake. → Me gustaría un pastel."
+          ]
+        },
+        {
+          "type": "table",
+          "headers": ["Pregunta", "Afirmación", "Negación"],
+          "rows": [
+            ["Would I like?", "I would like", "I would not like"],
+            ["Would he like?", "he would like", "he would not like"],
+            ["Would she like?", "she would like", "she would not like"],
+            ["Would you like?", "you would like", "you would not like"],
+            ["Would we like?", "we would like", "we would not like"],
+            ["Would they like?", "they would like", "they would not like"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "4. Preposiciones in y at"
+        },
+        {
+          "type": "text",
+          "content": "Ambas indican ubicación, pero se usan en diferentes contextos.\n\n- in = en / dentro de (espacio cerrado, con límites)\nI am in the room. → Estoy en la habitación.\n\n- at = en / en el lugar de (evento, punto específico)\nHe is at the conference. → Él está en la conferencia."
+        },
+        {
+          "type": "heading",
+          "content": "Expresiones fijas (sin artículo \"the\")"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "at home → en casa",
+            "at work → en el trabajo",
+            "at school → en la escuela",
+            "in bed → en la cama"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Ejemplo:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I am at home. → Estoy en casa."
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Resumen en tabla:"
+        },
+        {
+          "type": "table",
+          "headers": ["In = en/dentro", "At = en (evento/lugar)", "Expresiones fijas"],
+          "rows": [
+            ["in the house", "at the concert", "at home"],
+            ["in the office", "at the conference", "at work"],
+            ["in the room", "at the restaurant", "at school"],
+            ["in Madrid", "at the hotel", "in bed"],
+            ["in México", "at the meeting", ""],
+            ["", "", ""]
+          ]
+        }
+      ]
+    },
+    "german": {
+      "title": "Lektion 3 — Das Verb \"to be\", die Verben \"want / like\", die Wendung \"would like\" und die Präpositionen \"in / at\"",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "1. Das Verb to be (sein)"
+        },
+        {
+          "type": "text",
+          "content": "Im Englischen wird das Verb to be immer verwendet, auch im Präsens (Gegenwart)."
+        },
+        {
+          "type": "warning",
+          "content": "Im Deutschen sagt man z.B. \"Ich bin hier\". Genau wie im Englischen muss man auch hier immer das Hilfsverb verwenden. Man kann nicht sagen I here – das ist grammatikalisch falsch.\n\nMan muss sagen:\nI am here. → Ich bin hier."
+        },
+        {
+          "type": "text",
+          "content": "Das Verb to be ist unregelmäßig und hat verschiedene Formen je nach Zeitform:"
+        },
+        {
+          "type": "heading",
+          "content": "Zukunft"
+        },
+        {
+          "type": "table",
+          "headers": ["Frage", "Aussage", "Verneinung"],
+          "rows": [
+            [
+              "Will I be?\nWerde ich sein?",
+              "I will be\nIch werde sein",
+              "I will not be\nIch werde nicht sein"
+            ],
+            [
+              "Will he be?\nWird er sein?",
+              "He will be\nEr wird sein",
+              "He will not be\nEr wird nicht sein"
+            ],
+            [
+              "Will she be?\nWird sie sein?",
+              "She will be\nSie wird sein",
+              "She will not be\nSie wird nicht sein"
+            ],
+            [
+              "Will you be?\nWirst du sein?",
+              "You will be\nDu wirst sein",
+              "You will not be\nDu wirst nicht sein"
+            ],
+            [
+              "Will we be?\nWerden wir sein?",
+              "We will be\nWir werden sein",
+              "We will not be\nWir werden nicht sein"
+            ],
+            [
+              "Will they be?\nWerden sie sein?",
+              "They will be\nSie werden sein",
+              "They will not be\nSie werden nicht sein"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Gegenwart"
+        },
+        {
+          "type": "table",
+          "headers": ["Frage", "Aussage", "Verneinung"],
+          "rows": [
+            [
+              "Am I?\nBin ich?",
+              "I am\nIch bin",
+              "I am not\nIch bin nicht"
+            ],
+            [
+              "Is he?\nIst er?",
+              "He is\nEr ist",
+              "He is not\nEr ist nicht"
+            ],
+            [
+              "Is she?\nIst sie?",
+              "She is\nSie ist",
+              "She is not\nSie ist nicht"
+            ],
+            [
+              "Are you?\nBist du?",
+              "You are\nDu bist",
+              "You are not\nDu bist nicht"
+            ],
+            [
+              "Are we?\nSind wir?",
+              "We are\nWir sind",
+              "We are not\nWir sind nicht"
+            ],
+            [
+              "Are they?\nSind sie?",
+              "They are\nSie sind",
+              "They are not\nSie sind nicht"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Vergangenheit"
+        },
+        {
+          "type": "table",
+          "headers": ["Frage", "Aussage", "Verneinung"],
+          "rows": [
+            [
+              "Was I?\nWar ich?",
+              "I was\nIch war",
+              "I was not\nIch war nicht"
+            ],
+            [
+              "Was he?\nWar er?",
+              "He was\nEr war",
+              "He was not\nEr war nicht"
+            ],
+            [
+              "Was she?\nWar sie?",
+              "She was\nSie war",
+              "She was not\nSie war nicht"
+            ],
+            [
+              "Were you?\nWarst du?",
+              "You were\nDu warst",
+              "You were not\nDu warst nicht"
+            ],
+            [
+              "Were we?\nWaren wir?",
+              "We were\nWir waren",
+              "We were not\nWir waren nicht"
+            ],
+            [
+              "Were they?\nWaren sie?",
+              "They were\nSie waren",
+              "They were not\nSie waren nicht"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "2. Die Verben want und like"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I like = Ich mag / Mir gefällt",
+            "I want = Ich will / Ich möchte"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Im Englischen verwendet man diese Verben mit dem Infinitiv mit \"to\", ähnlich wie im Deutschen mit dem Infinitiv:"
+        },
+        {
+          "type": "heading",
+          "content": "Beispiele:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I like to fly. → Ich mag es zu fliegen.",
+            "He wants to eat. → Er will essen."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Beide Verben sind regelmäßig und folgen der einfachen Präsens-Struktur."
+        },
+        {
+          "type": "heading",
+          "content": "3. Die Wendung I would like / I'd like"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I would like = Ich würde gerne / Ich hätte gerne"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Das ist eine höflichere Alternative zu I want und wird auch mit dem Infinitiv (mit to) benutzt."
+        },
+        {
+          "type": "heading",
+          "content": "Beispiele:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I would like to ask. → Ich würde gerne fragen.",
+            "I would like a cake. → Ich hätte gerne ein Stück Kuchen."
+          ]
+        },
+        {
+          "type": "table",
+          "headers": ["Frage", "Aussage", "Verneinung"],
+          "rows": [
+            ["Would I like?", "I would like", "I would not like"],
+            ["Would he like?", "he would like", "he would not like"],
+            ["Would she like?", "she would like", "she would not like"],
+            ["Would you like?", "you would like", "you would not like"],
+            ["Would we like?", "we would like", "we would not like"],
+            ["Would they like?", "they would like", "they would not like"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "4. Die Präpositionen in und at"
+        },
+        {
+          "type": "text",
+          "content": "Beide zeigen einen Ort an, aber in verschiedenen Zusammenhängen:\n\n- in = in / innerhalb (mit klaren Grenzen, z. B. Räume)\nI am in the room. → Ich bin im Zimmer.\n\n- at = bei / an / auf (Punkt oder Veranstaltung)\nHe is at the conference. → Er ist auf der Konferenz."
+        },
+        {
+          "type": "heading",
+          "content": "Feste Ausdrücke (ohne Artikel \"the\")"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "at home → zu Hause",
+            "at work → bei der Arbeit",
+            "at school → in der Schule",
+            "in bed → im Bett"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Beispiel:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I am at home. → Ich bin zu Hause."
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Zusammenfassende Tabelle:"
+        },
+        {
+          "type": "table",
+          "headers": ["In = in / innerhalb", "At = bei / an / auf", "Feste Wendungen"],
+          "rows": [
+            ["in the house", "at the concert", "at home"],
+            ["in the office", "at the conference", "at work"],
+            ["in the room", "at the restaurant", "at school"],
+            ["in Berlin", "at the hotel", "in bed"],
+            ["in Deutschland", "at the meeting", ""],
+            ["", "", ""]
+          ]
+        }
+      ]
+    }
+  },
+  "vocabulary": {
+    "firstList": [
+      {
+        "number": 1,
+        "english": "here",
+        "russian": "здесь",
+        "spanish": "aquí",
+        "french": "ici",
+        "german": "hier"
+      },
+      {
+        "number": 2,
+        "english": "there",
+        "russian": "там",
+        "spanish": "allí",
+        "french": "là-bas",
+        "german": "dort"
+      },
+      {
+        "number": 3,
+        "english": "in",
+        "russian": "в (внутри)",
+        "spanish": "dentro",
+        "french": "dans",
+        "german": "drinnen"
+      },
+      {
+        "number": 4,
+        "english": "at",
+        "russian": "в / у",
+        "spanish": "en",
+        "french": "à",
+        "german": "bei"
+      },
+      {
+        "number": 5,
+        "english": "like",
+        "russian": "нравиться",
+        "spanish": "gustar",
+        "french": "aimer",
+        "german": "mögen"
+      },
+      {
+        "number": 6,
+        "english": "want",
+        "russian": "хотеть",
+        "spanish": "querer",
+        "french": "vouloir",
+        "german": "wollen"
+      },
+      {
+        "number": 7,
+        "english": "break",
+        "russian": "сломать",
+        "spanish": "romper",
+        "french": "casser",
+        "german": "brechen"
+      },
+      {
+        "number": 8,
+        "english": "stand",
+        "russian": "стоять",
+        "spanish": "estar de pie",
+        "french": "se tenir debout",
+        "german": "stehen"
+      },
+      {
+        "number": 9,
+        "english": "home",
+        "russian": "дом",
+        "spanish": "casa",
+        "french": "maison",
+        "german": "Zuhause"
+      },
+      {
+        "number": 10,
+        "english": "presentation",
+        "russian": "презентация",
+        "spanish": "presentación",
+        "french": "présentation",
+        "german": "Präsentation"
+      },
+      {
+        "number": 11,
+        "english": "school",
+        "russian": "школа",
+        "spanish": "escuela",
+        "french": "école",
+        "german": "Schule"
+      },
+      {
+        "number": 12,
+        "english": "museum",
+        "russian": "музей",
+        "spanish": "museo",
+        "french": "musée",
+        "german": "Museum"
+      },
+      {
+        "number": 13,
+        "english": "meeting",
+        "russian": "встреча",
+        "spanish": "reunión",
+        "french": "réunion",
+        "german": "Besprechung"
+      },
+      {
+        "number": 14,
+        "english": "car",
+        "russian": "машина",
+        "spanish": "coche",
+        "french": "voiture",
+        "german": "Auto"
+      },
+      {
+        "number": 15,
+        "english": "exhibition",
+        "russian": "выставка",
+        "spanish": "exposición",
+        "french": "exposition",
+        "german": "Ausstellung"
+      },
+      {
+        "number": 16,
+        "english": "concert",
+        "russian": "концерт",
+        "spanish": "concierto",
+        "french": "concert",
+        "german": "Konzert"
+      },
+      {
+        "number": 17,
+        "english": "room",
+        "russian": "комната",
+        "spanish": "habitación",
+        "french": "chambre",
+        "german": "Zimmer"
+      },
+      {
+        "number": 18,
+        "english": "cinema",
+        "russian": "кинотеатр",
+        "spanish": "cine",
+        "french": "cinéma",
+        "german": "Kino"
+      },
+      {
+        "number": 19,
+        "english": "conference",
+        "russian": "конференция",
+        "spanish": "conferencia",
+        "french": "conférence",
+        "german": "Konferenz"
+      },
+      {
+        "number": 20,
+        "english": "theater",
+        "russian": "театр",
+        "spanish": "teatro",
+        "french": "théâtre",
+        "german": "Theater"
+      },
+      {
+        "number": 21,
+        "english": "basement",
+        "russian": "подвал",
+        "spanish": "sótano",
+        "french": "sous-sol",
+        "german": "Keller"
+      },
+      {
+        "number": 22,
+        "english": "opera",
+        "russian": "опера",
+        "spanish": "ópera",
+        "french": "opéra",
+        "german": "Oper"
+      },
+      {
+        "number": 23,
+        "english": "gift",
+        "russian": "подарок",
+        "spanish": "regalo",
+        "french": "cadeau",
+        "german": "Geschenk"
+      },
+      {
+        "number": 24,
+        "english": "cake",
+        "russian": "торт",
+        "spanish": "pastel",
+        "french": "gâteau",
+        "german": "Kuchen"
+      },
+      {
+        "number": 25,
+        "english": "cup",
+        "russian": "чашка",
+        "spanish": "taza",
+        "french": "tasse",
+        "german": "Tasse"
+      },
+      {
+        "number": 26,
+        "english": "tea",
+        "russian": "чай",
+        "spanish": "té",
+        "french": "thé",
+        "german": "Tee"
+      },
+      {
+        "number": 27,
+        "english": "drink",
+        "russian": "напиток",
+        "spanish": "bebida",
+        "french": "boisson",
+        "german": "Getränk"
+      },
+      {
+        "number": 28,
+        "english": "film",
+        "russian": "фильм",
+        "spanish": "película",
+        "french": "film",
+        "german": "Film"
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "english": "They wanted to stand",
+      "russian": "Они хотели стоять",
+      "spanish": "Ellos querían estar de pie",
+      "french": "Ils voulaient se tenir debout",
+      "german": "Sie wollten stehen"
+    },
+    {
+      "id": 2,
+      "english": "We were not in Turkey",
+      "russian": "Мы не были в Турции",
+      "spanish": "No estábamos en Turquía",
+      "french": "Nous n'étions pas en Turquie",
+      "german": "Wir waren nicht in der Türkei"
+    },
+    {
+      "id": 3,
+      "english": "I will be at the meeting in Sydney",
+      "russian": "Я буду на встрече в Сиднее",
+      "spanish": "Estaré en la reunión en Sídney",
+      "french": "Je serai à la réunion à Sydney",
+      "german": "Ich werde bei dem Treffen in Sydney sein"
+    },
+    {
+      "id": 4,
+      "english": "Would you like a cake?",
+      "russian": "Тебе хотелось бы торт?",
+      "spanish": "¿Te gustaría un pastel?",
+      "french": "Voudrais-tu un gâteau ?",
+      "german": "Möchtest du einen Kuchen?"
+    },
+    {
+      "id": 5,
+      "english": "She will be there",
+      "russian": "Она будет там",
+      "spanish": "Ella estará allí",
+      "french": "Elle sera là-bas",
+      "german": "Sie wird dort sein"
+    },
+    {
+      "id": 6,
+      "english": "She is in Greece",
+      "russian": "Она в Греции",
+      "spanish": "Ella está en Grecia",
+      "french": "Elle est en Grèce",
+      "german": "Sie ist in Griechenland"
+    },
+    {
+      "id": 7,
+      "english": "I would like a cup of tea",
+      "russian": "Я бы хотел чашку чая",
+      "spanish": "Me gustaría una taza de té",
+      "french": "Je voudrais une tasse de thé",
+      "german": "Ich hätte gerne eine Tasse Tee"
+    },
+    {
+      "id": 8,
+      "english": "He does not want to fly",
+      "russian": "Ему не хочется летать",
+      "spanish": "Él no quiere volar",
+      "french": "Il ne veut pas voler",
+      "german": "Er möchte nicht fliegen"
+    },
+    {
+      "id": 9,
+      "english": "They will not be at the exhibition",
+      "russian": "Они не будут на выставке",
+      "spanish": "Ellos no estarán en la exposición",
+      "french": "Ils ne seront pas à l'exposition",
+      "german": "Sie werden nicht bei der Ausstellung sein"
+    },
+    {
+      "id": 10,
+      "english": "We will not be there",
+      "russian": "Мы не будем там",
+      "spanish": "No estaremos allí",
+      "french": "Nous ne serons pas là-bas",
+      "german": "Wir werden nicht dort sein"
+    },
+    {
+      "id": 11,
+      "english": "We will be at the exhibition in New York",
+      "russian": "Мы будем на выставке в Нью-Йорке",
+      "spanish": "Estaremos en la exposición en Nueva York",
+      "french": "Nous serons à l'exposition à New York",
+      "german": "Wir werden bei der Ausstellung in New York sein"
+    },
+    {
+      "id": 12,
+      "english": "Will they be in Canada?",
+      "russian": "Они будут в Канаде?",
+      "spanish": "¿Estarán en Canadá?",
+      "french": "Seront-ils au Canada ?",
+      "german": "Werden sie in Kanada sein?"
+    },
+    {
+      "id": 13,
+      "english": "Was he in the basement?",
+      "russian": "Он был в подвале?",
+      "spanish": "¿Estaba él en el sótano?",
+      "french": "Était-il au sous-sol ?",
+      "german": "War er im Keller?"
+    },
+    {
+      "id": 14,
+      "english": "Were you at home?",
+      "russian": "Ты был дома?",
+      "spanish": "¿Estabas en casa?",
+      "french": "Étais-tu à la maison ?",
+      "german": "Warst du zu Hause?"
+    },
+    {
+      "id": 15,
+      "english": "We will not like to tell",
+      "russian": "Нам не понравится рассказывать",
+      "spanish": "No nos gustará contar",
+      "french": "Nous n'aimerons pas raconter",
+      "german": "Wir werden nicht gerne erzählen"
+    },
+    {
+      "id": 16,
+      "english": "He was here",
+      "russian": "Он был здесь",
+      "spanish": "Él estaba aquí",
+      "french": "Il était ici",
+      "german": "Er war hier"
+    },
+    {
+      "id": 17,
+      "english": "Did he want to bring?",
+      "russian": "Он хотел принести?",
+      "spanish": "¿Quería él traer?",
+      "french": "Voulait-il apporter ?",
+      "german": "Wollte er bringen?"
+    },
+    {
+      "id": 18,
+      "english": "She will not be at the cinema",
+      "russian": "Она не будет в кино",
+      "spanish": "Ella no estará en el cine",
+      "french": "Elle ne sera pas au cinéma",
+      "german": "Sie wird nicht im Kino sein"
+    },
+    {
+      "id": 19,
+      "english": "She was at the conference in Singapore",
+      "russian": "Она была на конференции в Сингапуре",
+      "spanish": "Ella estaba en la conferencia en Singapur",
+      "french": "Elle était à la conférence à Singapour",
+      "german": "Sie war bei der Konferenz in Singapur"
+    },
+    {
+      "id": 20,
+      "english": "She was not here",
+      "russian": "Она не была здесь",
+      "spanish": "Ella no estaba aquí",
+      "french": "Elle n'était pas ici",
+      "german": "Sie war nicht hier"
+    },
+    {
+      "id": 21,
+      "english": "She was not at the conference in Beijing",
+      "russian": "Она не была на конференции в Пекине",
+      "spanish": "Ella no estaba en la conferencia en Pekín",
+      "french": "Elle n'était pas à la conférence à Pékin",
+      "german": "Sie war nicht bei der Konferenz in Peking"
+    },
+    {
+      "id": 22,
+      "english": "You will be here",
+      "russian": "Ты будешь здесь",
+      "spanish": "Estarás aquí",
+      "french": "Tu seras ici",
+      "german": "Du wirst hier sein"
+    },
+    {
+      "id": 23,
+      "english": "She does not want to put",
+      "russian": "Ей не хочется класть",
+      "spanish": "Ella no quiere poner",
+      "french": "Elle ne veut pas mettre",
+      "german": "Sie möchte nicht legen"
+    },
+    {
+      "id": 24,
+      "english": "He is here",
+      "russian": "Он здесь",
+      "spanish": "Él está aquí",
+      "french": "Il est ici",
+      "german": "Er ist hier"
+    },
+    {
+      "id": 25,
+      "english": "We were not here",
+      "russian": "Мы не были здесь",
+      "spanish": "No estábamos aquí",
+      "french": "Nous n'étions pas ici",
+      "german": "Wir waren nicht hier"
+    },
+    {
+      "id": 26,
+      "english": "We are at the presentation in Moscow",
+      "russian": "Мы на презентации в Москве",
+      "spanish": "Estamos en la presentación en Moscú",
+      "french": "Nous sommes à la présentation à Moscou",
+      "german": "Wir sind bei der Präsentation in Moskau"
+    },
+    {
+      "id": 27,
+      "english": "Is he at the meeting in Washington?",
+      "russian": "Он на встрече в Вашингтоне?",
+      "spanish": "¿Está él en la reunión en Washington?",
+      "french": "Est-il à la réunion à Washington ?",
+      "german": "Ist er bei dem Treffen in Washington?"
+    },
+    {
+      "id": 28,
+      "english": "You will be at the exhibition in Moscow",
+      "russian": "Ты будешь на выставке в Москве",
+      "spanish": "Estarás en la exposición en Moscú",
+      "french": "Tu seras à l'exposition à Moscou",
+      "german": "Du wirst bei der Ausstellung in Moskau sein"
+    },
+    {
+      "id": 29,
+      "english": "We want to help",
+      "russian": "Мы хотим помочь",
+      "spanish": "Queremos ayudar",
+      "french": "Nous voulons aider",
+      "german": "Wir wollen helfen"
+    },
+    {
+      "id": 30,
+      "english": "He was not in Thailand",
+      "russian": "Он не был в Таиланде",
+      "spanish": "Él no estaba en Tailandia",
+      "french": "Il n'était pas en Thaïlande",
+      "german": "Er war nicht in Thailand"
+    },
+    {
+      "id": 31,
+      "english": "We were at the presentation in Tokyo",
+      "russian": "Мы были на презентации в Токио",
+      "spanish": "Estábamos en la presentación en Tokio",
+      "french": "Nous étions à la présentation à Tokyo",
+      "german": "Wir waren bei der Präsentation in Tokio"
+    },
+    {
+      "id": 32,
+      "english": "She is at the presentation in Paris",
+      "russian": "Она на презентации в Париже",
+      "spanish": "Ella está en la presentación en París",
+      "french": "Elle est à la présentation à Paris",
+      "german": "Sie ist bei der Präsentation in Paris"
+    },
+    {
+      "id": 33,
+      "english": "Will they be at the presentation?",
+      "russian": "Они будут на презентации?",
+      "spanish": "¿Estarán en la presentación?",
+      "french": "Seront-ils à la présentation ?",
+      "german": "Werden sie bei der Präsentation sein?"
+    },
+    {
+      "id": 34,
+      "english": "Is she there?",
+      "russian": "Она там?",
+      "spanish": "¿Está ella allí?",
+      "french": "Est-elle là-bas ?",
+      "german": "Ist sie dort?"
+    },
+    {
+      "id": 35,
+      "english": "They were there",
+      "russian": "Они были там",
+      "spanish": "Ellos estaban allí",
+      "french": "Ils étaient là-bas",
+      "german": "Sie waren dort"
+    },
+    {
+      "id": 36,
+      "english": "Would he like a cup of tea?",
+      "russian": "Ему хотелось бы чашку чая?",
+      "spanish": "¿Le gustaría una taza de té?",
+      "french": "Voudrait-il une tasse de thé ?",
+      "german": "Hätte er gerne eine Tasse Tee?"
+    },
+    {
+      "id": 37,
+      "english": "I was not at the theater",
+      "russian": "Я не был в театре",
+      "spanish": "No estaba en el teatro",
+      "french": "Je n'étais pas au théâtre",
+      "german": "Ich war nicht im Theater"
+    },
+    {
+      "id": 38,
+      "english": "She does not like to read",
+      "russian": "Ей не нравится читать",
+      "spanish": "A ella no le gusta leer",
+      "french": "Elle n'aime pas lire",
+      "german": "Sie liest nicht gerne"
+    },
+    {
+      "id": 39,
+      "english": "Will they be there?",
+      "russian": "Они будут там?",
+      "spanish": "¿Estarán allí?",
+      "french": "Seront-ils là-bas ?",
+      "german": "Werden sie dort sein?"
+    },
+    {
+      "id": 40,
+      "english": "Are you there?",
+      "russian": "Ты там?",
+      "spanish": "¿Estás allí?",
+      "french": "Es-tu là-bas ?",
+      "german": "Bist du dort?"
+    },
+    {
+      "id": 41,
+      "english": "We are in the basement",
+      "russian": "Мы в подвале",
+      "spanish": "Estamos en el sótano",
+      "french": "Nous sommes au sous-sol",
+      "german": "Wir sind im Keller"
+    },
+    {
+      "id": 42,
+      "english": "They were not here",
+      "russian": "Они не были здесь",
+      "spanish": "Ellos no estaban aquí",
+      "french": "Ils n'étaient pas ici",
+      "german": "Sie waren nicht hier"
+    },
+    {
+      "id": 43,
+      "english": "She will be at school",
+      "russian": "Она будет на учебе",
+      "spanish": "Ella estará en la escuela",
+      "french": "Elle sera à l'école",
+      "german": "Sie wird in der Schule sein"
+    },
+    {
+      "id": 44,
+      "english": "She does not want to fly",
+      "russian": "Она не хочет летать",
+      "spanish": "Ella no quiere volar",
+      "french": "Elle ne veut pas voler",
+      "german": "Sie möchte nicht fliegen"
+    },
+    {
+      "id": 45,
+      "english": "I will want to eat",
+      "russian": "Я захочу есть",
+      "spanish": "Querré comer",
+      "french": "Je voudrai manger",
+      "german": "Ich werde essen wollen"
+    },
+    {
+      "id": 46,
+      "english": "Are you in Spain?",
+      "russian": "Ты в Испании?",
+      "spanish": "¿Estás en España?",
+      "french": "Es-tu en Espagne ?",
+      "german": "Bist du in Spanien?"
+    },
+    {
+      "id": 47,
+      "english": "She is at the conference in London",
+      "russian": "Она на конференции в Лондоне",
+      "spanish": "Ella está en la conferencia en Londres",
+      "french": "Elle est à la conférence à Londres",
+      "german": "Sie ist bei der Konferenz in London"
+    },
+    {
+      "id": 48,
+      "english": "They are not at the meeting in Washington",
+      "russian": "Они не на встрече в Вашингтоне",
+      "spanish": "Ellos no están en la reunión en Washington",
+      "french": "Ils ne sont pas à la réunion à Washington",
+      "german": "Sie sind nicht bei dem Treffen in Washington"
+    },
+    {
+      "id": 49,
+      "english": "She will not be here",
+      "russian": "Она не будет здесь",
+      "spanish": "Ella no estará aquí",
+      "french": "Elle ne sera pas ici",
+      "german": "Sie wird nicht hier sein"
+    },
+    {
+      "id": 50,
+      "english": "She was at home",
+      "russian": "Она была дома",
+      "spanish": "Ella estaba en casa",
+      "french": "Elle était à la maison",
+      "german": "Sie war zu Hause"
+    },
+    {
+      "id": 51,
+      "english": "They were at the presentation in Singapore",
+      "russian": "Они были на презентации в Сингапуре",
+      "spanish": "Ellos estaban en la presentación en Singapur",
+      "french": "Ils étaient à la présentation à Singapour",
+      "german": "Sie waren bei der Präsentation in Singapur"
+    },
+    {
+      "id": 52,
+      "english": "Was she here?",
+      "russian": "Она была здесь?",
+      "spanish": "¿Estaba ella aquí?",
+      "french": "Était-elle ici ?",
+      "german": "War sie hier?"
+    },
+    {
+      "id": 53,
+      "english": "She liked to buy",
+      "russian": "Ей нравилось покупать",
+      "spanish": "A ella le gustaba comprar",
+      "french": "Elle aimait acheter",
+      "german": "Sie kaufte gerne"
+    },
+    {
+      "id": 54,
+      "english": "I will not be there",
+      "russian": "Я не буду там",
+      "spanish": "No estaré allí",
+      "french": "Je ne serai pas là-bas",
+      "german": "Ich werde nicht dort sein"
+    },
+    {
+      "id": 55,
+      "english": "I was at the meeting in Tomsk",
+      "russian": "Я был на встрече в Томске",
+      "spanish": "Estaba en la reunión en Tomsk",
+      "french": "J'étais à la réunion à Tomsk",
+      "german": "Ich war bei dem Treffen in Tomsk"
+    },
+    {
+      "id": 56,
+      "english": "She was not at the presentation in Hong Kong",
+      "russian": "Она не была на презентации в Гонконге",
+      "spanish": "Ella no estaba en la presentación en Hong Kong",
+      "french": "Elle n'était pas à la présentation à Hong Kong",
+      "german": "Sie war nicht bei der Präsentation in Hongkong"
+    },
+    {
+      "id": 57,
+      "english": "She is at the presentation in Washington",
+      "russian": "Она на презентации в Вашингтоне",
+      "spanish": "Ella está en la presentación en Washington",
+      "french": "Elle est à la présentation à Washington",
+      "german": "Sie ist bei der Präsentation in Washington"
+    },
+    {
+      "id": 58,
+      "english": "We do not want to eat",
+      "russian": "Мы не хотим есть",
+      "spanish": "No queremos comer",
+      "french": "Nous ne voulons pas manger",
+      "german": "Wir wollen nicht essen"
+    },
+    {
+      "id": 59,
+      "english": "Was she at school?",
+      "russian": "Она была на учебе?",
+      "spanish": "¿Estaba ella en la escuela?",
+      "french": "Était-elle à l'école ?",
+      "german": "War sie in der Schule?"
+    },
+    {
+      "id": 60,
+      "english": "They will not be there",
+      "russian": "Они не будут там",
+      "spanish": "Ellos no estarán allí",
+      "french": "Ils ne seront pas là-bas",
+      "german": "Sie werden nicht dort sein"
+    },
+    {
+      "id": 61,
+      "english": "He will not be at the meeting in Tokyo",
+      "russian": "Он не будет на встрече в Токио",
+      "spanish": "Él no estará en la reunión en Tokio",
+      "french": "Il ne sera pas à la réunion à Tokyo",
+      "german": "Er wird nicht bei dem Treffen in Tokio sein"
+    },
+    {
+      "id": 62,
+      "english": "She does not like to open",
+      "russian": "Ей не нравится открывать",
+      "spanish": "A ella no le gusta abrir",
+      "french": "Elle n'aime pas ouvrir",
+      "german": "Sie öffnet nicht gerne"
+    },
+    {
+      "id": 63,
+      "english": "Were you at the meeting in Prague?",
+      "russian": "Ты был на встрече в Праге?",
+      "spanish": "¿Estabas en la reunión en Praga?",
+      "french": "Étais-tu à la réunion à Prague ?",
+      "german": "Warst du bei dem Treffen in Prag?"
+    },
+    {
+      "id": 64,
+      "english": "I was there",
+      "russian": "Я был там",
+      "spanish": "Yo estaba allí",
+      "french": "J'étais là-bas",
+      "german": "Ich war dort"
+    },
+    {
+      "id": 65,
+      "english": "We will not be in Egypt",
+      "russian": "Мы не будем в Египте",
+      "spanish": "No estaremos en Egipto",
+      "french": "Nous ne serons pas en Égypte",
+      "german": "Wir werden nicht in Ägypten sein"
+    },
+    {
+      "id": 66,
+      "english": "Was he there?",
+      "russian": "Он был там?",
+      "spanish": "¿Estaba él allí?",
+      "french": "Était-il là-bas ?",
+      "german": "War er dort?"
+    },
+    {
+      "id": 67,
+      "english": "She is here",
+      "russian": "Она здесь",
+      "spanish": "Ella está aquí",
+      "french": "Elle est ici",
+      "german": "Sie ist hier"
+    },
+    {
+      "id": 68,
+      "english": "They were at work",
+      "russian": "Они были на работе",
+      "spanish": "Ellos estaban en el trabajo",
+      "french": "Ils étaient au travail",
+      "german": "Sie waren bei der Arbeit"
+    },
+    {
+      "id": 69,
+      "english": "Did he like to help?",
+      "russian": "Ему понравилось помогать?",
+      "spanish": "¿Le gustó ayudar?",
+      "french": "A-t-il aimé aider ?",
+      "german": "Mochte er helfen?"
+    },
+    {
+      "id": 70,
+      "english": "She did not want to lose",
+      "russian": "Ей не хотелось потерять",
+      "spanish": "Ella no quería perder",
+      "french": "Elle ne voulait pas perdre",
+      "german": "Sie wollte nicht verlieren"
+    },
+    {
+      "id": 71,
+      "english": "Was he at the conference in Boston?",
+      "russian": "Он был на конференции в Бостоне?",
+      "spanish": "¿Estaba él en la conferencia en Boston?",
+      "french": "Était-il à la conférence à Boston ?",
+      "german": "War er bei der Konferenz in Boston?"
+    },
+    {
+      "id": 72,
+      "english": "He will not like to stand",
+      "russian": "Ему не понравится стоять",
+      "spanish": "No le gustará estar de pie",
+      "french": "Il n'aimera pas se tenir debout",
+      "german": "Er wird nicht gerne stehen"
+    },
+    {
+      "id": 73,
+      "english": "They will be here",
+      "russian": "Они будут здесь",
+      "spanish": "Ellos estarán aquí",
+      "french": "Ils seront ici",
+      "german": "Sie werden hier sein"
+    },
+    {
+      "id": 74,
+      "english": "Are they at the exhibition in Boston?",
+      "russian": "Они на выставке в Бостоне?",
+      "spanish": "¿Están ellos en la exposición en Boston?",
+      "french": "Sont-ils à l'exposition à Boston ?",
+      "german": "Sind sie bei der Ausstellung in Boston?"
+    },
+    {
+      "id": 75,
+      "english": "We are in Tomsk",
+      "russian": "Мы в Томске",
+      "spanish": "Estamos en Tomsk",
+      "french": "Nous sommes à Tomsk",
+      "german": "Wir sind in Tomsk"
+    }
+  ],
+  "exam": {
+    "sentences": [
+      {
+        "id": 1,
+        "sentence_en": "They wanted to stand",
+        "translations": {
+          "ru": "Они хотели стоять",
+          "es": "Ellos querían estar de pie",
+          "fr": "Ils voulaient se tenir debout",
+          "de": "Sie wollten stehen"
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "He", "She"] },
+          { "correct": "wanted", "alternatives": ["want", "wants", "will want"] },
+          { "correct": "to", "alternatives": ["for", "in", "at"] },
+          { "correct": "stand", "alternatives": ["sit", "walk", "run"] }
+        ]
+      },
+      {
+        "id": 2,
+        "sentence_en": "We were not in Turkey",
+        "translations": {
+          "ru": "Мы не были в Турции",
+          "es": "No estábamos en Turquía",
+          "fr": "Nous n'étions pas en Turquie",
+          "de": "Wir waren nicht in der Türkei"
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "He", "She"] },
+          { "correct": "were", "alternatives": ["are", "was", "will be"] },
+          { "correct": "not", "alternatives": ["never", "no", "now"] },
+          { "correct": "in", "alternatives": ["at", "on", "to"] },
+          { "correct": "Turkey", "alternatives": ["Spain", "Greece", "Italy"] }
+        ]
+      },
+      {
+        "id": 3,
+        "sentence_en": "I will be at the meeting in Sydney",
+        "translations": {
+          "ru": "Я буду на встрече в Сиднее",
+          "es": "Estaré en la reunión en Sídney",
+          "fr": "Je serai à la réunion à Sydney",
+          "de": "Ich werde bei dem Treffen in Sydney sein"
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "They"] },
+          { "correct": "will", "alternatives": ["am", "was", "were"] },
+          { "correct": "be", "alternatives": ["go", "come", "stay"] },
+          { "correct": "at", "alternatives": ["in", "on", "to"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "meeting", "alternatives": ["conference", "event", "party"] },
+          { "correct": "in", "alternatives": ["at", "on", "near"] },
+          { "correct": "Sydney", "alternatives": ["London", "Paris", "Tokyo"] }
+        ]
+      },
+      {
+        "id": 4,
+        "sentence_en": "Would you like a cake?",
+        "translations": {
+          "ru": "Тебе хотелось бы торт?",
+          "es": "¿Te gustaría un pastel?",
+          "fr": "Voudrais-tu un gâteau ?",
+          "de": "Möchtest du einen Kuchen?"
+        },
+        "words": [
+          { "correct": "Would", "alternatives": ["Will", "Did", "Do"] },
+          { "correct": "you", "alternatives": ["he", "she", "they"] },
+          { "correct": "like", "alternatives": ["want", "need", "have"] },
+          { "correct": "a", "alternatives": ["the", "an", "this"] },
+          { "correct": "cake", "alternatives": ["cookie", "sandwich", "drink"] }
+        ]
+      },
+      {
+        "id": 5,
+        "sentence_en": "She will be there",
+        "translations": {
+          "ru": "Она будет там",
+          "es": "Ella estará allí",
+          "fr": "Elle sera là-bas",
+          "de": "Sie wird dort sein"
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["I", "He", "They"] },
+          { "correct": "will", "alternatives": ["is", "was", "were"] },
+          { "correct": "be", "alternatives": ["go", "come", "stay"] },
+          { "correct": "there", "alternatives": ["here", "home", "away"] }
+        ]
+      },
+      {
+        "id": 6,
+        "sentence_en": "She is in Greece",
+        "translations": {
+          "ru": "Она в Греции",
+          "es": "Ella está en Grecia",
+          "fr": "Elle est en Grèce",
+          "de": "Sie ist in Griechenland"
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["I", "He", "They"] },
+          { "correct": "is", "alternatives": ["was", "will be", "are"] },
+          { "correct": "in", "alternatives": ["at", "on", "to"] },
+          { "correct": "Greece", "alternatives": ["Spain", "Italy", "France"] }
+        ]
+      },
+      {
+        "id": 7,
+        "sentence_en": "I would like a cup of tea",
+        "translations": {
+          "ru": "Я бы хотел чашку чая",
+          "es": "Me gustaría una taza de té",
+          "fr": "Je voudrais une tasse de thé",
+          "de": "Ich hätte gerne eine Tasse Tee"
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "They"] },
+          { "correct": "would", "alternatives": ["will", "am", "do"] },
+          { "correct": "like", "alternatives": ["want", "need", "have"] },
+          { "correct": "a", "alternatives": ["the", "an", "this"] },
+          { "correct": "cup", "alternatives": ["glass", "bottle", "mug"] },
+          { "correct": "of", "alternatives": ["with", "and", "for"] },
+          { "correct": "tea", "alternatives": ["coffee", "water", "juice"] }
+        ]
+      },
+      {
+        "id": 8,
+        "sentence_en": "He does not want to fly",
+        "translations": {
+          "ru": "Ему не хочется летать",
+          "es": "Él no quiere volar",
+          "fr": "Il ne veut pas voler",
+          "de": "Er möchte nicht fliegen"
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["I", "She", "They"] },
+          { "correct": "does", "alternatives": ["do", "did", "will"] },
+          { "correct": "not", "alternatives": ["never", "no", "now"] },
+          { "correct": "want", "alternatives": ["like", "need", "have"] },
+          { "correct": "to", "alternatives": ["for", "in", "at"] },
+          { "correct": "fly", "alternatives": ["drive", "walk", "run"] }
+        ]
+      },
+      {
+        "id": 9,
+        "sentence_en": "They will not be at the exhibition",
+        "translations": {
+          "ru": "Они не будут на выставке",
+          "es": "Ellos no estarán en la exposición",
+          "fr": "Ils ne seront pas à l'exposition",
+          "de": "Sie werden nicht bei der Ausstellung sein"
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["I", "He", "She"] },
+          { "correct": "will", "alternatives": ["are", "were", "have"] },
+          { "correct": "not", "alternatives": ["never", "no", "now"] },
+          { "correct": "be", "alternatives": ["go", "come", "stay"] },
+          { "correct": "at", "alternatives": ["in", "on", "to"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "exhibition", "alternatives": ["museum", "concert", "theater"] }
+        ]
+      },
+      {
+        "id": 10,
+        "sentence_en": "We will not be there",
+        "translations": {
+          "ru": "Мы не будем там",
+          "es": "No estaremos allí",
+          "fr": "Nous ne serons pas là-bas",
+          "de": "Wir werden nicht dort sein"
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["I", "They", "She"] },
+          { "correct": "will", "alternatives": ["are", "were", "have"] },
+          { "correct": "not", "alternatives": ["never", "no", "now"] },
+          { "correct": "be", "alternatives": ["go", "come", "stay"] },
+          { "correct": "there", "alternatives": ["here", "home", "away"] }
+        ]
+      },
+      {
+        "id": 11,
+        "sentence_en": "We will be at the exhibition in New York",
+        "translations": {
+          "ru": "Мы будем на выставке в Нью-Йорке",
+          "es": "Estaremos en la exposición en Nueva York",
+          "fr": "Nous serons à l'exposition à New York",
+          "de": "Wir werden bei der Ausstellung in New York sein"
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["I", "They", "She"] },
+          { "correct": "will", "alternatives": ["are", "were", "have"] },
+          { "correct": "be", "alternatives": ["go", "come", "stay"] },
+          { "correct": "at", "alternatives": ["in", "on", "to"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "exhibition", "alternatives": ["museum", "concert", "theater"] },
+          { "correct": "in", "alternatives": ["at", "on", "near"] },
+          { "correct": "New", "alternatives": ["Old", "Big", "Small"] },
+          { "correct": "York", "alternatives": ["London", "Paris", "Tokyo"] }
+        ]
+      },
+      {
+        "id": 12,
+        "sentence_en": "Will they be in Canada?",
+        "translations": {
+          "ru": "Они будут в Канаде?",
+          "es": "¿Estarán en Canadá?",
+          "fr": "Seront-ils au Canada ?",
+          "de": "Werden sie in Kanada sein?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Are", "Were", "Have"] },
+          { "correct": "they", "alternatives": ["you", "we", "he"] },
+          { "correct": "be", "alternatives": ["go", "come", "stay"] },
+          { "correct": "in", "alternatives": ["at", "on", "to"] },
+          { "correct": "Canada", "alternatives": ["America", "Australia", "England"] }
+        ]
+      },
+      {
+        "id": 13,
+        "sentence_en": "Was he in the basement?",
+        "translations": {
+          "ru": "Он был в подвале?",
+          "es": "¿Estaba él en el sótano?",
+          "fr": "Était-il au sous-sol ?",
+          "de": "War er im Keller?"
+        },
+        "words": [
+          { "correct": "Was", "alternatives": ["Is", "Will", "Does"] },
+          { "correct": "he", "alternatives": ["she", "they", "I"] },
+          { "correct": "in", "alternatives": ["at", "on", "to"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "basement", "alternatives": ["kitchen", "bedroom", "garden"] }
+        ]
+      },
+      {
+        "id": 14,
+        "sentence_en": "Were you at home?",
+        "translations": {
+          "ru": "Ты был дома?",
+          "es": "¿Estabas en casa?",
+          "fr": "Étais-tu à la maison ?",
+          "de": "Warst du zu Hause?"
+        },
+        "words": [
+          { "correct": "Were", "alternatives": ["Are", "Will", "Have"] },
+          { "correct": "you", "alternatives": ["they", "he", "she"] },
+          { "correct": "at", "alternatives": ["in", "on", "to"] },
+          { "correct": "home", "alternatives": ["work", "school", "shop"] }
+        ]
+      },
+      {
+        "id": 15,
+        "sentence_en": "We will not like to tell",
+        "translations": {
+          "ru": "Нам не понравится рассказывать",
+          "es": "No nos gustará contar",
+          "fr": "Nous n'aimerons pas raconter",
+          "de": "Wir werden nicht gerne erzählen"
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["I", "They", "She"] },
+          { "correct": "will", "alternatives": ["are", "were", "have"] },
+          { "correct": "not", "alternatives": ["never", "no", "now"] },
+          { "correct": "like", "alternatives": ["want", "need", "have"] },
+          { "correct": "to", "alternatives": ["for", "in", "at"] },
+          { "correct": "tell", "alternatives": ["say", "speak", "talk"] }
+        ]
+      },
+      {
+        "id": 16,
+        "sentence_en": "He was here",
+        "translations": {
+          "ru": "Он был здесь",
+          "es": "Él estaba aquí",
+          "fr": "Il était ici",
+          "de": "Er war hier"
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["I", "She", "They"] },
+          { "correct": "was", "alternatives": ["is", "will be", "were"] },
+          { "correct": "here", "alternatives": ["there", "home", "away"] }
+        ]
+      },
+      {
+        "id": 17,
+        "sentence_en": "Did he want to bring?",
+        "translations": {
+          "ru": "Он хотел принести?",
+          "es": "¿Quería él traer?",
+          "fr": "Voulait-il apporter ?",
+          "de": "Wollte er bringen?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Does", "Will", "Is"] },
+          { "correct": "he", "alternatives": ["she", "they", "I"] },
+          { "correct": "want", "alternatives": ["like", "need", "have"] },
+          { "correct": "to", "alternatives": ["for", "in", "at"] },
+          { "correct": "bring", "alternatives": ["take", "give", "put"] }
+        ]
+      },
+      {
+        "id": 18,
+        "sentence_en": "She will not be at the cinema",
+        "translations": {
+          "ru": "Она не будет в кино",
+          "es": "Ella no estará en el cine",
+          "fr": "Elle ne sera pas au cinéma",
+          "de": "Sie wird nicht im Kino sein"
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["I", "He", "They"] },
+          { "correct": "will", "alternatives": ["is", "was", "were"] },
+          { "correct": "not", "alternatives": ["never", "no", "now"] },
+          { "correct": "be", "alternatives": ["go", "come", "stay"] },
+          { "correct": "at", "alternatives": ["in", "on", "to"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "cinema", "alternatives": ["theater", "restaurant", "concert"] }
+        ]
+      },
+      {
+        "id": 19,
+        "sentence_en": "She was at the conference in Singapore",
+        "translations": {
+          "ru": "Она была на конференции в Сингапуре",
+          "es": "Ella estaba en la conferencia en Singapur",
+          "fr": "Elle était à la conférence à Singapour",
+          "de": "Sie war bei der Konferenz in Singapur"
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["I", "He", "They"] },
+          { "correct": "was", "alternatives": ["is", "will be", "were"] },
+          { "correct": "at", "alternatives": ["in", "on", "to"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "conference", "alternatives": ["meeting", "presentation", "seminar"] },
+          { "correct": "in", "alternatives": ["at", "on", "near"] },
+          { "correct": "Singapore", "alternatives": ["London", "Tokyo", "Paris"] }
+        ]
+      },
+      {
+        "id": 20,
+        "sentence_en": "She was not here",
+        "translations": {
+          "ru": "Она не была здесь",
+          "es": "Ella no estaba aquí",
+          "fr": "Elle n'était pas ici",
+          "de": "Sie war nicht hier"
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["I", "He", "They"] },
+          { "correct": "was", "alternatives": ["is", "will be", "were"] },
+          { "correct": "not", "alternatives": ["never", "no", "now"] },
+          { "correct": "here", "alternatives": ["there", "home", "away"] }
+        ]
+      },
+      {
+        "id": 21,
+        "sentence_en": "She was not at the conference in Beijing",
+        "translations": {
+          "ru": "Она не была на конференции в Пекине",
+          "es": "Ella no estaba en la conferencia en Pekín",
+          "fr": "Elle n'était pas à la conférence à Pékin",
+          "de": "Sie war nicht bei der Konferenz in Peking"
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["I", "He", "They"] },
+          { "correct": "was", "alternatives": ["is", "will be", "were"] },
+          { "correct": "not", "alternatives": ["never", "no", "now"] },
+          { "correct": "at", "alternatives": ["in", "on", "to"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "conference", "alternatives": ["meeting", "exhibition", "event"] },
+          { "correct": "in", "alternatives": ["at", "on", "near"] },
+          { "correct": "Beijing", "alternatives": ["Shanghai", "Tokyo", "Seoul"] }
+        ]
+      },
+      {
+        "id": 22,
+        "sentence_en": "You will be here",
+        "translations": {
+          "ru": "Ты будешь здесь",
+          "es": "Estarás aquí",
+          "fr": "Tu seras ici",
+          "de": "Du wirst hier sein"
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["I", "He", "They"] },
+          { "correct": "will", "alternatives": ["are", "were", "have"] },
+          { "correct": "be", "alternatives": ["go", "stay", "come"] },
+          { "correct": "here", "alternatives": ["there", "home", "away"] }
+        ]
+      },
+      {
+        "id": 23,
+        "sentence_en": "She does not want to put",
+        "translations": {
+          "ru": "Ей не хочется класть",
+          "es": "Ella no quiere poner",
+          "fr": "Elle ne veut pas mettre",
+          "de": "Sie möchte nicht legen"
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["I", "He", "They"] },
+          { "correct": "does", "alternatives": ["did", "will", "is"] },
+          { "correct": "not", "alternatives": ["never", "no", "now"] },
+          { "correct": "want", "alternatives": ["like", "need", "have"] },
+          { "correct": "to", "alternatives": ["for", "in", "at"] },
+          { "correct": "put", "alternatives": ["place", "set", "take"] }
+        ]
+      },
+      {
+        "id": 24,
+        "sentence_en": "He is here",
+        "translations": {
+          "ru": "Он здесь",
+          "es": "Él está aquí",
+          "fr": "Il est ici",
+          "de": "Er ist hier"
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["I", "She", "They"] },
+          { "correct": "is", "alternatives": ["was", "will be", "are"] },
+          { "correct": "here", "alternatives": ["there", "home", "away"] }
+        ]
+      },
+      {
+        "id": 25,
+        "sentence_en": "We were not here",
+        "translations": {
+          "ru": "Мы не были здесь",
+          "es": "No estábamos aquí",
+          "fr": "Nous n'étions pas ici",
+          "de": "Wir waren nicht hier"
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "She"] },
+          { "correct": "were", "alternatives": ["are", "was", "will be"] },
+          { "correct": "not", "alternatives": ["never", "no", "now"] },
+          { "correct": "here", "alternatives": ["there", "home", "away"] }
+        ]
+      },
+      {
+        "id": 26,
+        "sentence_en": "We are at the presentation in Moscow",
+        "translations": {
+          "ru": "Мы на презентации в Москве",
+          "es": "Estamos en la presentación en Moscú",
+          "fr": "Nous sommes à la présentation à Moscou",
+          "de": "Wir sind bei der Präsentation in Moskau"
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "She"] },
+          { "correct": "are", "alternatives": ["were", "will be", "have"] },
+          { "correct": "at", "alternatives": ["in", "on", "to"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "presentation", "alternatives": ["meeting", "conference", "event"] },
+          { "correct": "in", "alternatives": ["at", "on", "near"] },
+          { "correct": "Moscow", "alternatives": ["London", "Paris", "Berlin"] }
+        ]
+      },
+      {
+        "id": 27,
+        "sentence_en": "Is he at the meeting in Washington?",
+        "translations": {
+          "ru": "Он на встрече в Вашингтоне?",
+          "es": "¿Está él en la reunión en Washington?",
+          "fr": "Est-il à la réunion à Washington ?",
+          "de": "Ist er bei dem Treffen in Washington?"
+        },
+        "words": [
+          { "correct": "Is", "alternatives": ["Was", "Will", "Has"] },
+          { "correct": "he", "alternatives": ["she", "they", "I"] },
+          { "correct": "at", "alternatives": ["in", "on", "to"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "meeting", "alternatives": ["conference", "presentation", "workshop"] },
+          { "correct": "in", "alternatives": ["at", "on", "near"] },
+          { "correct": "Washington", "alternatives": ["New York", "Boston", "Chicago"] }
+        ]
+      },
+      {
+        "id": 28,
+        "sentence_en": "You will be at the exhibition in Moscow",
+        "translations": {
+          "ru": "Ты будешь на выставке в Москве",
+          "es": "Estarás en la exposición en Moscú",
+          "fr": "Tu seras à l'exposition à Moscou",
+          "de": "Du wirst bei der Ausstellung in Moskau sein"
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["I", "He", "They"] },
+          { "correct": "will", "alternatives": ["are", "were", "have"] },
+          { "correct": "be", "alternatives": ["go", "stay", "come"] },
+          { "correct": "at", "alternatives": ["in", "on", "to"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "exhibition", "alternatives": ["museum", "gallery", "festival"] },
+          { "correct": "in", "alternatives": ["at", "on", "near"] },
+          { "correct": "Moscow", "alternatives": ["London", "Paris", "Berlin"] }
+        ]
+      },
+      {
+        "id": 29,
+        "sentence_en": "We want to help",
+        "translations": {
+          "ru": "Мы хотим помочь",
+          "es": "Queremos ayudar",
+          "fr": "Nous voulons aider",
+          "de": "Wir wollen helfen"
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "She"] },
+          { "correct": "want", "alternatives": ["like", "need", "have"] },
+          { "correct": "to", "alternatives": ["for", "in", "at"] },
+          { "correct": "help", "alternatives": ["assist", "support", "work"] }
+        ]
+      },
+      {
+        "id": 30,
+        "sentence_en": "He was not in Thailand",
+        "translations": {
+          "ru": "Он не был в Таиланде",
+          "es": "Él no estaba en Tailandia",
+          "fr": "Il n'était pas en Thaïlande",
+          "de": "Er war nicht in Thailand"
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["I", "She", "They"] },
+          { "correct": "was", "alternatives": ["is", "will be", "are"] },
+          { "correct": "not", "alternatives": ["never", "no", "now"] },
+          { "correct": "in", "alternatives": ["at", "on", "to"] },
+          { "correct": "Thailand", "alternatives": ["Vietnam", "Malaysia", "Indonesia"] }
+        ]
+      },
+      {
+        "id": 31,
+        "sentence_en": "We were at the presentation in Tokyo",
+        "translations": {
+          "ru": "Мы были на презентации в Токио",
+          "es": "Estábamos en la presentación en Tokio",
+          "fr": "Nous étions à la présentation à Tokyo",
+          "de": "Wir waren bei der Präsentation in Tokio"
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "She"] },
+          { "correct": "were", "alternatives": ["are", "was", "will be"] },
+          { "correct": "at", "alternatives": ["in", "on", "to"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "presentation", "alternatives": ["meeting", "conference", "workshop"] },
+          { "correct": "in", "alternatives": ["at", "on", "near"] },
+          { "correct": "Tokyo", "alternatives": ["Osaka", "Seoul", "Beijing"] }
+        ]
+      },
+      {
+        "id": 32,
+        "sentence_en": "She is at the presentation in Paris",
+        "translations": {
+          "ru": "Она на презентации в Париже",
+          "es": "Ella está en la presentación en París",
+          "fr": "Elle est à la présentation à Paris",
+          "de": "Sie ist bei der Präsentation in Paris"
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["I", "He", "They"] },
+          { "correct": "is", "alternatives": ["was", "will be", "are"] },
+          { "correct": "at", "alternatives": ["in", "on", "to"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "presentation", "alternatives": ["meeting", "conference", "workshop"] },
+          { "correct": "in", "alternatives": ["at", "on", "near"] },
+          { "correct": "Paris", "alternatives": ["London", "Rome", "Berlin"] }
+        ]
+      },
+      {
+        "id": 33,
+        "sentence_en": "Will they be at the presentation?",
+        "translations": {
+          "ru": "Они будут на презентации?",
+          "es": "¿Estarán en la presentación?",
+          "fr": "Seront-ils à la présentation ?",
+          "de": "Werden sie bei der Präsentation sein?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Are", "Were", "Have"] },
+          { "correct": "they", "alternatives": ["you", "we", "he"] },
+          { "correct": "be", "alternatives": ["go", "stay", "come"] },
+          { "correct": "at", "alternatives": ["in", "on", "to"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "presentation", "alternatives": ["meeting", "conference", "workshop"] }
+        ]
+      },
+      {
+        "id": 34,
+        "sentence_en": "Is she there?",
+        "translations": {
+          "ru": "Она там?",
+          "es": "¿Está ella allí?",
+          "fr": "Est-elle là-bas ?",
+          "de": "Ist sie dort?"
+        },
+        "words": [
+          { "correct": "Is", "alternatives": ["Was", "Will", "Has"] },
+          { "correct": "she", "alternatives": ["he", "they", "I"] },
+          { "correct": "there", "alternatives": ["here", "home", "away"] }
+        ]
+      },
+      {
+        "id": 35,
+        "sentence_en": "They were there",
+        "translations": {
+          "ru": "Они были там",
+          "es": "Ellos estaban allí",
+          "fr": "Ils étaient là-bas",
+          "de": "Sie waren dort"
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "I", "She"] },
+          { "correct": "were", "alternatives": ["are", "was", "will be"] },
+          { "correct": "there", "alternatives": ["here", "home", "away"] }
+        ]
+      },
+      {
+        "id": 36,
+        "sentence_en": "Would he like a cup of tea?",
+        "translations": {
+          "ru": "Ему хотелось бы чашку чая?",
+          "es": "¿Le gustaría una taza de té?",
+          "fr": "Voudrait-il une tasse de thé ?",
+          "de": "Hätte er gerne eine Tasse Tee?"
+        },
+        "words": [
+          { "correct": "Would", "alternatives": ["Will", "Did", "Does"] },
+          { "correct": "he", "alternatives": ["she", "they", "you"] },
+          { "correct": "like", "alternatives": ["want", "need", "have"] },
+          { "correct": "a", "alternatives": ["the", "an", "this"] },
+          { "correct": "cup", "alternatives": ["glass", "bottle", "mug"] },
+          { "correct": "of", "alternatives": ["with", "and", "for"] },
+          { "correct": "tea", "alternatives": ["coffee", "water", "juice"] }
+        ]
+      },
+      {
+        "id": 37,
+        "sentence_en": "I was not at the theater",
+        "translations": {
+          "ru": "Я не был в театре",
+          "es": "No estaba en el teatro",
+          "fr": "Je n'étais pas au théâtre",
+          "de": "Ich war nicht im Theater"
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "They"] },
+          { "correct": "was", "alternatives": ["am", "will be", "were"] },
+          { "correct": "not", "alternatives": ["never", "no", "now"] },
+          { "correct": "at", "alternatives": ["in", "on", "to"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "theater", "alternatives": ["cinema", "museum", "concert"] }
+        ]
+      },
+      {
+        "id": 38,
+        "sentence_en": "She does not like to read",
+        "translations": {
+          "ru": "Ей не нравится читать",
+          "es": "A ella no le gusta leer",
+          "fr": "Elle n'aime pas lire",
+          "de": "Sie liest nicht gerne"
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["I", "He", "They"] },
+          { "correct": "does", "alternatives": ["did", "will", "is"] },
+          { "correct": "not", "alternatives": ["never", "no", "now"] },
+          { "correct": "like", "alternatives": ["want", "need", "have"] },
+          { "correct": "to", "alternatives": ["for", "in", "at"] },
+          { "correct": "read", "alternatives": ["write", "speak", "listen"] }
+        ]
+      },
+      {
+        "id": 39,
+        "sentence_en": "Will they be there?",
+        "translations": {
+          "ru": "Они будут там?",
+          "es": "¿Estarán allí?",
+          "fr": "Seront-ils là-bas ?",
+          "de": "Werden sie dort sein?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Are", "Were", "Have"] },
+          { "correct": "they", "alternatives": ["you", "we", "he"] },
+          { "correct": "be", "alternatives": ["go", "stay", "come"] },
+          { "correct": "there", "alternatives": ["here", "home", "away"] }
+        ]
+      },
+      {
+        "id": 40,
+        "sentence_en": "Are you there?",
+        "translations": {
+          "ru": "Ты там?",
+          "es": "¿Estás allí?",
+          "fr": "Es-tu là-bas ?",
+          "de": "Bist du dort?"
+        },
+        "words": [
+          { "correct": "Are", "alternatives": ["Were", "Will", "Have"] },
+          { "correct": "you", "alternatives": ["they", "we", "she"] },
+          { "correct": "there", "alternatives": ["here", "home", "away"] }
+        ]
+      },
+      {
+        "id": 41,
+        "sentence_en": "We are in the basement",
+        "translations": {
+          "ru": "Мы в подвале",
+          "es": "Estamos en el sótano",
+          "fr": "Nous sommes au sous-sol",
+          "de": "Wir sind im Keller"
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "He", "She"] },
+          { "correct": "are", "alternatives": ["were", "will be", "have"] },
+          { "correct": "in", "alternatives": ["at", "on", "to"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "basement", "alternatives": ["garage", "kitchen", "room"] }
+        ]
+      },
+      {
+        "id": 42,
+        "sentence_en": "They were not here",
+        "translations": {
+          "ru": "Они не были здесь",
+          "es": "Ellos no estaban aquí",
+          "fr": "Ils n'étaient pas ici",
+          "de": "Sie waren nicht hier"
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "I", "She"] },
+          { "correct": "were", "alternatives": ["are", "was", "will be"] },
+          { "correct": "not", "alternatives": ["never", "no", "now"] },
+          { "correct": "here", "alternatives": ["there", "home", "away"] }
+        ]
+      },
+      {
+        "id": 43,
+        "sentence_en": "She will be at school",
+        "translations": {
+          "ru": "Она будет на учебе",
+          "es": "Ella estará en la escuela",
+          "fr": "Elle sera à l'école",
+          "de": "Sie wird in der Schule sein"
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["I", "He", "They"] },
+          { "correct": "will", "alternatives": ["is", "was", "has"] },
+          { "correct": "be", "alternatives": ["go", "stay", "come"] },
+          { "correct": "at", "alternatives": ["in", "on", "to"] },
+          { "correct": "school", "alternatives": ["work", "home", "university"] }
+        ]
+      },
+      {
+        "id": 44,
+        "sentence_en": "She does not want to fly",
+        "translations": {
+          "ru": "Она не хочет летать",
+          "es": "Ella no quiere volar",
+          "fr": "Elle ne veut pas voler",
+          "de": "Sie möchte nicht fliegen"
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["I", "He", "They"] },
+          { "correct": "does", "alternatives": ["did", "will", "has"] },
+          { "correct": "not", "alternatives": ["never", "no", "now"] },
+          { "correct": "want", "alternatives": ["like", "need", "have"] },
+          { "correct": "to", "alternatives": ["for", "in", "at"] },
+          { "correct": "fly", "alternatives": ["drive", "walk", "swim"] }
+        ]
+      },
+      {
+        "id": 45,
+        "sentence_en": "I will want to eat",
+        "translations": {
+          "ru": "Я захочу есть",
+          "es": "Querré comer",
+          "fr": "Je voudrai manger",
+          "de": "Ich werde essen wollen"
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "They"] },
+          { "correct": "will", "alternatives": ["am", "do", "did"] },
+          { "correct": "want", "alternatives": ["like", "need", "have"] },
+          { "correct": "to", "alternatives": ["for", "in", "at"] },
+          { "correct": "eat", "alternatives": ["drink", "cook", "buy"] }
+        ]
+      },
+      {
+        "id": 46,
+        "sentence_en": "Are you in Spain?",
+        "translations": {
+          "ru": "Ты в Испании?",
+          "es": "¿Estás en España?",
+          "fr": "Es-tu en Espagne ?",
+          "de": "Bist du in Spanien?"
+        },
+        "words": [
+          { "correct": "Are", "alternatives": ["Were", "Will", "Have"] },
+          { "correct": "you", "alternatives": ["they", "we", "she"] },
+          { "correct": "in", "alternatives": ["at", "on", "to"] },
+          { "correct": "Spain", "alternatives": ["Italy", "France", "Portugal"] }
+        ]
+      },
+      {
+        "id": 47,
+        "sentence_en": "She is at the conference in London",
+        "translations": {
+          "ru": "Она на конференции в Лондоне",
+          "es": "Ella está en la conferencia en Londres",
+          "fr": "Elle est à la conférence à Londres",
+          "de": "Sie ist bei der Konferenz in London"
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["I", "He", "They"] },
+          { "correct": "is", "alternatives": ["was", "will be", "are"] },
+          { "correct": "at", "alternatives": ["in", "on", "to"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "conference", "alternatives": ["meeting", "presentation", "exhibition"] },
+          { "correct": "in", "alternatives": ["at", "on", "near"] },
+          { "correct": "London", "alternatives": ["Paris", "Berlin", "Rome"] }
+        ]
+      },
+      {
+        "id": 48,
+        "sentence_en": "They are not at the meeting in Washington",
+        "translations": {
+          "ru": "Они не на встрече в Вашингтоне",
+          "es": "Ellos no están en la reunión en Washington",
+          "fr": "Ils ne sont pas à la réunion à Washington",
+          "de": "Sie sind nicht bei dem Treffen in Washington"
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "He", "She"] },
+          { "correct": "are", "alternatives": ["were", "will be", "have"] },
+          { "correct": "not", "alternatives": ["never", "no", "now"] },
+          { "correct": "at", "alternatives": ["in", "on", "to"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "meeting", "alternatives": ["conference", "presentation", "event"] },
+          { "correct": "in", "alternatives": ["at", "on", "near"] },
+          { "correct": "Washington", "alternatives": ["New York", "Boston", "Chicago"] }
+        ]
+      },
+      {
+        "id": 49,
+        "sentence_en": "She will not be here",
+        "translations": {
+          "ru": "Она не будет здесь",
+          "es": "Ella no estará aquí",
+          "fr": "Elle ne sera pas ici",
+          "de": "Sie wird nicht hier sein"
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["I", "He", "They"] },
+          { "correct": "will", "alternatives": ["is", "was", "has"] },
+          { "correct": "not", "alternatives": ["never", "no", "now"] },
+          { "correct": "be", "alternatives": ["go", "stay", "come"] },
+          { "correct": "here", "alternatives": ["there", "home", "away"] }
+        ]
+      },
+      {
+        "id": 50,
+        "sentence_en": "She was at home",
+        "translations": {
+          "ru": "Она была дома",
+          "es": "Ella estaba en casa",
+          "fr": "Elle était à la maison",
+          "de": "Sie war zu Hause"
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["I", "He", "They"] },
+          { "correct": "was", "alternatives": ["is", "will be", "are"] },
+          { "correct": "at", "alternatives": ["in", "on", "to"] },
+          { "correct": "home", "alternatives": ["work", "school", "bed"] }
+        ]
+      },
+      {
+        "id": 51,
+        "sentence_en": "They were at the presentation in Singapore",
+        "translations": {
+          "ru": "Они были на презентации в Сингапуре",
+          "es": "Ellos estaban en la presentación en Singapur",
+          "fr": "Ils étaient à la présentation à Singapour",
+          "de": "Sie waren bei der Präsentation in Singapur"
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "He", "She"] },
+          { "correct": "were", "alternatives": ["are", "was", "will be"] },
+          { "correct": "at", "alternatives": ["in", "on", "to"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "presentation", "alternatives": ["meeting", "conference", "exhibition"] },
+          { "correct": "in", "alternatives": ["at", "on", "near"] },
+          { "correct": "Singapore", "alternatives": ["Tokyo", "Beijing", "Seoul"] }
+        ]
+      },
+      {
+        "id": 52,
+        "sentence_en": "Was she here?",
+        "translations": {
+          "ru": "Она была здесь?",
+          "es": "¿Estaba ella aquí?",
+          "fr": "Était-elle ici ?",
+          "de": "War sie hier?"
+        },
+        "words": [
+          { "correct": "Was", "alternatives": ["Is", "Will", "Has"] },
+          { "correct": "she", "alternatives": ["he", "they", "I"] },
+          { "correct": "here", "alternatives": ["there", "home", "away"] }
+        ]
+      },
+      {
+        "id": 53,
+        "sentence_en": "She liked to buy",
+        "translations": {
+          "ru": "Ей нравилось покупать",
+          "es": "A ella le gustaba comprar",
+          "fr": "Elle aimait acheter",
+          "de": "Sie kaufte gerne"
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["I", "He", "They"] },
+          { "correct": "liked", "alternatives": ["likes", "wanted", "needed"] },
+          { "correct": "to", "alternatives": ["for", "in", "at"] },
+          { "correct": "buy", "alternatives": ["sell", "find", "make"] }
+        ]
+      },
+      {
+        "id": 54,
+        "sentence_en": "I will not be there",
+        "translations": {
+          "ru": "Я не буду там",
+          "es": "No estaré allí",
+          "fr": "Je ne serai pas là-bas",
+          "de": "Ich werde nicht dort sein"
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "They"] },
+          { "correct": "will", "alternatives": ["am", "was", "have"] },
+          { "correct": "not", "alternatives": ["never", "no", "now"] },
+          { "correct": "be", "alternatives": ["go", "stay", "come"] },
+          { "correct": "there", "alternatives": ["here", "home", "away"] }
+        ]
+      },
+      {
+        "id": 55,
+        "sentence_en": "I was at the meeting in Tomsk",
+        "translations": {
+          "ru": "Я был на встрече в Томске",
+          "es": "Estaba en la reunión en Tomsk",
+          "fr": "J'étais à la réunion à Tomsk",
+          "de": "Ich war bei dem Treffen in Tomsk"
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "They"] },
+          { "correct": "was", "alternatives": ["am", "will be", "were"] },
+          { "correct": "at", "alternatives": ["in", "on", "to"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "meeting", "alternatives": ["conference", "presentation", "event"] },
+          { "correct": "in", "alternatives": ["at", "on", "near"] },
+          { "correct": "Tomsk", "alternatives": ["Moscow", "Kazan", "Sochi"] }
+        ]
+      },
+      {
+        "id": 56,
+        "sentence_en": "She was not at the presentation in Hong Kong",
+        "translations": {
+          "ru": "Она не была на презентации в Гонконге",
+          "es": "Ella no estaba en la presentación en Hong Kong",
+          "fr": "Elle n'était pas à la présentation à Hong Kong",
+          "de": "Sie war nicht bei der Präsentation in Hongkong"
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["I", "He", "They"] },
+          { "correct": "was", "alternatives": ["is", "will be", "are"] },
+          { "correct": "not", "alternatives": ["never", "no", "now"] },
+          { "correct": "at", "alternatives": ["in", "on", "to"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "presentation", "alternatives": ["meeting", "conference", "exhibition"] },
+          { "correct": "in", "alternatives": ["at", "on", "near"] },
+          { "correct": "Hong", "alternatives": ["Beijing", "Shanghai", "Seoul"] },
+          { "correct": "Kong", "alternatives": ["City", "Bay", "District"] }
+        ]
+      },
+      {
+        "id": 57,
+        "sentence_en": "She is at the presentation in Washington",
+        "translations": {
+          "ru": "Она на презентации в Вашингтоне",
+          "es": "Ella está en la presentación en Washington",
+          "fr": "Elle est à la présentation à Washington",
+          "de": "Sie ist bei der Präsentation in Washington"
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["I", "He", "They"] },
+          { "correct": "is", "alternatives": ["was", "will be", "are"] },
+          { "correct": "at", "alternatives": ["in", "on", "to"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "presentation", "alternatives": ["meeting", "conference", "exhibition"] },
+          { "correct": "in", "alternatives": ["at", "on", "near"] },
+          { "correct": "Washington", "alternatives": ["New York", "Boston", "Chicago"] }
+        ]
+      },
+      {
+        "id": 58,
+        "sentence_en": "We do not want to eat",
+        "translations": {
+          "ru": "Мы не хотим есть",
+          "es": "No queremos comer",
+          "fr": "Nous ne voulons pas manger",
+          "de": "Wir wollen nicht essen"
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "She"] },
+          { "correct": "do", "alternatives": ["did", "will", "are"] },
+          { "correct": "not", "alternatives": ["never", "no", "now"] },
+          { "correct": "want", "alternatives": ["like", "need", "have"] },
+          { "correct": "to", "alternatives": ["for", "in", "at"] },
+          { "correct": "eat", "alternatives": ["drink", "cook", "sleep"] }
+        ]
+      },
+      {
+        "id": 59,
+        "sentence_en": "Was she at school?",
+        "translations": {
+          "ru": "Она была на учебе?",
+          "es": "¿Estaba ella en la escuela?",
+          "fr": "Était-elle à l'école ?",
+          "de": "War sie in der Schule?"
+        },
+        "words": [
+          { "correct": "Was", "alternatives": ["Is", "Will", "Has"] },
+          { "correct": "she", "alternatives": ["he", "they", "you"] },
+          { "correct": "at", "alternatives": ["in", "on", "to"] },
+          { "correct": "school", "alternatives": ["work", "home", "university"] }
+        ]
+      },
+      {
+        "id": 60,
+        "sentence_en": "They will not be there",
+        "translations": {
+          "ru": "Они не будут там",
+          "es": "Ellos no estarán allí",
+          "fr": "Ils ne seront pas là-bas",
+          "de": "Sie werden nicht dort sein"
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "I", "She"] },
+          { "correct": "will", "alternatives": ["are", "were", "have"] },
+          { "correct": "not", "alternatives": ["never", "no", "now"] },
+          { "correct": "be", "alternatives": ["go", "come", "stay"] },
+          { "correct": "there", "alternatives": ["here", "home", "away"] }
+        ]
+      },
+      {
+        "id": 61,
+        "sentence_en": "He will not be at the meeting in Tokyo",
+        "translations": {
+          "ru": "Он не будет на встрече в Токио",
+          "es": "Él no estará en la reunión en Tokio",
+          "fr": "Il ne sera pas à la réunion à Tokyo",
+          "de": "Er wird nicht bei dem Treffen in Tokio sein"
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["I", "She", "They"] },
+          { "correct": "will", "alternatives": ["is", "was", "has"] },
+          { "correct": "not", "alternatives": ["never", "no", "now"] },
+          { "correct": "be", "alternatives": ["go", "come", "stay"] },
+          { "correct": "at", "alternatives": ["in", "on", "to"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "meeting", "alternatives": ["conference", "presentation", "event"] },
+          { "correct": "in", "alternatives": ["at", "on", "near"] },
+          { "correct": "Tokyo", "alternatives": ["Osaka", "Seoul", "Beijing"] }
+        ]
+      },
+      {
+        "id": 62,
+        "sentence_en": "She does not like to open",
+        "translations": {
+          "ru": "Ей не нравится открывать",
+          "es": "A ella no le gusta abrir",
+          "fr": "Elle n'aime pas ouvrir",
+          "de": "Sie öffnet nicht gerne"
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["I", "He", "They"] },
+          { "correct": "does", "alternatives": ["did", "will", "has"] },
+          { "correct": "not", "alternatives": ["never", "no", "now"] },
+          { "correct": "like", "alternatives": ["want", "need", "have"] },
+          { "correct": "to", "alternatives": ["for", "in", "at"] },
+          { "correct": "open", "alternatives": ["close", "read", "write"] }
+        ]
+      },
+      {
+        "id": 63,
+        "sentence_en": "Were you at the meeting in Prague?",
+        "translations": {
+          "ru": "Ты был на встрече в Праге?",
+          "es": "¿Estabas en la reunión en Praga?",
+          "fr": "Étais-tu à la réunion à Prague ?",
+          "de": "Warst du bei dem Treffen in Prag?"
+        },
+        "words": [
+          { "correct": "Were", "alternatives": ["Are", "Will", "Have"] },
+          { "correct": "you", "alternatives": ["they", "we", "she"] },
+          { "correct": "at", "alternatives": ["in", "on", "to"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "meeting", "alternatives": ["conference", "presentation", "event"] },
+          { "correct": "in", "alternatives": ["at", "on", "near"] },
+          { "correct": "Prague", "alternatives": ["Vienna", "Budapest", "Warsaw"] }
+        ]
+      },
+      {
+        "id": 64,
+        "sentence_en": "I was there",
+        "translations": {
+          "ru": "Я был там",
+          "es": "Yo estaba allí",
+          "fr": "J'étais là-bas",
+          "de": "Ich war dort"
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["He", "She", "They"] },
+          { "correct": "was", "alternatives": ["am", "will be", "have"] },
+          { "correct": "there", "alternatives": ["here", "home", "away"] }
+        ]
+      },
+      {
+        "id": 65,
+        "sentence_en": "We will not be in Egypt",
+        "translations": {
+          "ru": "Мы не будем в Египте",
+          "es": "No estaremos en Egipto",
+          "fr": "Nous ne serons pas en Égypte",
+          "de": "Wir werden nicht in Ägypten sein"
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "She"] },
+          { "correct": "will", "alternatives": ["are", "were", "have"] },
+          { "correct": "not", "alternatives": ["never", "no", "now"] },
+          { "correct": "be", "alternatives": ["go", "come", "stay"] },
+          { "correct": "in", "alternatives": ["at", "on", "to"] },
+          { "correct": "Egypt", "alternatives": ["Turkey", "Greece", "Spain"] }
+        ]
+      },
+      {
+        "id": 66,
+        "sentence_en": "Was he there?",
+        "translations": {
+          "ru": "Он был там?",
+          "es": "¿Estaba él allí?",
+          "fr": "Était-il là-bas ?",
+          "de": "War er dort?"
+        },
+        "words": [
+          { "correct": "Was", "alternatives": ["Is", "Will", "Has"] },
+          { "correct": "he", "alternatives": ["she", "they", "I"] },
+          { "correct": "there", "alternatives": ["here", "home", "away"] }
+        ]
+      },
+      {
+        "id": 67,
+        "sentence_en": "She is here",
+        "translations": {
+          "ru": "Она здесь",
+          "es": "Ella está aquí",
+          "fr": "Elle est ici",
+          "de": "Sie ist hier"
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["I", "He", "They"] },
+          { "correct": "is", "alternatives": ["was", "will be", "are"] },
+          { "correct": "here", "alternatives": ["there", "home", "away"] }
+        ]
+      },
+      {
+        "id": 68,
+        "sentence_en": "They were at work",
+        "translations": {
+          "ru": "Они были на работе",
+          "es": "Ellos estaban en el trabajo",
+          "fr": "Ils étaient au travail",
+          "de": "Sie waren bei der Arbeit"
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "I", "She"] },
+          { "correct": "were", "alternatives": ["are", "was", "will be"] },
+          { "correct": "at", "alternatives": ["in", "on", "to"] },
+          { "correct": "work", "alternatives": ["home", "school", "bed"] }
+        ]
+      },
+      {
+        "id": 69,
+        "sentence_en": "Did he like to help?",
+        "translations": {
+          "ru": "Ему понравилось помогать?",
+          "es": "¿Le gustó ayudar?",
+          "fr": "A-t-il aimé aider ?",
+          "de": "Mochte er helfen?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Does", "Will", "Is"] },
+          { "correct": "he", "alternatives": ["she", "they", "you"] },
+          { "correct": "like", "alternatives": ["want", "need", "have"] },
+          { "correct": "to", "alternatives": ["for", "in", "at"] },
+          { "correct": "help", "alternatives": ["work", "talk", "play"] }
+        ]
+      },
+      {
+        "id": 70,
+        "sentence_en": "She did not want to lose",
+        "translations": {
+          "ru": "Ей не хотелось потерять",
+          "es": "Ella no quería perder",
+          "fr": "Elle ne voulait pas perdre",
+          "de": "Sie wollte nicht verlieren"
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["I", "He", "They"] },
+          { "correct": "did", "alternatives": ["does", "will", "has"] },
+          { "correct": "not", "alternatives": ["never", "no", "now"] },
+          { "correct": "want", "alternatives": ["like", "need", "have"] },
+          { "correct": "to", "alternatives": ["for", "in", "at"] },
+          { "correct": "lose", "alternatives": ["win", "find", "keep"] }
+        ]
+      },
+      {
+        "id": 71,
+        "sentence_en": "Was he at the conference in Boston?",
+        "translations": {
+          "ru": "Он был на конференции в Бостоне?",
+          "es": "¿Estaba él en la conferencia en Boston?",
+          "fr": "Était-il à la conférence à Boston ?",
+          "de": "War er bei der Konferenz in Boston?"
+        },
+        "words": [
+          { "correct": "Was", "alternatives": ["Is", "Will", "Has"] },
+          { "correct": "he", "alternatives": ["she", "they", "you"] },
+          { "correct": "at", "alternatives": ["in", "on", "to"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "conference", "alternatives": ["meeting", "presentation", "event"] },
+          { "correct": "in", "alternatives": ["at", "on", "near"] },
+          { "correct": "Boston", "alternatives": ["Chicago", "New York", "Washington"] }
+        ]
+      },
+      {
+        "id": 72,
+        "sentence_en": "He will not like to stand",
+        "translations": {
+          "ru": "Ему не понравится стоять",
+          "es": "No le gustará estar de pie",
+          "fr": "Il n'aimera pas se tenir debout",
+          "de": "Er wird nicht gerne stehen"
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["I", "She", "They"] },
+          { "correct": "will", "alternatives": ["does", "did", "has"] },
+          { "correct": "not", "alternatives": ["never", "no", "now"] },
+          { "correct": "like", "alternatives": ["want", "need", "have"] },
+          { "correct": "to", "alternatives": ["for", "in", "at"] },
+          { "correct": "stand", "alternatives": ["sit", "walk", "run"] }
+        ]
+      },
+      {
+        "id": 73,
+        "sentence_en": "They will be here",
+        "translations": {
+          "ru": "Они будут здесь",
+          "es": "Ellos estarán aquí",
+          "fr": "Ils seront ici",
+          "de": "Sie werden hier sein"
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "I", "She"] },
+          { "correct": "will", "alternatives": ["are", "were", "have"] },
+          { "correct": "be", "alternatives": ["go", "come", "stay"] },
+          { "correct": "here", "alternatives": ["there", "home", "away"] }
+        ]
+      },
+      {
+        "id": 74,
+        "sentence_en": "Are they at the exhibition in Boston?",
+        "translations": {
+          "ru": "Они на выставке в Бостоне?",
+          "es": "¿Están ellos en la exposición en Boston?",
+          "fr": "Sont-ils à l'exposition à Boston ?",
+          "de": "Sind sie bei der Ausstellung in Boston?"
+        },
+        "words": [
+          { "correct": "Are", "alternatives": ["Were", "Will", "Have"] },
+          { "correct": "they", "alternatives": ["you", "we", "she"] },
+          { "correct": "at", "alternatives": ["in", "on", "to"] },
+          { "correct": "the", "alternatives": ["a", "an", "this"] },
+          { "correct": "exhibition", "alternatives": ["museum", "gallery", "venue"] },
+          { "correct": "in", "alternatives": ["at", "on", "near"] },
+          { "correct": "Boston", "alternatives": ["Chicago", "New York", "Washington"] }
+        ]
+      },
+      {
+        "id": 75,
+        "sentence_en": "We are in Tomsk",
+        "translations": {
+          "ru": "Мы в Томске",
+          "es": "Estamos en Tomsk",
+          "fr": "Nous sommes à Tomsk",
+          "de": "Wir sind in Tomsk"
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "I", "She"] },
+          { "correct": "are", "alternatives": ["were", "will be", "have"] },
+          { "correct": "in", "alternatives": ["at", "on", "to"] },
+          { "correct": "Tomsk", "alternatives": ["Moscow", "Kazan", "Sochi"] }
+        ]
+      }
+    ]
+  }
+}

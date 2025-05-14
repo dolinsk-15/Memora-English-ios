@@ -1,0 +1,5 @@
+{
+  exam: {
+    tryAgain: "Try again"
+  }
+} 

@@ -1,0 +1,1 @@
+{"version":3,"file":"PaywallResult.d.ts","sourceRoot":"","sources":["../../../../src/public/PaywallResult.ts"],"names":[],"mappings":"AAAA,MAAM,MAAM,aAAa,GACrB;IACE,IAAI,EAAE,WAAW,CAAC;IAClB,SAAS,EAAE,MAAM,CAAC;CACnB,GACD;IACE,IAAI,EAAE,UAAU,CAAC;CAClB,GACD;IACE,IAAI,EAAE,UAAU,CAAC;CAClB,CAAC;AAEN,wBAAgB,QAAQ,CAAC,IAAI,EAAE,GAAG,GAAG,aAAa,CAcjD"}

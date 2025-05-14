@@ -1,0 +1,2975 @@
+{
+  "id": 5,
+  "title": {
+    "english": "Professions",
+    "russian": "Профессии",
+    "spanish": "Profesiones",
+    "french": "Professions",
+    "german": "Berufe"
+  },
+  "description": {
+    "english": "In this lesson we will learn phrases related to professions and the use of indefinite articles with nouns denoting professions.",
+    "russian": "В этом уроке мы отработаем основные фразы, связанные с профессиями. Эти фразы будут отвечать на следующие вопросы: 1. На кого ты учишься? 2. Где и кем ты работаешь? 3. Кто ты по специальности? Также мы рассмотрим употребление неопределенного артикля a/an с существительными, обозначающими профессии.",
+    "spanish": "En esta lección practicaremos frases básicas relacionadas con profesiones. Estas frases responderán a las siguientes preguntas: 1. ¿Qué estás estudiando? 2. ¿Dónde y como qué trabajas? 3. ¿Cuál es tu profesión? También veremos el uso del artículo indefinido a/an con sustantivos que indican profesiones.",
+    "french": "Dans cette leçon, nous pratiquerons des phrases de base liées aux professions et l'utilisation des articles indéfinis avec les noms désignant des professions.",
+    "german": "In dieser Lektion üben wir grundlegende Sätze zu Berufen und den Gebrauch von unbestimmten Artikeln mit Substantiven, die Berufe bezeichnen."
+  },
+  "detailedDescription": {
+    "russian": {
+      "title": "Урок 5 — Профессии",
+      "sections": [
+        {
+          "type": "text",
+          "content": "В этом уроке мы отработаем основные фразы, связанные с профессиями."
+        },
+        {
+          "type": "text",
+          "content": "Эти фразы будут отвечать на следующие вопросы:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "На кого ты учишься?",
+            "Где и кем ты работаешь?",
+            "Кто ты по специальности?"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Артикли"
+        },
+        {
+          "type": "text",
+          "content": "Неопределённый артикль **a** — это сокращённая форма от слова one - один. Используется когда речь идёт об одном из предметов, а не о конкретном предмете."
+        },
+        {
+          "type": "text",
+          "content": "Определённый артикль **the** — это сокращённая форма от слова this - этот или по другой версии от слова that - тот, these - эти, those - те. Используется когда речь идёт о конкретном предмете или предметах, конкретном человеке или конкретных людях."
+        },
+        {
+          "type": "text",
+          "content": "В пятом уроке используется только неопределенный артикль, потому что все фразы построены так, что указывают не на конкретную должность, а на профессию."
+        },
+        {
+          "type": "text",
+          "content": "Поэтому рассмотрим правила употребления неопределенного артикля **а** (**an**)."
+        },
+        {
+          "type": "heading",
+          "content": "Неопределенный артикль"
+        },
+        {
+          "type": "text",
+          "content": "1. Употребляется в том случае, если мы называем предмет"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I bought **a** car.\nЯ купил машину. (любой автомобиль, но не мотоцикл, автобус и т.п.)",
+            "It is **a** cat.\nЭто – кот. (не собака и т.п.)",
+            "She is **a** teacher.\nОна учитель."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "2. Обозначает число один"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I will call you in **an** hour.\nЯ позвоню тебе через (один) час.",
+            "He will live here **a** week.\nОн проживет здесь (одну) неделю."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Артикль **a** употребляется перед существительными, начинающимися с согласного звука. Артикль **an** употребляется перед существительными, начинающимися с гласного звука."
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I bought **a** bike.",
+            "I want **an** orange."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Внимание! Артикли не употребляются, если вы говорите:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "My/his/her car",
+            "This/that car",
+            "1/2/3 cars",
+            "Some/any/no cars"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Во множественном числе неопределенный артикль не употребляется, так как его исходное значение один (one)"
+        },
+        {
+          "type": "text",
+          "content": "Не путать с определенным артиклем **the**. Определённый артикль может использоваться c существительными во множественном числе."
+        },
+        {
+          "type": "heading",
+          "content": "На кого ты учишься?"
+        },
+        {
+          "type": "text",
+          "content": "Ответить на данный вопрос можно так: Я учусь на врача."
+        },
+        {
+          "type": "text",
+          "content": "По другому это будет звучать: Я учусь быть доктором."
+        },
+        {
+          "type": "text",
+          "content": "Не совсем по-русски, зато дословно переводится на английский:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I study **to be** a doctor. - Я учусь на врача."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Обратите внимание на неопределенный артикль **a** стоящий перед словом doctor.\nОн используется, т.к. \"быть доктором\" означает \"быть одним из тех, \nкто является доктором\"."
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "They will study **to be** doctors - Они будут учиться на врачей."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "В этой фразе неопределенный артикль отсутствует, т.к. он не употребляется во множественом числе."
+        },
+        {
+          "type": "heading",
+          "content": "Где и кем ты работаешь?"
+        },
+        {
+          "type": "text",
+          "content": "Ответить на данный вопрос можно так: Я работаю в больнице врачом."
+        },
+        {
+          "type": "text",
+          "content": "Перефразируем это так, чтобы можно было дословно сказать на английском: "
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I work in a hospital **as** a doctor. - Я работаю в больнице как доктор (в качестве доктора)."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Обратите внимание на два неопределенных артикля.\nПервый артикль говорит, что я работаю в одной из больниц\n(собеседнику не известно в какой). Второй артикль опять говорит,\nчто я являюсь представителем профессии, т.е. одним из докторов."
+        },
+        {
+          "type": "heading",
+          "content": "Кто ты по специальности?"
+        },
+        {
+          "type": "text",
+          "content": "Ответить на данный вопрос можно так: Я врач."
+        },
+        {
+          "type": "text",
+          "content": "Перефразируем это так, чтобы можно было дословно сказать на английском: "
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I **am** a doctor. - Я есть доктор."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Здесь опять используется неопределенный артикль."
+        },
+        
+        
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Сокращения в английском языке"
+        },
+        {
+          "type": "text",
+          "content": "С этого урока мы будем использовать сокращения. Они делают речь более естественной и разговорной. Ниже — примеры, как сокращаются некоторые выражения:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I will → I'll",
+            "I will not → I won't",
+            "You are → You're",
+            "I did not → I didn't",
+            "I was → (не сокращается)",
+            "I was not → I wasn't",
+            "You were → (не сокращается)",
+            "You were not → You weren't"
+          ]
+        },
+        
+        {
+          "type": "heading",
+          "content": "Приветствие"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Hello; Hi – Привет",
+            "Good morning – Доброе утро (до 12:00)",
+            "Good afternoon – Добрый день (после 12:00)",
+            "Good evening – Добрый вечер (~ после 18:00)",
+            "Good night – Доброй ночи"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Прощание"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Bye; goodbye – До свидания",
+            "See you – Увидимся; пока",
+            "Farewell – Прощайте"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Этикет"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Thank you; thanks – Спасибо",
+            "Please – Пожалуйста (просьба)",
+            "Welcome – Пожалуйста (ответ на спасибо)",
+            "Welcome – Добро пожаловать",
+            "Nice to meet you – Приятно познакомиться",
+            "I apologize for – Я приношу извинения за",
+            "I regret – Я сожалею",
+            "I am sorry – Я извиняюсь; мне жаль",
+            "Excuse me – Извините; виноват",
+            "Forgive me – Простите"
+          ]
+        }
+      ]
+    },
+    "spanish": {
+      "title": "Lección 5 — Profesiones",
+      "sections": [
+        {
+          "type": "text",
+          "content": "En esta lección practicaremos frases básicas relacionadas con profesiones."
+        },
+        {
+          "type": "text",
+          "content": "Estas frases responderán a las siguientes preguntas:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "¿Qué estás estudiando?",
+            "¿Dónde y como qué trabajas?",
+            "¿Cuál es tu profesión?"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Artículos"
+        },
+        {
+          "type": "text",
+          "content": "El artículo indefinido **a** en inglés es una forma abreviada de la palabra one (uno). Se usa cuando hablamos de uno de los objetos, no de un objeto específico."
+        },
+        {
+          "type": "text",
+          "content": "El artículo definido **the** en inglés es una forma abreviada de la palabra this (este) o según otra versión de la palabra that (ese), these (estos), those (esos). Se usa cuando hablamos de un objeto específico o objetos, una persona específica o personas específicas."
+        },
+        {
+          "type": "text",
+          "content": "En esta lección usamos solo el artículo indefinido, porque todas las frases están construidas de manera que no indican un puesto específico, sino una profesión."
+        },
+        {
+          "type": "text",
+          "content": "Por lo tanto, veamos las reglas para usar el artículo indefinido **a** (**an**)."
+        },
+        {
+          "type": "heading",
+          "content": "Artículo indefinido"
+        },
+        {
+          "type": "text",
+          "content": "1. Se usa cuando nombramos un objeto"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I bought **a** car.\nCompré un coche. (cualquier coche, pero no una motocicleta, autobús, etc.)",
+            "It is **a** cat.\nEs un gato. (no un perro, etc.)",
+            "She is **a** teacher.\nElla es profesora."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "2. Indica el número uno"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I will call you in **an** hour.\nTe llamaré en una hora.",
+            "He will live here **a** week.\nVivirá aquí una semana."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "El artículo **a** se usa antes de palabras que comienzan con sonido consonante. El artículo **an** se usa antes de palabras que comienzan con sonido vocal."
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I bought **a** bike. - Compré una bicicleta.",
+            "I want **an** orange. - Quiero una naranja."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "¡Atención! No se usan artículos cuando dices:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "My/his/her car (mi/su coche)",
+            "This/that car (este/ese coche)",
+            "1/2/3 cars (1/2/3 coches)",
+            "Some/any/no cars (algunos/ningunos coches)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "En plural, el artículo indefinido no se usa porque su significado original es 'uno'"
+        },
+        {
+          "type": "text",
+          "content": "No confundir con el artículo definido **the**. El artículo definido puede usarse con sustantivos en plural."
+        },
+        {
+          "type": "heading",
+          "content": "¿Qué estás estudiando?"
+        },
+        {
+          "type": "text",
+          "content": "En español diríamos: \"Estoy estudiando medicina\" o \"Estudio para ser médico\"."
+        },
+        {
+          "type": "text",
+          "content": "En inglés, esto se traduce literalmente como:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I study **to be** a doctor. - Estudio para ser médico."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Observa el artículo indefinido **a** antes de la palabra doctor.\nSe usa porque \"ser médico\" significa\n\"ser uno de los que son médicos\"."
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "They will study **to be** doctors - Estudiarán para ser médicos."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "En esta frase no hay artículo indefinido porque no se usa en plural."
+        },
+        {
+          "type": "heading",
+          "content": "¿Dónde y como qué trabajas?"
+        },
+        {
+          "type": "text",
+          "content": "En español respondemos: \"Trabajo en un hospital como médico\"."
+        },
+        {
+          "type": "text",
+          "content": "En inglés esto se dice:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I work in a hospital **as** a doctor. - Trabajo en un hospital como médico."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Observa los dos artículos indefinidos.\nEl primer artículo indica que trabajo en uno de los hospitales\n(l'interlocuteur ne sait pas lequel). Le second article indique à nouveau\nque je suis un représentant d'une profession, c'est-à-dire l'un des médecins."
+        },
+        {
+          "type": "heading",
+          "content": "¿Cuál es tu profesión?"
+        },
+        {
+          "type": "text",
+          "content": "En español respondemos: \"Soy médico\"."
+        },
+        {
+          "type": "text",
+          "content": "En inglés esto se dice:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I **am** a doctor. - Soy médico."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "De nuevo se usa el artículo indefinido. A diferencia del español, donde normalmente no usamos artículo indefinido antes de la profesión, en inglés es obligatorio usar a/an."
+        },
+        {
+          "type": "heading",
+          "content": "Saludos"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Hello; Hi - Hola",
+            "Good morning - Buenos días (hasta las 12:00)",
+            "Good afternoon - Buenas tardes (después de las 12:00)",
+            "Good evening - Buenas noches (~ después de las 18:00)",
+            "Good night - Buenas noches (para despedirse)"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Despedidas"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Bye; goodbye - Adiós",
+            "See you - Nos vemos",
+            "Farewell – Adiós (formal)"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Cortesía"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Thank you; thanks - Gracias",
+            "Please - Por favor (petición)",
+            "Welcome - De nada (respuesta a gracias)",
+            "Welcome - Bienvenido/a",
+            "Nice to meet you – Encantado/a de conocerte",
+            "I apologize for - Me disculpo por",
+            "I regret - Lamento",
+            "I am sorry - Lo siento",
+            "Excuse me – Disculpe/Perdón",
+            "Forgive me – Perdóname"
+          ]
+        },
+        
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Contracciones en inglés"
+        },
+        {
+          "type": "text",
+          "content": "A partir de esta lección, usaremos contracciones. Hacen que el habla sea más natural y coloquial. A continuación se presentan ejemplos de cómo se contraen algunas expresiones:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I will → I'll",
+            "I will not → I won't",
+            "You are → You're",
+            "I did not → I didn't",
+            "I was → (no se contrae)",
+            "I was not → I wasn't",
+            "You were → (no se contrae)",
+            "You were not → You weren't"
+          ]
+        }
+      ]
+    },
+    "french": {
+      "title": "Leçon 5 — Les professions",
+      "sections": [
+        {
+          "type": "text",
+          "content": "Dans cette leçon, nous allons apprendre des phrases de base liées aux professions."
+        },
+        {
+          "type": "text",
+          "content": "Ces phrases répondront aux questions suivantes:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Qu'est-ce que tu étudies?",
+            "Où et en tant que quoi travailles-tu?",
+            "Quelle est ta profession?"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Les articles"
+        },
+        {
+          "type": "text",
+          "content": "L'article indéfini **a** en anglais est une forme abrégée du mot \"one\" (un). Il est utilisé quand on parle d'un élément parmi d'autres, et non d'un élément précis."
+        },
+        {
+          "type": "text",
+          "content": "L'article défini **the** en anglais correspond à une forme abrégée du mot \"this\" (ce) ou selon une autre théorie, des mots \"that\" (ce), \"these\" (ces), \"those\" (ces). Il est utilisé quand on parle d'un objet spécifique ou d'objets spécifiques, d'une personne spécifique ou de personnes spécifiques."
+        },
+        {
+          "type": "text",
+          "content": "Dans cette leçon, nous utilisons uniquement l'article indéfini car toutes nos phrases désignent une profession en général, et non un poste spécifique."
+        },
+        {
+          "type": "text",
+          "content": "Examinons donc les règles d'utilisation de l'article indéfini **a** (ou **an**)."
+        },
+        {
+          "type": "heading",
+          "content": "L'article indéfini"
+        },
+        {
+          "type": "text",
+          "content": "1. Il est utilisé lorsque nous désignons un objet"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I bought **a** car.\nJ'ai acheté une voiture. (n'importe quelle voiture, mais pas une moto, un bus, etc.)",
+            "It is **a** cat.\nC'est un chat. (pas un chien, etc.)",
+            "She is **a** teacher.\nElle est professeur."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "2. Il indique le nombre un"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I will call you in **an** hour.\nJe t'appellerai dans une heure.",
+            "He will live here **a** week.\nIl vivra ici une semaine."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "L'article **a** s'emploie devant les mots commençant par un son consonne. L'article **an** s'emploie devant les mots commençant par un son voyelle."
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I bought **a** bike. - J'ai acheté un vélo.",
+            "I want **an** orange. - Je veux une orange."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Attention ! On n'utilise pas d'articles dans les cas suivants:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "My/his/her car (ma/sa voiture)",
+            "This/that car (cette voiture)",
+            "1/2/3 cars (1/2/3 voitures)",
+            "Some/any/no cars (des/aucune voitures)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Au pluriel, l'article indéfini n'est pas utilisé car sa signification originale est 'un'."
+        },
+        {
+          "type": "text",
+          "content": "Ne pas confondre avec l'article défini **the**. L'article défini peut être utilisé avec des noms au pluriel."
+        },
+        {
+          "type": "heading",
+          "content": "Qu'est-ce que tu étudies?"
+        },
+        {
+          "type": "text",
+          "content": "En français, on dirait : \"J'étudie la médecine\" ou \"Je fais des études pour devenir médecin\"."
+        },
+        {
+          "type": "text",
+          "content": "En anglais, cela se traduit littéralement par :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I study **to be** a doctor. - J'étudie pour devenir médecin."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Remarquez l'article indéfini **a** devant le mot doctor.\nIl est utilisé car \"être médecin\" signifie \"être l'un de ceux qui sont médecins\".\nContrairement au français, où on peut dire \"Je suis médecin\" sans article,\nen anglais l'article est obligatoire."
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "They will study **to be** doctors - Ils vont étudier pour devenir médecins."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Dans cette phrase, il n'y a pas d'article indéfini car on ne l'utilise pas au pluriel."
+        },
+        {
+          "type": "heading",
+          "content": "Où et en tant que quoi travailles-tu?"
+        },
+        {
+          "type": "text",
+          "content": "En français, on répond : \"Je travaille dans un hôpital en tant que médecin\"."
+        },
+        {
+          "type": "text",
+          "content": "En anglais, cela se dit :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I work in a hospital **as** a doctor. - Je travaille dans un hôpital en tant que médecin."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Remarquez les deux articles indéfinis.\nLe premier article indique que je travaille dans l'un des hôpitaux\n(l'interlocuteur ne sait pas lequel). Le second article indique à nouveau\nque je suis un représentant d'une profession, c'est-à-dire l'un des médecins."
+        },
+        {
+          "type": "heading",
+          "content": "Quelle est ta profession?"
+        },
+        {
+          "type": "text",
+          "content": "En français, on répond : \"Je suis médecin\" (sans article)."
+        },
+        {
+          "type": "text",
+          "content": "En anglais, on dit :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I **am** a doctor. - Je suis médecin."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "On utilise encore l'article indéfini. À la différence du français, où généralement on n'utilise pas d'article avant la profession, en anglais il est obligatoire d'utiliser a/an. C'est l'une des principales différences entre les deux langues dans ce contexte."
+        },
+        {
+          "type": "heading",
+          "content": "Salutations"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Hello; Hi - Bonjour; Salut",
+            "Good morning - Bonjour (jusqu'à midi)",
+            "Good afternoon - Bonjour (après-midi)",
+            "Good evening - Bonsoir (~ après 18h00)",
+            "Good night - Bonne nuit (pour dire au revoir le soir)"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Adieux"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Bye; goodbye - Au revoir",
+            "See you - À bientôt",
+            "Farewell - Adieu (formel)"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Politesse"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Thank you; thanks - Merci",
+            "Please - S'il vous plaît (demande)",
+            "Welcome - De rien (réponse à merci)",
+            "Welcome - Bienvenue",
+            "Nice to meet you – Enchanté(e)",
+            "I apologize for - Je m'excuse pour",
+            "I regret - Je regrette",
+            "I am sorry - Je suis désolé(e)",
+            "Excuse me - Excusez-moi; Pardon",
+            "Forgive me – Pardonnez-moi"
+          ]
+        },
+        
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Contractions en anglais"
+        },
+        {
+          "type": "text",
+          "content": "À partir de cette leçon, nous utiliserons des contractions. Elles rendent le discours plus naturel et conversationnel. Voici des exemples de comment certaines expressions sont contractées :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I will → I'll",
+            "I will not → I won't",
+            "You are → You're",
+            "I did not → I didn't",
+            "I was → (ne se contracte pas)",
+            "I was not → I wasn't",
+            "You were → (ne se contracte pas)",
+            "You were not → You weren't"
+          ]
+        }
+      ]
+    },
+    "german": {
+      "title": "Lektion 5 — Berufe",
+      "sections": [
+        {
+          "type": "text",
+          "content": "In dieser Lektion lernen wir grundlegende Sätze im Zusammenhang mit Berufen."
+        },
+        {
+          "type": "text",
+          "content": "Diese Sätze beantworten folgende Fragen:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Was studierst du?",
+            "Wo und als was arbeitest du?",
+            "Was bist du von Beruf?"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Artikel"
+        },
+        {
+          "type": "text",
+          "content": "Der unbestimmte Artikel **a** im Englischen ist eine verkürzte Form des Wortes \"one\" (eins). Er wird verwendet, wenn wir über einen von mehreren Gegenständen sprechen, nicht über einen bestimmten Gegenstand."
+        },
+        {
+          "type": "text",
+          "content": "Der bestimmte Artikel **the** im Englischen entspricht einer verkürzten Form des Wortes \"this\" (dies) oder nach einer anderen Theorie der Wörter \"that\" (das), \"these\" (diese), \"those\" (jene). Er wird verwendet, wenn wir über einen bestimmten Gegenstand oder bestimmte Gegenstände, eine bestimmte Person oder bestimmte Personen sprechen."
+        },
+        {
+          "type": "text",
+          "content": "In dieser Lektion verwenden wir nur den unbestimmten Artikel, weil alle Sätze so aufgebaut sind, dass sie nicht auf eine bestimmte Position, sondern auf einen Beruf hinweisen."
+        },
+        {
+          "type": "text",
+          "content": "Lassen Sie uns daher die Regeln für die Verwendung des unbestimmten Artikels **a** (oder **an**) betrachten."
+        },
+        {
+          "type": "heading",
+          "content": "Der unbestimmte Artikel"
+        },
+        {
+          "type": "text",
+          "content": "1. Er wird verwendet, wenn wir einen Gegenstand benennen"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I bought **a** car.\nIch habe ein Auto gekauft. (irgendein Auto, aber kein Motorrad, Bus usw.)",
+            "It is **a** cat.\nEs ist eine Katze. (kein Hund usw.)",
+            "She is **a** teacher.\nSie ist Lehrerin."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "2. Er bezeichnet die Zahl eins"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I will call you in **an** hour.\nIch rufe dich in einer Stunde an.",
+            "He will live here **a** week.\nEr wird hier eine Woche wohnen."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Der Artikel **a** wird vor Wörtern verwendet, die mit einem Konsonantenlaut beginnen. Der Artikel **an** wird vor Wörtern verwendet, die mit einem Vokallaut beginnen."
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I bought **a** bike. - Ich habe ein Fahrrad gekauft.",
+            "I want **an** orange. - Ich möchte eine Orange."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Achtung! In folgenden Fällen werden keine Artikel verwendet:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "My/his/her car (mein/sein/ihr Auto)",
+            "This/that car (dieses/jenes Auto)",
+            "1/2/3 cars (1/2/3 Autos)",
+            "Some/any/no cars (einige/irgendwelche/keine Autos)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Im Plural wird der unbestimmte Artikel nicht verwendet, da seine ursprüngliche Bedeutung 'eins' ist."
+        },
+        {
+          "type": "text",
+          "content": "Nicht zu verwechseln mit dem bestimmten Artikel **the**. Der bestimmte Artikel kann mit Substantiven im Plural verwendet werden."
+        },
+        {
+          "type": "heading",
+          "content": "Was studierst du?"
+        },
+        {
+          "type": "text",
+          "content": "Auf Deutsch würden wir sagen: \"Ich studiere Medizin\" oder \"Ich lerne Arzt zu werden\"."
+        },
+        {
+          "type": "text",
+          "content": "Auf Englisch würde man wörtlich sagen:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I study **to be** a doctor. - Ich studiere, um Arzt zu werden."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Beachten Sie den unbestimmten Artikel **a** vor dem Wort doctor.\nEr wird verwendet, weil \"ein Arzt sein\" bedeutet, \"einer von denen zu sein, die Ärzte sind\".\nAnders als im Deutschen, wo man \"Ich bin Arzt\" ohne Artikel sagen kann,\nist im Englischen der Artikel notwendig."
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "They will study **to be** doctors - Sie werden studieren, um Ärzte zu werden."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "In diesem Satz gibt es keinen unbestimmten Artikel, weil er im Plural nicht verwendet wird."
+        },
+        {
+          "type": "heading",
+          "content": "Wo und als was arbeitest du?"
+        },
+        {
+          "type": "text",
+          "content": "Auf Deutsch antworten wir: \"Ich arbeite in einem Krankenhaus als Arzt\"."
+        },
+        {
+          "type": "text",
+          "content": "Auf Englisch sagt man:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I work in a hospital **as** a doctor. - Ich arbeite in einem Krankenhaus als Arzt."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Beachten Sie die beiden unbestimmten Artikel.\nDer erste Artikel zeigt an, dass ich in einem von vielen Krankenhäusern arbeite\n(der Gesprächspartner weiß nicht, in welchem). Der zweite Artikel zeigt wieder an,\ndass ich ein Vertreter eines Berufs bin, also einer von vielen Ärzten."
+        },
+        {
+          "type": "heading",
+          "content": "Was bist du von Beruf?"
+        },
+        {
+          "type": "text",
+          "content": "Auf Deutsch antworten wir: \"Ich bin Arzt\" (ohne Artikel)."
+        },
+        {
+          "type": "text",
+          "content": "Auf Englisch sagt man:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I **am** a doctor. - Ich bin Arzt."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Wieder wird der unbestimmte Artikel verwendet. Im Gegensatz zum Deutschen, wo wir normalerweise keinen Artikel vor dem Beruf verwenden, ist im Englischen die Verwendung von a/an obligatorisch. Dies ist einer der Hauptunterschiede zwischen den beiden Sprachen in diesem Kontext."
+        },
+        {
+          "type": "heading",
+          "content": "Begrüßungen"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Hello; Hi - Hallo",
+            "Good morning - Guten Morgen (bis 12:00 Uhr)",
+            "Good afternoon - Guten Tag (nach 12:00 Uhr)",
+            "Good evening - Guten Abend (~ nach 18:00 Uhr)",
+            "Good night - Gute Nacht (zum Abschied am Abend)"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Verabschiedungen"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Bye; goodbye - Tschüss; Auf Wiedersehen",
+            "See you - Bis später",
+            "Farewell - Lebewohl (formell)"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Höflichkeit"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Thank you; thanks - Danke; Vielen Dank",
+            "Please - Bitte (als Bitte)",
+            "Welcome - Bitte (als Antwort auf Danke)",
+            "Welcome - Willkommen",
+            "Nice to meet you – Schön, Sie kennenzulernen",
+            "I apologize for - Ich entschuldige mich für",
+            "I regret - Ich bedauere",
+            "I am sorry - Es tut mir leid",
+            "Excuse me - Entschuldigung",
+            "Forgive me - Verzeihen Sie mir"
+          ]
+        },
+        
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Kontraktionen im Englischen"
+        },
+        {
+          "type": "text",
+          "content": "Ab dieser Lektion werden wir Kontraktionen verwenden. Sie machen die Sprache natürlicher und umgangssprachlicher. Hier sind Beispiele, wie einige Ausdrücke verkürzt werden:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I will → I'll",
+            "I will not → I won't",
+            "You are → You're",
+            "I did not → I didn't",
+            "I was → (wird nicht kontrahiert)",
+            "I was not → I wasn't",
+            "You were → (wird nicht kontrahiert)",
+            "You were not → You weren't"
+          ]
+        }
+      ]
+    }
+  },
+  
+    "vocabulary": {
+      "firstList": [
+        {
+          "number": 1,
+          "english": "historian",
+          "russian": "историк",
+          "spanish": "historiador",
+          "french": "historien",
+          "german": "Historiker"
+        },
+        {
+          "number": 2,
+          "english": "engineer",
+          "russian": "инженер",
+          "spanish": "ingeniero",
+          "french": "ingénieur",
+          "german": "Ingenieur"
+        },
+        {
+          "number": 3,
+          "english": "artist",
+          "russian": "художник",
+          "spanish": "artista",
+          "french": "artiste",
+          "german": "Künstler"
+        },
+        {
+          "number": 4,
+          "english": "musician",
+          "russian": "музыкант",
+          "spanish": "músico",
+          "french": "musicien",
+          "german": "Musiker"
+        },
+        {
+          "number": 5,
+          "english": "actor",
+          "russian": "актёр",
+          "spanish": "actor",
+          "french": "acteur",
+          "german": "Schauspieler"
+        },
+        {
+          "number": 6,
+          "english": "writer",
+          "russian": "писатель",
+          "spanish": "escritor",
+          "french": "écrivain",
+          "german": "Schriftsteller"
+        },
+        {
+          "number": 7,
+          "english": "company",
+          "russian": "компания",
+          "spanish": "empresa",
+          "french": "entreprise",
+          "german": "Firma"
+        },
+        {
+          "number": 8,
+          "english": "magazine",
+          "russian": "журнал",
+          "spanish": "revista",
+          "french": "magazine",
+          "german": "Zeitschrift"
+        },
+        {
+          "number": 9,
+          "english": "hospital",
+          "russian": "больница",
+          "spanish": "hospital",
+          "french": "hôpital",
+          "german": "Krankenhaus"
+        },
+        {
+          "number": 10,
+          "english": "hotel",
+          "russian": "отель",
+          "spanish": "hotel",
+          "french": "hôtel",
+          "german": "Hotel"
+        },
+        {
+          "number": 11,
+          "english": "Hello; Hi",
+          "russian": "Привет",
+          "spanish": "Hola",
+          "french": "Salut",
+          "german": "Hallo"
+        },
+        {
+          "number": 12,
+          "english": "Good morning",
+          "russian": "Доброе утро",
+          "spanish": "Buenos días",
+          "french": "Bonjour",
+          "german": "Guten Morgen"
+        },
+        {
+          "number": 13,
+          "english": "Good afternoon",
+          "russian": "Добрый день",
+          "spanish": "Buenas tardes",
+          "french": "Bon après-midi",
+          "german": "Guten Tag"
+        },
+        {
+          "number": 14,
+          "english": "Good evening",
+          "russian": "Добрый вечер",
+          "spanish": "Buenas noches",
+          "french": "Bonsoir",
+          "german": "Guten Abend"
+        },
+        {
+          "number": 15,
+          "english": "Good night",
+          "russian": "Доброй ночи",
+          "spanish": "Buenas noches",
+          "french": "Bonne nuit",
+          "german": "Gute Nacht"
+        },
+        {
+          "number": 16,
+          "english": "Bye; Goodbye",
+          "russian": "До свидания",
+          "spanish": "Adiós",
+          "french": "Au revoir",
+          "german": "Auf Wiedersehen"
+        },
+        {
+          "number": 17,
+          "english": "See you",
+          "russian": "Увидимся; пока",
+          "spanish": "Nos vemos",
+          "french": "À bientôt",
+          "german": "Bis bald"
+        },
+        {
+          "number": 18,
+          "english": "Farewell",
+          "russian": "Прощайте",
+          "spanish": "Despedida",
+          "french": "Adieu",
+          "german": "Lebewohl"
+        },
+        {
+          "number": 19,
+          "english": "Thank you",
+          "russian": "Спасибо",
+          "spanish": "Gracias",
+          "french": "Merci",
+          "german": "Danke"
+        },
+        {
+          "number": 20,
+          "english": "Nice to meet you",
+          "russian": "Приятно познакомиться",
+          "spanish": "Mucho gusto",
+          "french": "Enchanté",
+          "german": "Freut mich"
+        },
+        {
+          "number": 21,
+          "english": "I apologize for",
+          "russian": "Я приношу извинения за",
+          "spanish": "Pido disculpas por",
+          "french": "Je m'excuse pour",
+          "german": "Ich entschuldige mich für"
+        },
+        {
+          "number": 22,
+          "english": "I regret",
+          "russian": "Я сожалею",
+          "spanish": "Lo lamento",
+          "french": "Je regrette",
+          "german": "Ich bedaure"
+        },
+        {
+          "number": 23,
+          "english": "I am sorry",
+          "russian": "Я извиняюсь; мне жаль",
+          "spanish": "Lo siento",
+          "french": "Je suis désolé",
+          "german": "Es tut mir leid"
+        },
+        {
+          "number": 24,
+          "english": "Excuse me",
+          "russian": "Извините; виноват",
+          "spanish": "Disculpe",
+          "french": "Excusez-moi",
+          "german": "Entschuldigen Sie"
+        },
+        {
+          "number": 25,
+          "english": "Forgive me",
+          "russian": "Простите",
+          "spanish": "Perdóname",
+          "french": "Pardonne-moi",
+          "german": "Vergib mir"
+        }
+      ]
+    },
+    
+    "sentences": [
+        {
+            "id": 1,
+            "english": "You worked at the company as a programmer.",
+            "russian": "Ты работал в компании программистом.",
+            "spanish": "Trabajaste en una empresa como programador.",
+            "german": "Du hast in einer Firma als Programmierer gearbeitet.",
+            "french": "Tu as travaillé dans une entreprise comme programmeur."
+          },
+          {
+            "id": 2,
+            "english": "You studied to be an engineer.",
+            "russian": "Ты учился на инженера.",
+            "spanish": "Estudiaste para ser ingeniero.",
+            "german": "Du hast studiert, um Ingenieur zu werden.",
+            "french": "Tu as étudié pour devenir ingénieur."
+          },
+          {
+            "id": 3,
+            "english": "Does Max study to be a manager?",
+            "russian": "Максим учится на менеджера?",
+            "spanish": "¿Max estudia para ser gerente?",
+            "german": "Lernt Max, um Manager zu werden?",
+            "french": "Max étudie‑t‑il pour devenir manager?"
+          },
+          {
+            "id": 4,
+            "english": "They will be engineers.",
+            "russian": "Они будут инженерами.",
+            "spanish": "Serán ingenieros.",
+            "german": "Sie werden Ingenieure sein.",
+            "french": "Ils seront ingénieurs."
+          },
+          {
+            "id": 5,
+            "english": "We were artists.",
+            "russian": "Мы были художниками.",
+            "spanish": "Éramos artistas.",
+            "german": "Wir waren Künstler.",
+            "french": "Nous étions artistes."
+          },
+          {
+            "id": 6,
+            "english": "I didn't work at the theater as an artist.",
+            "russian": "Я не работал в театре художником.",
+            "spanish": "No trabajé en un teatro como artista.",
+            "german": "Ich habe nicht in einem Theater als Künstler gearbeitet.",
+            "french": "Je n'ai pas travaillé dans un théâtre comme artiste."
+          },
+          {
+            "id": 7,
+            "english": "I won't be a guide.",
+            "russian": "Я не буду гидом.",
+            "spanish": "No seré guía.",
+            "german": "Ich werde kein Reiseführer sein.",
+            "french": "Je ne serai pas guide."
+          },
+          {
+            "id": 8,
+            "english": "You will work at the hotel as an interpreter.",
+            "russian": "Ты будешь работать в гостинице переводчиком.",
+            "spanish": "Trabajarás en un hotel como intérprete.",
+            "german": "Du wirst in einem Hotel als Dolmetscher arbeiten.",
+            "french": "Tu travailleras dans un hôtel comme interprète."
+          },
+          {
+            "id": 9,
+            "english": "Were they writers?",
+            "russian": "Они были писателями?",
+            "spanish": "¿Eran escritores?",
+            "german": "Waren sie Schriftsteller?",
+            "french": "Étaient‑ils écrivains?"
+          },
+          {
+            "id": 10,
+            "english": "We didn't work at the theater as artists.",
+            "russian": "Мы не работали в театре художниками.",
+            "spanish": "No trabajamos en un teatro como artistas.",
+            "german": "Wir haben nicht in einem Theater als Künstler gearbeitet.",
+            "french": "Nous n'avons pas travaillé dans un théâtre comme artistes."
+          },
+          {
+            "id": 11,
+            "english": "Will you be a historian?",
+            "russian": "Ты будешь историком?",
+            "spanish": "¿Serás historiador?",
+            "german": "Wirst du Historiker sein?",
+            "french": "Seras‑tu historien?"
+          },
+          {
+            "id": 12,
+            "english": "Do they work at the hotel as interpreters?",
+            "russian": "Они работают в гостинице переводчиками?",
+            "spanish": "¿Trabajan en un hotel como intérpretes?",
+            "german": "Arbeiten sie in einem Hotel als Dolmetscher?",
+            "french": "Travaillent‑ils dans un hôtel comme interprètes?"
+          },
+          {
+            "id": 13,
+            "english": "I didn't study to be an actor.",
+            "russian": "Я не учился на актёра.",
+            "spanish": "No estudié para ser actor.",
+            "german": "Ich habe nicht studiert, um Schauspieler zu werden.",
+            "french": "Je n'ai pas étudié pour devenir acteur."
+          },
+          {
+            "id": 14,
+            "english": "Will you study to be a dentist?",
+            "russian": "Ты будешь учиться на дантиста?",
+            "spanish": "¿Estudiarás para ser dentista?",
+            "german": "Wirst du Zahnmedizin studieren?",
+            "french": "Étudieras‑tu pour devenir dentiste?"
+          },
+          {
+            "id": 15,
+            "english": "You will be a writer.",
+            "russian": "Ты будешь писателем.",
+            "spanish": "Serás escritor.",
+            "german": "Du wirst Schriftsteller sein.",
+            "french": "Tu seras écrivain."
+          },
+          {
+            "id": 16,
+            "english": "You will be a musician.",
+            "russian": "Ты будешь музыкантом.",
+            "spanish": "Serás músico.",
+            "german": "Du wirst Musiker sein.",
+            "french": "Tu seras musicien."
+          },
+          {
+            "id": 17,
+            "english": "He won't be an engineer.",
+            "russian": "Он не будет инженером.",
+            "spanish": "Él no será ingeniero.",
+            "german": "Er wird kein Ingenieur sein.",
+            "french": "Il ne sera pas ingénieur."
+          },
+          {
+            "id": 18,
+            "english": "We will study to be musicians.",
+            "russian": "Мы будем учиться на музыкантов.",
+            "spanish": "Estudiaremos para ser músicos.",
+            "german": "Wir werden Musik studieren, um Musiker zu werden.",
+            "french": "Nous étudierons pour devenir musiciens."
+          },
+          {
+            "id": 19,
+            "english": "They work at the theater as musicians.",
+            "russian": "Они работают в театре музыкантами.",
+            "spanish": "Trabajan en un teatro como músicos.",
+            "german": "Sie arbeiten in einem Theater als Musiker.",
+            "french": "Ils travaillent dans un théâtre comme musiciens."
+          },
+          {
+            "id": 20,
+            "english": "I studied to be a historian.",
+            "russian": "Я учился на историка.",
+            "spanish": "Estudié para ser historiador.",
+            "german": "Ich habe Geschichte studiert, um Historiker zu werden.",
+            "french": "J'ai étudié pour devenir historien."
+          },
+          {
+            "id": 21,
+            "english": "You aren't an accountant.",
+            "russian": "Ты не бухгалтер.",
+            "spanish": "No eres contable.",
+            "german": "Du bist kein Buchhalter.",
+            "french": "Tu n'es pas comptable."
+          },
+          {
+            "id": 22,
+            "english": "She is an interpreter.",
+            "russian": "Она переводчик.",
+            "spanish": "Ella es intérprete.",
+            "german": "Sie ist Dolmetscherin.",
+            "french": "Elle est interprète."
+          },
+          {
+            "id": 23,
+            "english": "He will study to be an engineer.",
+            "russian": "Он будет учиться на инженера.",
+            "spanish": "Él estudiará para ser ingeniero.",
+            "german": "Er wird studieren, um Ingenieur zu werden.",
+            "french": "Il étudiera pour devenir ingénieur."
+          },
+          {
+            "id": 24,
+            "english": "Is she a designer?",
+            "russian": "Она дизайнер?",
+            "spanish": "¿Es ella diseñadora?",
+            "german": "Ist sie Designerin?",
+            "french": "Est‑elle designer?"
+          },
+          {
+            "id": 25,
+            "english": "Do you work at the museum as a guide?",
+            "russian": "Ты работаешь в музее гидом?",
+            "spanish": "¿Trabajas en un museo como guía?",
+            "german": "Arbeitest du in einem Museum als Führer?",
+            "french": "Travailles‑tu dans un musée comme guide?"
+          },
+          {
+            "id": 26,
+            "english": "He didn't study to be an artist.",
+            "russian": "Он не учился на художника.",
+            "spanish": "Él no estudió para ser artista.",
+            "german": "Er hat nicht studiert, um Künstler zu werden.",
+            "french": "Il n'a pas étudié pour devenir artiste."
+          },
+          {
+            "id": 27,
+            "english": "We won't study to be dentists.",
+            "russian": "Мы не будем учиться на дантистов.",
+            "spanish": "No estudiaremos para ser dentistas.",
+            "german": "Wir werden nicht studieren, um Zahnärzte zu werden.",
+            "french": "Nous n'étudierons pas pour devenir dentistes."
+          },
+          {
+            "id": 28,
+            "english": "He won't be a consultant.",
+            "russian": "Он не будет консультантом.",
+            "spanish": "Él no será consultor.",
+            "german": "Er wird kein Berater sein.",
+            "french": "Il ne sera pas consultant."
+          },
+          {
+            "id": 29,
+            "english": "Were they dentists?",
+            "russian": "Они были дантистами?",
+            "spanish": "¿Eran dentistas?",
+            "german": "Waren sie Zahnärzte?",
+            "french": "Étaient‑ils dentistes?"
+          },
+          {
+            "id": 30,
+            "english": "Is she a writer?",
+            "russian": "Она писатель?",
+            "spanish": "¿Es ella escritora?",
+            "german": "Ist sie Schriftstellerin?",
+            "french": "Est‑elle écrivain?"
+          },
+          {
+            "id": 31,
+            "english": "He studies to be a doctor.",
+            "russian": "Он учится на врача.",
+            "spanish": "Él estudia para ser médico.",
+            "german": "Er studiert, um Arzt zu werden.",
+            "french": "Il étudie pour devenir médecin."
+          },
+          {
+            "id": 32,
+            "english": "They will be historians.",
+            "russian": "Они будут историками.",
+            "spanish": "Serán historiadores.",
+            "german": "Sie werden Historiker sein.",
+            "french": "Ils seront historiens."
+          },
+          {
+            "id": 33,
+            "english": "You will study to be a historian.",
+            "russian": "Ты будешь учиться на историка.",
+            "spanish": "Estudiarás para ser historiador.",
+            "german": "Du wirst studieren, um Historiker zu werden.",
+            "french": "Tu étudieras pour devenir historien."
+          },
+          {
+            "id": 34,
+            "english": "We weren't actors.",
+            "russian": "Мы не были актёрами.",
+            "spanish": "No éramos actores.",
+            "german": "Wir waren keine Schauspieler.",
+            "french": "Nous n'étions pas acteurs."
+          },
+          {
+            "id": 35,
+            "english": "He studies to be a writer.",
+            "russian": "Он учится на писателя.",
+            "spanish": "Él estudia para ser escritor.",
+            "german": "Er studiert, um Schriftsteller zu werden.",
+            "french": "Il étudie pour devenir écrivain."
+          },
+          {
+            "id": 36,
+            "english": "You won't work at the theater as an actor.",
+            "russian": "Ты не будешь работать в театре актёром.",
+            "spanish": "No trabajarás en un teatro como actor.",
+            "german": "Du wirst nicht in einem Theater als Schauspieler arbeiten.",
+            "french": "Tu ne travailleras pas dans un théâtre comme acteur."
+          },
+          {
+            "id": 37,
+            "english": "You won't work at the company as a driver.",
+            "russian": "Ты не будешь работать в компании водителем.",
+            "spanish": "No trabajarás en una empresa como conductor.",
+            "german": "Du wirst nicht in einer Firma als Fahrer arbeiten.",
+            "french": "Tu ne travailleras pas dans une entreprise comme chauffeur."
+          },
+          {
+            "id": 38,
+            "english": "I studied to be a programmer.",
+            "russian": "Я учился на программиста.",
+            "spanish": "Estudié para ser programador.",
+            "german": "Ich habe studiert, um Programmierer zu werden.",
+            "french": "J'ai étudié pour devenir programmeur."
+          },
+          {
+            "id": 39,
+            "english": "He won't be a historian.",
+            "russian": "Он не будет историком.",
+            "spanish": "Él no será historiador.",
+            "german": "Er wird kein Historiker sein.",
+            "french": "Il ne sera pas historien."
+          },
+          {
+            "id": 40,
+            "english": "She will work at the theater as an actor.",
+            "russian": "Она будет работать в театре актрисой.",
+            "spanish": "Ella trabajará en el teatro como actriz.",
+            "german": "Sie wird im Theater als Schauspielerin arbeiten.",
+            "french": "Elle travaillera au théâtre comme actrice."
+          },
+          {
+            "id": 41,
+            "english": "We didn't study to be programmers.",
+            "russian": "Мы не учились на программистов.",
+            "spanish": "No estudiamos para ser programadores.",
+            "german": "Wir haben nicht studiert, um Programmierer zu werden.",
+            "french": "Nous n'avons pas étudié pour devenir programmeurs."
+          },
+          {
+            "id": 42,
+            "english": "You didn't work at the hotel as an interpreter.",
+            "russian": "Ты не работал в гостинице переводчиком.",
+            "spanish": "No trabajaste en un hotel como intérprete.",
+            "german": "Du hast nicht in einem Hotel als Dolmetscher gearbeitet.",
+            "french": "Tu n'as pas travaillé dans un hôtel comme interprète."
+          },
+          {
+            "id": 43,
+            "english": "She will study to be a musician.",
+            "russian": "Она будет учиться на музыканта.",
+            "spanish": "Ella estudiará para ser música.",
+            "german": "Sie wird Musik studieren, um Musikerin zu werden.",
+            "french": "Elle étudiera pour devenir musicienne."
+          },
+          {
+            "id": 44,
+            "english": "I worked at the museum as a guide.",
+            "russian": "Я работал в музее гидом.",
+            "spanish": "Trabajé en un museo como guía.",
+            "german": "Ich habe in einem Museum als Führer gearbeitet.",
+            "french": "J'ai travaillé dans un musée comme guide."
+          },
+          {
+            "id": 45,
+            "english": "We didn't work at the company as accountants.",
+            "russian": "Мы не работали в компании бухгалтерами.",
+            "spanish": "No trabajamos en una empresa como contables.",
+            "german": "Wir haben nicht in einer Firma als Buchhalter gearbeitet.",
+            "french": "Nous n'avons pas travaillé dans une entreprise comme comptables."
+          },
+          {
+            "id": 46,
+            "english": "Did she work at the hospital as a dentist?",
+            "russian": "Она работала в больнице дантистом?",
+            "spanish": "¿Trabajó ella en el hospital como dentista?",
+            "german": "Hat sie im Krankenhaus als Zahnärztin gearbeitet?",
+            "french": "A‑t‑elle travaillé à l'hôpital comme dentiste?"
+          },
+          {
+            "id": 47,
+            "english": "They aren't guides.",
+            "russian": "Они не гиды.",
+            "spanish": "Ellos no son guías.",
+            "german": "Sie sind keine Reiseführer.",
+            "french": "Ils ne sont pas guides."
+          },
+          {
+            "id": 48,
+            "english": "We don't work at the museum as historians.",
+            "russian": "Мы не работаем в музее историками.",
+            "spanish": "No trabajamos en un museo como historiadores.",
+            "german": "Wir arbeiten nicht in einem Museum als Historiker.",
+            "french": "Nous ne travaillons pas dans un musée comme historiens."
+          },
+          {
+            "id": 49,
+            "english": "We won't work at the magazine as writers.",
+            "russian": "Мы не будем работать в журнале писателями.",
+            "spanish": "No trabajaremos en una revista como escritores.",
+            "german": "Wir werden nicht in einer Zeitschrift als Schriftsteller arbeiten.",
+            "french": "Nous ne travaillerons pas dans un magazine comme écrivains."
+          },
+          {
+            "id": 50,
+            "english": "We were accountants.",
+            "russian": "Мы были бухгалтерами.",
+            "spanish": "Éramos contables.",
+            "german": "Wir waren Buchhalter.",
+            "french": "Nous étions comptables."
+          },
+          {
+            "id": 51,
+            "english": "He didn't study to be a programmer.",
+            "russian": "Он не учился на программиста.",
+            "spanish": "Él no estudió para ser programador.",
+            "german": "Er hat nicht studiert, um Programmierer zu werden.",
+            "french": "Il n'a pas étudié pour devenir programmeur."
+          },
+          {
+            "id": 52,
+            "english": "She doesn't study to be a historian.",
+            "russian": "Она не учится на историка.",
+            "spanish": "Ella no estudia para ser historiadora.",
+            "german": "Sie studiert nicht, um Historikerin zu werden.",
+            "french": "Elle n'étudie pas pour devenir historienne."
+          },
+          {
+            "id": 53,
+            "english": "They didn't work at the hotel as interpreters.",
+            "russian": "Они не работали в гостинице переводчиками.",
+            "spanish": "No trabajaron en un hotel como intérpretes.",
+            "german": "Sie haben nicht in einem Hotel als Dolmetscher gearbeitet.",
+            "french": "Ils n'ont pas travaillé dans un hôtel comme interprètes."
+          },
+          {
+            "id": 54,
+            "english": "Do you study to be a programmer?",
+            "russian": "Ты учишься на программиста?",
+            "spanish": "¿Estudias para ser programador?",
+            "german": "Studierst du, um Programmierer zu werden?",
+            "french": "Étudies‑tu pour devenir programmeur?"
+          },
+          {
+            "id": 55,
+            "english": "Will we study to be drivers?",
+            "russian": "Мы будем учиться на водителей?",
+            "spanish": "¿Estudiaremos para ser conductores?",
+            "german": "Werden wir studieren, um Fahrer zu werden?",
+            "french": "Étudierons‑nous pour devenir chauffeurs?"
+          },
+          {
+            "id": 56,
+            "english": "Did they work at the company as engineers?",
+            "russian": "Они работали в компании инженерами?",
+            "spanish": "¿Trabajaron en una empresa como ingenieros?",
+            "german": "Haben sie in einer Firma als Ingenieure gearbeitet?",
+            "french": "Ont‑ils travaillé dans une entreprise comme ingénieurs?"
+          },
+          {
+            "id": 57,
+            "english": "He won't study to be a driver.",
+            "russian": "Он не будет учиться на водителя.",
+            "spanish": "Él no estudiará para ser conductor.",
+            "german": "Er wird nicht studieren, um Fahrer zu werden.",
+            "french": "Il n'étudiera pas pour devenir chauffeur."
+          },
+          {
+            "id": 58,
+            "english": "They won't work at the company as managers.",
+            "russian": "Они не будут работать в компании менеджерами.",
+            "spanish": "No trabajarán en una empresa como gerentes.",
+            "german": "Sie werden nicht in einer Firma als Manager arbeiten.",
+            "french": "Ils ne travailleront pas dans une entreprise comme managers."
+          },
+          {
+            "id": 59,
+            "english": "I studied to be a designer.",
+            "russian": "Я учился на дизайнера.",
+            "spanish": "Estudié para ser diseñador.",
+            "german": "Ich habe studiert, um Designer zu werden.",
+            "french": "J'ai étudié pour devenir designer."
+          },
+          {
+            "id": 60,
+            "english": "He studies to be an interpreter.",
+            "russian": "Он учится на переводчика.",
+            "spanish": "Él estudia para ser intérprete.",
+            "german": "Er studiert, um Dolmetscher zu werden.",
+            "french": "Il étudie pour devenir interprète."
+          },
+          {
+            "id": 61,
+            "english": "He isn't an artist.",
+            "russian": "Он не художник.",
+            "spanish": "Él no es artista.",
+            "german": "Er ist kein Künstler.",
+            "french": "Il n'est pas artiste."
+          },
+          {
+            "id": 62,
+            "english": "We will study to be artists.",
+            "russian": "Мы будем учиться на художников.",
+            "spanish": "Estudiaremos para ser artistas.",
+            "german": "Wir werden Kunst studieren, um Künstler zu werden.",
+            "french": "Nous étudierons pour devenir artistes."
+          },
+          {
+            "id": 63,
+            "english": "He doesn't work at the hotel as an interpreter.",
+            "russian": "Он не работает в гостинице переводчиком.",
+            "spanish": "Él no trabaja en un hotel como intérprete.",
+            "german": "Er arbeitet nicht in einem Hotel als Dolmetscher.",
+            "french": "Il ne travaille pas dans un hôtel comme interprète."
+          },
+          {
+            "id": 64,
+            "english": "They work at the museum as guides.",
+            "russian": "Они работают в музее гидами.",
+            "spanish": "Trabajan en un museo como guías.",
+            "german": "Sie arbeiten in einem Museum als Führer.",
+            "french": "Ils travaillent dans un musée comme guides."
+          },
+          {
+            "id": 65,
+            "english": "We worked at the museum as guides.",
+            "russian": "Мы работали в музее гидами.",
+            "spanish": "Trabajamos en un museo como guías.",
+            "german": "Wir haben in einem Museum als Führer gearbeitet.",
+            "french": "Nous avons travaillé dans un musée comme guides."
+          },
+          {
+            "id": 66,
+            "english": "He won't study to be a musician.",
+            "russian": "Он не будет учиться на музыканта.",
+            "spanish": "Él no estudiará para ser músico.",
+            "german": "Er wird nicht Musik studieren, um Musiker zu werden.",
+            "french": "Il n'étudiera pas pour devenir musicien."
+          },
+          {
+            "id": 67,
+            "english": "They don't study to be artists.",
+            "russian": "Они не учатся на художников.",
+            "spanish": "Ellos no estudian para ser artistas.",
+            "german": "Sie studieren nicht, um Künstler zu werden.",
+            "french": "Ils n'étudient pas pour devenir artistes."
+          },
+          {
+            "id": 68,
+            "english": "She won't be a writer.",
+            "russian": "Она не будет писателем.",
+            "spanish": "Ella no será escritora.",
+            "german": "Sie wird keine Schriftstellerin sein.",
+            "french": "Elle ne sera pas écrivaine."
+          },
+          {
+            "id": 69,
+            "english": "They didn't study to be programmers.",
+            "russian": "Они не учились на программистов.",
+            "spanish": "No estudiaron para ser programadores.",
+            "german": "Sie haben nicht studiert, um Programmierer zu werden.",
+            "french": "Ils n'ont pas étudié pour devenir programmeurs."
+          },
+          {
+            "id": 70,
+            "english": "I will be a dentist.",
+            "russian": "Я буду дантистом.",
+            "spanish": "Seré dentista.",
+            "german": "Ich werde Zahnarzt sein.",
+            "french": "Je serai dentiste."
+          }
+        ],
+      
+    "exam": {
+  "sentences": [
+    {
+      "id": 1,
+      "sentence_en": "You worked at the company as a programmer.",
+      "translations": {
+        "ru": "Ты работал в компании программистом.",
+        "es": "Trabajaste en una empresa como programador.",
+        "fr": "Tu as travaillé dans une entreprise comme programmeur.", 
+        "de": "Du hast in einer Firma als Programmierer gearbeitet."
+      },
+      "words": [
+        { "correct": "You",        "alternatives": ["Her", "They", "We"] },
+        { "correct": "worked",     "alternatives": ["writes", "walked", "waited"] },
+        { "correct": "at",         "alternatives": ["under", "over", "beside"] },
+        { "correct": "the company",  "alternatives": ["the school", "the restaurant", "the hospital"] },
+        { "correct": "as",         "alternatives": ["with", "by", "from"] },
+        { "correct": "a programmer", "alternatives": ["a pilot", "a nurse", "a chef"] }
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_en": "You studied to be an engineer.",
+      "translations": {
+        "ru": "Ты учился на инженера.",
+        "es": "Estudiaste para ser ingeniero.",
+        "fr": "Tu as étudié pour devenir ingénieur.",
+        "de": "Du hast studiert, um Ingenieur zu werden."
+      },
+      "words": [
+        { "correct": "You",         "alternatives": ["He", "She", "They"] },
+        { "correct": "studied",     "alternatives": ["learned", "taught", "read"] },
+        { "correct": "to be",       "alternatives": ["in order to", "so that", "because"] },
+        { "correct": "an engineer", "alternatives": ["a pilot", "a nurse", "a chef"] }
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_en": "Does Max study to be a manager?",
+      "translations": {
+        "ru": "Максим учится на менеджера?",
+        "es": "¿Max estudia para ser gerente?",
+        "fr": "Max étudie‑t‑il pour devenir manager?",
+        "de": "Lernt Max, um Manager zu werden?"
+      },
+      "words": [
+        { "correct": "Does",    "alternatives": ["Has", "Can", "Will"] },
+        { "correct": "Max",     "alternatives": ["Anna", "Lisa", "Paul"] },
+        { "correct": "study",   "alternatives": ["teach", "draw", "sing"] },
+        { "correct": "to be",   "alternatives": ["so that", "because", "in order to"] },
+        { "correct": "a manager", "alternatives": ["a pilot", "a nurse", "a chef"] }
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_en": "They will be engineers.",
+      "translations": {
+        "ru": "Они будут инженерами.",
+        "es": "Serán ingenieros.",
+        "fr": "Ils seront ingénieurs.",
+        "de": "Sie werden Ingenieure sein."
+      },
+      "words": [
+        { "correct": "They",      "alternatives": ["She", "It", "He"] },
+        { "correct": "will",      "alternatives": ["can", "may", "should"] },
+        { "correct": "be",        "alternatives": ["see", "eat", "run"] },
+        { "correct": "engineers", "alternatives": ["pilots", "nurses", "chefs"] }
+      ]
+    },
+    {
+      "id": 5,
+      "sentence_en": "We were artists.",
+      "translations": {
+        "ru": "Мы были художниками.",
+        "es": "Éramos artistas.",
+        "fr": "Nous étions artistes.",
+        "de": "Wir waren Künstler."
+      },
+      "words": [
+        { "correct": "We",      "alternatives": ["They", "You", "I"] },
+        { "correct": "were",    "alternatives": ["are", "will be", "have been"] },
+        { "correct": "artists", "alternatives": ["teachers", "doctors", "engineers"] }
+      ]
+    },
+    {
+      "id": 6,
+      "sentence_en": "I didn't work at the theater as an artist.",
+      "translations": {
+        "ru": "Я не работал в театре художником.",
+        "es": "No trabajé en un teatro como artista.",
+        "fr": "Je n'ai pas travaillé dans un théâtre comme artiste.",
+        "de": "Ich habe nicht in einem Theater als Künstler gearbeitet."
+      },
+      "words": [
+        { "correct": "I",          "alternatives": ["She", "It", "They"] },
+        { "correct": "didn't",     "alternatives": ["hasn't", "wasn't", "can't"] },
+        { "correct": "work",       "alternatives": ["play", "sing", "draw"] },
+        { "correct": "at",         "alternatives": ["near", "between", "around"] },
+        { "correct": "the theater",  "alternatives": ["the stadium", "the park", "the bank"] },
+        { "correct": "as",         "alternatives": ["by", "with", "from"] },
+        { "correct": "an artist",  "alternatives": ["a pilot", "a nurse", "a chef"] }
+      ]
+    },
+    {
+      "id": 7,
+      "sentence_en": "I won't be a guide.",
+      "translations": {
+        "ru": "Я не буду гидом.",
+        "es": "No seré guía.",
+        "fr": "Je ne serai pas guide.",
+        "de": "Ich werde kein Reiseführer sein."
+      },
+      "words": [
+        { "correct": "I",       "alternatives": ["She", "It", "They"] },
+        { "correct": "won't",   "alternatives": ["can't", "hasn't", "isn't"] },
+        { "correct": "be",      "alternatives": ["see", "eat", "run"] },
+        { "correct": "a guide", "alternatives": ["a pilot", "a nurse", "a chef"] }
+      ]
+    },
+    {
+      "id": 8,
+      "sentence_en": "You will work at the hotel as an interpreter.",
+      "translations": {
+        "ru": "Ты будешь работать в гостинице переводчиком.",
+        "es": "Trabajarás en un hotel como intérprete.",
+        "fr": "Tu travailleras dans un hôtel comme interprète.",
+        "de": "Du wirst in einem Hotel als Dolmetscher arbeiten."
+      },
+      "words": [
+        { "correct": "You",           "alternatives": ["Anna", "Max", "Paul"] },
+        { "correct": "will",          "alternatives": ["can", "may", "should"] },
+        { "correct": "work",          "alternatives": ["play", "sing", "draw"] },
+        { "correct": "at",            "alternatives": ["near", "between", "around"] },
+        { "correct": "the hotel",       "alternatives": ["the stadium", "the park", "the bank"] },
+        { "correct": "as",            "alternatives": ["by", "with", "from"] },
+        { "correct": "an interpreter", "alternatives": ["a pilot", "a nurse", "a chef"] }
+      ]
+    },
+    {
+      "id": 9,
+      "sentence_en": "Were they writers?",
+      "translations": {
+        "ru": "Они были писателями?",
+        "es": "¿Eran escritores?",
+        "fr": "Étaient‑ils écrivains?",
+        "de": "Waren sie Schriftsteller?"
+      },
+      "words": [
+        { "correct": "Were",    "alternatives": ["Was", "Is", "Are"] },
+        { "correct": "they",    "alternatives": ["he", "she", "it"] },
+        { "correct": "writers", "alternatives": ["pilots", "nurses", "chefs"] }
+      ]
+    },
+    {
+      "id": 10,
+      "sentence_en": "We didn't work at the theater as artists.",
+      "translations": {
+        "ru": "Мы не работали в театре художниками.",
+        "es": "No trabajamos en un teatro como artistas.",
+        "fr": "Nous n'avons pas travaillé dans un théâtre comme artistes.",
+        "de": "Wir haben nicht in einem Theater als Künstler gearbeitet."
+      },
+      "words": [
+        { "correct": "We",      "alternatives": ["They", "You", "He"] },
+        { "correct": "didn't",  "alternatives": ["don't", "won't", "haven't"] },
+        { "correct": "work",    "alternatives": ["worked", "working", "works"] },
+        { "correct": "at",      "alternatives": ["in", "by", "for"] },
+        { "correct": "the theater", "alternatives": ["the museum", "the gallery", "the studio"] },
+        { "correct": "as",      "alternatives": ["like", "for", "to"] },
+        { "correct": "artists", "alternatives": ["painters", "designers", "sculptors"] }
+      ]
+    },
+    {
+      "id": 11,
+      "sentence_en": "Will you be a historian?",
+      "translations": {
+        "ru": "Ты будешь историком?",
+        "es": "¿Serás historiador?",
+        "fr": "Seras‑tu historien?",
+        "de": "Wirst du Historiker sein?"
+      },
+      "words": [
+        { "correct": "Will",      "alternatives": ["Are", "Do", "Did"] },
+        { "correct": "you",       "alternatives": ["we", "they", "he"] },
+        { "correct": "be",        "alternatives": ["become", "stay", "work"] },
+        { "correct": "a historian", "alternatives": ["an engineer", "an artist", "a doctor"] }
+      ]
+    },
+    {
+      "id": 12,
+      "sentence_en": "Do they work at the hotel as interpreters?",
+      "translations": {
+        "ru": "Они работают в гостинице переводчиками?",
+        "es": "¿Trabajan en un hotel como intérpretes?",
+        "fr": "Travaillent‑ils dans un hôtel comme interprètes?",
+        "de": "Arbeiten sie in einem Hotel als Dolmetscher?"
+      },
+      "words": [
+        { "correct": "Do",          "alternatives": ["Does", "Did", "Will"] },
+        { "correct": "they",        "alternatives": ["we", "you", "he"] },
+        { "correct": "work",        "alternatives": ["study", "live", "play"] },
+        { "correct": "at",          "alternatives": ["in", "by", "for"] },
+        { "correct": "the hotel",     "alternatives": ["the theater", "the company", "the museum"] },
+        { "correct": "as",          "alternatives": ["like", "for", "to"] },
+        { "correct": "interpreters", "alternatives": ["artists", "guides", "dentists"] }
+      ]
+    },
+    {
+      "id": 13,
+      "sentence_en": "I didn't study to be an actor.",
+      "translations": {
+        "ru": "Я не учился на актёра.",
+        "es": "No estudié para ser actor.",
+        "fr": "Je n'ai pas étudié pour devenir acteur.",
+        "de": "Ich habe nicht studiert, um Schauspieler zu werden."
+      },
+      "words": [
+        { "correct": "I",      "alternatives": ["We", "You", "He"] },
+        { "correct": "didn't", "alternatives": ["won't", "don't", "cant"] },
+        { "correct": "study",  "alternatives": ["studied", "studies", "studying"] },
+        { "correct": "to be",  "alternatives": ["for becoming", "as", "like"] },
+        { "correct": "an actor",  "alternatives": ["an artist", "an engineer", "a doctor"] }
+      ]
+    },
+    {
+      "id": 14,
+      "sentence_en": "Will you study to be a dentist?",
+      "translations": {
+        "ru": "Ты будешь учиться на дантиста?",
+        "es": "¿Estudiarás para ser dentista?",
+        "fr": "Étudieras‑tu pour devenir dentiste?",
+        "de": "Wirst du Zahnmedizin studieren?"
+      },
+      "words": [
+        { "correct": "Will",    "alternatives": ["Do", "Does", "Did"] },
+        { "correct": "you",     "alternatives": ["we", "they", "he"] },
+        { "correct": "study",   "alternatives": ["studied", "studies", "studying"] },
+        { "correct": "to be",   "alternatives": ["for becoming", "as", "like"] },
+        { "correct": "a dentist", "alternatives": ["a doctor", "an artist", "a guide"] }
+      ]
+    },
+    {
+      "id": 15,
+      "sentence_en": "You will be a writer.",
+      "translations": {
+        "ru": "Ты будешь писателем.",
+        "es": "Serás escritor.",
+        "fr": "Tu seras écrivain.",
+        "de": "Du wirst Schriftsteller sein."
+      },
+      "words": [
+        { "correct": "You",   "alternatives": ["We", "They", "He"] },
+        { "correct": "will",  "alternatives": ["would", "won't", "wills"] },
+        { "correct": "be",    "alternatives": ["been", "being", "become"] },
+        { "correct": "a writer", "alternatives": ["an artist", "an engineer", "a doctor"] }
+      ]
+    },
+    {
+      "id": 16,
+      "sentence_en": "You will be a musician.",
+      "translations": {
+        "ru": "Ты будешь музыкантом.",
+        "es": "Serás músico.",
+        "fr": "Tu seras musicien.",
+        "de": "Du wirst Musiker sein."
+      },
+      "words": [
+        { "correct": "You",     "alternatives": ["We", "They", "She"] },
+        { "correct": "will",    "alternatives": ["would", "won't", "wills"] },
+        { "correct": "be",      "alternatives": ["been", "being", "become"] },
+        { "correct": "a musician", "alternatives": ["an artist", "a writer", "a doctor"] }
+      ]
+    },
+    {
+      "id": 17,
+      "sentence_en": "He won't be an engineer.",
+      "translations": {
+        "ru": "Он не будет инженером.",
+        "es": "Él no será ingeniero.",
+        "fr": "Il ne sera pas ingénieur.",
+        "de": "Er wird kein Ingenieur sein."
+      },
+      "words": [
+        { "correct": "He",       "alternatives": ["She", "They", "I"] },
+        { "correct": "won't",    "alternatives": ["doesn't", "isn't", "didn't"] },
+        { "correct": "be",       "alternatives": ["been", "being", "become"] },
+        { "correct": "an engineer", "alternatives": ["an artist", "a doctor", "a manager"] }
+      ]
+    },
+    {
+      "id": 18,
+      "sentence_en": "We will study to be musicians.",
+      "translations": {
+        "ru": "Мы будем учиться на музыкантов.",
+        "es": "Estudiaremos para ser músicos.",
+        "fr": "Nous étudierons pour devenir musiciens.",
+        "de": "Wir werden Musik studieren, um Musiker zu werden."
+      },
+      "words": [
+        { "correct": "We",       "alternatives": ["They", "You", "I"] },
+        { "correct": "will",     "alternatives": ["would", "won't", "wills"] },
+        { "correct": "study",    "alternatives": ["works", "live", "play"] },
+        { "correct": "to be",    "alternatives": ["for becoming", "as", "like"] },
+        { "correct": "musicians", "alternatives": ["artists", "writers", "guides"] }
+      ]
+    },
+    {
+      "id": 19,
+      "sentence_en": "They work at the theater as musicians.",
+      "translations": {
+        "ru": "Они работают в театре музыкантами.",
+        "es": "Trabajan en un teatro como músicos.",
+        "fr": "Ils travaillent dans un théâtre comme musiciens.",
+        "de": "Sie arbeiten in einem Theater als Musiker."
+      },
+      "words": [
+        { "correct": "They",      "alternatives": ["We", "You", "He"] },
+        { "correct": "work",      "alternatives": ["works", "working", "worked"] },
+        { "correct": "at",        "alternatives": ["in", "by", "for"] },
+        { "correct": "the theater", "alternatives": ["the hotel", "the museum", "the company"] },
+        { "correct": "as",        "alternatives": ["like", "for", "to"] },
+        { "correct": "musicians", "alternatives": ["artists", "writers", "drivers"] }
+      ]
+    },
+    {
+      "id": 20,
+      "sentence_en": "I studied to be a historian.",
+      "translations": {
+        "ru": "Я учился на историка.",
+        "es": "Estudié para ser historiador.",
+        "fr": "J'ai étudié pour devenir historien.",
+        "de": "Ich habe studiert, um Historiker zu werden."
+      },
+      "words": [
+        { "correct": "I",         "alternatives": ["We", "You", "He"] },
+        { "correct": "studied",   "alternatives": ["study", "studies", "studying"] },
+        { "correct": "to be",     "alternatives": ["for becoming", "as", "like"] },
+        { "correct": "a historian", "alternatives": ["an artist", "an engineer", "a doctor"] }
+      ]
+    },
+    {
+      "id": 21,
+      "sentence_en": "You aren't an accountant.",
+      "translations": {
+        "ru": "Ты не бухгалтер.",
+        "es": "No eres contable.",
+        "fr": "Tu n'es pas comptable.",
+        "de": "Du bist kein Buchhalter."
+      },
+      "words": [
+        { "correct": "You",       "alternatives": ["Your", "Yu", "Yure"] },
+        { "correct": "aren't",    "alternatives": ["isn't", "weren't", "ain't"] },
+        { "correct": "an accountant", "alternatives": ["an engineer", "a doctor", "a manager"] }
+      ]
+    },
+    {
+      "id": 22,
+      "sentence_en": "She is an interpreter.",
+      "translations": {
+        "ru": "Она переводчик.",
+        "es": "Ella es intérprete.",
+        "fr": "Elle est interprète.",
+        "de": "Sie ist Dolmetscherin."
+      },
+      "words": [
+        { "correct": "She",         "alternatives": ["Anna", "Max", "Paul"] },
+        { "correct": "is",          "alternatives": ["was", "has", "can"] },
+        { "correct": "an interpreter", "alternatives": ["a pilot", "a nurse", "a chef"] }
+      ]
+    },
+    {
+      "id": 23,
+      "sentence_en": "He will study to be an engineer.",
+      "translations": {
+        "ru": "Он будет учиться на инженера.",
+        "es": "Él estudiará para ser ingeniero.",
+        "fr": "Il étudiera pour devenir ingénieur.",
+        "de": "Er wird studieren, um Ingenieur zu werden."
+      },
+      "words": [
+        { "correct": "He",       "alternatives": ["Anna", "Max", "Paul"] },
+        { "correct": "will",     "alternatives": ["can", "may", "should"] },
+        { "correct": "study",    "alternatives": ["teach", "draw", "sing"] },
+        { "correct": "to be",    "alternatives": ["so that", "because", "in order to"] },
+        { "correct": "an engineer", "alternatives": ["a pilot", "a nurse", "a chef"] }
+      ]
+    },
+    {
+      "id": 24,
+      "sentence_en": "Is she a designer?",
+      "translations": {
+        "ru": "Она дизайнер?",
+        "es": "¿Es ella diseñadora?",
+        "fr": "Est‑elle designer?",
+        "de": "Ist sie Designerin?"
+      },
+      "words": [
+        { "correct": "Is",       "alternatives": ["Are", "Was", "Isn't"] },
+        { "correct": "she",      "alternatives": ["her", "She's", "they"] },
+        { "correct": "a designer", "alternatives": ["an artist", "a musician", "an engineer"] }
+      ]
+    },
+    {
+      "id": 25,
+      "sentence_en": "Do you work at the museum as a guide?",
+      "translations": {
+        "ru": "Ты работаешь в музее гидом?",
+        "es": "¿Trabajas en un museo como guía?",
+        "fr": "Travailles‑tu dans un musée comme guide?",
+        "de": "Arbeitest du in einem Museum als Führer?"
+      },
+      "words": [
+        { "correct": "Do",      "alternatives": ["Does", "Did", "Doing"] },
+        { "correct": "you",     "alternatives": ["your", "you're", "yours"] },
+        { "correct": "work",    "alternatives": ["works", "worked", "working"] },
+        { "correct": "at",      "alternatives": ["in", "by", "for"] },
+        { "correct": "the museum", "alternatives": ["the theater", "the hotel", "the company"] },
+        { "correct": "as",      "alternatives": ["like", "for", "to"] },
+        { "correct": "a guide", "alternatives": ["a historian", "an artist", "a writer"] }
+      ]
+    },
+    {
+      "id": 26,
+      "sentence_en": "He didn't study to be an artist.",
+      "translations": {
+        "ru": "Он не учился на художника.",
+        "es": "Él no estudió para ser artista.",
+        "fr": "Il n'a pas étudié pour devenir artiste.",
+        "de": "Er hat nicht studiert, um Künstler zu werden."
+      },
+      "words": [
+        { "correct": "He",     "alternatives": ["She", "They", "Him"] },
+        { "correct": "didn't", "alternatives": ["doesn't", "won't", "didnt"] },
+        { "correct": "study",  "alternatives": ["studies", "studied", "studying"] },
+        { "correct": "to be",  "alternatives": ["for becoming", "as", "like"] },
+        { "correct": "an artist", "alternatives": ["a doctor", "a teacher", "a manager"] }
+      ]
+    },
+    {
+      "id": 27,
+      "sentence_en": "We won't study to be dentists.",
+      "translations": {
+        "ru": "Мы не будем учиться на дантистов.",
+        "es": "No estudiaremos para ser dentistas.",
+        "fr": "Nous n'étudierons pas pour devenir dentistes.",
+        "de": "Wir werden nicht studieren, um Zahnärzte zu werden."
+      },
+      "words": [
+        { "correct": "We",      "alternatives": ["Were", "Us", "They"] },
+        { "correct": "won't",   "alternatives": ["wouldn't", "won't", "isn't"] },
+        { "correct": "study",   "alternatives": ["studies", "studied", "studying"] },
+        { "correct": "to be",   "alternatives": ["for becoming", "as", "like"] },
+        { "correct": "dentists", "alternatives": ["artists", "programmers", "musicians"] }
+      ]
+    },
+    {
+      "id": 28,
+      "sentence_en": "He won't be a consultant.",
+      "translations": {
+        "ru": "Он не будет консультантом.",
+        "es": "Él no será consultor.",
+        "fr": "Il ne sera pas consultant.",
+        "de": "Er wird kein Berater sein."
+      },
+      "words": [
+        { "correct": "He",         "alternatives": ["His", "Him", "She's"] },
+        { "correct": "won't",      "alternatives": ["wouldn't", "wont", "wasn't"] },
+        { "correct": "be",         "alternatives": ["been", "being", "become"] },
+        { "correct": "a consultant", "alternatives": ["a manager", "a teacher", "a programmer"] }
+      ]
+    },
+    {
+      "id": 29,
+      "sentence_en": "Were they dentists?",
+      "translations": {
+        "ru": "Они были дантистами?",
+        "es": "¿Eran dentistas?",
+        "fr": "Étaient‑ils dentistes?",
+        "de": "Waren sie Zahnärzte?"
+      },
+      "words": [
+        { "correct": "Were",     "alternatives": ["We're", "Was", "Are"] },
+        { "correct": "they",     "alternatives": ["their", "them", "they're"] },
+        { "correct": "dentists", "alternatives": ["doctors", "engineers", "artists"] }
+      ]
+    },
+    {
+      "id": 30,
+      "sentence_en": "Is she a writer?",
+      "translations": {
+        "ru": "Она писатель?",
+        "es": "¿Es ella escritora?",
+        "fr": "Est‑elle écrivain?",
+        "de": "Ist sie Schriftstellerin?"
+      },
+      "words": [
+        { "correct": "Is",      "alternatives": ["Are", "Was", "Isn't"] },
+        { "correct": "she",     "alternatives": ["her", "they", "she's"] },
+        { "correct": "a", "alternatives": ["an", "the", "that"] },
+        { "correct": "writer",  "alternatives": ["writers", "writing", "written"] }
+      ]
+    },
+    {
+      "id": 31,
+      "sentence_en": "He studies to be a doctor.",
+      "translations": {
+        "ru": "Он учится на врача.",
+        "es": "Él estudia para ser médico.",
+        "fr": "Il étudie pour devenir médecin.",
+        "de": "Er studiert, um Arzt zu werden."
+      },
+      "words": [
+        { "correct": "He",      "alternatives": ["Hes", "Him", "She"] },
+        { "correct": "studies", "alternatives": ["study", "studied", "studying"] },
+        { "correct": "to be",   "alternatives": ["for becoming", "as", "like"] },
+        { "correct": "a doctor",  "alternatives": ["an engineer", "a teacher", "a programmer"] }
+      ]
+    },
+    {
+      "id": 32,
+      "sentence_en": "They will be historians.",
+      "translations": {
+        "ru": "Они будут историками.",
+        "es": "Serán historiadores.",
+        "fr": "Ils seront historiens.",
+        "de": "Sie werden Historiker sein."
+      },
+      "words": [
+        { "correct": "They",        "alternatives": ["Their", "There", "Them"] },
+        { "correct": "will",        "alternatives": ["would", "won't", "wills"] },
+        { "correct": "be",          "alternatives": ["been", "being", "be is"] },
+        { "correct": "historians",  "alternatives": ["doctors", "teachers", "engineers"] }
+      ]
+    },
+    {
+      "id": 33,
+      "sentence_en": "You will study to be a historian.",
+      "translations": {
+        "ru": "Ты будешь учиться на историка.",
+        "es": "Estudiarás para ser historiador.",
+        "fr": "Tu étudieras pour devenir historien.",
+        "de": "Du wirst studieren, um Historiker zu werden."
+      },
+      "words": [
+        { "correct": "You",       "alternatives": ["Yours", "Your", "You be"] },
+        { "correct": "will",      "alternatives": ["would", "won't", "wills"] },
+        { "correct": "study",     "alternatives": ["studies", "studied", "studying"] },
+        { "correct": "to be",     "alternatives": ["for becoming", "as", "like"] },
+        { "correct": "a historian", "alternatives": ["a doctor", "a teacher", "an engineer"] }
+      ]
+    },
+    {
+      "id": 34,
+      "sentence_en": "We weren't actors.",
+      "translations": {
+        "ru": "Мы не были актёрами.",
+        "es": "No éramos actores.",
+        "fr": "Nous n'étions pas acteurs.",
+        "de": "Wir waren keine Schauspieler."
+      },
+      "words": [
+        { "correct": "We",     "alternatives": ["We are", "Us", "They"] },
+        { "correct": "weren't","alternatives": ["aren't", "wasn't", "won't"] },
+        { "correct": "actors", "alternatives": ["engineers", "teachers", "doctors"] }
+      ]
+    },
+    {
+      "id": 35,
+      "sentence_en": "He studies to be a writer.",
+      "translations": {
+        "ru": "Он учится на писателя.",
+        "es": "Él estudia para ser escritor.",
+        "fr": "Il étudie pour devenir écrivain.",
+        "de": "Er studiert, um Schriftsteller zu werden."
+      },
+      "words": [
+        { "correct": "He",      "alternatives": ["Him", "She's", "They"] },
+        { "correct": "studies", "alternatives": ["study", "studied", "studying"] },
+        { "correct": "to be",   "alternatives": ["for becoming", "as", "like"] },
+        { "correct": "a writer", "alternatives": ["a doctor", "an engineer", "a teacher"] }
+      ]
+    },
+    {
+      "id": 36,
+      "sentence_en": "You won't work at the theater as an actor.",
+      "translations": {
+        "ru": "Ты не будешь работать в театре актёром.",
+        "es": "No trabajarás en un teatro como actor.",
+        "fr": "Tu ne travailleras pas dans un théâtre comme acteur.",
+        "de": "Du wirst nicht in einem Theater als Schauspieler arbeiten."
+      },
+      "words": [
+        { "correct": "You",     "alternatives": ["Yourself", "Yours", "Youth"] },
+        { "correct": "won't",   "alternatives": ["don't", "wouldn't", "wont"] },
+        { "correct": "work",    "alternatives": ["works", "worked", "working"] },
+        { "correct": "at",      "alternatives": ["in", "by", "for"] },
+        { "correct": "the theater", "alternatives": ["theatre", "hotel", "museum"] },
+        { "correct": "as",      "alternatives": ["like", "for", "to"] },
+        { "correct": "an actor", "alternatives": ["actors", "acting", "actress"] }
+      ]
+    },
+    {
+      "id": 37,
+      "sentence_en": "You won't work at the company as a driver.",
+      "translations": {
+        "ru": "Ты не будешь работать в компании водителем.",
+        "es": "No trabajarás en una empresa como conductor.",
+        "fr": "Tu ne travailleras pas dans une entreprise comme chauffeur.",
+        "de": "Du wirst nicht in einer Firma als Fahrer arbeiten."
+      },
+      "words": [
+        { "correct": "You",      "alternatives": ["Your", "Youd", "You'd"] },
+        { "correct": "won't",    "alternatives": ["wouldn't", "don't", "wont"] },
+        { "correct": "work",     "alternatives": ["working", "works", "worked"] },
+        { "correct": "at",       "alternatives": ["in", "by", "for"] },
+        { "correct": "the company", "alternatives": ["the hotel", "the theater", "the museum"] },
+        { "correct": "as",       "alternatives": ["like", "for", "to"] },
+        { "correct": "a driver", "alternatives": ["a guide", "an artist", "a musician"] }
+      ]
+    },
+    {
+      "id": 38,
+      "sentence_en": "I studied to be a programmer.",
+      "translations": {
+        "ru": "Я учился на программиста.",
+        "es": "Estudié para ser programador.",
+        "fr": "J'ai étudié pour devenir programmeur.",
+        "de": "Ich habe studiert, um Programmierer zu werden."
+      },
+      "words": [
+        { "correct": "I",          "alternatives": ["I'm", "I'd", "Me"] },
+        { "correct": "studied",    "alternatives": ["study", "studies", "studying"] },
+        { "correct": "to be",      "alternatives": ["for becoming", "as", "like"] },
+        { "correct": "a programmer", "alternatives": ["a doctor", "an engineer", "a teacher"] }
+      ]
+    },
+    {
+      "id": 39,
+      "sentence_en": "He won't be a historian.",
+      "translations": {
+        "ru": "Он не будет историком.",
+        "es": "Él no será historiador.",
+        "fr": "Il ne sera pas historien.",
+        "de": "Er wird kein Historiker sein."
+      },
+      "words": [
+        { "correct": "He",        "alternatives": ["Him", "His", "She's"] },
+        { "correct": "won't",     "alternatives": ["wouldn't", "wont", "wasn't"] },
+        { "correct": "be",        "alternatives": ["been", "being", "became"] },
+        { "correct": "a historian", "alternatives": ["a teacher", "an engineer", "a doctor"] }
+      ]
+    },
+    {
+      "id": 40,
+      "sentence_en": "She will work at the theater as an actor.",
+      "translations": {
+        "ru": "Она будет работать в театре актрисой.",
+        "es": "Ella trabajará en el teatro como actriz.",
+        "fr": "Elle travaillera au théâtre comme actrice.",
+        "de": "Sie wird im Theater als Schauspielerin arbeiten."
+      },
+      "words": [
+        { "correct": "She",     "alternatives": ["She's", "Her", "They"] },
+        { "correct": "will",    "alternatives": ["would", "won't", "wills"] },
+        { "correct": "work",    "alternatives": ["works", "working", "worked"] },
+        { "correct": "at",      "alternatives": ["in", "by", "for"] },
+        { "correct": "the theater", "alternatives": ["the hotel", "the museum", "the company"] },
+        { "correct": "as",      "alternatives": ["like", "for", "to"] },
+        { "correct": "an actor", "alternatives": ["a musician", "a writer", "a guide"] }
+      ]
+    },
+    {
+      "id": 41,
+      "sentence_en": "We didn't study to be programmers.",
+      "translations": {
+        "ru": "Мы не учились на программистов.",
+        "es": "No estudiamos para ser programadores.",
+        "fr": "Nous n'avons pas étudié pour devenir programmeurs.",
+        "de": "Wir haben nicht studiert, um Programmierer zu werden."
+      },
+      "words": [
+        { "correct": "We",         "alternatives": ["Were", "Us", "They"] },
+        { "correct": "didn't",     "alternatives": ["don't", "won't", "didnt"] },
+        { "correct": "study",      "alternatives": ["studies", "studied", "studying"] },
+        { "correct": "to be",      "alternatives": ["for becoming", "as", "like"] },
+        { "correct": "programmers", "alternatives": ["teachers", "engineers", "doctors"] }
+      ]
+    },
+    {
+      "id": 42,
+      "sentence_en": "You didn't work at the hotel as an interpreter.",
+      "translations": {
+        "ru": "Ты не работал в гостинице переводчиком.",
+        "es": "No trabajaste en un hotel como intérprete.",
+        "fr": "Tu n'as pas travaillé dans un hôtel comme interprète.",
+        "de": "Du hast nicht in einem Hotel als Dolmetscher gearbeitet."
+      },
+      "words": [
+        { "correct": "You",         "alternatives": ["Your", "You're", "You'd"] },
+        { "correct": "didn't",      "alternatives": ["don't", "won't", "didnt"] },
+        { "correct": "work",        "alternatives": ["works", "worked", "working"] },
+        { "correct": "at",          "alternatives": ["in", "by", "for"] },
+        { "correct": "the hotel",     "alternatives": ["the theater", "the museum", "the company"] },
+        { "correct": "as",          "alternatives": ["like", "for", "to"] },
+        { "correct": "an interpreter", "alternatives": ["a guide", "a musician", "an artist"] }
+      ]
+    },
+    {
+      "id": 43,
+      "sentence_en": "She will study to be a musician.",
+      "translations": {
+        "ru": "Она будет учиться на музыканта.",
+        "es": "Ella estudiará para ser música.",
+        "fr": "Elle étudiera pour devenir musicienne.",
+        "de": "Sie wird Musik studieren, um Musikerin zu werden."
+      },
+      "words": [
+        { "correct": "She",       "alternatives": ["Her", "He's", "They"] },
+        { "correct": "will",      "alternatives": ["would", "won't", "wills"] },
+        { "correct": "study",     "alternatives": ["studies", "studied", "studying"] },
+        { "correct": "to be",     "alternatives": ["for becoming", "as", "like"] },
+        { "correct": "a musician", "alternatives": ["a doctor", "an artist", "a teacher"] }
+      ]
+    },
+    {
+      "id": 44,
+      "sentence_en": "I worked at the museum as a guide.",
+      "translations": {
+        "ru": "Я работал в музее гидом.",
+        "es": "Trabajé en un museo como guía.",
+        "fr": "J'ai travaillé dans un musée comme guide.",
+        "de": "Ich habe in einem Museum als Führer gearbeitet."
+      },
+      "words": [
+        { "correct": "I",      "alternatives": ["I'd", "I'm", "Me"] },
+        { "correct": "worked", "alternatives": ["works", "working", "work"] },
+        { "correct": "at",     "alternatives": ["in", "by", "for"] },
+        { "correct": "the museum", "alternatives": ["the theater", "the hotel", "the company"] },
+        { "correct": "as",     "alternatives": ["like", "for", "to"] },
+        { "correct": "a guide", "alternatives": ["a historian", "an artist", "a writer"] }
+      ]
+    },
+    {
+      "id": 45,
+      "sentence_en": "We didn't work at the company as accountants.",
+      "translations": {
+        "ru": "Мы не работали в компании бухгалтерами.",
+        "es": "No trabajamos en una empresa como contables.",
+        "fr": "Nous n'avons pas travaillé dans une entreprise comme comptables.",
+        "de": "Wir haben nicht in einer Firma als Buchhalter gearbeitet."
+      },
+      "words": [
+        { "correct": "We",        "alternatives": ["Were", "Us", "They"] },
+        { "correct": "didn't",    "alternatives": ["don't", "won't", "didnt"] },
+        { "correct": "work",      "alternatives": ["works", "working", "worked"] },
+        { "correct": "at",        "alternatives": ["in", "by", "for"] },
+        { "correct": "the company", "alternatives": ["the theater", "the hotel", "the museum"] },
+        { "correct": "as",        "alternatives": ["like", "for", "to"] },
+        { "correct": "accountants", "alternatives": ["engineers", "teachers", "doctors"] }
+      ]
+    },
+    {
+      "id": 46,
+      "sentence_en": "Did she work at the hospital as a dentist?",
+      "translations": {
+        "ru": "Она работала в больнице дантистом?",
+        "es": "¿Trabajó ella en el hospital como dentista?",
+        "fr": "A‑t‑elle travaillé à l'hôpital comme dentiste?",
+        "de": "Hat sie im Krankenhaus als Zahnärztin gearbeitet?"
+      },
+      "words": [
+        { "correct": "Did",     "alternatives": ["Do", "Does", "Done"] },
+        { "correct": "she",     "alternatives": ["her", "they", "shes"] },
+        { "correct": "work",    "alternatives": ["works", "working", "worked"] },
+        { "correct": "at",     "alternatives": ["in", "for", "by"] },
+        { "correct": "the hospital", "alternatives": ["the company", "the theater", "the museum"] },
+        { "correct": "as",      "alternatives": ["like", "for", "to"] },
+        { "correct": "a dentist", "alternatives": ["a doctor", "a nurse", "a surgeon"] }
+      ]
+    },
+    {
+      "id": 47,
+      "sentence_en": "They aren't guides.",
+      "translations": {
+        "ru": "Они не гиды.",
+        "es": "Ellos no son guías.",
+        "fr": "Ils ne sont pas guides.",
+        "de": "Sie sind keine Reiseführer."
+      },
+      "words": [
+        { "correct": "They",    "alternatives": ["Their", "There", "Them"] },
+        { "correct": "aren't",  "alternatives": ["isn't", "weren't", "ain't"] },
+        { "correct": "guides",  "alternatives": ["teachers", "doctors", "artists"] }
+      ]
+    },
+    {
+      "id": 48,
+      "sentence_en": "We don't work at the museum as historians.",
+      "translations": {
+        "ru": "Мы не работаем в музее историками.",
+        "es": "No trabajamos en un museo como historiadores.",
+        "fr": "Nous ne travaillons pas dans un musée comme historiens.",
+        "de": "Wir arbeiten nicht in einem Museum als Historiker."
+      },
+      "words": [
+        { "correct": "We",        "alternatives": ["Were", "Us", "They"] },
+        { "correct": "don't",     "alternatives": ["didn't", "won't", "dont"] },
+        { "correct": "work",      "alternatives": ["works", "working", "worked"] },
+        { "correct": "at",        "alternatives": ["in", "by", "for"] },
+        { "correct": "the museum",  "alternatives": ["the theater", "the hotel", "the company"] },
+        { "correct": "as",        "alternatives": ["like", "for", "to"] },
+        { "correct": "historians", "alternatives": ["guides", "artists", "writers"] }
+      ]
+    },
+    {
+      "id": 49,
+      "sentence_en": "We won't work at the magazine as writers.",
+      "translations": {
+        "ru": "Мы не будем работать в журнале писателями.",
+        "es": "No trabajaremos en una revista como escritores.",
+        "fr": "Nous ne travaillerons pas dans un magazine comme écrivains.",
+        "de": "Wir werden nicht in einer Zeitschrift als Schriftsteller arbeiten."
+      },
+      "words": [
+        { "correct": "We",       "alternatives": ["Wer", "Us", "They"] },
+        { "correct": "won't",    "alternatives": ["wouldn't", "wont", "wasn't"] },
+        { "correct": "work",     "alternatives": ["works", "working", "worked"] },
+        { "correct": "at",       "alternatives": ["in", "by", "for"] },
+        { "correct": "the magazine", "alternatives": ["the newspaper", "the book", "the website"] },
+        { "correct": "as",       "alternatives": ["like", "for", "to"] },
+        { "correct": "writers",  "alternatives": ["editors", "photographers", "designers"] }
+      ]
+    },
+    {
+      "id": 50,
+      "sentence_en": "We were accountants.",
+      "translations": {
+        "ru": "Мы были бухгалтерами.",
+        "es": "Éramos contables.",
+        "fr": "Nous étions comptables.",
+        "de": "Wir waren Buchhalter."
+      },
+      "words": [
+        { "correct": "We",         "alternatives": ["We're", "Us", "They"] },
+        { "correct": "were",       "alternatives": ["we're", "was", "are"] },
+        { "correct": "accountants", "alternatives": ["engineers", "teachers", "doctors"] }
+      ]
+    },
+    {
+      "id": 51,
+      "sentence_en": "He didn't study to be a programmer.",
+      "translations": {
+        "ru": "Он не учился на программиста.",
+        "es": "Él no estudió para ser programador.",
+        "fr": "Il n'a pas étudié pour devenir programmeur.",
+        "de": "Er hat nicht studiert, um Programmierer zu werden."
+      },
+      "words": [
+        { "correct": "He",         "alternatives": ["Him", "His", "She's"] },
+        { "correct": "didn't",     "alternatives": ["doesn't", "won't", "didnt"] },
+        { "correct": "study",      "alternatives": ["studies", "studied", "studying"] },
+        { "correct": "to be",      "alternatives": ["for becoming", "as", "like"] },
+        { "correct": "a programmer", "alternatives": ["a doctor", "an engineer", "a teacher"] }
+      ]
+    },
+    {
+      "id": 52,
+      "sentence_en": "She doesn't study to be a historian.",
+      "translations": {
+        "ru": "Она не учится на историка.",
+        "es": "Ella no estudia para ser historiadora.",
+        "fr": "Elle n'étudie pas pour devenir historienne.",
+        "de": "Sie studiert nicht, um Historikerin zu werden."
+      },
+      "words": [
+        { "correct": "She",       "alternatives": ["Her", "He's", "They"] },
+        { "correct": "doesn't",   "alternatives": ["didn't", "don't", "doesnt"] },
+        { "correct": "study",     "alternatives": ["studies", "studied", "studying"] },
+        { "correct": "to be",     "alternatives": ["for becoming", "as", "like"] },
+        { "correct": "a historian", "alternatives": ["a doctor", "an engineer", "a teacher"] }
+      ]
+    },
+    {
+      "id": 53,
+      "sentence_en": "They didn't work at the hotel as interpreters.",
+      "translations": {
+        "ru": "Они не работали в гостинице переводчиками.",
+        "es": "No trabajaron en un hotel como intérpretes.",
+        "fr": "Ils n'ont pas travaillé dans un hôtel comme interprètes.",
+        "de": "Sie haben nicht in einem Hotel als Dolmetscher gearbeitet."
+      },
+      "words": [
+        { "correct": "They",         "alternatives": ["Their", "Theyre", "Them"] },
+        { "correct": "didn't",       "alternatives": ["don't", "won't", "didnt"] },
+        { "correct": "work",         "alternatives": ["works", "working", "worked"] },
+        { "correct": "at",           "alternatives": ["in", "by", "for"] },
+        { "correct": "the hotel",      "alternatives": ["the theater", "the museum", "the company"] },
+        { "correct": "as",           "alternatives": ["like", "for", "to"] },
+        { "correct": "interpreters", "alternatives": ["guides", "artists", "musicians"] }
+      ]
+    },
+    {
+      "id": 54,
+      "sentence_en": "Do you study to be a programmer?",
+      "translations": {
+        "ru": "Ты учишься на программиста?",
+        "es": "¿Estudias para ser programador?",
+        "fr": "Étudies‑tu pour devenir programmeur?",
+        "de": "Studierst du, um Programmierer zu werden?"
+      },
+      "words": [
+        { "correct": "Do",        "alternatives": ["Does", "Did", "Doing"] },
+        { "correct": "you",       "alternatives": ["your", "you're", "yours"] },
+        { "correct": "study",     "alternatives": ["studies", "studied", "studying"] },
+        { "correct": "to be",     "alternatives": ["for becoming", "as", "like"] },
+        { "correct": "a programmer", "alternatives": ["a doctor", "an engineer", "a teacher"] }
+      ]
+    },
+    {
+      "id": 55,
+      "sentence_en": "Will we study to be drivers?",
+      "translations": {
+        "ru": "Мы будем учиться на водителей?",
+        "es": "¿Estudiaremos para ser conductores?",
+        "fr": "Étudierons‑nous pour devenir chauffeurs?",
+        "de": "Werden wir studieren, um Fahrer zu werden?"
+      },
+      "words": [
+        { "correct": "Will",    "alternatives": ["Would", "Won't", "Was"] },
+        { "correct": "we",      "alternatives": ["we're", "us", "they"] },
+        { "correct": "study",   "alternatives": ["studies", "studied", "studying"] },
+        { "correct": "to be",   "alternatives": ["for becoming", "as", "like"] },
+        { "correct": "drivers", "alternatives": ["doctors", "engineers", "teachers"] }
+      ]
+    },
+    {
+      "id": 56,
+      "sentence_en": "Did they work at the company as engineers?",
+      "translations": {
+        "ru": "Они работали в компании инженерами?",
+        "es": "¿Trabajaron en una empresa como ingenieros?",
+        "fr": "Ont‑ils travaillé dans une entreprise comme ingénieurs?",
+        "de": "Haben sie in einer Firma als Ingenieure gearbeitet?"
+      },
+      "words": [
+        { "correct": "Did",      "alternatives": ["Do", "Does", "Done"] },
+        { "correct": "they",     "alternatives": ["their", "them", "they're"] },
+        { "correct": "work",     "alternatives": ["works", "working", "worked"] },
+        { "correct": "at",       "alternatives": ["in", "by", "for"] },
+        { "correct": "the company", "alternatives": ["the theater", "the hotel", "the museum"] },
+        { "correct": "as",       "alternatives": ["like", "for", "to"] },
+        { "correct": "engineers", "alternatives": ["doctors", "teachers", "programmers"] }
+      ]
+    },
+    {
+      "id": 57,
+      "sentence_en": "He won't study to be a driver.",
+      "translations": {
+        "ru": "Он не будет учиться на водителя.",
+        "es": "Él no estudiará para ser conductor.",
+        "fr": "Il n'étudiera pas pour devenir chauffeur.",
+        "de": "Er wird nicht studieren, um Fahrer zu werden."
+      },
+      "words": [
+        { "correct": "He",      "alternatives": ["Him", "His", "She's"] },
+        { "correct": "won't",   "alternatives": ["wouldn't", "wont", "wasn't"] },
+        { "correct": "study",   "alternatives": ["studies", "studied", "studying"] },
+        { "correct": "to be",   "alternatives": ["for becoming", "as", "like"] },
+        { "correct": "a driver", "alternatives": ["a doctor", "an engineer", "a teacher"] }
+      ]
+    },
+    {
+      "id": 58,
+      "sentence_en": "They won't work at the company as managers.",
+      "translations": {
+        "ru": "Они не будут работать в компании менеджерами.",
+        "es": "No trabajarán en una empresa como gerentes.",
+        "fr": "Ils ne travailleront pas dans une entreprise comme managers.",
+        "de": "Sie werden nicht in einer Firma als Manager arbeiten."
+      },
+      "words": [
+        { "correct": "They",      "alternatives": ["Their", "They're", "Them"] },
+        { "correct": "won't",     "alternatives": ["wouldn't", "wont", "wasn't"] },
+        { "correct": "work",      "alternatives": ["works", "working", "worked"] },
+        { "correct": "at",        "alternatives": ["in", "by", "for"] },
+        { "correct": "the company", "alternatives": ["the theater", "the hotel", "the museum"] },
+        { "correct": "as",        "alternatives": ["like", "for", "to"] },
+        { "correct": "managers",  "alternatives": ["teachers", "doctors", "engineers"] }
+      ]
+    },
+    {
+      "id": 59,
+      "sentence_en": "I studied to be a designer.",
+      "translations": {
+        "ru": "Я учился на дизайнера.",
+        "es": "Estudié para ser diseñador.",
+        "fr": "J'ai étudié pour devenir designer.",
+        "de": "Ich habe studiert, um Designer zu werden."
+      },
+      "words": [
+        { "correct": "I",        "alternatives": ["Im", "I'd", "Me"] },
+        { "correct": "studied",  "alternatives": ["study", "studies", "studying"] },
+        { "correct": "to be",    "alternatives": ["for becoming", "as", "like"] },
+        { "correct": "a designer", "alternatives": ["a doctor", "an engineer", "a teacher"] }
+      ]
+    },
+    {
+      "id": 60,
+      "sentence_en": "He studies to be an interpreter.",
+      "translations": {
+        "ru": "Он учится на переводчика.",
+        "es": "Él estudia para ser intérprete.",
+        "fr": "Il étudie pour devenir interprète.",
+        "de": "Er studiert, um Dolmetscher zu werden."
+      },
+      "words": [
+        { "correct": "He",         "alternatives": ["She", "It", "They"] },
+        { "correct": "studies",    "alternatives": ["learn", "trains", "reads"] },
+        { "correct": "to be",      "alternatives": ["in order to", "so that", "because"] },
+        { "correct": "an interpreter", "alternatives": ["a pilot", "a chef", "a painter"] }
+      ]
+    },
+    {
+      "id": 61,
+      "sentence_en": "He isn't an artist.",
+      "translations": {
+        "ru": "Он не художник.",
+        "es": "Él no es artista.",
+        "fr": "Il n'est pas artiste.",
+        "de": "Er ist kein Künstler."
+      },
+      "words": [
+        { "correct": "He",     "alternatives": ["Hes", "Him", "His"] },
+        { "correct": "isn't",  "alternatives": ["wasn't", "aren't", "isnt"] },
+        { "correct": "an artist", "alternatives": ["a doctor", "a teacher", "an engineer"] }
+      ]
+    },
+    {
+      "id": 62,
+      "sentence_en": "We will study to be artists.",
+      "translations": {
+        "ru": "Мы будем учиться на художников.",
+        "es": "Estudiaremos para ser artistas.",
+        "fr": "Nous étudierons pour devenir artistes.",
+        "de": "Wir werden Kunst studieren, um Künstler zu werden."
+      },
+      "words": [
+        { "correct": "We",      "alternatives": ["Well", "Us", "They"] },
+        { "correct": "will",    "alternatives": ["would", "won't", "wills"] },
+        { "correct": "study",   "alternatives": ["studied", "studies", "studs"] },
+        { "correct": "to be",   "alternatives": ["for becoming", "as", "like"] },
+        { "correct": "artists", "alternatives": ["doctors", "teachers", "engineers"] }
+      ]
+    },
+    {
+      "id": 63,
+      "sentence_en": "He doesn't work at the hotel as an interpreter.",
+      "translations": {
+        "ru": "Он не работает в гостинице переводчиком.",
+        "es": "Él no trabaja en un hotel como intérprete.",
+        "fr": "Il ne travaille pas dans un hôtel comme interprète.",
+        "de": "Er arbeitet nicht in einem Hotel als Dolmetscher."
+      },
+      "words": [
+        { "correct": "He",         "alternatives": ["She", "It", "They"] },
+        { "correct": "doesn't",    "alternatives": ["cannot", "never", "refuses"] },
+        { "correct": "work",       "alternatives": ["play", "walk", "wait"] },
+        { "correct": "at",         "alternatives": ["over", "under", "beside"] },
+        { "correct": "the hotel",    "alternatives": ["the stadium", "the library", "the restaurant"] },
+        { "correct": "as",         "alternatives": ["with", "by", "from"] },
+        { "correct": "an interpreter", "alternatives": ["a pilot", "a chef", "a painter"] }
+      ]
+    },
+    {
+      "id": 64,
+      "sentence_en": "They work at the museum as guides.",
+      "translations": {
+        "ru": "Они работают в музее гидами.",
+        "es": "Trabajan en un museo como guías.",
+        "fr": "Ils travaillent dans un musée comme guides.",
+        "de": "Sie arbeiten in einem Museum als Führer."
+      },
+      "words": [
+        { "correct": "They",   "alternatives": ["We", "You", "He"] },
+        { "correct": "work",   "alternatives": ["play", "walk", "wait"] },
+        { "correct": "at",     "alternatives": ["over", "under", "beside"] },
+        { "correct": "the museum", "alternatives": ["the stadium", "the library", "the restaurant"] },
+        { "correct": "as",     "alternatives": ["with", "by", "from"] },
+        { "correct": "guides", "alternatives": ["pilots", "chefs", "painters"] }
+      ]
+    },
+    {
+      "id": 65,
+      "sentence_en": "We worked at the museum as guides.",
+      "translations": {
+        "ru": "Мы работали в музее гидами.",
+        "es": "Trabajamos en un museo como guías.",
+        "fr": "Nous avons travaillé dans un musée comme guides.",
+        "de": "Wir haben in einem Museum als Führer gearbeitet."
+      },
+      "words": [
+        { "correct": "We",     "alternatives": ["They", "You", "He"] },
+        { "correct": "worked", "alternatives": ["played", "walked", "waited"] },
+        { "correct": "at",     "alternatives": ["over", "under", "beside"] },
+        { "correct": "the museum", "alternatives": ["the stadium", "the library", "the restaurant"] },
+        { "correct": "as",     "alternatives": ["with", "by", "from"] },
+        { "correct": "guides", "alternatives": ["pilots", "chefs", "painters"] }
+      ]
+    },
+    {
+      "id": 66,
+      "sentence_en": "He won't study to be a musician.",
+      "translations": {
+        "ru": "Он не будет учиться на музыканта.",
+        "es": "Él no estudiará para ser músico.",
+        "fr": "Il n'étudiera pas pour devenir musicien.",
+        "de": "Er wird nicht Musik studieren, um Musiker zu werden."
+      },
+      "words": [
+        { "correct": "He",        "alternatives": ["His", "Him", "She's"] },
+        { "correct": "won't",     "alternatives": ["wouldn't", "wont", "wasn't"] },
+        { "correct": "study",     "alternatives": ["studied", "studies", "studying"] },
+        { "correct": "to be",     "alternatives": ["for becoming", "as", "like"] },
+        { "correct": "a musician", "alternatives": ["a doctor", "an artist", "a teacher"] }
+      ]
+    },
+    {
+      "id": 67,
+      "sentence_en": "They don't study to be artists.",
+      "translations": {
+        "ru": "Они не учатся на художников.",
+        "es": "Ellos no estudian para ser artistas.",
+        "fr": "Ils n'étudient pas pour devenir artistes.",
+        "de": "Sie studieren nicht, um Künstler zu werden."
+      },
+      "words": [
+        { "correct": "They",    "alternatives": ["We", "You", "He"] },
+        { "correct": "don't",   "alternatives": ["cannot", "never", "refuse"] },
+        { "correct": "study",   "alternatives": ["train", "read", "learn"] },
+        { "correct": "to be",   "alternatives": ["in order to", "so that", "because"] },
+        { "correct": "artists", "alternatives": ["pilots", "chefs", "painters"] }
+      ]
+    },
+    {
+      "id": 68,
+      "sentence_en": "She won't be a writer.",
+      "translations": {
+        "ru": "Она не будет писателем.",
+        "es": "Ella no será escritora.",
+        "fr": "Elle ne sera pas écrivaine.",
+        "de": "Sie wird keine Schriftstellerin sein."
+      },
+      "words": [
+        { "correct": "She",     "alternatives": ["Her", "He's", "They"] },
+        { "correct": "won't",   "alternatives": ["wouldn't", "wont", "wasn't"] },
+        { "correct": "be",      "alternatives": ["been", "being", "beed"] },
+        { "correct": "a writer", "alternatives": ["a doctor", "an artist", "a teacher"] }
+      ]
+    },
+    {
+      "id": 69,
+      "sentence_en": "They didn't study to be programmers.",
+      "translations": {
+        "ru": "Они не учились на программистов.",
+        "es": "No estudiaron para ser programadores.",
+        "fr": "Ils n'ont pas étudié pour devenir programmeurs.",
+        "de": "Sie haben nicht studiert, um Programmierer zu werden."
+      },
+      "words": [
+        { "correct": "They",        "alternatives": ["We", "You", "He"] },
+        { "correct": "didn't",      "alternatives": ["couldn't", "never", "refused"] },
+        { "correct": "study",       "alternatives": ["train", "read", "learn"] },
+        { "correct": "to be",       "alternatives": ["in order to", "so that", "because"] },
+        { "correct": "programmers", "alternatives": ["pilots", "chefs", "painters"] }
+      ]
+    },
+    {
+      "id": 70,
+      "sentence_en": "I will be a dentist.",
+      "translations": {
+        "ru": "Я буду дантистом.",
+        "es": "Seré dentista.",
+        "fr": "Je serai dentiste.",
+        "de": "Ich werde Zahnarzt sein."
+      },
+      "words": [
+        { "correct": "I",       "alternatives": ["He", "She", "They"] },
+        { "correct": "will",    "alternatives": ["shall", "can", "may"] },
+        { "correct": "be",      "alternatives": ["become", "seem", "appear"] },
+        { "correct": "a dentist", "alternatives": ["a pilot", "a chef", "a painter"] }
+      ]
+    }
+  ]
+}
+      
+  
+  
+}

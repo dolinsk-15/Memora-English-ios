@@ -1,0 +1,2510 @@
+{
+  "id": 12,
+  "title": {
+    "english": "Continuous Tense",
+    "russian": "Continuous",
+    "spanish": "Tiempo Continuo",
+    "french": "Le Temps Continu",
+    "german": "Die Verlaufsform"
+  },
+  "description": {
+    "english": "In this lesson, we'll learn about the Continuous tense in English.",
+    "russian": "В этом уроке мы изучим форму Continuous в английском языке.",
+    "spanish": "En esta lección, aprenderemos el tiempo continuo en inglés.",
+    "french": "Dans cette leçon, nous apprendrons le temps continu en anglais.",
+    "german": "In dieser Lektion lernen wir die Verlaufsform im Englischen."
+  },
+  "detailedDescription": {
+    "russian": {
+      "title": "Урок 12 — Continuous",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Continuous"
+        },
+        {
+          "type": "text",
+          "content": "Continuous – это форма описания действия (action), происходящего в точно указанный момент или промежуток времени."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Формула образования:"
+        },
+        {
+          "type": "text",
+          "content": "to be + глагол с окончанием -ing\n\nОтличительной особенностью этой формы является то, что действие началось раньше и всё ещё продолжается в тот момент, о котором мы говорим."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Примеры:"
+        },
+        {
+          "type": "text",
+          "content": " • I am going home (now).\nЯ иду домой (сейчас).\n→ Я начал идти до текущего момента и продолжаю идти.\n • She was studying English from 5 to 7 yesterday.\nОна учила английский вчера с 5 до 7.\n→ Указан чёткий промежуток времени."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Схема образования предложений: to be + глагол с -ing"
+        },
+        {
+          "type": "heading",
+          "content": "Будущее время"
+        },
+        {
+          "type": "table",
+          "headers": ["Вопрос", "Утверждение", "Отрицание"],
+          "rows": [
+            ["Will I be going?  Я буду идти?", "I will be going  Я буду идти.", "I will not be going  Я не буду идти."],
+            ["Will he be going?  Он будет идти?", "He will be going  Он будет идти.", "He will not be going  Он не будет идти."],
+            ["Will she be going?  Она будет идти?", "She will be going  Она будет идти.", "She will not be going  Она не будет идти."],
+            ["Will you be going?  Ты будешь идти?", "You will be going  Ты будешь идти.", "You will not be going  Ты не будешь идти."],
+            ["Will we be going?  Мы будем идти?", "We will be going  Мы будем идти.", "We will not be going  Мы не будем идти."],
+            ["Will they be going?  Они будут идти?", "They will be going  Они будут идти.", "They will not be going  Они не будут идти."]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Настоящее время"
+        },
+        {
+          "type": "table",
+          "headers": ["Вопрос", "Утверждение", "Отрицание"],
+          "rows": [
+            ["Am I going?  Я иду?", "I am going  Я иду.", "I am not going  Я не иду."],
+            ["Is he going?  Он идёт?", "He is going  Он идёт.", "He is not going  Он не идёт."],
+            ["Is she going?  Она идёт?", "She is going  Она идёт.", "She is not going  Она не идёт."],
+            ["Are you going?  Ты идёшь?", "You are going  Ты идёшь.", "You are not going  Ты не идёшь."],
+            ["Are we going?  Мы идём?", "We are going  Мы идём.", "We are not going  Мы не идём."],
+            ["Are they going?  Они идут?", "They are going  Они идут.", "They are not going  Они не идут."]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Прошедшее время"
+        },
+        {
+          "type": "table",
+          "headers": ["Вопрос", "Утверждение", "Отрицание"],
+          "rows": [
+            ["Was I going?  Я шёл?", "I was going  Я шёл.", "I was not going  Я не шёл."],
+            ["Was he going?  Он шёл?", "He was going  Он шёл.", "He was not going  Он не шёл."],
+            ["Was she going?  Она шла?", "She was going  Она шла.", "She was not going  Она не шла."],
+            ["Were you going?  Ты шёл?", "You were going  Ты шёл.", "You were not going  Ты не шёл."],
+            ["Were we going?  Мы шли?", "We were going  Мы шли.", "We were not going  Мы не шли."],
+            ["Were they going?  Они шли?", "They were going  Они шли.", "They were not going  Они не шли."]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Важно!"
+        },
+        {
+          "type": "text",
+          "content": "Этой формой мы описываем продолжающиеся действия в конкретный момент времени.\nСледовательно, используем Continuous, если:\n 1. Действие происходит на наших глазах (сейчас, в данный момент)\n 2. Есть указание на момент времени (в 3 часа, с 5 до 7)\n 3. Есть другое действие, которое прерывает процесс"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Примеры:"
+        },
+        {
+          "type": "text",
+          "content": " • He is reading a book.\nОн читает книгу. (сейчас, в данный момент)\n • You will be driving home this time tomorrow.\nТы будешь ехать домой завтра в это же время. (указан точный момент времени)\n • I was working, when she came.\nЯ работал, когда она пришла. (другое действие прерывает процесс)"
+        }
+      ]
+    },
+    "spanish": {
+      "title": "Lección 12 — El tiempo continuo en inglés (Continuous)",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "El tiempo continuo en inglés (Continuous)"
+        },
+        {
+          "type": "text",
+          "content": "En inglés, existe una forma verbal especial llamada \"Continuous\" (o también \"Progressive\"), que se usa para describir una acción que está ocurriendo en un momento específico o durante un período determinado."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "¿Cómo se forma?"
+        },
+        {
+          "type": "text",
+          "content": "La estructura es:\n\nverbo to be (en el tiempo adecuado) + verbo principal con terminación -ing\n\nPor ejemplo:\n • I am studying. — Estoy estudiando.\n • They were playing. — Estaban jugando.\n • She will be working. — Ella estará trabajando."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "¿Qué expresa el tiempo continuo?"
+        },
+        {
+          "type": "text",
+          "content": "Expresa una acción que ya había empezado y sigue en curso en el momento del que se habla. No es una acción puntual, sino algo que se está desarrollando."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Ejemplos:"
+        },
+        {
+          "type": "text",
+          "content": " • I am going home (now).\nEstoy yendo a casa (ahora).\n→ Empecé a ir a casa antes de este momento y todavía lo estoy haciendo.\n • She was studying English from 5 to 7 yesterday.\nElla estuvo estudiando inglés ayer de 5 a 7.\n→ Acción continua durante ese intervalo."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Cuándo usamos el tiempo continuo:"
+        },
+        {
+          "type": "text",
+          "content": " 1. Cuando la acción ocurre en este momento:\n→ He is reading a book. — Él está leyendo un libro.\n 2. Cuando se indica una hora o duración específica:\n→ You will be driving home this time tomorrow.\nEstarás conduciendo a casa mañana a esta hora.\n 3. Cuando una acción continua es interrumpida por otra:\n→ I was working when she came.\nEstaba trabajando cuando ella llegó."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Estructura de las oraciones: to be + verbo con -ing"
+        },
+        {
+          "type": "heading",
+          "content": "Tiempo futuro"
+        },
+        {
+          "type": "table",
+          "headers": ["Pregunta", "Afirmación", "Negación"],
+          "rows": [
+            ["Will I be going?  ¿Estaré yendo?", "I will be going  Estaré yendo", "I will not be going  No estaré yendo"],
+            ["Will he be going?  ¿Estará yendo él?", "He will be going  Él estará yendo", "He will not be going  Él no estará yendo"],
+            ["Will she be going?  ¿Estará yendo ella?", "She will be going  Ella estará yendo", "She will not be going  Ella no estará yendo"],
+            ["Will you be going?  ¿Estarás yendo tú?", "You will be going  Estarás yendo", "You will not be going  No estarás yendo"],
+            ["Will we be going?  ¿Estaremos yendo?", "We will be going  Estaremos yendo", "We will not be going  No estaremos yendo"],
+            ["Will they be going?  ¿Estarán yendo?", "They will be going  Estarán yendo", "They will not be going  No estarán yendo"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Tiempo presente"
+        },
+        {
+          "type": "table",
+          "headers": ["Pregunta", "Afirmación", "Negación"],
+          "rows": [
+            ["Am I going?  ¿Estoy yendo?", "I am going  Estoy yendo", "I am not going  No estoy yendo"],
+            ["Is he going?  ¿Está yendo él?", "He is going  Él está yendo", "He is not going  Él no está yendo"],
+            ["Is she going?  ¿Está yendo ella?", "She is going  Ella está yendo", "She is not going  Ella no está yendo"],
+            ["Are you going?  ¿Estás yendo tú?", "You are going  Estás yendo", "You are not going  No estás yendo"],
+            ["Are we going?  ¿Estamos yendo?", "We are going  Estamos yendo", "We are not going  No estamos yendo"],
+            ["Are they going?  ¿Están yendo?", "They are going  Están yendo", "They are not going  No están yendo"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Tiempo pasado"
+        },
+        {
+          "type": "table",
+          "headers": ["Pregunta", "Afirmación", "Negación"],
+          "rows": [
+            ["Was I going?  ¿Estaba yendo yo?", "I was going  Estaba yendo", "I was not going  No estaba yendo"],
+            ["Was he going?  ¿Estaba yendo él?", "He was going  Él estaba yendo", "He was not going  Él no estaba yendo"],
+            ["Was she going?  ¿Estaba yendo ella?", "She was going  Ella estaba yendo", "She was not going  Ella no estaba yendo"],
+            ["Were you going?  ¿Estabas yendo tú?", "You were going  Estabas yendo", "You were not going  No estabas yendo"],
+            ["Were we going?  ¿Estábamos yendo?", "We were going  Estábamos yendo", "We were not going  No estábamos yendo"],
+            ["Were they going?  ¿Estaban yendo?", "They were going  Estaban yendo", "They were not going  No estaban yendo"]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Resumen:"
+        },
+        {
+          "type": "text",
+          "content": "Usamos el tiempo continuous cuando queremos indicar que una acción:\n • Está ocurriendo en este mismo momento\n • Está ocurriendo dentro de un período de tiempo específico\n • Es interrumpida por otra acción"
+        }
+      ]
+    },
+    "french": {
+      "title": "Leçon 12 — Le temps continu en anglais (Continuous)",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Le temps continu en anglais (Continuous)"
+        },
+        {
+          "type": "text",
+          "content": "En anglais, le temps continu (ou progressif) est utilisé pour parler d'une action en cours à un moment précis ou pendant une période donnée."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Comment se forme-t-il ?"
+        },
+        {
+          "type": "text",
+          "content": "La structure est la suivante :\n\nverbe \"to be\" (au temps correct) + verbe principal avec la terminaison -ing\n\nExemples :\n • I am studying. — Je suis en train d'étudier.\n • They were playing. — Ils étaient en train de jouer.\n • She will be working. — Elle sera en train de travailler."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Quand utilise-t-on le temps continu ?"
+        },
+        {
+          "type": "text",
+          "content": "On l'utilise pour parler d'une action commencée avant un moment donné et qui est toujours en cours à ce moment-là."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Exemples :"
+        },
+        {
+          "type": "text",
+          "content": " • I am going home (now).\nJe rentre à la maison (en ce moment).\n→ L'action a commencé un peu plus tôt et continue au moment où l'on parle.\n • She was studying English from 5 to 7 yesterday.\nElle étudiait l'anglais hier entre 17h et 19h.\n→ L'action durait pendant une plage horaire précise."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Quand utiliser le temps continu ?"
+        },
+        {
+          "type": "text",
+          "content": " 1. Quand l'action se déroule au moment où l'on parle :\n→ He is reading a book. — Il est en train de lire un livre.\n 2. Quand un moment précis est indiqué dans le futur ou le passé :\n→ You will be driving home this time tomorrow. — Tu seras en train de rentrer chez toi à la même heure demain.\n 3. Quand une action continue est interrompue par une autre :\n→ I was working when she came. — Je travaillais quand elle est arrivée."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Schéma de formation : to be + verbe en -ing"
+        },
+        {
+          "type": "heading",
+          "content": "Futur"
+        },
+        {
+          "type": "table",
+          "headers": ["Question", "Affirmation", "Négation"],
+          "rows": [
+            ["Will I be going?  Est-ce que je serai en train d'y aller ?", "I will be going  Je serai en train d'y aller", "I will not be going  Je ne serai pas en train d'y aller"],
+            ["Will he be going?  Sera-t-il en train d'y aller ?", "He will be going  Il sera en train d'y aller", "He will not be going  Il ne sera pas en train d'y aller"],
+            ["Will she be going?  Sera-t-elle en train d'y aller ?", "She will be going  Elle sera en train d'y aller", "She will not be going  Elle ne sera pas en train d'y aller"],
+            ["Will you be going?  Seras-tu en train d'y aller ?", "You will be going  Tu seras en train d'y aller", "You will not be going  Tu ne seras pas en train d'y aller"],
+            ["Will we be going?  Serons-nous en train d'y aller ?", "We will be going  Nous serons en train d'y aller", "We will not be going  Nous ne serons pas en train d'y aller"],
+            ["Will they be going?  Seront-ils en train d'y aller ?", "They will be going  Ils seront en train d'y aller", "They will not be going  Ils ne seront pas en train d'y aller"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Présent"
+        },
+        {
+          "type": "table",
+          "headers": ["Question", "Affirmation", "Négation"],
+          "rows": [
+            ["Am I going?  Est-ce que je suis en train d'y aller ?", "I am going  Je suis en train d'y aller", "I am not going  Je ne suis pas en train d'y aller"],
+            ["Is he going?  Est-il en train d'y aller ?", "He is going  Il est en train d'y aller", "He is not going  Il n'est pas en train d'y aller"],
+            ["Is she going?  Est-elle en train d'y aller ?", "She is going  Elle est en train d'y aller", "She is not going  Elle n'est pas en train d'y aller"],
+            ["Are you going?  Es-tu en train d'y aller ?", "You are going  Tu es en train d'y aller", "You are not going  Tu n'es pas en train d'y aller"],
+            ["Are we going?  Sommes-nous en train d'y aller ?", "We are going  Nous sommes en train d'y aller", "We are not going  Nous ne sommes pas en train d'y aller"],
+            ["Are they going?  Sont-ils en train d'y aller ?", "They are going  Ils sont en train d'y aller", "They are not going  Ils ne sont pas en train d'y aller"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Passé"
+        },
+        {
+          "type": "table",
+          "headers": ["Question", "Affirmation", "Négation"],
+          "rows": [
+            ["Was I going?  Est-ce que j'étais en train d'y aller ?", "I was going  J'étais en train d'y aller", "I was not going  Je n'étais pas en train d'y aller"],
+            ["Was he going?  Était-il en train d'y aller ?", "He was going  Il était en train d'y aller", "He was not going  Il n'était pas en train d'y aller"],
+            ["Was she going?  Était-elle en train d'y aller ?", "She was going  Elle était en train d'y aller", "She was not going  Elle n'était pas en train d'y aller"],
+            ["Were you going?  Étais-tu en train d'y aller ?", "You were going  Tu étais en train d'y aller", "You were not going  Tu n'étais pas en train d'y aller"],
+            ["Were we going?  Étions-nous en train d'y aller ?", "We were going  Nous étions en train d'y aller", "We were not going  Nous n'étions pas en train d'y aller"],
+            ["Were they going?  Étaient-ils en train d'y aller ?", "They were going  Ils étaient en train d'y aller", "They were not going  Ils n'étaient pas en train d'y aller"]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Résumé :"
+        },
+        {
+          "type": "text",
+          "content": "On utilise le temps continu (continuous) pour :\n • décrire une action en train de se dérouler maintenant ou à un moment donné\n • exprimer une action interrompue par une autre\n • parler d'un événement temporaire en cours"
+        }
+      ]
+    },
+    "german": {
+      "title": "Lektion 12 — Die Verlaufsform (Continuous) im Englischen",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Die Verlaufsform (Continuous) im Englischen"
+        },
+        {
+          "type": "text",
+          "content": "Im Englischen gibt es eine besondere Zeitform namens \"Continuous\" oder \"Progressive\", mit der man eine laufende Handlung beschreibt – also etwas, das zu einem bestimmten Zeitpunkt gerade passiert oder über eine Zeitspanne hinweg andauert."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Wie wird die Verlaufsform gebildet?"
+        },
+        {
+          "type": "text",
+          "content": "Die Bildung ist einfach:\n\nto be (in der richtigen Zeitform) + Verb mit der Endung -ing\n\nBeispiele:\n • I am studying. — Ich bin am Lernen.\n • They were playing. — Sie waren gerade am Spielen.\n • She will be working. — Sie wird gerade arbeiten."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Was drückt die Verlaufsform aus?"
+        },
+        {
+          "type": "text",
+          "content": "Sie zeigt, dass eine Handlung schon begonnen hat und zum angegebenen Zeitpunkt noch andauert. Es geht nicht um abgeschlossene Fakten, sondern um einen Prozess."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Beispiele:"
+        },
+        {
+          "type": "text",
+          "content": " • I am going home (now).\nIch gehe gerade nach Hause.\n→ Ich habe den Weg begonnen und bin noch unterwegs.\n • She was studying English from 5 to 7 yesterday.\nSie hat gestern von 17 bis 19 Uhr Englisch gelernt.\n→ Die Handlung lief genau in diesem Zeitraum."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Wann verwendet man die Continuous-Form?"
+        },
+        {
+          "type": "text",
+          "content": " 1. Wenn etwas gerade im Moment passiert:\n→ He is reading a book. — Er liest gerade ein Buch.\n 2. Wenn ein konkreter Zeitpunkt angegeben ist (z. B. in der Zukunft):\n→ You will be driving home this time tomorrow.\nDu wirst morgen um diese Zeit gerade nach Hause fahren.\n 3. Wenn eine laufende Handlung durch eine andere unterbrochen wird:\n→ I was working when she came. — Ich arbeitete, als sie kam."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Satzstruktur: to be + Verb mit -ing"
+        },
+        {
+          "type": "heading",
+          "content": "Zukunft"
+        },
+        {
+          "type": "table",
+          "headers": ["Frage", "Aussage", "Verneinung"],
+          "rows": [
+            ["Will I be going?  Werde ich gerade gehen?", "I will be going  Ich werde gerade gehen", "I will not be going  Ich werde nicht gerade gehen"],
+            ["Will he be going?  Wird er gerade gehen?", "He will be going  Er wird gerade gehen", "He will not be going  Er wird nicht gerade gehen"],
+            ["Will she be going?  Wird sie gerade gehen?", "She will be going  Sie wird gerade gehen", "She will not be going  Sie wird nicht gerade gehen"],
+            ["Will you be going?  Wirst du gerade gehen?", "You will be going  Du wirst gerade gehen", "You will not be going  Du wirst nicht gerade gehen"],
+            ["Will we be going?  Werden wir gerade gehen?", "We will be going  Wir werden gerade gehen", "We will not be going  Wir werden nicht gerade gehen"],
+            ["Will they be going?  Werden sie gerade gehen?", "They will be going  Sie werden gerade gehen", "They will not be going  Sie werden nicht gerade gehen"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Gegenwart"
+        },
+        {
+          "type": "table",
+          "headers": ["Frage", "Aussage", "Verneinung"],
+          "rows": [
+            ["Am I going?  Gehe ich gerade?", "I am going  Ich gehe gerade", "I am not going  Ich gehe gerade nicht"],
+            ["Is he going?  Geht er gerade?", "He is going  Er geht gerade", "He is not going  Er geht gerade nicht"],
+            ["Is she going?  Geht sie gerade?", "She is going  Sie geht gerade", "She is not going  Sie geht gerade nicht"],
+            ["Are you going?  Gehst du gerade?", "You are going  Du gehst gerade", "You are not going  Du gehst gerade nicht"],
+            ["Are we going?  Gehen wir gerade?", "We are going  Wir gehen gerade", "We are not going  Wir gehen gerade nicht"],
+            ["Are they going?  Gehen sie gerade?", "They are going  Sie gehen gerade", "They are not going  Sie gehen gerade nicht"]
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Vergangenheit"
+        },
+        {
+          "type": "table",
+          "headers": ["Frage", "Aussage", "Verneinung"],
+          "rows": [
+            ["Was I going?  Ging ich gerade?", "I was going  Ich ging gerade", "I was not going  Ich ging nicht gerade"],
+            ["Was he going?  Ging er gerade?", "He was going  Er ging gerade", "He was not going  Er ging nicht gerade"],
+            ["Was she going?  Ging sie gerade?", "She was going  Sie ging gerade", "She was not going  Sie ging nicht gerade"],
+            ["Were you going?  Gingst du gerade?", "You were going  Du gingst gerade", "You were not going  Du gingst nicht gerade"],
+            ["Were we going?  Gingen wir gerade?", "We were going  Wir gingen gerade", "We were not going  Wir gingen nicht gerade"],
+            ["Were they going?  Gingen sie gerade?", "They were going  Sie gingen gerade", "They were not going  Sie gingen nicht gerade"]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Zusammenfassung:"
+        },
+        {
+          "type": "text",
+          "content": "Die Continuous-Form wird im Englischen verwendet, wenn:\n • etwas gerade im Moment passiert\n • eine Handlung zu einem bestimmten Zeitpunkt andauert\n • eine Handlung unterbrochen wird\n • man etwas zeitlich begrenzt und nicht dauerhaft beschreibt"
+        }
+      ]
+    }
+  },
+  "vocabulary": {
+    "firstList": [
+      {
+        "number": 1,
+        "english": "call",
+        "russian": "звонок",
+        "spanish": "llamada",
+        "french": "appel",
+        "german": "Anruf"
+      },
+      {
+        "number": 2,
+        "english": "moment",
+        "russian": "момент",
+        "spanish": "momento",
+        "french": "moment",
+        "german": "Moment"
+      },
+      {
+        "number": 3,
+        "english": "raise",
+        "russian": "повышение",
+        "spanish": "aumento",
+        "french": "augmentation",
+        "german": "Erhöhung"
+      },
+      {
+        "number": 4,
+        "english": "restaurant",
+        "russian": "ресторан",
+        "spanish": "restaurante",
+        "french": "restaurant",
+        "german": "Restaurant"
+      },
+      {
+        "number": 5,
+        "english": "couch",
+        "russian": "кушетка",
+        "spanish": "sofá",
+        "french": "canapé",
+        "german": "Sofa"
+      },
+      {
+        "number": 6,
+        "english": "favor",
+        "russian": "услуга",
+        "spanish": "favor",
+        "french": "service",
+        "german": "Gefallen"
+      },
+      {
+        "number": 7,
+        "english": "cash",
+        "russian": "наличные",
+        "spanish": "efectivo",
+        "french": "argent liquide",
+        "german": "Bargeld"
+      },
+      {
+        "number": 8,
+        "english": "delay",
+        "russian": "задержка",
+        "spanish": "retraso",
+        "french": "retard",
+        "german": "Verspätung"
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Is she answering the phone all day today?",
+      "russian": "Она отвечает на телефон целый день сегодня?",
+      "spanish": "¿Está contestando el teléfono todo el día hoy?",
+      "german": "Antwortet sie den ganzen Tag heute auf das Telefon?",
+      "french": "Répond-elle au téléphone toute la journée aujourd'hui ?"
+    },
+    {
+      "id": 2,
+      "english": "You're flying to Paris at the moment.",
+      "russian": "Ты летишь в Париж в данный момент.",
+      "spanish": "Estás volando a París en este momento.",
+      "german": "Du fliegst gerade nach Paris.",
+      "french": "Tu es en train de voler vers Paris en ce moment."
+    },
+    {
+      "id": 3,
+      "english": "You'll be asking for a job at 4 tomorrow.",
+      "russian": "Ты будешь просить работу в 4 завтра.",
+      "spanish": "Estarás pidiendo trabajo a las 4 mañana.",
+      "german": "Du wirst morgen um 4 Uhr nach einem Job fragen.",
+      "french": "Tu demanderas un emploi à 4 heures demain."
+    },
+    {
+      "id": 4,
+      "english": "They aren't studying French now.",
+      "russian": "Они не изучают французский сейчас.",
+      "spanish": "No están estudiando francés ahora.",
+      "german": "Sie lernen jetzt kein Französisch.",
+      "french": "Ils n'étudient pas le français en ce moment."
+    },
+    {
+      "id": 5,
+      "english": "You aren't studying English all day today.",
+      "russian": "Ты не изучаешь английский целый день сегодня.",
+      "spanish": "No estás estudiando inglés todo el día hoy.",
+      "german": "Du lernst heute nicht den ganzen Tag Englisch.",
+      "french": "Tu n'étudies pas l'anglais toute la journée aujourd'hui."
+    },
+    {
+      "id": 6,
+      "english": "Will they be writing letters at 4 tomorrow?",
+      "russian": "Они будут писать письма в 4 завтра?",
+      "spanish": "¿Estarán escribiendo cartas a las 4 mañana?",
+      "german": "Werden sie morgen um 4 Uhr Briefe schreiben?",
+      "french": "Écriront-ils des lettres à 4 heures demain ?"
+    },
+    {
+      "id": 7,
+      "english": "We'll be speaking German from 3 to 9 tomorrow.",
+      "russian": "Мы будем говорить по-немецки с 3 до 9 завтра.",
+      "spanish": "Estaremos hablando alemán de 3 a 9 mañana.",
+      "german": "Wir werden morgen von 3 bis 9 Uhr Deutsch sprechen.",
+      "french": "Nous parlerons allemand de 3 à 9 heures demain."
+    },
+    {
+      "id": 8,
+      "english": "He isn't telling stories all day today.",
+      "russian": "Он не рассказывает истории целый день сегодня.",
+      "spanish": "Él no está contando historias todo el día hoy.",
+      "german": "Er erzählt heute nicht den ganzen Tag Geschichten.",
+      "french": "Il ne raconte pas d'histoires toute la journée aujourd'hui."
+    },
+    {
+      "id": 9,
+      "english": "We were flying to New York this time yesterday.",
+      "russian": "Мы летели в Нью-Йорк в это время вчера.",
+      "spanish": "Estábamos volando a Nueva York a esta hora ayer.",
+      "german": "Wir flogen gestern um diese Zeit nach New York.",
+      "french": "Nous volions vers New York à cette heure-là hier."
+    },
+    {
+      "id": 10,
+      "english": "We weren't answering calls at 7 yesterday.",
+      "russian": "Мы не отвечали на звонки в 7 вчера.",
+      "spanish": "No estábamos contestando llamadas a las 7 ayer.",
+      "german": "Wir haben gestern um 7 Uhr keine Anrufe entgegengenommen.",
+      "french": "Nous ne répondions pas aux appels à 7 heures hier."
+    },
+    {
+      "id": 11,
+      "english": "He's asking for a delay at the moment.",
+      "russian": "Он просит об отсрочке в данный момент.",
+      "spanish": "Él está pidiendo un retraso en este momento.",
+      "german": "Er bittet gerade um eine Verzögerung.",
+      "french": "Il demande un délai en ce moment."
+    },
+    {
+      "id": 12,
+      "english": "He wasn't reading that article at this time yesterday.",
+      "russian": "Он не читал ту статью в это время вчера.",
+      "spanish": "Él no estaba leyendo ese artículo a esta hora ayer.",
+      "german": "Er las gestern um diese Zeit nicht diesen Artikel.",
+      "french": "Il ne lisait pas cet article à cette heure hier."
+    },
+    {
+      "id": 13,
+      "english": "Will you be telling stories all day tomorrow?",
+      "russian": "Ты будешь рассказывать истории целый день завтра?",
+      "spanish": "¿Estarás contando historias todo el día mañana?",
+      "german": "Wirst du morgen den ganzen Tag Geschichten erzählen?",
+      "french": "Raconteras-tu des histoires toute la journée demain ?"
+    },
+    {
+      "id": 14,
+      "english": "They weren't asking for a raise at 6 yesterday.",
+      "russian": "Они не просили о повышении в 6 вчера.",
+      "spanish": "No estaban pidiendo un aumento a las 6 ayer.",
+      "german": "Sie baten gestern um 6 Uhr nicht um eine Gehaltserhöhung.",
+      "french": "Ils ne demandaient pas une augmentation à 6 heures hier."
+    },
+    {
+      "id": 15,
+      "english": "He's telling the news at the moment.",
+      "russian": "Он рассказывает новости в данный момент.",
+      "spanish": "Él está dando las noticias en este momento.",
+      "german": "Er erzählt gerade die Nachrichten.",
+      "french": "Il raconte les nouvelles en ce moment."
+    },
+    {
+      "id": 16,
+      "english": "Are they studying French at the moment?",
+      "russian": "Они изучают французский в данный момент?",
+      "spanish": "¿Están estudiando francés en este momento?",
+      "german": "Lernen sie gerade Französisch?",
+      "french": "Étudient-ils le français en ce moment ?"
+    },
+    {
+      "id": 17,
+      "english": "I'll be sending letters this time tomorrow.",
+      "russian": "Я буду посылать письма в это время завтра.",
+      "spanish": "Estaré enviando cartas a esta hora mañana.",
+      "german": "Ich werde morgen um diese Zeit Briefe verschicken.",
+      "french": "J'enverrai des lettres à cette heure demain."
+    },
+    {
+      "id": 18,
+      "english": "They weren't reading that book this time yesterday.",
+      "russian": "Они не читали ту книгу в это время вчера.",
+      "spanish": "No estaban leyendo ese libro a esta hora ayer.",
+      "german": "Sie lasen gestern um diese Zeit nicht dieses Buch.",
+      "french": "Ils ne lisaient pas ce livre à cette heure hier."
+    },
+    {
+      "id": 19,
+      "english": "She isn't drinking tea now.",
+      "russian": "Она не пьёт чай сейчас.",
+      "spanish": "Ella no está tomando té ahora.",
+      "german": "Sie trinkt jetzt keinen Tee.",
+      "french": "Elle ne boit pas de thé maintenant."
+    },
+    {
+      "id": 20,
+      "english": "We're drinking tea all day today.",
+      "russian": "Мы пьём чай целый день сегодня.",
+      "spanish": "Estamos tomando té todo el día hoy.",
+      "german": "Wir trinken heute den ganzen Tag Tee.",
+      "french": "Nous buvons du thé toute la journée aujourd'hui."
+    },
+    {
+      "id": 21,
+      "english": "Were we drinking milk at 8 yesterday?",
+      "russian": "Мы пили молоко в 8 вчера?",
+      "spanish": "¿Estábamos bebiendo leche a las 8 ayer?",
+      "german": "Haben wir gestern um 8 Uhr Milch getrunken?",
+      "french": "Buions-nous du lait à 8 heures hier ?"
+    },
+    {
+      "id": 22,
+      "english": "They were drinking milk from 5 to 6 yesterday.",
+      "russian": "Они пили молоко с 5 до 6 вчера.",
+      "spanish": "Estuvieron bebiendo leche de 5 a 6 ayer.",
+      "german": "Sie tranken gestern von 5 bis 6 Uhr Milch.",
+      "french": "Ils buvaient du lait de 5 à 6 heures hier."
+    },
+    {
+      "id": 23,
+      "english": "You aren't working at the hotel all day today.",
+      "russian": "Ты не работаешь в гостинице целый день сегодня.",
+      "spanish": "No estás trabajando en el hotel todo el día hoy.",
+      "german": "Du arbeitest heute nicht den ganzen Tag im Hotel.",
+      "french": "Tu ne travailles pas à l'hôtel toute la journée aujourd'hui."
+    },
+    {
+      "id": 24,
+      "english": "We weren't writing letters this time yesterday.",
+      "russian": "Мы не писали письма в это время вчера.",
+      "spanish": "No estábamos escribiendo cartas a esta hora ayer.",
+      "german": "Wir haben gestern um diese Zeit keine Briefe geschrieben.",
+      "french": "Nous n'écrivions pas de lettres à cette heure hier."
+    },
+    {
+      "id": 25,
+      "english": "Will we be flying to London from 5 to 10 tomorrow?",
+      "russian": "Мы будем лететь в Лондон с 5 до 10 завтра?",
+      "spanish": "¿Estaremos volando a Londres de 5 a 10 mañana?",
+      "german": "Werden wir morgen von 5 bis 10 nach London fliegen?",
+      "french": "Volerons-nous à Londres de 5 à 10 heures demain ?"
+    },
+    {
+      "id": 26,
+      "english": "Was she speaking Russian from 7 to 8 yesterday?",
+      "russian": "Она говорила по-русски с 7 до 8 вчера?",
+      "spanish": "¿Hablaba ella ruso de 7 a 8 ayer?",
+      "german": "Sprach sie gestern von 7 bis 8 Uhr Russisch?",
+      "french": "Parlait-elle russe de 7 à 8 heures hier ?"
+    },
+    {
+      "id": 27,
+      "english": "You won't be closing the window this time tomorrow.",
+      "russian": "Ты не будешь закрывать окно в это время завтра.",
+      "spanish": "No estarás cerrando la ventana a esta hora mañana.",
+      "german": "Du wirst morgen um diese Zeit das Fenster nicht schließen.",
+      "french": "Tu ne fermeras pas la fenêtre à cette heure demain."
+    },
+    {
+      "id": 28,
+      "english": "You weren't reading that book this time yesterday.",
+      "russian": "Ты не читал ту книгу в это время вчера.",
+      "spanish": "No estabas leyendo ese libro a esta hora ayer.",
+      "german": "Du hast gestern um diese Zeit nicht dieses Buch gelesen.",
+      "french": "Tu ne lisais pas ce livre à cette heure hier."
+    },
+    {
+      "id": 29,
+      "english": "Will he be writing this book all day tomorrow?",
+      "russian": "Он будет писать эту книгу целый день завтра?",
+      "spanish": "¿Estará escribiendo este libro todo el día mañana?",
+      "german": "Wird er dieses Buch den ganzen Tag morgen schreiben?",
+      "french": "Écrira-t-il ce livre toute la journée demain ?"
+    },
+    {
+      "id": 30,
+      "english": "Are you answering the phone at the moment?",
+      "russian": "Ты отвечаешь на телефон в данный момент?",
+      "spanish": "¿Estás contestando el teléfono en este momento?",
+      "german": "Gehst du gerade ans Telefon?",
+      "french": "Es-tu en train de répondre au téléphone en ce moment ?"
+    },
+    {
+      "id": 31,
+      "english": "I wasn't asking for a raise all day yesterday.",
+      "russian": "Я не просил о повышении целый день вчера.",
+      "spanish": "No estuve pidiendo un aumento todo el día ayer.",
+      "german": "Ich habe gestern den ganzen Tag nicht um eine Gehaltserhöhung gebeten.",
+      "french": "Je ne demandais pas d'augmentation toute la journée hier."
+    },
+    {
+      "id": 32,
+      "english": "Were they speaking French all day yesterday?",
+      "russian": "Они говорили по-французски целый день вчера?",
+      "spanish": "¿Hablaron francés todo el día ayer?",
+      "german": "Sprachen sie gestern den ganzen Tag Französisch?",
+      "french": "Ont-ils parlé français toute la journée hier ?"
+    },
+    {
+      "id": 33,
+      "english": "I wasn't closing the door at 8 yesterday.",
+      "russian": "Я не закрывал дверь в 8 вчера.",
+      "spanish": "No estaba cerrando la puerta a las 8 ayer.",
+      "german": "Ich habe gestern um 8 Uhr die Tür nicht geschlossen.",
+      "french": "Je ne fermais pas la porte à 8 heures hier."
+    },
+    {
+      "id": 34,
+      "english": "Are you telling stories all day today?",
+      "russian": "Ты рассказываешь истории целый день сегодня?",
+      "spanish": "¿Estás contando historias todo el día hoy?",
+      "german": "Erzählst du heute den ganzen Tag Geschichten?",
+      "french": "Racontes-tu des histoires toute la journée aujourd'hui ?"
+    },
+    {
+      "id": 35,
+      "english": "I'm not working at the restaurant at the moment.",
+      "russian": "Я не работаю в ресторане в данный момент.",
+      "spanish": "No estoy trabajando en el restaurante en este momento.",
+      "german": "Ich arbeite gerade nicht im Restaurant.",
+      "french": "Je ne travaille pas au restaurant en ce moment."
+    },
+    {
+      "id": 36,
+      "english": "They were drinking coffee from 7 to 9 yesterday.",
+      "russian": "Они пили кофе с 7 до 9 вчера.",
+      "spanish": "Estuvieron bebiendo café de 7 a 9 ayer.",
+      "german": "Sie tranken gestern von 7 bis 9 Uhr Kaffee.",
+      "french": "Ils buvaient du café de 7 à 9 heures hier."
+    },
+    {
+      "id": 37,
+      "english": "Will you be speaking English this time tomorrow?",
+      "russian": "Ты будешь говорить по-английски в это время завтра?",
+      "spanish": "¿Estarás hablando inglés a esta hora mañana?",
+      "german": "Wirst du morgen um diese Zeit Englisch sprechen?",
+      "french": "Parleras-tu anglais à cette heure demain ?"
+    },
+    {
+      "id": 38,
+      "english": "They'll be sleeping in bed all day tomorrow.",
+      "russian": "Они будут спать в кровати целый день завтра.",
+      "spanish": "Estarán durmiendo en la cama todo el día mañana.",
+      "german": "Sie werden morgen den ganzen Tag im Bett schlafen.",
+      "french": "Ils dormiront au lit toute la journée demain."
+    },
+    {
+      "id": 39,
+      "english": "They were drinking tea all day yesterday.",
+      "russian": "Они пили чай целый день вчера.",
+      "spanish": "Estuvieron bebiendo té todo el día ayer.",
+      "german": "Sie tranken gestern den ganzen Tag Tee.",
+      "french": "Ils buvaient du thé toute la journée hier."
+    },
+    {
+      "id": 40,
+      "english": "Is she telling stories now?",
+      "russian": "Она рассказывает истории сейчас?",
+      "spanish": "¿Está contando historias ahora?",
+      "german": "Erzählt sie gerade Geschichten?",
+      "french": "Raconte-t-elle des histoires maintenant ?"
+    },
+    {
+      "id": 41,
+      "english": "She won't be answering calls all day tomorrow.",
+      "russian": "Она не будет отвечать на звонки целый день завтра.",
+      "spanish": "Ella no estará contestando llamadas todo el día mañana.",
+      "german": "Sie wird morgen den ganzen Tag keine Anrufe entgegennehmen.",
+      "french": "Elle ne répondra pas aux appels toute la journée demain."
+    },
+    {
+      "id": 42,
+      "english": "He isn't drinking tea at the moment.",
+      "russian": "Он не пьёт чай в данный момент.",
+      "spanish": "Él no está tomando té en este momento.",
+      "german": "Er trinkt gerade keinen Tee.",
+      "french": "Il ne boit pas de thé en ce moment."
+    },
+    {
+      "id": 43,
+      "english": "Will he be sleeping in bed from 5 to 8 tomorrow?",
+      "russian": "Он будет спать в кровати с 5 до 8 завтра?",
+      "spanish": "¿Estará durmiendo en la cama de 5 a 8 mañana?",
+      "german": "Wird er morgen von 5 bis 8 Uhr im Bett schlafen?",
+      "french": "Dormira-t-il au lit de 5 à 8 heures demain ?"
+    },
+    {
+      "id": 44,
+      "english": "Is he sending this message at the moment?",
+      "russian": "Он посылает это сообщение в данный момент?",
+      "spanish": "¿Está enviando este mensaje en este momento?",
+      "german": "Sendet er gerade diese Nachricht?",
+      "french": "Envoie-t-il ce message en ce moment ?"
+    },
+    {
+      "id": 45,
+      "english": "They won't be telling stories at 6 tomorrow.",
+      "russian": "Они не будут рассказывать истории в 6 завтра.",
+      "spanish": "Ellos no estarán contando historias a las 6 mañana.",
+      "german": "Sie werden morgen um 6 Uhr keine Geschichten erzählen.",
+      "french": "Ils ne raconteront pas d'histoires à 6 heures demain."
+    },
+    {
+      "id": 46,
+      "english": "He won't be answering the phone at 3 tomorrow.",
+      "russian": "Он не будет отвечать на телефон в 3 завтра.",
+      "spanish": "Él no estará contestando el teléfono a las 3 mañana.",
+      "german": "Er wird morgen um 3 Uhr nicht ans Telefon gehen.",
+      "french": "Il ne répondra pas au téléphone à 3 heures demain."
+    },
+    {
+      "id": 47,
+      "english": "Were we answering the phone all day yesterday?",
+      "russian": "Мы отвечали на телефон целый день вчера?",
+      "spanish": "¿Estuvimos contestando el teléfono todo el día ayer?",
+      "german": "Haben wir gestern den ganzen Tag ans Telefon geantwortet?",
+      "french": "Répondions-nous au téléphone toute la journée hier ?"
+    },
+    {
+      "id": 48,
+      "english": "They'll be asking for a job this time tomorrow.",
+      "russian": "Они будут просить работу в это время завтра.",
+      "spanish": "Estarán pidiendo trabajo a esta hora mañana.",
+      "german": "Sie werden morgen um diese Zeit nach einem Job fragen.",
+      "french": "Ils demanderont un travail à cette heure demain."
+    },
+    {
+      "id": 49,
+      "english": "She won't be telling stories from 8 to 10 tomorrow.",
+      "russian": "Она не будет рассказывать истории с 8 до 10 завтра.",
+      "spanish": "Ella no estará contando historias de 8 a 10 mañana.",
+      "german": "Sie wird morgen von 8 bis 10 Uhr keine Geschichten erzählen.",
+      "french": "Elle ne racontera pas d'histoires de 8 à 10 heures demain."
+    },
+    {
+      "id": 50,
+      "english": "Were they drinking tea all day yesterday?",
+      "russian": "Они пили чай целый день вчера?",
+      "spanish": "¿Estuvieron bebiendo té todo el día ayer?",
+      "german": "Haben sie gestern den ganzen Tag Tee getrunken?",
+      "french": "Buvaient-ils du thé toute la journée hier ?"
+    },
+    {
+      "id": 51,
+      "english": "We weren't drinking milk all day yesterday.",
+      "russian": "Мы не пили молоко целый день вчера.",
+      "spanish": "No estuvimos bebiendo leche todo el día ayer.",
+      "german": "Wir haben gestern nicht den ganzen Tag Milch getrunken.",
+      "french": "Nous ne buvions pas de lait toute la journée hier."
+    },
+    {
+      "id": 52,
+      "english": "I won't be answering the question from 8 to 10 tomorrow.",
+      "russian": "Я не буду отвечать на вопрос с 8 до 10 завтра.",
+      "spanish": "No estaré contestando la pregunta de 8 a 10 mañana.",
+      "german": "Ich werde morgen von 8 bis 10 Uhr die Frage nicht beantworten.",
+      "french": "Je ne répondrai pas à la question de 8 à 10 heures demain."
+    },
+    {
+      "id": 53,
+      "english": "You aren't speaking German all day today.",
+      "russian": "Ты не говоришь по-немецки целый день сегодня.",
+      "spanish": "No estás hablando alemán todo el día hoy.",
+      "german": "Du sprichst heute nicht den ganzen Tag Deutsch.",
+      "french": "Tu ne parles pas allemand toute la journée aujourd'hui."
+    },
+    {
+      "id": 54,
+      "english": "Will she be telling the news all day tomorrow?",
+      "russian": "Она будет рассказывать новости целый день завтра?",
+      "spanish": "¿Estará contando las noticias todo el día mañana?",
+      "german": "Wird sie morgen den ganzen Tag die Nachrichten erzählen?",
+      "french": "Racontira-t-elle les nouvelles toute la journée demain ?"
+    },
+    {
+      "id": 55,
+      "english": "He wasn't telling the news from 8 to 10 yesterday.",
+      "russian": "Он не рассказывал новости с 8 до 10 вчера.",
+      "spanish": "Él no estaba contando las noticias de 8 a 10 ayer.",
+      "german": "Er hat gestern von 8 bis 10 Uhr keine Nachrichten erzählt.",
+      "french": "Il ne racontait pas les nouvelles de 8 à 10 heures hier."
+    },
+    {
+      "id": 56,
+      "english": "They'll be working at the hotel at 3 tomorrow.",
+      "russian": "Они будут работать в гостинице в 3 завтра.",
+      "spanish": "Estarán trabajando en el hotel a las 3 mañana.",
+      "german": "Sie werden morgen um 3 Uhr im Hotel arbeiten.",
+      "french": "Ils travailleront à l'hôtel à 3 heures demain."
+    },
+    {
+      "id": 57,
+      "english": "I wasn't sending letters this time yesterday.",
+      "russian": "Я не посылал письма в это время вчера.",
+      "spanish": "No estaba enviando cartas a esta hora ayer.",
+      "german": "Ich habe gestern um diese Zeit keine Briefe geschickt.",
+      "french": "Je n'envoyais pas de lettres à cette heure hier."
+    },
+    {
+      "id": 58,
+      "english": "She was sending letters at 3 yesterday.",
+      "russian": "Она посылала письма в 3 вчера.",
+      "spanish": "Ella estaba enviando cartas a las 3 ayer.",
+      "german": "Sie hat gestern um 3 Uhr Briefe geschickt.",
+      "french": "Elle envoyait des lettres à 3 heures hier."
+    },
+    {
+      "id": 59,
+      "english": "You weren't reading that article from 7 to 9 yesterday.",
+      "russian": "Ты не читал ту статью с 7 до 9 вчера.",
+      "spanish": "No estabas leyendo ese artículo de 7 a 9 ayer.",
+      "german": "Du hast gestern von 7 bis 9 Uhr diesen Artikel nicht gelesen.",
+      "french": "Tu ne lisais pas cet article de 7 à 9 heures hier."
+    },
+    {
+      "id": 60,
+      "english": "Was he asking for a raise all day yesterday?",
+      "russian": "Он просил о повышении целый день вчера?",
+      "spanish": "¿Estuvo pidiendo un aumento todo el día ayer?",
+      "german": "Hat er gestern den ganzen Tag um eine Gehaltserhöhung gebeten?",
+      "french": "Demandait-il une augmentation toute la journée hier ?"
+    },
+    {
+      "id": 61,
+      "english": "She wasn't drinking tea from 4 to 6 yesterday.",
+      "russian": "Она не пила чай с 4 до 6 вчера.",
+      "spanish": "Ella no estuvo bebiendo té de 4 a 6 ayer.",
+      "german": "Sie trank gestern von 4 bis 6 Uhr keinen Tee.",
+      "french": "Elle ne buvait pas de thé de 4 à 6 heures hier."
+    },
+    {
+      "id": 62,
+      "english": "They're working at the restaurant now.",
+      "russian": "Они работают в ресторане сейчас.",
+      "spanish": "Están trabajando en el restaurante ahora.",
+      "german": "Sie arbeiten jetzt im Restaurant.",
+      "french": "Ils travaillent au restaurant en ce moment."
+    },
+    {
+      "id": 63,
+      "english": "We weren't sending letters from 5 to 8 yesterday.",
+      "russian": "Мы не посылали письма с 5 до 8 вчера.",
+      "spanish": "No estuvimos enviando cartas de 5 a 8 ayer.",
+      "german": "Wir haben gestern von 5 bis 8 Uhr keine Briefe geschickt.",
+      "french": "Nous n'envoyions pas de lettres de 5 à 8 heures hier."
+    },
+    {
+      "id": 64,
+      "english": "Were they studying German from 7 to 10 yesterday?",
+      "russian": "Они изучали немецкий с 7 до 10 вчера?",
+      "spanish": "¿Estuvieron estudiando alemán de 7 a 10 ayer?",
+      "german": "Haben sie gestern von 7 bis 10 Uhr Deutsch gelernt?",
+      "french": "Étudiaient-ils l'allemand de 7 à 10 heures hier ?"
+    },
+    {
+      "id": 65,
+      "english": "We won't be studying French at 4 tomorrow.",
+      "russian": "Мы не будем изучать французский в 4 завтра.",
+      "spanish": "No estaremos estudiando francés a las 4 mañana.",
+      "german": "Wir werden morgen um 4 Uhr kein Französisch lernen.",
+      "french": "Nous n'étudierons pas le français à 4 heures demain."
+    },
+    {
+      "id": 66,
+      "english": "She was asking for a raise all day yesterday.",
+      "russian": "Она просила о повышении целый день вчера.",
+      "spanish": "Ella estuvo pidiendo un aumento todo el día ayer.",
+      "german": "Sie bat gestern den ganzen Tag um eine Gehaltserhöhung.",
+      "french": "Elle demandait une augmentation toute la journée hier."
+    },
+    {
+      "id": 67,
+      "english": "We won't be answering the phone this time tomorrow.",
+      "russian": "Мы не будем отвечать на телефон в это время завтра.",
+      "spanish": "No estaremos contestando el teléfono a esta hora mañana.",
+      "german": "Wir werden morgen um diese Zeit nicht ans Telefon gehen.",
+      "french": "Nous ne répondrons pas au téléphone à cette heure demain."
+    },
+    {
+      "id": 68,
+      "english": "They won't be flying to London from 7 to 8 tomorrow.",
+      "russian": "Они не будут лететь в Лондон с 7 до 8 завтра.",
+      "spanish": "No estarán volando a Londres de 7 a 8 mañana.",
+      "german": "Sie werden morgen von 7 bis 8 Uhr nicht nach London fliegen.",
+      "french": "Ils ne voleront pas à Londres de 7 à 8 heures demain."
+    },
+    {
+      "id": 69,
+      "english": "You'll be reading this book at 9 tomorrow.",
+      "russian": "Ты будешь читать эту книгу в 9 завтра.",
+      "spanish": "Estarás leyendo este libro a las 9 mañana.",
+      "german": "Du wirst morgen um 9 Uhr dieses Buch lesen.",
+      "french": "Tu liras ce livre à 9 heures demain."
+    },
+    {
+      "id": 70,
+      "english": "I wasn't asking for a delay from 6 to 9 yesterday.",
+      "russian": "Я не просил об отсрочке с 6 до 9 вчера.",
+      "spanish": "No estuve pidiendo un retraso de 6 a 9 ayer.",
+      "german": "Ich habe gestern von 6 bis 9 Uhr nicht um Aufschub gebeten.",
+      "french": "Je ne demandais pas de délai de 6 à 9 heures hier."
+    }
+  ],
+  "exam": {
+    "sentences": [
+      {
+        "id": 1,
+        "sentence_en": "Is she answering the phone all day today?",
+        "translations": {
+          "ru": "Она отвечает на телефон целый день сегодня?",
+          "es": "¿Está contestando el teléfono todo el día hoy?",
+          "fr": "Répond-elle au téléphone toute la journée aujourd'hui ?",
+          "de": "Antwortet sie den ganzen Tag heute auf das Telefon?"
+        },
+        "words": [
+          { "correct": "Is", "alternatives": ["Was", "Will", "Does"] },
+          { "correct": "she", "alternatives": ["he", "they", "we"] },
+          { "correct": "answering", "alternatives": ["calling", "writing", "reading"] },
+          { "correct": "the phone", "alternatives": ["a door", "a window", "a letter"] },
+          { "correct": "all", "alternatives": ["half", "early", "late"] },
+          { "correct": "day", "alternatives": ["week", "month", "hour"] },
+          { "correct": "today", "alternatives": ["tomorrow", "yesterday", "now"] }
+        ]
+      },
+      {
+        "id": 2,
+        "sentence_en": "You're flying to Paris at the moment.",
+        "translations": {
+          "ru": "Ты летишь в Париж в данный момент.",
+          "es": "Estás volando a París en este momento.",
+          "fr": "Tu es en train de voler vers Paris en ce moment.",
+          "de": "Du fliegst gerade nach Paris."
+        },
+        "words": [
+          { "correct": "You're", "alternatives": ["We're", "They're", "I'm"] },
+          { "correct": "flying", "alternatives": ["driving", "walking", "waiting"] },
+          { "correct": "to", "alternatives": ["from", "at", "in"] },
+          { "correct": "Paris", "alternatives": ["London", "Berlin", "Madrid"] },
+          { "correct": "at the moment", "alternatives": ["in an hour", "on a minute", "by a place"] }
+        ]
+      },
+      {
+        "id": 3,
+        "sentence_en": "You'll be asking for a job at 4 tomorrow.",
+        "translations": {
+          "ru": "Ты будешь просить работу в 4 завтра.",
+          "es": "Estarás pidiendo trabajo a las 4 mañana.",
+          "fr": "Tu demanderas un emploi à 4 heures demain.",
+          "de": "Du wirst morgen um 4 Uhr nach einem Job fragen."
+        },
+        "words": [
+          { "correct": "You'll", "alternatives": ["We'll", "He'll", "They'll"] },
+          { "correct": "be", "alternatives": ["is", "are", "was"] },
+          { "correct": "asking", "alternatives": ["answering", "telling", "showing"] },
+          { "correct": "for a job", "alternatives": ["for a book", "for a call", "for a plan"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "4", "alternatives": ["5", "6", "7"] },
+          { "correct": "tomorrow", "alternatives": ["today", "yesterday", "soon"] }
+        ]
+      },
+      {
+        "id": 4,
+        "sentence_en": "They aren't studying French now.",
+        "translations": {
+          "ru": "Они не изучают французский сейчас.",
+          "es": "No están estudiando francés ahora.",
+          "fr": "Ils n'étudient pas le français en ce moment.",
+          "de": "Sie lernen jetzt kein Französisch."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "aren't", "alternatives": ["isn't", "wasn't", "won't"] },
+          { "correct": "studying", "alternatives": ["reading", "writing", "calling"] },
+          { "correct": "French", "alternatives": ["German", "Spanish", "Russian"] },
+          { "correct": "now", "alternatives": ["soon", "later", "today"] }
+        ]
+      },
+      {
+        "id": 5,
+        "sentence_en": "You aren't studying English all day today.",
+        "translations": {
+          "ru": "Ты не изучаешь английский целый день сегодня.",
+          "es": "No estás estudiando inglés todo el día hoy.",
+          "fr": "Tu n'étudies pas l'anglais toute la journée aujourd'hui.",
+          "de": "Du lernst heute nicht den ganzen Tag Englisch."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "aren't", "alternatives": ["isn't", "wasn't", "won't"] },
+          { "correct": "studying", "alternatives": ["reading", "writing", "calling"] },
+          { "correct": "English", "alternatives": ["French", "German", "Spanish"] },
+          { "correct": "all", "alternatives": ["half", "early", "late"] },
+          { "correct": "day", "alternatives": ["week", "month", "hour"] },
+          { "correct": "today", "alternatives": ["tomorrow", "yesterday", "now"] }
+        ]
+      },
+      {
+        "id": 6,
+        "sentence_en": "Will they be writing letters at 4 tomorrow?",
+        "translations": {
+          "ru": "Они будут писать письма в 4 завтра?",
+          "es": "¿Estarán escribiendo cartas a las 4 mañana?",
+          "fr": "Écriront-ils des lettres à 4 heures demain ?",
+          "de": "Werden sie morgen um 4 Uhr Briefe schreiben?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Was", "Is", "Does"] },
+          { "correct": "they", "alternatives": ["we", "he", "you"] },
+          { "correct": "be", "alternatives": ["is", "are", "was"] },
+          { "correct": "writing", "alternatives": ["reading", "calling", "showing"] },
+          { "correct": "letters", "alternatives": ["calls", "books", "plans"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "4", "alternatives": ["5", "6", "7"] },
+          { "correct": "tomorrow", "alternatives": ["today", "yesterday", "soon"] }
+        ]
+      },
+      {
+        "id": 7,
+        "sentence_en": "We'll be speaking German from 3 to 9 tomorrow.",
+        "translations": {
+          "ru": "Мы будем говорить по-немецки с 3 до 9 завтра.",
+          "es": "Estaremos hablando alemán de 3 a 9 mañana.",
+          "fr": "Nous parlerons allemand de 3 à 9 heures demain.",
+          "de": "Wir werden morgen von 3 bis 9 Uhr Deutsch sprechen."
+        },
+        "words": [
+          { "correct": "We'll", "alternatives": ["They'll", "He'll", "You'll"] },
+          { "correct": "be", "alternatives": ["is", "are", "was"] },
+          { "correct": "speaking", "alternatives": ["reading", "writing", "calling"] },
+          { "correct": "German", "alternatives": ["French", "English", "Spanish"] },
+          { "correct": "from", "alternatives": ["to", "at", "by"] },
+          { "correct": "3", "alternatives": ["4", "5", "6"] },
+          { "correct": "to", "alternatives": ["from", "at", "by"] },
+          { "correct": "9", "alternatives": ["8", "7", "6"] },
+          { "correct": "tomorrow", "alternatives": ["today", "yesterday", "soon"] }
+        ]
+      },
+      {
+        "id": 8,
+        "sentence_en": "He isn't telling stories all day today.",
+        "translations": {
+          "ru": "Он не рассказывает истории целый день сегодня.",
+          "es": "Él no está contando historias todo el día hoy.",
+          "fr": "Il ne raconte pas d'histoires toute la journée aujourd'hui.",
+          "de": "Er erzählt heute nicht den ganzen Tag Geschichten."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "isn't", "alternatives": ["aren't", "wasn't", "won't"] },
+          { "correct": "telling", "alternatives": ["asking", "showing", "writing"] },
+          { "correct": "stories", "alternatives": ["calls", "books", "plans"] },
+          { "correct": "all", "alternatives": ["half", "early", "late"] },
+          { "correct": "day", "alternatives": ["week", "month", "hour"] },
+          { "correct": "today", "alternatives": ["tomorrow", "yesterday", "now"] }
+        ]
+      },
+      {
+        "id": 9,
+        "sentence_en": "We were flying to New York this time yesterday.",
+        "translations": {
+          "ru": "Мы летели в Нью-Йорк в это время вчера.",
+          "es": "Estábamos volando a Nueva York a esta hora ayer.",
+          "fr": "Nous volions vers New York à cette heure-là hier.",
+          "de": "Wir flogen gestern um diese Zeit nach New York."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "He"] },
+          { "correct": "were", "alternatives": ["was", "are", "is"] },
+          { "correct": "flying", "alternatives": ["driving", "walking", "waiting"] },
+          { "correct": "to", "alternatives": ["from", "at", "in"] },
+          { "correct": "New York", "alternatives": ["London", "Berlin", "Madrid"] },
+          { "correct": "this time", "alternatives": ["that place", "these moments", "those hours"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "soon"] }
+        ]
+      },
+      {
+        "id": 10,
+        "sentence_en": "We weren't answering calls at 7 yesterday.",
+        "translations": {
+          "ru": "Мы не отвечали на звонки в 7 вчера.",
+          "es": "No estábamos contestando llamadas a las 7 ayer.",
+          "fr": "Nous ne répondions pas aux appels à 7 heures hier.",
+          "de": "Wir haben gestern um 7 Uhr keine Anrufe entgegengenommen."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "He"] },
+          { "correct": "weren't", "alternatives": ["wasn't", "isn't", "won't"] },
+          { "correct": "answering", "alternatives": ["calling", "writing", "reading"] },
+          { "correct": "calls", "alternatives": ["letters", "books", "plans"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "7", "alternatives": ["6", "8", "9"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "soon"] }
+        ]
+      },
+      {
+        "id": 11,
+        "sentence_en": "He's asking for a delay at the moment.",
+        "translations": {
+          "ru": "Он просит об отсрочке в данный момент.",
+          "es": "Él está pidiendo un retraso en este momento.",
+          "fr": "Il demande un délai en ce moment.",
+          "de": "Er bittet gerade um eine Verzögerung."
+        },
+        "words": [
+          { "correct": "He's", "alternatives": ["She's", "They're", "I'm"] },
+          { "correct": "asking", "alternatives": ["answering", "telling", "showing"] },
+          { "correct": "for", "alternatives": ["to", "by", "with"] },
+          { "correct": "a delay", "alternatives": ["the call", "an plan", "some letter"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "the moment", "alternatives": ["an hour", "a minute", "some place"] }
+        ]
+      },
+      {
+        "id": 12,
+        "sentence_en": "He wasn't reading that article this time yesterday.",
+        "translations": {
+          "ru": "Он не читал ту статью в это время вчера.",
+          "es": "Él no estaba leyendo ese artículo a esta hora ayer.",
+          "fr": "Il ne lisait pas cet article à cette heure hier.",
+          "de": "Er las gestern um diese Zeit nicht diesen Artikel."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "wasn't", "alternatives": ["weren't", "isn't", "won't"] },
+          { "correct": "reading", "alternatives": ["writing", "calling", "showing"] },
+          { "correct": "that", "alternatives": ["this", "these", "those"] },
+          { "correct": "article", "alternatives": ["book", "plan", "call"] },
+          { "correct": "this", "alternatives": ["that", "these", "those"] },
+          { "correct": "time", "alternatives": ["place", "moment", "hour"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "soon"] }
+        ]
+      },
+      {
+        "id": 13,
+        "sentence_en": "Will you be telling stories all day tomorrow?",
+        "translations": {
+          "ru": "Ты будешь рассказывать истории целый день завтра?",
+          "es": "¿Estarás contando historias todo el día mañana?",
+          "fr": "Raconteras-tu des histoires toute la journée demain ?",
+          "de": "Wirst du morgen den ganzen Tag Geschichten erzählen?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Was", "Is", "Does"] },
+          { "correct": "you", "alternatives": ["we", "they", "he"] },
+          { "correct": "be", "alternatives": ["is", "are", "was"] },
+          { "correct": "telling", "alternatives": ["asking", "showing", "writing"] },
+          { "correct": "stories", "alternatives": ["calls", "books", "plans"] },
+          { "correct": "all", "alternatives": ["half", "early", "late"] },
+          { "correct": "day", "alternatives": ["week", "month", "hour"] },
+          { "correct": "tomorrow", "alternatives": ["today", "yesterday", "now"] }
+        ]
+      },
+      {
+        "id": 14,
+        "sentence_en": "They weren't asking for a raise at 6 yesterday.",
+        "translations": {
+          "ru": "Они не просили о повышении в 6 вчера.",
+          "es": "No estaban pidiendo un aumento a las 6 ayer.",
+          "fr": "Ils ne demandaient pas une augmentation à 6 heures hier.",
+          "de": "Sie baten gestern um 6 Uhr nicht um eine Gehaltserhöhung."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "weren't", "alternatives": ["wasn't", "isn't", "won't"] },
+          { "correct": "asking", "alternatives": ["answering", "telling", "showing"] },
+          { "correct": "for", "alternatives": ["to", "by", "with"] },
+          { "correct": "a raise", "alternatives": ["the call", "an plan", "some letter"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "6", "alternatives": ["5", "7", "8"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "soon"] }
+        ]
+      },
+      {
+        "id": 15,
+        "sentence_en": "He's telling the news at the moment.",
+        "translations": {
+          "ru": "Он рассказывает новости в данный момент.",
+          "es": "Él está dando las noticias en este momento.",
+          "fr": "Il raconte les nouvelles en ce moment.",
+          "de": "Er erzählt gerade die Nachrichten."
+        },
+        "words": [
+          { "correct": "He's", "alternatives": ["She's", "They're", "I'm"] },
+          { "correct": "telling", "alternatives": ["asking", "showing", "writing"] },
+          { "correct": "the news", "alternatives": ["a call", "an book", "some plan"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "the moment", "alternatives": ["an hour", "a minute", "some place"] }
+        ]
+      },
+      {
+        "id": 16,
+        "sentence_en": "Are they studying French at the moment?",
+        "translations": {
+          "ru": "Они изучают французский в данный момент?",
+          "es": "¿Están estudiando francés en este momento?",
+          "fr": "Étudient-ils le français en ce moment ?",
+          "de": "Lernen sie gerade Französisch?"
+        },
+        "words": [
+          { "correct": "Are", "alternatives": ["Is", "Was", "Will"] },
+          { "correct": "they", "alternatives": ["we", "he", "you"] },
+          { "correct": "studying", "alternatives": ["reading", "writing", "calling"] },
+          { "correct": "French", "alternatives": ["German", "Spanish", "Russian"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "the moment", "alternatives": ["an hour", "a minute", "some place"] }
+        ]
+      },
+      {
+        "id": 17,
+        "sentence_en": "I'll be sending letters this time tomorrow.",
+        "translations": {
+          "ru": "Я буду посылать письма в это время завтра.",
+          "es": "Estaré enviando cartas a esta hora mañana.",
+          "fr": "J'enverrai des lettres à cette heure demain.",
+          "de": "Ich werde morgen um diese Zeit Briefe verschicken."
+        },
+        "words": [
+          { "correct": "I'll", "alternatives": ["He'll", "They'll", "You'll"] },
+          { "correct": "be", "alternatives": ["is", "are", "was"] },
+          { "correct": "sending", "alternatives": ["answering", "telling", "showing"] },
+          { "correct": "letters", "alternatives": ["calls", "books", "plans"] },
+          { "correct": "this", "alternatives": ["that", "these", "those"] },
+          { "correct": "time", "alternatives": ["place", "moment", "hour"] },
+          { "correct": "tomorrow", "alternatives": ["today", "yesterday", "soon"] }
+        ]
+      },
+      {
+        "id": 18,
+        "sentence_en": "They weren't reading that book this time yesterday.",
+        "translations": {
+          "ru": "Они не читали ту книгу в это время вчера.",
+          "es": "No estaban leyendo ese libro a esta hora ayer.",
+          "fr": "Ils ne lisaient pas ce livre à cette heure hier.",
+          "de": "Sie lasen gestern um diese Zeit nicht dieses Buch."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "weren't", "alternatives": ["wasn't", "isn't", "won't"] },
+          { "correct": "reading", "alternatives": ["writing", "calling", "showing"] },
+          { "correct": "that", "alternatives": ["this", "these", "those"] },
+          { "correct": "book", "alternatives": ["plan", "call", "letter"] },
+          { "correct": "this", "alternatives": ["that", "these", "those"] },
+          { "correct": "time", "alternatives": ["place", "moment", "hour"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "soon"] }
+        ]
+      },
+      {
+        "id": 19,
+        "sentence_en": "She isn't drinking tea now.",
+        "translations": {
+          "ru": "Она не пьёт чай сейчас.",
+          "es": "Ella no está tomando té ahora.",
+          "fr": "Elle ne boit pas de thé maintenant.",
+          "de": "Sie trinkt jetzt keinen Tee."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "isn't", "alternatives": ["aren't", "wasn't", "won't"] },
+          { "correct": "drinking", "alternatives": ["eating", "reading", "writing"] },
+          { "correct": "tea", "alternatives": ["milk", "coffee", "juice"] },
+          { "correct": "now", "alternatives": ["soon", "later", "today"] }
+        ]
+      },
+      {
+        "id": 20,
+        "sentence_en": "We're drinking tea all day today.",
+        "translations": {
+          "ru": "Мы пьём чай целый день сегодня.",
+          "es": "Estamos tomando té todo el día hoy.",
+          "fr": "Nous buvons du thé toute la journée aujourd'hui.",
+          "de": "Wir trinken heute den ganzen Tag Tee."
+        },
+        "words": [
+          { "correct": "We're", "alternatives": ["They're", "You're", "I'm"] },
+          { "correct": "drinking", "alternatives": ["eating", "reading", "writing"] },
+          { "correct": "tea", "alternatives": ["milk", "coffee", "juice"] },
+          { "correct": "all", "alternatives": ["half", "early", "late"] },
+          { "correct": "day", "alternatives": ["week", "month", "hour"] },
+          { "correct": "today", "alternatives": ["tomorrow", "yesterday", "now"] }
+        ]
+      },
+      {
+        "id": 21,
+        "sentence_en": "Were we drinking milk at 8 yesterday?",
+        "translations": {
+          "ru": "Мы пили молоко в 8 вчера?",
+          "es": "¿Estábamos bebiendo leche a las 8 ayer?",
+          "fr": "Buions-nous du lait à 8 heures hier ?",
+          "de": "Haben wir gestern um 8 Uhr Milch getrunken?"
+        },
+        "words": [
+          { "correct": "Were", "alternatives": ["Was", "Is", "Will"] },
+          { "correct": "we", "alternatives": ["they", "he", "you"] },
+          { "correct": "drinking", "alternatives": ["eating", "reading", "writing"] },
+          { "correct": "milk", "alternatives": ["tea", "coffee", "juice"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "8", "alternatives": ["7", "9", "10"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "soon"] }
+        ]
+      },
+      {
+        "id": 22,
+        "sentence_en": "They were drinking milk from 5 to 6 yesterday.",
+        "translations": {
+          "ru": "Они пили молоко с 5 до 6 вчера.",
+          "es": "Estuvieron bebiendo leche de 5 a 6 ayer.",
+          "fr": "Ils buvaient du lait de 5 à 6 heures hier.",
+          "de": "Sie tranken gestern von 5 bis 6 Uhr Milch."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "were", "alternatives": ["was", "are", "is"] },
+          { "correct": "drinking", "alternatives": ["eating", "reading", "writing"] },
+          { "correct": "milk", "alternatives": ["tea", "coffee", "juice"] },
+          { "correct": "from", "alternatives": ["to", "at", "by"] },
+          { "correct": "5", "alternatives": ["4", "6", "7"] },
+          { "correct": "to", "alternatives": ["from", "at", "by"] },
+          { "correct": "6", "alternatives": ["5", "7", "8"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "soon"] }
+        ]
+      },
+      {
+        "id": 23,
+        "sentence_en": "You aren't working at the hotel all day today.",
+        "translations": {
+          "ru": "Ты не работаешь в гостинице целый день сегодня.",
+          "es": "No estás trabajando en el hotel todo el día hoy.",
+          "de": "Du arbeitest heute nicht den ganzen Tag im Hotel.",
+          "fr": "Tu ne travailles pas à l'hôtel toute la journée aujourd'hui."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "aren't", "alternatives": ["isn't", "wasn't", "won't"] },
+          { "correct": "working", "alternatives": ["reading", "writing", "calling"] },
+          { "correct": "at the hotel", "alternatives": ["in a restaurant", "on an cafe", "by some office"] },
+          { "correct": "all", "alternatives": ["half", "early", "late"] },
+          { "correct": "day", "alternatives": ["week", "month", "hour"] },
+          { "correct": "today", "alternatives": ["tomorrow", "yesterday", "now"] }
+        ]
+      },
+      {
+        "id": 24,
+        "sentence_en": "We weren't writing letters this time yesterday.",
+        "translations": {
+          "ru": "Мы не писали письма в это время вчера.",
+          "es": "No estábamos escribiendo cartas a esta hora ayer.",
+          "fr": "Nous n'écrivions pas de lettres à cette heure hier.",
+          "de": "Wir haben gestern um diese Zeit keine Briefe geschrieben."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "He"] },
+          { "correct": "weren't", "alternatives": ["wasn't", "isn't", "won't"] },
+          { "correct": "writing", "alternatives": ["reading", "calling", "showing"] },
+          { "correct": "letters", "alternatives": ["calls", "books", "plans"] },
+          { "correct": "this", "alternatives": ["that", "these", "those"] },
+          { "correct": "time", "alternatives": ["place", "moment", "hour"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "soon"] }
+        ]
+      },
+      {
+        "id": 25,
+        "sentence_en": "Will we be flying to London from 5 to 10 tomorrow?",
+        "translations": {
+          "ru": "Мы будем лететь в Лондон с 5 до 10 завтра?",
+          "es": "¿Estaremos volando a Londres de 5 a 10 mañana?",
+          "fr": "Volerons-nous à Londres de 5 à 10 heures demain ?",
+          "de": "Werden wir morgen von 5 bis 10 nach London fliegen?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Was", "Is", "Does"] },
+          { "correct": "we", "alternatives": ["they", "he", "you"] },
+          { "correct": "be", "alternatives": ["is", "are", "was"] },
+          { "correct": "flying", "alternatives": ["driving", "walking", "waiting"] },
+          { "correct": "to", "alternatives": ["from", "at", "in"] },
+          { "correct": "London", "alternatives": ["Paris", "Berlin", "Madrid"] },
+          { "correct": "from", "alternatives": ["to", "at", "by"] },
+          { "correct": "5", "alternatives": ["4", "6", "7"] },
+          { "correct": "to", "alternatives": ["from", "at", "by"] },
+          { "correct": "10", "alternatives": ["9", "8", "7"] },
+          { "correct": "tomorrow", "alternatives": ["today", "yesterday", "soon"] }
+        ]
+      },
+      {
+        "id": 26,
+        "sentence_en": "Was she speaking Russian from 7 to 8 yesterday?",
+        "translations": {
+          "ru": "Она говорила по-русски с 7 до 8 вчера?",
+          "es": "¿Hablaba ella ruso de 7 a 8 ayer?",
+          "fr": "Parlait-elle russe de 7 à 8 heures hier ?",
+          "de": "Sprach sie gestern von 7 bis 8 Uhr Russisch?"
+        },
+        "words": [
+          { "correct": "Was", "alternatives": ["Is", "Will", "Does"] },
+          { "correct": "she", "alternatives": ["he", "they", "we"] },
+          { "correct": "speaking", "alternatives": ["reading", "writing", "calling"] },
+          { "correct": "Russian", "alternatives": ["French", "German", "Spanish"] },
+          { "correct": "from", "alternatives": ["to", "at", "by"] },
+          { "correct": "7", "alternatives": ["6", "8", "9"] },
+          { "correct": "to", "alternatives": ["from", "at", "by"] },
+          { "correct": "8", "alternatives": ["7", "9", "10"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "soon"] }
+        ]
+      },
+      {
+        "id": 27,
+        "sentence_en": "You won't be closing the window this time tomorrow.",
+        "translations": {
+          "ru": "Ты не будешь закрывать окно в это время завтра.",
+          "es": "No estarás cerrando la ventana a esta hora mañana.",
+          "fr": "Tu ne fermeras pas la fenêtre à cette heure demain.",
+          "de": "Du wirst morgen um diese Zeit das Fenster nicht schließen."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "won't", "alternatives": ["isn't", "wasn't", "aren't"] },
+          { "correct": "be", "alternatives": ["is", "are", "was"] },
+          { "correct": "closing", "alternatives": ["opening", "reading", "writing"] },
+          { "correct": "the window", "alternatives": ["a door", "an letter", "some call"] },
+          { "correct": "this", "alternatives": ["that", "these", "those"] },
+          { "correct": "time", "alternatives": ["place", "moment", "hour"] },
+          { "correct": "tomorrow", "alternatives": ["today", "yesterday", "soon"] }
+        ]
+      },
+      {
+        "id": 28,
+        "sentence_en": "You weren't reading that book this time yesterday.",
+        "translations": {
+          "ru": "Ты не читал ту книгу в это время вчера.",
+          "es": "No estabas leyendo ese libro a esta hora ayer.",
+          "fr": "Tu ne lisais pas ce livre à cette heure hier.",
+          "de": "Du hast gestern um diese Zeit nicht dieses Buch gelesen."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "weren't", "alternatives": ["wasn't", "isn't", "won't"] },
+          { "correct": "reading", "alternatives": ["writing", "calling", "showing"] },
+          { "correct": "that", "alternatives": ["this", "these", "those"] },
+          { "correct": "book", "alternatives": ["plan", "call", "letter"] },
+          { "correct": "this", "alternatives": ["that", "these", "those"] },
+          { "correct": "time", "alternatives": ["place", "moment", "hour"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "soon"] }
+        ]
+      },
+      {
+        "id": 29,
+        "sentence_en": "Will he be writing this book all day tomorrow?",
+        "translations": {
+          "ru": "Он будет писать эту книгу целый день завтра?",
+          "es": "¿Estará escribiendo este libro todo el día mañana?",
+          "de": "Wird er dieses Buch den ganzen Tag morgen schreiben?",
+          "fr": "Écrira-t-il ce livre toute la journée demain ?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Was", "Is", "Does"] },
+          { "correct": "he", "alternatives": ["she", "they", "we"] },
+          { "correct": "be", "alternatives": ["is", "are", "was"] },
+          { "correct": "writing", "alternatives": ["reading", "calling", "showing"] },
+          { "correct": "this", "alternatives": ["that", "these", "those"] },
+          { "correct": "book", "alternatives": ["plan", "call", "letter"] },
+          { "correct": "all", "alternatives": ["half", "early", "late" ] },
+          { "correct": "day", "alternatives": ["week", "month", "hour"] },
+          { "correct": "tomorrow", "alternatives": ["today", "yesterday", "now"] }
+        ]
+      },
+      {
+        "id": 30,
+        "sentence_en": "Are you answering the phone at the moment?",
+        "translations": {
+          "ru": "Ты отвечаешь на телефон в данный момент?",
+          "es": "¿Estás contestando el teléfono en este momento?",
+          "fr": "Es-tu en train de répondre au téléphone en ce moment ?",
+          "de": "Gehst du gerade ans Telefon?"
+        },
+        "words": [
+          { "correct": "Are", "alternatives": ["Is", "Was", "Will"] },
+          { "correct": "you", "alternatives": ["we", "they", "he"] },
+          { "correct": "answering", "alternatives": ["calling", "writing", "reading"] },
+          { "correct": "the phone", "alternatives": ["a door", "an window", "some letter"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "the moment", "alternatives": ["an hour", "a minute", "some place"] }
+        ]
+      },
+      {
+        "id": 31,
+        "sentence_en": "I wasn't asking for a raise all day yesterday.",
+        "translations": {
+          "ru": "Я не просил о повышении целый день вчера.",
+          "es": "No estuve pidiendo un aumento todo el día ayer.",
+          "fr": "Je ne demandais pas d'augmentation toute la journée hier.",
+          "de": "Ich habe gestern den ganzen Tag nicht um eine Gehaltserhöhung gebeten."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["We", "They", "He"] },
+          { "correct": "wasn't", "alternatives": ["weren't", "isn't", "won't"] },
+          { "correct": "asking", "alternatives": ["answering", "telling", "showing"] },
+          { "correct": "for", "alternatives": ["to", "by", "with"] },
+          { "correct": "a raise", "alternatives": ["the call", "an plan", "some letter"] },
+          { "correct": "all", "alternatives": ["half", "early", "short"] },
+          { "correct": "day", "alternatives": ["week", "month", "hour"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "now"] }
+        ]
+      },
+      {
+        "id": 32,
+        "sentence_en": "Were they speaking French all day yesterday?",
+        "translations": {
+          "ru": "Они говорили по-французски целый день вчера?",
+          "es": "¿Hablaron francés todo el día ayer?",
+          "fr": "Ont-ils parlé français toute la journée hier ?",
+          "de": "Sprachen sie gestern den ganzen Tag Französisch?"
+        },
+        "words": [
+          { "correct": "Were", "alternatives": ["Was", "Is", "Will"] },
+          { "correct": "they", "alternatives": ["we", "he", "you"] },
+          { "correct": "speaking", "alternatives": ["reading", "writing", "calling"] },
+          { "correct": "French", "alternatives": ["German", "Spanish", "Russian"] },
+          { "correct": "all", "alternatives": ["half", "early", "short"] },
+          { "correct": "day", "alternatives": ["week", "month", "hour"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "now"] }
+        ]
+      },
+      {
+        "id": 33,
+        "sentence_en": "I wasn't closing the door at 8 yesterday.",
+        "translations": {
+          "ru": "Я не закрывал дверь в 8 вчера.",
+          "es": "No estaba cerrando la puerta a las 8 ayer.",
+          "fr": "Je ne fermais pas la porte à 8 heures hier.",
+          "de": "Ich habe gestern um 8 Uhr die Tür nicht geschlossen."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["We", "They", "He"] },
+          { "correct": "wasn't", "alternatives": ["weren't", "isn't", "won't"] },
+          { "correct": "closing", "alternatives": ["opening", "reading", "writing"] },
+          { "correct": "the door", "alternatives": ["a window", "an letter", "some call"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "8", "alternatives": ["7", "9", "10"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "now"] }
+        ]
+      },
+      {
+        "id": 34,
+        "sentence_en": "Are you telling stories all day today?",
+        "translations": {
+          "ru": "Ты рассказываешь истории целый день сегодня?",
+          "es": "¿Estás contando historias todo el día hoy?",
+          "fr": "Racontes-tu des histoires toute la journée aujourd'hui ?",
+          "de": "Erzählst du heute den ganzen Tag Geschichten?"
+        },
+        "words": [
+          { "correct": "Are", "alternatives": ["Is", "Was", "Will"] },
+          { "correct": "you", "alternatives": ["we", "they", "he"] },
+          { "correct": "telling", "alternatives": ["asking", "showing", "writing"] },
+          { "correct": "stories", "alternatives": ["calls", "books", "plans"] },
+          { "correct": "all", "alternatives": ["half", "early", "short"] },
+          { "correct": "day", "alternatives": ["week", "month", "hour"] },
+          { "correct": "today", "alternatives": ["tomorrow", "yesterday", "now"] }
+        ]
+      },
+      {
+        "id": 35,
+        "sentence_en": "I'm not working at the restaurant at the moment.",
+        "translations": {
+          "ru": "Я не работаю в ресторане в данный момент.",
+          "es": "No estoy trabajando en el restaurante en este momento.",
+          "fr": "Je ne travaille pas au restaurant en ce moment.",
+          "de": "Ich arbeite gerade nicht im Restaurant."
+        },
+        "words": [
+          { "correct": "I'm", "alternatives": ["He's", "She's", "They're"] },
+          { "correct": "not", "alternatives": ["wasn't", "isn't", "won't"] },
+          { "correct": "working", "alternatives": ["reading", "writing", "calling"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "the restaurant", "alternatives": ["a hotel", "an cafe", "some office"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "the moment", "alternatives": ["an hour", "a minute", "some place"] }
+        ]
+      },
+      {
+        "id": 36,
+        "sentence_en": "They were drinking coffee from 7 to 9 yesterday.",
+        "translations": {
+          "ru": "Они пили кофе с 7 до 9 вчера.",
+          "es": "Estuvieron bebiendo café de 7 a 9 ayer.",
+          "fr": "Ils buvaient du café de 7 à 9 heures hier.",
+          "de": "Sie tranken gestern von 7 bis 9 Uhr Kaffee."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "were", "alternatives": ["was", "are", "is"] },
+          { "correct": "drinking", "alternatives": ["eating", "reading", "writing"] },
+          { "correct": "coffee", "alternatives": ["tea", "milk", "juice"] },
+          { "correct": "from", "alternatives": ["to", "at", "by"] },
+          { "correct": "7", "alternatives": ["6", "8", "9"] },
+          { "correct": "to", "alternatives": ["from", "at", "by"] },
+          { "correct": "9", "alternatives": ["8", "7", "6"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "now"] }
+        ]
+      },
+      {
+        "id": 37,
+        "sentence_en": "Will you be speaking English this time tomorrow?",
+        "translations": {
+          "ru": "Ты будешь говорить по-английски в это время завтра?",
+          "es": "¿Estarás hablando inglés a esta hora mañana?",
+          "fr": "Parleras-tu anglais à cette heure demain ?",
+          "de": "Wirst du morgen um diese Zeit Englisch sprechen?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Was", "Is", "Does"] },
+          { "correct": "you", "alternatives": ["we", "they", "he"] },
+          { "correct": "be", "alternatives": ["is", "are", "was"] },
+          { "correct": "speaking", "alternatives": ["reading", "writing", "calling"] },
+          { "correct": "English", "alternatives": ["French", "German", "Spanish"] },
+          { "correct": "this", "alternatives": ["that", "these", "those"] },
+          { "correct": "time", "alternatives": ["place", "moment", "hour"] },
+          { "correct": "tomorrow", "alternatives": ["today", "yesterday", "now"] }
+        ]
+      },
+      {
+        "id": 38,
+        "sentence_en": "They'll be sleeping in bed the whole day tomorrow.",
+        "translations": {
+          "ru": "Они будут спать в кровати целый день завтра.",
+          "es": "Estarán durmiendo en la cama todo el día mañana.",
+          "fr": "Ils dormiront au lit toute la journée demain.",
+          "de": "Sie werden morgen den ganzen Tag im Bett schlafen."
+        },
+        "words": [
+          { "correct": "They'll", "alternatives": ["We'll", "He'll", "You'll"] },
+          { "correct": "be", "alternatives": ["is", "are", "was"] },
+          { "correct": "sleeping", "alternatives": ["eating", "reading", "writing"] },
+          { "correct": "in", "alternatives": ["on", "at", "by"] },
+          { "correct": "bed", "alternatives": ["sofa", "chair", "table"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "whole", "alternatives": ["half", "short", "early"] },
+          { "correct": "day", "alternatives": ["week", "month", "hour"] },
+          { "correct": "tomorrow", "alternatives": ["today", "yesterday", "now"] }
+        ]
+      },
+      {
+        "id": 39,
+        "sentence_en": "They were drinking tea all day yesterday.",
+        "translations": {
+          "ru": "Они пили чай целый день вчера.",
+          "es": "Estuvieron bebiendo té todo el día ayer.",
+          "fr": "Ils buvaient du thé toute la journée hier.",
+          "de": "Sie tranken gestern den ganzen Tag Tee."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "were", "alternatives": ["was", "are", "is"] },
+          { "correct": "drinking", "alternatives": ["eating", "reading", "writing"] },
+          { "correct": "tea", "alternatives": ["coffee", "milk", "juice"] },
+          { "correct": "all", "alternatives": ["half", "early", "short"] },
+          { "correct": "day", "alternatives": ["week", "month", "hour"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "now"] }
+        ]
+      },
+      {
+        "id": 40,
+        "sentence_en": "Is she telling stories now?",
+        "translations": {
+          "ru": "Она рассказывает истории сейчас?",
+          "es": "¿Está contando historias ahora?",
+          "fr": "Raconte-t-elle des histoires maintenant ?",
+          "de": "Erzählt sie gerade Geschichten?"
+        },
+        "words": [
+          { "correct": "Is", "alternatives": ["Was", "Will", "Does"] },
+          { "correct": "she", "alternatives": ["he", "they", "we"] },
+          { "correct": "telling", "alternatives": ["asking", "showing", "writing"] },
+          { "correct": "stories", "alternatives": ["calls", "books", "plans"] },
+          { "correct": "now", "alternatives": ["soon", "later", "today"] }
+        ]
+      },
+      {
+        "id": 41,
+        "sentence_en": "She won't be answering calls all day tomorrow.",
+        "translations": {
+          "ru": "Она не будет отвечать на звонки целый день завтра.",
+          "es": "Ella no estará contestando llamadas todo el día mañana.",
+          "fr": "Elle ne répondra pas aux appels toute la journée demain.",
+          "de": "Sie wird morgen den ganzen Tag keine Anrufe entgegennehmen."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "won't", "alternatives": ["isn't", "wasn't", "aren't"] },
+          { "correct": "be", "alternatives": ["is", "are", "was"] },
+          { "correct": "answering", "alternatives": ["calling", "writing", "reading"] },
+          { "correct": "calls", "alternatives": ["letters", "books", "plans"] },
+          { "correct": "all", "alternatives": ["half", "early", "short"] },
+          { "correct": "day", "alternatives": ["week", "month", "hour"] },
+          { "correct": "tomorrow", "alternatives": ["today", "yesterday", "now"] }
+        ]
+      },
+      {
+        "id": 42,
+        "sentence_en": "He isn't drinking tea at the moment.",
+        "translations": {
+          "ru": "Он не пьёт чай в данный момент.",
+          "es": "Él no está tomando té en este momento.",
+          "fr": "Il ne boit pas de thé en ce moment.",
+          "de": "Er trinkt gerade keinen Tee."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "isn't", "alternatives": ["aren't", "wasn't", "won't"] },
+          { "correct": "drinking", "alternatives": ["eating", "reading", "writing"] },
+          { "correct": "tea", "alternatives": ["coffee", "milk", "juice"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "the moment", "alternatives": ["an hour", "a minute", "some place"] }
+        ]
+      },
+      {
+        "id": 43,
+        "sentence_en": "Will he be sleeping in bed from 5 to 8 tomorrow?",
+        "translations": {
+          "ru": "Он будет спать в кровати с 5 до 8 завтра?",
+          "es": "¿Estará durmiendo en la cama de 5 a 8 mañana?",
+          "fr": "Dormira-t-il au lit de 5 à 8 heures demain ?",
+          "de": "Wird er morgen von 5 bis 8 Uhr im Bett schlafen?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Was", "Is", "Does"] },
+          { "correct": "he", "alternatives": ["she", "they", "we"] },
+          { "correct": "be", "alternatives": ["is", "are", "was"] },
+          { "correct": "sleeping", "alternatives": ["eating", "reading", "writing"] },
+          { "correct": "in", "alternatives": ["on", "at", "by"] },
+          { "correct": "bed", "alternatives": ["sofa", "chair", "table"] },
+          { "correct": "from", "alternatives": ["to", "at", "by"] },
+          { "correct": "5", "alternatives": ["4", "6", "7"] },
+          { "correct": "to", "alternatives": ["from", "at", "by"] },
+          { "correct": "8", "alternatives": ["7", "9", "10"] },
+          { "correct": "tomorrow", "alternatives": ["today", "yesterday", "now"] }
+        ]
+      },
+      {
+        "id": 44,
+        "sentence_en": "Is he sending this message at the moment?",
+        "translations": {
+          "ru": "Он посылает это сообщение в данный момент?",
+          "es": "¿Está enviando este mensaje en este momento?",
+          "fr": "Envoie-t-il ce message en ce moment ?",
+          "de": "Sendet er gerade diese Nachricht?"
+        },
+        "words": [
+          { "correct": "Is", "alternatives": ["Was", "Will", "Does"] },
+          { "correct": "he", "alternatives": ["she", "they", "we"] },
+          { "correct": "sending", "alternatives": ["answering", "telling", "showing"] },
+          { "correct": "this", "alternatives": ["that", "these", "those"] },
+          { "correct": "message", "alternatives": ["call", "plan", "letter"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "the moment", "alternatives": ["an hour", "a minute", "some place"] }
+        ]
+      },
+      {
+        "id": 45,
+        "sentence_en": "They won't be telling stories at 6 tomorrow.",
+        "translations": {
+          "ru": "Они не будут рассказывать истории в 6 завтра.",
+          "es": "Ellos no estarán contando historias a las 6 mañana.",
+          "fr": "Ils ne raconteront pas d'histoires à 6 heures demain.",
+          "de": "Sie werden morgen um 6 Uhr keine Geschichten erzählen."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "won't", "alternatives": ["isn't", "wasn't", "aren't"] },
+          { "correct": "be", "alternatives": ["is", "are", "was"] },
+          { "correct": "telling", "alternatives": ["asking", "showing", "writing"] },
+          { "correct": "stories", "alternatives": ["calls", "books", "plans"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "6", "alternatives": ["5", "7", "8"] },
+          { "correct": "tomorrow", "alternatives": ["today", "yesterday", "now"] }
+        ]
+      },
+      {
+        "id": 46,
+        "sentence_en": "He won't be answering the phone at 3 tomorrow.",
+        "translations": {
+          "ru": "Он не будет отвечать на телефон в 3 завтра.",
+          "es": "Él no estará contestando el teléfono a las 3 mañana.",
+          "fr": "Il ne répondra pas au téléphone à 3 heures demain.",
+          "de": "Er wird morgen um 3 Uhr nicht ans Telefon gehen."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "won't", "alternatives": ["isn't", "wasn't", "aren't"] },
+          { "correct": "be", "alternatives": ["is", "are", "was"] },
+          { "correct": "answering", "alternatives": ["calling", "writing", "reading"] },
+          { "correct": "the phone", "alternatives": ["a door", "an window", "some letter"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "3", "alternatives": ["2", "4", "5"] },
+          { "correct": "tomorrow", "alternatives": ["today", "yesterday", "now"] }
+        ]
+      },
+      {
+        "id": 47,
+        "sentence_en": "Were we answering the phone all day yesterday?",
+        "translations": {
+          "ru": "Мы отвечали на телефон целый день вчера?",
+          "es": "¿Estuvimos contestando el teléfono todo el día ayer?",
+          "fr": "Répondions-nous au téléphone toute la journée hier ?",
+          "de": "Haben wir gestern den ganzen Tag ans Telefon geantwortet?"
+        },
+        "words": [
+          { "correct": "Were", "alternatives": ["Was", "Is", "Will"] },
+          { "correct": "we", "alternatives": ["they", "he", "you"] },
+          { "correct": "answering", "alternatives": ["calling", "writing", "reading"] },
+          { "correct": "the phone", "alternatives": ["a door", "an window", "some letter"] },
+          { "correct": "all", "alternatives": ["half", "early", "short"] },
+          { "correct": "day", "alternatives": ["week", "month", "hour"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "now"] }
+        ]
+      },
+      {
+        "id": 48,
+        "sentence_en": "They'll be asking for a job this time tomorrow.",
+        "translations": {
+          "ru": "Они будут просить работу в это время завтра.",
+          "es": "Estarán pidiendo trabajo a esta hora mañana.",
+          "fr": "Ils demanderont un travail à cette heure demain.",
+          "de": "Sie werden morgen um diese Zeit nach einem Job fragen."
+        },
+        "words": [
+          { "correct": "They'll", "alternatives": ["We'll", "He'll", "You'll"] },
+          { "correct": "be", "alternatives": ["is", "are", "was"] },
+          { "correct": "asking", "alternatives": ["answering", "telling", "showing"] },
+          { "correct": "for", "alternatives": ["to", "by", "with"] },
+          { "correct": "a job", "alternatives": ["the book", "an call", "some plan"] },
+          { "correct": "this", "alternatives": ["that", "these", "those"] },
+          { "correct": "time", "alternatives": ["place", "moment", "hour"] },
+          { "correct": "tomorrow", "alternatives": ["today", "yesterday", "soon"] }
+        ]
+      },
+      {
+        "id": 49,
+        "sentence_en": "She won't be telling stories from 8 to 10 tomorrow.",
+        "translations": {
+          "ru": "Она не будет рассказывать истории с 8 до 10 завтра.",
+          "es": "Ella no estará contando historias de 8 a 10 mañana.",
+          "fr": "Elle ne racontera pas d'histoires de 8 à 10 heures demain.",
+          "de": "Sie wird morgen von 8 bis 10 Uhr keine Geschichten erzählen."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "won't", "alternatives": ["isn't", "wasn't", "aren't"] },
+          { "correct": "be", "alternatives": ["is", "are", "was"] },
+          { "correct": "telling", "alternatives": ["asking", "showing", "writing"] },
+          { "correct": "stories", "alternatives": ["calls", "books", "plans"] },
+          { "correct": "from", "alternatives": ["to", "at", "by"] },
+          { "correct": "8", "alternatives": ["7", "9", "10"] },
+          { "correct": "to", "alternatives": ["from", "at", "by"] },
+          { "correct": "10", "alternatives": ["9", "8", "7"] },
+          { "correct": "tomorrow", "alternatives": ["today", "yesterday", "now"] }
+        ]
+      },
+      {
+        "id": 50,
+        "sentence_en": "Were they drinking tea all day yesterday?",
+        "translations": {
+          "ru": "Они пили чай целый день вчера?",
+          "es": "¿Estuvieron bebiendo té todo el día ayer?",
+          "fr": "Buvaient-ils du thé toute la journée hier ?",
+          "de": "Haben sie gestern den ganzen Tag Tee getrunken?"
+        },
+        "words": [
+          { "correct": "Were", "alternatives": ["Was", "Is", "Will"] },
+          { "correct": "they", "alternatives": ["we", "he", "you"] },
+          { "correct": "drinking", "alternatives": ["eating", "reading", "writing"] },
+          { "correct": "tea", "alternatives": ["coffee", "milk", "juice"] },
+          { "correct": "all", "alternatives": ["half", "early", "short"] },
+          { "correct": "day", "alternatives": ["week", "month", "hour"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "now"] }
+        ]
+      },
+      {
+        "id": 51,
+        "sentence_en": "We weren't drinking milk all day yesterday.",
+        "translations": {
+          "ru": "Мы не пили молоко целый день вчера.",
+          "es": "No estuvimos bebiendo leche todo el día ayer.",
+          "fr": "Nous ne buvions pas de lait toute la journée hier.",
+          "de": "Wir haben gestern nicht den ganzen Tag Milch getrunken."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "I"] },
+          { "correct": "weren't", "alternatives": ["wasn't", "aren't", "won't be"] },
+          { "correct": "drinking", "alternatives": ["eating", "cooking", "making"] },
+          { "correct": "milk", "alternatives": ["water", "juice", "soda"] },
+          { "correct": "all", "alternatives": ["some", "any", "no"] },
+          { "correct": "day", "alternatives": ["night", "morning", "evening"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "later"] }
+        ]
+      },
+      {
+        "id": 52,
+        "sentence_en": "I won't be answering the question from 8 to 10 tomorrow.",
+        "translations": {
+          "ru": "Я не буду отвечать на вопрос с 8 до 10 завтра.",
+          "es": "No estaré contestando la pregunta de 8 a 10 mañana.",
+          "fr": "Je ne répondrai pas à la question de 8 à 10 heures demain.",
+          "de": "Ich werde morgen von 8 bis 10 Uhr die Frage nicht beantworten."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["We", "They", "He"] },
+          { "correct": "won't", "alternatives": ["isn't", "wasn't", "aren't"] },
+          { "correct": "be", "alternatives": ["is", "are", "was"] },
+          { "correct": "answering", "alternatives": ["asking", "telling", "showing"] },
+          { "correct": "the question", "alternatives": ["a call", "an plan", "some letter"] },
+          { "correct": "from", "alternatives": ["to", "at", "by"] },
+          { "correct": "8", "alternatives": ["7", "9", "10"] },
+          { "correct": "to", "alternatives": ["from", "at", "by"] },
+          { "correct": "10", "alternatives": ["9", "8", "7"] },
+          { "correct": "tomorrow", "alternatives": ["today", "yesterday", "soon"] }
+        ]
+      },
+      {
+        "id": 53,
+        "sentence_en": "You aren't speaking German all day today.",
+        "translations": {
+          "ru": "Ты не говоришь по-немецки целый день сегодня.",
+          "es": "No estás hablando alemán todo el día hoy.",
+          "fr": "Tu ne parles pas allemand toute la journée aujourd'hui.",
+          "de": "Du sprichst heute nicht den ganzen Tag Deutsch."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "aren't", "alternatives": ["isn't", "wasn't", "won't"] },
+          { "correct": "speaking", "alternatives": ["reading", "writing", "calling"] },
+          { "correct": "German", "alternatives": ["French", "English", "Spanish"] },
+          { "correct": "all", "alternatives": ["half", "early", "short"] },
+          { "correct": "day", "alternatives": ["week", "month", "hour"] },
+          { "correct": "today", "alternatives": ["tomorrow", "yesterday", "now"] }
+        ]
+      },
+      {
+        "id": 54,
+        "sentence_en": "Will she be telling the news all day tomorrow?",
+        "translations": {
+          "ru": "Она будет рассказывать новости целый день завтра?",
+          "es": "¿Estará contando las noticias todo el día mañana?",
+          "fr": "Racontira-t-elle les nouvelles toute la journée demain ?",
+          "de": "Wird sie morgen den ganzen Tag die Nachrichten erzählen?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Was", "Is", "Does"] },
+          { "correct": "she", "alternatives": ["he", "they", "we"] },
+          { "correct": "be", "alternatives": ["is", "are", "was"] },
+          { "correct": "telling", "alternatives": ["asking", "showing", "writing"] },
+          { "correct": "the news", "alternatives": ["a calls", "an books", "some plans"] },
+          { "correct": "all", "alternatives": ["half", "short", "early"] },
+          { "correct": "day", "alternatives": ["week", "month", "hour"] },
+          { "correct": "tomorrow", "alternatives": ["today", "yesterday", "now"] }
+        ]
+      },
+      {
+        "id": 55,
+        "sentence_en": "He wasn't telling the news from 8 to 10 yesterday.",
+        "translations": {
+          "ru": "Он не рассказывал новости с 8 до 10 вчера.",
+          "es": "Él no estaba contando las noticias de 8 a 10 ayer.",
+          "fr": "Il ne racontait pas les nouvelles de 8 à 10 heures hier.",
+          "de": "Er hat gestern von 8 bis 10 Uhr keine Nachrichten erzählt."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "wasn't", "alternatives": ["weren't", "isn't", "won't"] },
+          { "correct": "telling", "alternatives": ["asking", "showing", "writing"] },
+          { "correct": "the news", "alternatives": ["a calls", "an books", "some plans"] },
+          { "correct": "from", "alternatives": ["to", "at", "by"] },
+          { "correct": "8", "alternatives": ["7", "9", "10"] },
+          { "correct": "to", "alternatives": ["from", "at", "by"] },
+          { "correct": "10", "alternatives": ["9", "8", "7"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "now"] }
+        ]
+      },
+      {
+        "id": 56,
+        "sentence_en": "They'll be working at the hotel at 3 tomorrow.",
+        "translations": {
+          "ru": "Они будут работать в гостинице в 3 завтра.",
+          "es": "Estarán trabajando en el hotel a las 3 mañana.",
+          "fr": "Ils travailleront à l'hôtel à 3 heures demain.",
+          "de": "Sie werden morgen um 3 Uhr im Hotel arbeiten."
+        },
+        "words": [
+          { "correct": "They'll", "alternatives": ["We'll", "He'll", "You'll"] },
+          { "correct": "be", "alternatives": ["is", "are", "was"] },
+          { "correct": "working", "alternatives": ["reading", "writing", "calling"] },
+          { "correct": "at", "alternatives": ["on", "in", "by"] },
+          { "correct": "the hotel", "alternatives": ["a restaurant", "an cafe", "some office"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "3", "alternatives": ["2", "4", "5"] },
+          { "correct": "tomorrow", "alternatives": ["today", "yesterday", "now"] }
+        ]
+      },
+      {
+        "id": 57,
+        "sentence_en": "I wasn't sending letters this time yesterday.",
+        "translations": {
+          "ru": "Я не посылал письма в это время вчера.",
+          "es": "No estaba enviando cartas a esta hora ayer.",
+          "fr": "Je n'envoyais pas de lettres à cette heure hier.",
+          "de": "Ich habe gestern um diese Zeit keine Briefe geschickt."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["We", "They", "He"] },
+          { "correct": "wasn't", "alternatives": ["weren't", "isn't", "won't"] },
+          { "correct": "sending", "alternatives": ["answering", "telling", "showing"] },
+          { "correct": "letters", "alternatives": ["calls", "books", "plans"] },
+          { "correct": "this", "alternatives": ["that", "these", "those"] },
+          { "correct": "time", "alternatives": ["place", "moment", "hour"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "soon"] }
+        ]
+      },
+      {
+        "id": 58,
+        "sentence_en": "She was sending letters at 3 yesterday.",
+        "translations": {
+          "ru": "Она посылала письма в 3 вчера.",
+          "es": "Ella estaba enviando cartas a las 3 ayer.",
+          "fr": "Elle envoyait des lettres à 3 heures hier.",
+          "de": "Sie hat gestern um 3 Uhr Briefe geschickt."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "was", "alternatives": ["were", "is", "are"] },
+          { "correct": "sending", "alternatives": ["answering", "telling", "showing"] },
+          { "correct": "letters", "alternatives": ["calls", "books", "plans"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "3", "alternatives": ["2", "4", "5"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "soon"] }
+        ]
+      },
+      {
+        "id": 59,
+        "sentence_en": "You weren't reading that article from 7 to 9 yesterday.",
+        "translations": {
+          "ru": "Ты не читал ту статью с 7 до 9 вчера.",
+          "es": "No estabas leyendo ese artículo de 7 a 9 ayer.",
+          "fr": "Tu ne lisais pas cet article de 7 à 9 heures hier.",
+          "de": "Du hast gestern von 7 bis 9 Uhr diesen Artikel nicht gelesen."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "weren't", "alternatives": ["wasn't", "isn't", "won't"] },
+          { "correct": "reading", "alternatives": ["writing", "calling", "showing"] },
+          { "correct": "that", "alternatives": ["this", "these", "those"] },
+          { "correct": "article", "alternatives": ["book", "plan", "call"] },
+          { "correct": "from", "alternatives": ["to", "at", "by"] },
+          { "correct": "7", "alternatives": ["6", "8", "9"] },
+          { "correct": "to", "alternatives": ["from", "at", "by"] },
+          { "correct": "9", "alternatives": ["8", "7", "6"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "soon"] }
+        ]
+      },
+      {
+        "id": 60,
+        "sentence_en": "Was he asking for a raise all day yesterday?",
+        "translations": {
+          "ru": "Он просил о повышении целый день вчера?",
+          "es": "¿Estuvo pidiendo un aumento todo el día ayer?",
+          "fr": "Demandait-il une augmentation toute la journée hier ?",
+          "de": "Hat er gestern den ganzen Tag um eine Gehaltserhöhung gebeten?"
+        },
+        "words": [
+          { "correct": "Was", "alternatives": ["Is", "Will", "Does"] },
+          { "correct": "he", "alternatives": ["she", "they", "we"] },
+          { "correct": "asking", "alternatives": ["answering", "telling", "showing"] },
+          { "correct": "for", "alternatives": ["to", "by", "with"] },
+          { "correct": "a raise", "alternatives": ["the call", "an plan", "some letter"] },
+          { "correct": "all", "alternatives": ["half", "early", "short"] },
+          { "correct": "day", "alternatives": ["week", "month", "hour"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "now"] }
+        ]
+      },
+      {
+        "id": 61,
+        "sentence_en": "She wasn't drinking tea from 4 to 6 yesterday.",
+        "translations": {
+          "ru": "Она не пила чай с 4 до 6 вчера.",
+          "es": "Ella no estuvo bebiendo té de 4 a 6 ayer.",
+          "fr": "Elle ne buvait pas de thé de 4 à 6 heures hier.",
+          "de": "Sie trank gestern von 4 bis 6 Uhr keinen Tee."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "wasn't", "alternatives": ["weren't", "isn't", "won't"] },
+          { "correct": "drinking", "alternatives": ["eating", "reading", "writing"] },
+          { "correct": "tea", "alternatives": ["coffee", "milk", "juice"] },
+          { "correct": "from", "alternatives": ["to", "at", "by"] },
+          { "correct": "4", "alternatives": ["3", "5", "6"] },
+          { "correct": "to", "alternatives": ["from", "at", "by"] },
+          { "correct": "6", "alternatives": ["5", "4", "7"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "now"] }
+        ]
+      },
+      {
+        "id": 62,
+        "sentence_en": "They're working at the restaurant now.",
+        "translations": {
+          "ru": "Они работают в ресторане сейчас.",
+          "es": "Están trabajando en el restaurante ahora.",
+          "fr": "Ils travaillent au restaurant en ce moment.",
+          "de": "Sie arbeiten jetzt im Restaurant."
+        },
+        "words": [
+          { "correct": "They're", "alternatives": ["We're", "You're", "I'm"] },
+          { "correct": "working", "alternatives": ["reading", "writing", "calling"] },
+          { "correct": "at", "alternatives": ["on", "in", "by"] },
+          { "correct": "the restaurant", "alternatives": ["a cafe", "an office", "some hotel"] },
+          { "correct": "now", "alternatives": ["soon", "later", "today"] }
+        ]
+      },
+      {
+        "id": 63,
+        "sentence_en": "We weren't sending letters from 5 to 8 yesterday.",
+        "translations": {
+          "ru": "Мы не посылали письма с 5 до 8 вчера.",
+          "es": "No estuvimos enviando cartas de 5 a 8 ayer.",
+          "fr": "Nous n'envoyions pas de lettres de 5 à 8 heures hier.",
+          "de": "Wir haben gestern von 5 bis 8 Uhr keine Briefe geschickt."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "He"] },
+          { "correct": "weren't", "alternatives": ["wasn't", "isn't", "won't"] },
+          { "correct": "sending", "alternatives": ["answering", "telling", "showing"] },
+          { "correct": "letters", "alternatives": ["calls", "books", "plans"] },
+          { "correct": "from", "alternatives": ["to", "at", "by"] },
+          { "correct": "5", "alternatives": ["4", "6", "7"] },
+          { "correct": "to", "alternatives": ["from", "at", "by"] },
+          { "correct": "8", "alternatives": ["7", "9", "10"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "soon"] }
+        ]
+      },
+      {
+        "id": 64,
+        "sentence_en": "Were they studying German from 7 to 10 yesterday?",
+        "translations": {
+          "ru": "Они изучали немецкий с 7 до 10 вчера?",
+          "es": "¿Estuvieron estudiando alemán de 7 a 10 ayer?",
+          "fr": "Étudiaient-ils l'allemand de 7 à 10 heures hier ?",
+          "de": "Haben sie gestern von 7 bis 10 Uhr Deutsch gelernt?"
+        },
+        "words": [
+          { "correct": "Were", "alternatives": ["Was", "Is", "Will"] },
+          { "correct": "they", "alternatives": ["we", "he", "you"] },
+          { "correct": "studying", "alternatives": ["reading", "writing", "calling"] },
+          { "correct": "German", "alternatives": ["French", "English", "Spanish"] },
+          { "correct": "from", "alternatives": ["to", "at", "by"] },
+          { "correct": "7", "alternatives": ["6", "8", "9"] },
+          { "correct": "to", "alternatives": ["from", "at", "by"] },
+          { "correct": "10", "alternatives": ["9", "8", "7"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "now"] }
+        ]
+      },
+      {
+        "id": 65,
+        "sentence_en": "We won't be studying French at 4 tomorrow.",
+        "translations": {
+          "ru": "Мы не будем изучать французский в 4 завтра.",
+          "es": "No estaremos estudiando francés a las 4 mañana.",
+          "fr": "Nous n'étudierons pas le français à 4 heures demain.",
+          "de": "Wir werden morgen um 4 Uhr kein Französisch lernen."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "He"] },
+          { "correct": "won't", "alternatives": ["isn't", "wasn't", "aren't"] },
+          { "correct": "be", "alternatives": ["is", "are", "was"] },
+          { "correct": "studying", "alternatives": ["reading", "writing", "calling"] },
+          { "correct": "French", "alternatives": ["German", "English", "Spanish"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "4", "alternatives": ["3", "5", "6"] },
+          { "correct": "tomorrow", "alternatives": ["today", "yesterday", "now"] }
+        ]
+      },
+      {
+        "id": 66,
+        "sentence_en": "She was asking for a raise all day yesterday.",
+        "translations": {
+          "ru": "Она просила о повышении целый день вчера.",
+          "es": "Ella estuvo pidiendo un aumento todo el día ayer.",
+          "fr": "Elle demandait une augmentation toute la journée hier.",
+          "de": "Sie bat gestern den ganzen Tag um eine Gehaltserhöhung."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "was", "alternatives": ["were", "is", "are"] },
+          { "correct": "asking", "alternatives": ["answering", "telling", "showing"] },
+          { "correct": "for", "alternatives": ["to", "by", "with"] },
+          { "correct": "a raise", "alternatives": ["the call", "an plan", "some letter"] },
+          { "correct": "all", "alternatives": ["half", "early", "short"] },
+          { "correct": "day", "alternatives": ["week", "month", "hour"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "now"] }
+        ]
+      },
+      {
+        "id": 67,
+        "sentence_en": "We won't be answering the phone this time tomorrow.",
+        "translations": {
+          "ru": "Мы не будем отвечать на телефон в это время завтра.",
+          "es": "No estaremos contestando el teléfono a esta hora mañana.",
+          "fr": "Nous ne répondrons pas au téléphone à cette heure demain.",
+          "de": "Wir werden morgen um diese Zeit nicht ans Telefon gehen."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "He"] },
+          { "correct": "won't", "alternatives": ["isn't", "wasn't", "aren't"] },
+          { "correct": "be", "alternatives": ["is", "are", "was"] },
+          { "correct": "answering", "alternatives": ["calling", "writing", "reading"] },
+          { "correct": "the phone", "alternatives": ["a door", "an window", "some letter"] },
+          { "correct": "this", "alternatives": ["that", "these", "those"] },
+          { "correct": "time", "alternatives": ["place", "moment", "hour"] },
+          { "correct": "tomorrow", "alternatives": ["today", "yesterday", "soon"] }
+        ]
+      },
+      {
+        "id": 68,
+        "sentence_en": "They won't be flying to London from 7 to 8 tomorrow.",
+        "translations": {
+          "ru": "Они не будут лететь в Лондон с 7 до 8 завтра.",
+          "es": "No estarán volando a Londres de 7 a 8 mañana.",
+          "fr": "Ils ne voleront pas à Londres de 7 à 8 heures demain.",
+          "de": "Sie werden morgen von 7 bis 8 Uhr nicht nach London fliegen."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "won't", "alternatives": ["isn't", "wasn't", "aren't"] },
+          { "correct": "be", "alternatives": ["is", "are", "was"] },
+          { "correct": "flying", "alternatives": ["driving", "walking", "waiting"] },
+          { "correct": "to", "alternatives": ["from", "at", "in"] },
+          { "correct": "London", "alternatives": ["Paris", "Berlin", "Madrid"] },
+          { "correct": "from", "alternatives": ["to", "at", "by"] },
+          { "correct": "7", "alternatives": ["6", "8", "9"] },
+          { "correct": "to", "alternatives": ["from", "at", "by"] },
+          { "correct": "8", "alternatives": ["7", "9", "10"] },
+          { "correct": "tomorrow", "alternatives": ["today", "yesterday", "soon"] }
+        ]
+      },
+      {
+        "id": 69,
+        "sentence_en": "You'll be reading this book at 9 tomorrow.",
+        "translations": {
+          "ru": "Ты будешь читать эту книгу в 9 завтра.",
+          "es": "Estarás leyendo este libro a las 9 mañana.",
+          "fr": "Tu liras ce livre à 9 heures demain.",
+          "de": "Du wirst morgen um 9 Uhr dieses Buch lesen."
+        },
+        "words": [
+          { "correct": "You'll", "alternatives": ["He'll", "They'll", "We'll"] },
+          { "correct": "be", "alternatives": ["is", "are", "was"] },
+          { "correct": "reading", "alternatives": ["writing", "calling", "showing"] },
+          { "correct": "this book", "alternatives": ["that plan", "these call", "those letter"] },
+          { "correct": "at", "alternatives": ["in", "on", "by"] },
+          { "correct": "9", "alternatives": ["8", "10", "7"] },
+          { "correct": "tomorrow", "alternatives": ["today", "yesterday", "soon"] }
+        ]
+      },
+      {
+        "id": 70,
+        "sentence_en": "I wasn't asking for a delay from 6 to 9 yesterday.",        
+        "translations": {
+          "ru": "Я не просил об отсрочке с 6 до 9 вчера.",
+          "es": "No estuve pidiendo un retraso de 6 a 9 ayer.",
+          "fr": "Je ne demandais pas de délai de 6 à 9 heures hier.",
+          "de": "Ich habe gestern von 6 bis 9 Uhr nicht um Aufschub gebeten."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["We", "They", "He"] },
+          { "correct": "wasn't", "alternatives": ["weren't", "isn't", "won't"] },
+          { "correct": "asking", "alternatives": ["answering", "telling", "showing"] },
+          { "correct": "for", "alternatives": ["to", "by", "with"] },
+          { "correct": "a delay", "alternatives": ["the call", "an plan", "some letter"] },
+          { "correct": "from", "alternatives": ["to", "at", "by"] },
+          { "correct": "6", "alternatives": ["5", "7", "8"] },
+          { "correct": "to", "alternatives": ["from", "at", "by"] },
+          { "correct": "9", "alternatives": ["8", "7", "10"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "soon"] }
+        ]
+      }
+    ]
+  }
+}

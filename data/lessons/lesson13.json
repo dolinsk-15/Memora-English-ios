@@ -1,0 +1,2647 @@
+{
+  "id": 13,
+  "title": {
+    "english": "Adjectives",
+    "russian": "Прилагательные",
+    "spanish": "Adjetivos",
+    "french": "Adjectifs",
+    "german": "Adjektive"
+  },
+  "description": {
+    "english": "In this lesson, we'll learn about adjectives in English.",
+    "russian": "Этот урок посвящён прилагательным, которые часто используются в английском языке для описания людей, погоды, внешности и других характеристик.",
+    "spanish": "En esta lección, aprenderemos sobre los adjetivos en inglés.",
+    "french": "Dans cette leçon, nous apprendrons les adjectifs en anglais.",
+    "german": "In dieser Lektion lernen wir Adjektive im Englischen."
+  },
+  "detailedDescription": {
+    "russian": {
+      "title": "Урок 13 — Прилагательные",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Прилагательные"
+        },
+        {
+          "type": "text",
+          "content": "Этот урок посвящён прилагательным, которые часто используются в английском языке для описания людей, погоды, внешности и других характеристик."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "1. Описание людей"
+        },
+        {
+          "type": "text",
+          "content": "При описании людей обычно используются следующие группы прилагательных:"
+        },
+        {
+          "type": "heading",
+          "content": "Возраст"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "young — молодой",
+            "old — старый",
+            "adult — взрослый",
+            "elderly — пожилой"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Размер"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "big — большой",
+            "small — маленький",
+            "fat — толстый / жирный",
+            "slim — стройный / худой",
+            "skinny — тощий"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Вес"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "heavy — тяжёлый",
+            "light — лёгкий"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Рост"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "tall / high — высокий",
+            "low — низкий"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Длина"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "long — длинный",
+            "short — короткий"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Цвет"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "dim — тусклый",
+            "light — светлый",
+            "dark — тёмный",
+            "bright — яркий"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Состояние"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "hungry — голодный",
+            "happy — счастливый",
+            "angry — злой / сердитый",
+            "healthy — здоровый",
+            "kind — добрый"
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Формулы построения предложений:"
+        },
+        {
+          "type": "text",
+          "content": "Когда описывается человек в целом:\n\nto be + прилагательное"
+        },
+        {
+          "type": "heading",
+          "content": "Примеры:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "He is young. — Он молодой.",
+            "She is tall. — Она высокая."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Когда описывается часть тела:\n\nto have + прилагательное + часть тела"
+        },
+        {
+          "type": "heading",
+          "content": "Примеры:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I have long hair. — У меня длинные волосы.",
+            "She has brown eyes. — У неё карие глаза.",
+            "Does he have a straight nose? — У него прямой нос?",
+            "He has an aquiline nose. — У него орлиный нос."
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Примечание:"
+        },
+        {
+          "type": "text",
+          "content": "В русском языке мы часто говорим:\n«У неё маленькие ноги», «У неё длинные ноги».\n\nВ английском языке важно различать:\n • feet — ступни\n • legs — ноги (голени)"
+        },
+        {
+          "type": "heading",
+          "content": "Примеры:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "She has long legs. — У неё длинные ноги.",
+            "She has small feet. — У неё маленькие ступни."
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "2. Погода"
+        },
+        {
+          "type": "text",
+          "content": "Для описания погоды также используются прилагательные:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "cold — холодно",
+            "warm — тепло",
+            "hot — жарко",
+            "frosty — морозно",
+            "sunny — солнечно",
+            "cloudy — облачно",
+            "windy — ветрено",
+            "foggy — туманно",
+            "rainy — дождливо"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Формула:"
+        },
+        {
+          "type": "text",
+          "content": "to be + прилагательное"
+        },
+        {
+          "type": "heading",
+          "content": "Примеры:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "It is cold today. — Сегодня холодно.",
+            "It was sunny yesterday. — Вчера было солнечно."
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Если идёт дождь или снег (в данный момент):"
+        },
+        {
+          "type": "text",
+          "content": "Используются конструкции с глаголом -ing:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "It is raining. — Идёт дождь.",
+            "It is snowing. — Идёт снег."
+          ]
+        }
+      ]
+    },
+    "spanish": {
+      "title": "Lección 13 — Adjetivos en inglés",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Adjetivos en inglés"
+        },
+        {
+          "type": "text",
+          "content": "En esta lección vamos a estudiar los adjetivos más comunes en inglés y cómo se usan para describir personas, partes del cuerpo y el clima."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "1. Cómo describir a una persona"
+        },
+        {
+          "type": "text",
+          "content": "En inglés, los adjetivos no cambian de forma según el género ni el número, y siempre van antes del sustantivo."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Adjetivos comunes para describir personas:"
+        },
+        {
+          "type": "heading",
+          "content": "Edad"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "young – joven",
+            "old – viejo",
+            "adult – adulto",
+            "elderly – anciano"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Tamaño"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "big – grande",
+            "small – pequeño",
+            "fat – gordo",
+            "slim – delgado",
+            "skinny – muy delgado / flaco"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Peso"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "heavy – pesado",
+            "light – liviano"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Altura"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "tall / high – alto",
+            "low – bajo"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Longitud"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "long – largo",
+            "short – corto"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Colores y luz"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "dim – tenue",
+            "light – claro",
+            "dark – oscuro",
+            "bright – brillante"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Estados y emociones"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "hungry – hambriento",
+            "happy – feliz",
+            "angry – enojado",
+            "healthy – saludable",
+            "kind – amable"
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Estructuras más comunes"
+        },
+        {
+          "type": "text",
+          "content": "Para describir a una persona en general:\n\nto be + adjetivo"
+        },
+        {
+          "type": "heading",
+          "content": "Ejemplos:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "He is young. — Él es joven.",
+            "She is tall. — Ella es alta."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Para describir partes del cuerpo:\n\nto have + adjetivo + parte del cuerpo"
+        },
+        {
+          "type": "heading",
+          "content": "Ejemplos:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I have long hair. — Tengo el pelo largo.",
+            "She has brown eyes. — Ella tiene ojos marrones.",
+            "Does he have a straight nose? — ¿Él tiene la nariz recta?",
+            "He has an aquiline nose. — Él tiene una nariz aguileña."
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Nota cultural importante"
+        },
+        {
+          "type": "text",
+          "content": "En español decimos:\n\n\"Ella tiene las piernas largas\" o \"los pies pequeños\".\n\nEn inglés es importante diferenciar entre:\n • legs – piernas (desde la cadera hasta el tobillo)\n • feet – pies"
+        },
+        {
+          "type": "heading",
+          "content": "Ejemplos:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "She has long legs. — Ella tiene las piernas largas.",
+            "She has small feet. — Ella tiene los pies pequeños."
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "2. Cómo describir el clima"
+        },
+        {
+          "type": "text",
+          "content": "En inglés, también usamos adjetivos para describir el clima."
+        },
+        {
+          "type": "heading",
+          "content": "Adjetivos comunes:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "cold – frío",
+            "warm – templado / cálido",
+            "hot – caluroso",
+            "frosty – helado",
+            "sunny – soleado",
+            "cloudy – nuageux",
+            "windy – ventoso",
+            "foggy – con niebla",
+            "rainy – lluvioso"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Estructura básica:"
+        },
+        {
+          "type": "text",
+          "content": "to be + adjectivo"
+        },
+        {
+          "type": "heading",
+          "content": "Ejemplos :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "It is cold today. — Hoy hace frío.",
+            "It was sunny yesterday. — Ayer estuvo soleado."
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Acciones climáticas en progreso"
+        },
+        {
+          "type": "text",
+          "content": "Para decir \"está lloviendo\" o \"está nevando\", se usan formas en -ing:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "It is raining. — Está lloviendo.",
+            "It is snowing. — Está nevando."
+          ]
+        }
+      ]
+    },
+    "french": {
+      "title": "Leçon 13 — Les adjectifs en anglais",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Les adjectifs en anglais"
+        },
+        {
+          "type": "text",
+          "content": "Dans cette leçon, nous allons apprendre à utiliser les adjectifs en anglais, en particulier pour décrire les personnes, le corps humain et le temps qu'il fait."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "1. Décrire une personne"
+        },
+        {
+          "type": "text",
+          "content": "En anglais, les adjectifs sont invariables :\n→ Ils ne changent pas selon le genre ou le nombre, et ils se placent toujours avant le nom."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Adjectifs courants pour décrire une personne :"
+        },
+        {
+          "type": "heading",
+          "content": "Âge"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "young – jeune",
+            "old – vieux",
+            "adult – adulte",
+            "elderly – âgé / d'un certain âge"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Taille"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "big – grand",
+            "small – petit",
+            "fat – gros",
+            "slim – mince",
+            "skinny – très mince / maigre"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Poids"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "heavy – lourd",
+            "light – léger"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Taille (hauteur)"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "tall / high – grand / haut",
+            "low – bas"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Longueur"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "long – long",
+            "short – court"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Couleur / Lumière"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "dim – faible (lumière)",
+            "light – clair",
+            "dark – foncé",
+            "bright – lumineux / vif"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "État / Émotion"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "hungry – affamé",
+            "happy – heureux",
+            "angry – en colère",
+            "healthy – en bonne santé",
+            "kind – gentil"
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Structures à connaître"
+        },
+        {
+          "type": "text",
+          "content": "Pour décrire une personne en général :\n\nto be + adjectif"
+        },
+        {
+          "type": "heading",
+          "content": "Exemples :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "He is young. — Il est jeune.",
+            "She is tall. — Elle est grande."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Pour décrire une partie du corps :\n\nto have + adjectif + partie du corps"
+        },
+        {
+          "type": "heading",
+          "content": "Exemples :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I have long hair. — J'ai les cheveux longs.",
+            "She has brown eyes. — Elle a les yeux marron.",
+            "Does he have a straight nose? — A-t-il le nez droit ?",
+            "He has an aquiline nose. — Il a un nez aquilin."
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Remarque importante pour les francophones :"
+        },
+        {
+          "type": "text",
+          "content": "En français, on dit :\n\n\"Elle a les jambes longues\" ou \"Elle a les petits pieds\".\n\nEn anglais, il faut faire la distinction entre :\n • legs – jambes (du haut de la cuisse à la cheville)\n • feet – pieds"
+        },
+        {
+          "type": "heading",
+          "content": "Exemples :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "She has long legs. — Elle a de longues jambes.",
+            "She has small feet. — Elle a de petits pieds."
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "2. Décrire le temps qu'il fait"
+        },
+        {
+          "type": "text",
+          "content": "Les adjectifs sont aussi utilisés pour parler de la météo en anglais."
+        },
+        {
+          "type": "heading",
+          "content": "Adjectifs météo fréquents :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "cold – froid",
+            "warm – doux / tiède",
+            "hot – chaud",
+            "frosty – glacial / givré",
+            "sunny – ensoleillé",
+            "cloudy – nuageux",
+            "windy – venteux",
+            "foggy – brumeux / avec du brouillard",
+            "rainy – pluvieux"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Structure courante :"
+        },
+        {
+          "type": "text",
+          "content": "It is + adjectif"
+        },
+        {
+          "type": "heading",
+          "content": "Exemples :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "It is cold today. — Il fait froid aujourd'hui.",
+            "It was sunny yesterday. — Il faisait beau hier."
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Pour parler de la pluie ou de la neige (en cours)"
+        },
+        {
+          "type": "text",
+          "content": "→ Utilisez le présent en -ing pour parler d'une action météorologique en train de se produire :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "It is raining. — Il pleut.",
+            "It is snowing. — Il neige."
+          ]
+        }
+      ]
+    },
+    "german": {
+      "title": "Lektion 13 — Adjektive im Englischen",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Adjektive im Englischen"
+        },
+        {
+          "type": "text",
+          "content": "In dieser Lektion lernen wir die häufigsten Adjektive im Englischen kennen und wie man sie verwendet, um Menschen, Körperteile und das Wetter zu beschreiben."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "1. Personen beschreiben"
+        },
+        {
+          "type": "text",
+          "content": "Im Englischen sind Adjektive unveränderlich:\n→ Sie ändern sich nicht nach Geschlecht oder Anzahl und stehen immer vor dem Nomen."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Häufige Adjektive zur Personenbeschreibung"
+        },
+        {
+          "type": "heading",
+          "content": "Alter"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "young – jung",
+            "old – alt",
+            "adult – erwachsen",
+            "elderly – älter / betagt"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Größe"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "big – groß",
+            "small – klein",
+            "fat – dick",
+            "slim – schlank",
+            "skinny – dünn / mager"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Gewicht"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "heavy – schwer",
+            "light – leicht"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Körpergröße"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "tall / high – groß / hoch",
+            "low – niedrig"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Länge"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "long – lang",
+            "short – kurz"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Farbe / Helligkeit"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "dim – gedämpft / schwach (Licht)",
+            "light – hell",
+            "dark – dunkel",
+            "bright – leuchtend / hell"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Zustand / Gefühl"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "hungry – hungrig",
+            "happy – glücklich",
+            "angry – wütend / verärgert",
+            "healthy – gesund",
+            "kind – freundlich / nett"
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Wichtige Satzmuster"
+        },
+        {
+          "type": "text",
+          "content": "Wenn man eine Person allgemein beschreibt:\n\nto be + Adjektiv"
+        },
+        {
+          "type": "heading",
+          "content": "Beispiele:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "He is young. — Er ist jung.",
+            "She is tall. — Sie ist groß."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Wenn man ein Körperteil beschreibt:\n\nto have + Adjektiv + Körperteil"
+        },
+        {
+          "type": "heading",
+          "content": "Beispiele:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I have long hair. — Ich habe lange Haare.",
+            "She has brown eyes. — Sie hat braune Augen.",
+            "Does he have a straight nose? — Hat er eine gerade Nase?",
+            "He has an aquiline nose. — Er hat eine Adlernase."
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Hinweis für deutschsprachige Lernende:"
+        },
+        {
+          "type": "text",
+          "content": "Im Deutschen sagt man z. B.:\n\n\"Sie hat lange Beine\", \"Sie hat kleine Füße\".\n\nIm Englischen ist es wichtig, zu unterscheiden:\n • legs – Beine (Oberschenkel bis Fußgelenk)\n • feet – Füße (nur der untere Teil)"
+        },
+        {
+          "type": "heading",
+          "content": "Beispiele:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "She has long legs. — Sie hat lange Beine.",
+            "She has small feet. — Sie hat kleine Füße."
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "2. Das Wetter beschreiben"
+        },
+        {
+          "type": "text",
+          "content": "Auch das Wetter wird im Englischen oft mit Adjektiven beschrieben."
+        },
+        {
+          "type": "heading",
+          "content": "Häufige Wetter-Adjektive:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "cold – kalt",
+            "warm – warm",
+            "hot – heiß",
+            "frosty – frostig",
+            "sunny – sonnig",
+            "cloudy – bewölkt",
+            "windy – windig",
+            "foggy – neblig",
+            "rainy – regnerisch"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Standardsatzstruktur:"
+        },
+        {
+          "type": "text",
+          "content": "It is + Adjektiv"
+        },
+        {
+          "type": "heading",
+          "content": "Beispiele:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "It is cold today. — Heute ist es kalt.",
+            "It was sunny yesterday. — Gestern war es sonnig."
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Wenn es gerade regnet oder schneit"
+        },
+        {
+          "type": "text",
+          "content": "→ Dann verwendet man die Verlaufsform (Present Continuous) mit -ing:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "It is raining. — Es regnet (gerade).",
+            "It is snowing. — Es schneit (gerade)."
+          ]
+        }
+      ]
+    }
+  },
+  "vocabulary": {
+    "firstList": [
+      { "number": 1, "english": "adult", "russian": "взрослый", "spanish": "adulto", "french": "adulte", "german": "Erwachsener" },
+      { "number": 2, "english": "elderly", "russian": "пожилой", "spanish": "anciano", "french": "âgé", "german": "älter" },
+      { "number": 3, "english": "fat", "russian": "толстый, жирный", "spanish": "gordo", "french": "gros", "german": "fett" },
+      { "number": 4, "english": "slim", "russian": "тонкий, худой", "spanish": "delgado", "french": "mince", "german": "schlank" },
+      { "number": 5, "english": "small", "russian": "маленький", "spanish": "pequeño", "french": "petit", "german": "klein" },
+      { "number": 6, "english": "skinny", "russian": "тощий", "spanish": "flaco", "french": "maigre", "german": "dürr" },
+      { "number": 7, "english": "heavy", "russian": "тяжелый", "spanish": "pesado", "french": "lourd", "german": "schwer" },
+      { "number": 8, "english": "light", "russian": "лёгкий, светлый", "spanish": "ligero", "french": "léger", "german": "leicht" },
+      { "number": 9, "english": "high", "russian": "высокий", "spanish": "alto", "french": "haut", "german": "hoch" },
+      { "number": 10, "english": "low", "russian": "низкий", "spanish": "bajo", "french": "bas", "german": "niedrig" },
+      { "number": 11, "english": "dim", "russian": "тусклый", "spanish": "tenue", "french": "sombre", "german": "dunkel" },
+      { "number": 12, "english": "dark", "russian": "тёмный", "spanish": "oscuro", "french": "foncé", "german": "dunkel" },
+      { "number": 13, "english": "bright", "russian": "яркий", "spanish": "brillante", "french": "brillant", "german": "hell" },
+      { "number": 14, "english": "angry", "russian": "сердитый", "spanish": "enojado", "french": "fâché", "german": "wütend" },
+      { "number": 15, "english": "happy", "russian": "счастливый", "spanish": "feliz", "french": "heureux", "german": "glücklich" },
+      { "number": 16, "english": "healthy", "russian": "здоровый", "spanish": "saludable", "french": "en bonne santé", "german": "gesund" },
+      { "number": 17, "english": "kind", "russian": "добрый", "spanish": "amable", "french": "gentil", "german": "nett" },
+      { "number": 18, "english": "hungry", "russian": "голодный", "spanish": "hambriento", "french": "affamé", "german": "hungrig" },
+      { "number": 19, "english": "aquiline", "russian": "орлиный", "spanish": "aguileño", "french": "aquilin", "german": "adlerartig" },
+      { "number": 20, "english": "snub", "russian": "курносый", "spanish": "chato", "french": "camus", "german": "stupsnasig" },
+      { "number": 21, "english": "straight", "russian": "прямой", "spanish": "recto", "french": "droit", "german": "gerade" },
+      { "number": 22, "english": "fingers", "russian": "пальцы", "spanish": "dedos", "french": "doigts", "german": "Finger" },
+      { "number": 23, "english": "hair", "russian": "волосы", "spanish": "pelo", "french": "cheveux", "german": "Haare" },
+      { "number": 24, "english": "nose", "russian": "нос", "spanish": "nariz", "french": "nez", "german": "Nase" },
+      { "number": 25, "english": "ear", "russian": "ухо", "spanish": "oreja", "french": "oreille", "german": "Ohr" },
+      { "number": 26, "english": "foot", "russian": "нога, стопа", "spanish": "pie", "french": "pied", "german": "Fuß" },
+      { "number": 27, "english": "eye", "russian": "глаз", "spanish": "ojo", "french": "œil", "german": "Auge" },
+      { "number": 28, "english": "hand", "russian": "рука", "spanish": "mano", "french": "main", "german": "Hand" },
+      { "number": 29, "english": "nail", "russian": "ноготь", "spanish": "uña", "french": "ongle", "german": "Nagel" },
+      { "number": 30, "english": "leg", "russian": "нога, голень", "spanish": "pierna", "french": "jambe", "german": "Bein" },
+      { "number": 31, "english": "black", "russian": "чёрный", "spanish": "negro", "french": "noir", "german": "schwarz" },
+      { "number": 32, "english": "gray", "russian": "серый, седой", "spanish": "gris", "french": "gris", "german": "grau" },
+      { "number": 33, "english": "blond", "russian": "белокурый", "spanish": "rubio", "french": "blond", "german": "blond" },
+      { "number": 34, "english": "brown", "russian": "коричневый, каштановый", "spanish": "marrón", "french": "marron", "german": "braun" },
+      { "number": 35, "english": "red", "russian": "красный, рыжий", "spanish": "rojo", "french": "rouge", "german": "rot" },
+      { "number": 36, "english": "blue", "russian": "голубой", "spanish": "azul", "french": "bleu", "german": "blau" },
+      { "number": 37, "english": "green", "russian": "зелёный", "spanish": "verde", "french": "vert", "german": "grün" },
+      { "number": 38, "english": "cold", "russian": "холодно", "spanish": "frío", "french": "froid", "german": "kalt" },
+      { "number": 39, "english": "warm", "russian": "тепло", "spanish": "cálido", "french": "chaud", "german": "warm" },
+      { "number": 40, "english": "hot", "russian": "жарко", "spanish": "caliente", "french": "chaud", "german": "heiß" },
+      { "number": 41, "english": "frosty", "russian": "морозно", "spanish": "helado", "french": "glacial", "german": "frostig" },
+      { "number": 42, "english": "sunny", "russian": "солнечно", "spanish": "soleado", "french": "ensoleillé", "german": "sonnig" },
+      { "number": 43, "english": "cloudy", "russian": "облачно", "spanish": "nublado", "french": "nuageux", "german": "wolkig" },
+      { "number": 44, "english": "windy", "russian": "ветрено", "spanish": "ventoso", "french": "venteux", "german": "windig" },
+      { "number": 45, "english": "foggy", "russian": "туманно", "spanish": "brumoso", "french": "brumeux", "german": "neblig" },
+      { "number": 46, "english": "rainy", "russian": "дождливо", "spanish": "lluvioso", "french": "pluvieux", "german": "regnerisch" }
+    ]
+  },
+  
+    "sentences": [
+      {
+        "id": 1,
+        "english": "I don't have an aquiline nose.",
+        "russian": "У меня не орлиный нос.",
+        "spanish": "No tengo una nariz aguileña.",
+        "german": "Ich habe keine Adlernase.",
+        "french": "Je n'ai pas de nez aquilin."
+      },
+      {
+        "id": 2,
+        "english": "Is it sunny today?",
+        "russian": "Сегодня солнечно?",
+        "spanish": "¿Está soleado hoy?",
+        "german": "Ist es heute sonnig?",
+        "french": "Fait-il beau aujourd'hui ?"
+      },
+      {
+        "id": 3,
+        "english": "Was it cold yesterday?",
+        "russian": "Вчера было холодно?",
+        "spanish": "¿Hacía frío ayer?",
+        "german": "War es gestern kalt?",
+        "french": "Faisait-il froid hier ?"
+      },
+      {
+        "id": 4,
+        "english": "I don't have a straight nose.",
+        "russian": "У меня не прямой нос.",
+        "spanish": "No tengo una nariz recta.",
+        "german": "Ich habe keine gerade Nase.",
+        "french": "Je n'ai pas de nez droit."
+      },
+      {
+        "id": 5,
+        "english": "Are you happy?",
+        "russian": "Ты счастлив?",
+        "spanish": "¿Estás feliz?",
+        "german": "Bist du glücklich?",
+        "french": "Es-tu heureux ?"
+      },
+      {
+        "id": 6,
+        "english": "You have small ears.",
+        "russian": "У тебя маленькие уши.",
+        "spanish": "Tienes orejas pequeñas.",
+        "german": "Du hast kleine Ohren.",
+        "french": "Tu as de petites oreilles."
+      },
+      {
+        "id": 7,
+        "english": "It was hot yesterday.",
+        "russian": "Вчера было жарко.",
+        "spanish": "Hacía calor ayer.",
+        "german": "Es war gestern heiß.",
+        "french": "Il faisait chaud hier."
+      },
+      {
+        "id": 8,
+        "english": "We don't have small hands.",
+        "russian": "У нас не маленькие руки.",
+        "spanish": "No tenemos manos pequeñas.",
+        "german": "Wir haben keine kleinen Hände.",
+        "french": "Nous n'avons pas de petites mains."
+      },
+      {
+        "id": 9,
+        "english": "It's sunny but cold today.",
+        "russian": "Сегодня солнечно, но холодно.",
+        "spanish": "Hoy está soleado pero frío.",
+        "german": "Es ist heute sonnig, aber kalt.",
+        "french": "Il fait beau mais froid aujourd'hui."
+      },
+      {
+        "id": 10,
+        "english": "It'll be warm tomorrow.",
+        "russian": "Завтра будет тепло.",
+        "spanish": "Mañana hará calor.",
+        "german": "Morgen wird es warm sein.",
+        "french": "Il fera chaud demain."
+      },
+      {
+        "id": 11,
+        "english": "Was it cloudy yesterday?",
+        "russian": "Вчера было облачно?",
+        "spanish": "¿Estaba nublado ayer?",
+        "german": "War es gestern bewölkt?",
+        "french": "Était-il nuageux hier ?"
+      },
+      {
+        "id": 12,
+        "english": "They aren't angry.",
+        "russian": "Они не сердитые.",
+        "spanish": "Ellos no están enojados.",
+        "german": "Sie sind nicht wütend.",
+        "french": "Ils ne sont pas en colère."
+      },
+      {
+        "id": 13,
+        "english": "She's young.",
+        "russian": "Она молодая.",
+        "spanish": "Ella es joven.",
+        "german": "Sie ist jung.",
+        "french": "Elle est jeune."
+      },
+      {
+        "id": 14,
+        "english": "I'm angry.",
+        "russian": "Я сердитый.",
+        "spanish": "Estoy enojado.",
+        "german": "Ich bin wütend.",
+        "french": "Je suis en colère."
+      },
+      {
+        "id": 15,
+        "english": "He has a straight nose.",
+        "russian": "У него прямой нос.",
+        "spanish": "Él tiene una nariz recta.",
+        "german": "Er hat eine gerade Nase.",
+        "french": "Il a un nez droit."
+      },
+      {
+        "id": 16,
+        "english": "Was it windy yesterday?",
+        "russian": "Вчера было ветрено?",
+        "spanish": "¿Hacía viento ayer?",
+        "german": "War es gestern windig?",
+        "french": "Faisait-il du vent hier ?"
+      },
+      {
+        "id": 17,
+        "english": "They aren't tall.",
+        "russian": "Они не высокие.",
+        "spanish": "Ellos no son altos.",
+        "german": "Sie sind nicht groß.",
+        "french": "Ils ne sont pas grands."
+      },
+      {
+        "id": 18,
+        "english": "It's frosty and windy today.",
+        "russian": "Сегодня морозно и ветрено.",
+        "spanish": "Hoy está helado y ventoso.",
+        "german": "Es ist heute frostig und windig.",
+        "french": "Il fait glacial et venteux aujourd'hui."
+      },
+      {
+        "id": 19,
+        "english": "Are you angry?",
+        "russian": "Ты сердитый?",
+        "spanish": "¿Estás enojado?",
+        "german": "Bist du wütend?",
+        "french": "Es-tu en colère ?"
+      },
+      {
+        "id": 20,
+        "english": "Do you have short fingers?",
+        "russian": "У тебя короткие пальцы?",
+        "spanish": "¿Tienes dedos cortos?",
+        "german": "Hast du kurze Finger?",
+        "french": "As-tu des doigts courts ?"
+      },
+      {
+        "id": 21,
+        "english": "Does she have big eyes?",
+        "russian": "У неё большие глаза?",
+        "spanish": "¿Ella tiene ojos grandes?",
+        "german": "Hat sie große Augen?",
+        "french": "A-t-elle de grands yeux ?"
+      },
+      {
+        "id": 22,
+        "english": "You have long hair.",
+        "russian": "У тебя длинные волосы.",
+        "spanish": "Tienes pelo largo.",
+        "german": "Du hast lange Haare.",
+        "french": "Tu as les cheveux longs."
+      },
+      {
+        "id": 23,
+        "english": "Is he elderly?",
+        "russian": "Он пожилой?",
+        "spanish": "¿Es él anciano?",
+        "german": "Ist er älter?",
+        "french": "Est-il âgé ?"
+      },
+      {
+        "id": 24,
+        "english": "She doesn't have long hair.",
+        "russian": "У неё нет длинных волос.",
+        "spanish": "Ella no tiene pelo largo.",
+        "german": "Sie hat keine langen Haare.",
+        "french": "Elle n'a pas les cheveux longs."
+      },
+      {
+        "id": 25,
+        "english": "She has an aquiline nose.",
+        "russian": "У неё орлиный нос.",
+        "spanish": "Ella tiene una nariz aguileña.",
+        "german": "Sie hat eine Adlernase.",
+        "french": "Elle a un nez aquilin."
+      },
+      {
+        "id": 26,
+        "english": "You have brown hair.",
+        "russian": "У тебя каштановые волосы.",
+        "spanish": "Tienes pelo castaño.",
+        "german": "Du hast braune Haare.",
+        "french": "Tu as les cheveux bruns."
+      },
+      {
+        "id": 27,
+        "english": "You have gray hair.",
+        "russian": "У тебя седые волосы.",
+        "spanish": "Tienes pelo gris.",
+        "german": "Du hast graue Haare.",
+        "french": "Tu as les cheveux gris."
+      },
+      {
+        "id": 28,
+        "english": "It was warm yesterday.",
+        "russian": "Вчера было тепло.",
+        "spanish": "Hacía calor ayer.",
+        "german": "Es war gestern warm.",
+        "french": "Il faisait chaud hier."
+      },
+      {
+        "id": 29,
+        "english": "He isn't happy.",
+        "russian": "Он не счастлив.",
+        "spanish": "Él no está feliz.",
+        "german": "Er ist nicht glücklich.",
+        "french": "Il n'est pas heureux."
+      },
+      {
+        "id": 30,
+        "english": "You don't have long nails.",
+        "russian": "У тебя не длинные ногти.",
+        "spanish": "No tienes uñas largas.",
+        "german": "Du hast keine langen Nägel.",
+        "french": "Tu n'as pas de longs ongles."
+      },
+      {
+        "id": 31,
+        "english": "They don't have snub noses.",
+        "russian": "У них не курносые носы.",
+        "spanish": "No tienen narices chatas.",
+        "german": "Sie haben keine Stupsnasen.",
+        "french": "Ils n'ont pas de nez camus."
+      },
+      {
+        "id": 32,
+        "english": "Was it frosty yesterday?",
+        "russian": "Вчера было морозно?",
+        "spanish": "¿Hacía mucho frío ayer?",
+        "german": "War es gestern frostig?",
+        "french": "Était-il glacial hier ?"
+      },
+      {
+        "id": 33,
+        "english": "Is it warm today?",
+        "russian": "Сегодня тепло?",
+        "spanish": "¿Hace calor hoy?",
+        "german": "Ist es heute warm?",
+        "french": "Fait-il chaud aujourd'hui ?"
+      },
+      {
+        "id": 34,
+        "english": "She has small feet.",
+        "russian": "У неё маленькие ноги.",
+        "spanish": "Ella tiene pies pequeños.",
+        "german": "Sie hat kleine Füße.",
+        "french": "Elle a de petits pieds."
+      },
+      {
+        "id": 35,
+        "english": "It'll be foggy tomorrow.",
+        "russian": "Завтра будет туманно.",
+        "spanish": "Mañana habrá niebla.",
+        "german": "Morgen wird es neblig sein.",
+        "french": "Il y aura du brouillard demain."
+      },
+      {
+        "id": 36,
+        "english": "He isn't big.",
+        "russian": "Он не большой.",
+        "spanish": "Él no es grande.",
+        "german": "Er ist nicht groß.",
+        "french": "Il n'est pas grand."
+      },
+      {
+        "id": 37,
+        "english": "Are they heavy?",
+        "russian": "Они тяжелые?",
+        "spanish": "¿Son pesados?",
+        "german": "Sind sie schwer?",
+        "french": "Sont-ils lourds ?"
+      },
+      {
+        "id": 38,
+        "english": "They aren't small.",
+        "russian": "Они не маленькие.",
+        "spanish": "No son pequeños.",
+        "german": "Sie sind nicht klein.",
+        "french": "Ils ne sont pas petits."
+      },
+      {
+        "id": 39,
+        "english": "Will it be warm tomorrow?",
+        "russian": "Завтра будет тепло?",
+        "spanish": "¿Hará calor mañana?",
+        "german": "Wird es morgen warm sein?",
+        "french": "Fera-t-il chaud demain ?"
+      },
+      {
+        "id": 40,
+        "english": "She doesn't have gray hair.",
+        "russian": "У неё не седые волосы.",
+        "spanish": "Ella no tiene pelo gris.",
+        "german": "Sie hat keine grauen Haare.",
+        "french": "Elle n'a pas les cheveux gris."
+      },
+      {
+        "id": 41,
+        "english": "It's warm today.",
+        "russian": "Сегодня тепло.",
+        "spanish": "Hoy hace calor.",
+        "german": "Es ist heute warm.",
+        "french": "Il fait chaud aujourd'hui."
+      },
+      {
+        "id": 42,
+        "english": "They're adult.",
+        "russian": "Они взрослые.",
+        "spanish": "Son adultos.",
+        "german": "Sie sind erwachsen.",
+        "french": "Ils sont adultes."
+      },
+      {
+        "id": 43,
+        "english": "Is he kind?",
+        "russian": "Он добрый?",
+        "spanish": "¿Es amable?",
+        "german": "Ist er nett?",
+        "french": "Est-il gentil ?"
+      },
+      {
+        "id": 44,
+        "english": "I'm happy.",
+        "russian": "Я счастлив.",
+        "spanish": "Estoy feliz.",
+        "german": "Ich bin glücklich.",
+        "french": "Je suis heureux."
+      },
+      {
+        "id": 45,
+        "english": "We aren't old.",
+        "russian": "Мы не старые.",
+        "spanish": "No somos viejos.",
+        "german": "Wir sind nicht alt.",
+        "french": "Nous ne sommes pas vieux."
+      },
+      {
+        "id": 46,
+        "english": "Is she cold?",
+        "russian": "Ей холодно?",
+        "spanish": "¿Tiene frío?",
+        "german": "Ist ihr kalt?",
+        "french": "A-t-elle froid ?"
+      },
+      {
+        "id": 47,
+        "english": "Do they have blond hair?",
+        "russian": "У них белокурые волосы?",
+        "spanish": "¿Tienen pelo rubio?",
+        "german": "Haben sie blonde Haare?",
+        "french": "Ont-ils les cheveux blonds ?"
+      },
+      {
+        "id": 48,
+        "english": "Is he healthy?",
+        "russian": "Он здоров?",
+        "spanish": "¿Está saludable?",
+        "german": "Ist er gesund?",
+        "french": "Est-il en bonne santé ?"
+      },
+      {
+        "id": 49,
+        "english": "We have big eyes.",
+        "russian": "У нас большие глаза.",
+        "spanish": "Tenemos ojos grandes.",
+        "german": "Wir haben große Augen.",
+        "french": "Nous avons de grands yeux."
+      },
+      {
+        "id": 50,
+        "english": "It's windy today.",
+        "russian": "Сегодня ветрено.",
+        "spanish": "Hoy hace viento.",
+        "german": "Es ist heute windig.",
+        "french": "Il y a du vent aujourd'hui."
+      },
+      {
+        "id": 51,
+        "english": "Is it foggy today?",
+        "russian": "Сегодня туманно?",
+        "spanish": "¿Hay niebla hoy?",
+        "german": "Ist es heute neblig?",
+        "french": "Y a-t-il du brouillard aujourd'hui ?"
+      },
+      {
+        "id": 52,
+        "english": "I'm slim.",
+        "russian": "Я худой.",
+        "spanish": "Soy delgado.",
+        "german": "Ich bin schlank.",
+        "french": "Je suis mince."
+      },
+      {
+        "id": 53,
+        "english": "It's rainy today.",
+        "russian": "Сегодня дождливо.",
+        "spanish": "Hoy llueve.",
+        "german": "Es ist heute regnerisch.",
+        "french": "Il pleut aujourd'hui."
+      },
+      {
+        "id": 54,
+        "english": "Was it warm and windy yesterday?",
+        "russian": "Вчера было тепло и ветрено?",
+        "spanish": "¿Ayer hacía calor y viento?",
+        "german": "War es gestern warm und windig?",
+        "french": "Faisait-il chaud et venteux hier ?"
+      },
+      {
+        "id": 55,
+        "english": "You have dark eyes.",
+        "russian": "У тебя темные глаза.",
+        "spanish": "Tienes ojos oscuros.",
+        "german": "Du hast dunkle Augen.",
+        "french": "Tu as les yeux foncés."
+      },
+      {
+        "id": 56,
+        "english": "Was it foggy yesterday?",
+        "russian": "Вчера было туманно?",
+        "spanish": "¿Había niebla ayer?",
+        "german": "War es gestern neblig?",
+        "french": "Y avait-il du brouillard hier ?"
+      },
+      {
+        "id": 57,
+        "english": "He has a flat nose.",
+        "russian": "У него приплюснутый нос.",
+        "spanish": "Él tiene una nariz plana.",
+        "german": "Er hat eine flache Nase.",
+        "french": "Il a un nez plat."
+      },
+      {
+        "id": 58,
+        "english": "She has long fingers.",
+        "russian": "У неё длинные пальцы.",
+        "spanish": "Ella tiene dedos largos.",
+        "german": "Sie hat lange Finger.",
+        "french": "Elle a des doigts longs."
+      },
+      {
+        "id": 59,
+        "english": "Will it be cloudy tomorrow?",
+        "russian": "Завтра будет облачно?",
+        "spanish": "¿Estará nublado mañana?",
+        "german": "Wird es morgen bewölkt sein?",
+        "french": "Sera-t-il nuageux demain ?"
+      },
+      {
+        "id": 60,
+        "english": "It was cloudy yesterday.",
+        "russian": "Вчера было облачно.",
+        "spanish": "Ayer estaba nublado.",
+        "german": "Es war gestern bewölkt.",
+        "french": "Le ciel était nuageux hier."
+      },
+      {
+        "id": 61,
+        "english": "Are they tall?",
+        "russian": "Они высокие?",
+        "spanish": "¿Son altos?",
+        "german": "Sind sie groß?",
+        "french": "Sont-ils grands ?"
+      },
+      {
+        "id": 62,
+        "english": "Is she skinny?",
+        "russian": "Она тощая?",
+        "spanish": "¿Está muy delgada?",
+        "german": "Ist sie dürr?",
+        "french": "Est-elle maigre ?"
+      },
+      {
+        "id": 63,
+        "english": "They're kind.",
+        "russian": "Они добрые.",
+        "spanish": "Son amables.",
+        "german": "Sie sind nett.",
+        "french": "Ils sont gentils."
+      },
+      {
+        "id": 64,
+        "english": "Does she have straight hair?",
+        "russian": "У неё прямые волосы?",
+        "spanish": "¿Tiene pelo liso?",
+        "german": "Hat sie gerades Haar?",
+        "french": "A-t-elle les cheveux raides ?"
+      },
+      {
+        "id": 65,
+        "english": "We have long hair.",
+        "russian": "У нас длинные волосы.",
+        "spanish": "Tenemos pelo largo.",
+        "german": "Wir haben lange Haare.",
+        "french": "Nous avons les cheveux longs."
+      },
+      {
+        "id": 66,
+        "english": "You aren't old.",
+        "russian": "Ты не старый.",
+        "spanish": "No eres viejo.",
+        "german": "Du bist nicht alt.",
+        "french": "Tu n'es pas vieux."
+      },
+      {
+        "id": 67,
+        "english": "He doesn't have short hair.",
+        "russian": "У него не короткие волосы.",
+        "spanish": "No tiene pelo corto.",
+        "german": "Er hat keine kurzen Haare.",
+        "french": "Il n'a pas les cheveux courts."
+      }
+    ],
+  "exam": {
+    "sentences": [
+      {
+        "id": 1,
+        "sentence_en": "I don't have an aquiline nose.",
+        "translations": {
+          "ru": "У меня не орлиный нос.",
+          "es": "No tengo una nariz aguileña.",
+          "fr": "Je n'ai pas de nez aquilin.",
+          "de": "Ich habe keine Adlernase."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["You", "He", "We"] },
+          { "correct": "don't", "alternatives": ["doesn't", "isn't", "can't"] },
+          { "correct": "have", "alternatives": ["see", "make", "find"] },
+          { "correct": "an", "alternatives": ["a", "the", "some"] },
+          { "correct": "aquiline", "alternatives": ["flat", "snub", "pointed"] },
+          { "correct": "nose", "alternatives": ["ear", "hand", "leg"] }
+        ]
+      },
+      {
+        "id": 2,
+        "sentence_en": "Is it sunny today?",
+        "translations": {
+          "ru": "Сегодня солнечно?",
+          "es": "¿Está soleado hoy?",
+          "fr": "Fait-il beau aujourd'hui ?",
+          "de": "Ist es heute sonnig?"
+        },
+        "words": [
+          { "correct": "Is", "alternatives": ["Was", "Does", "Will"] },
+          { "correct": "it", "alternatives": ["he", "she", "they"] },
+          { "correct": "sunny", "alternatives": ["cloudy", "rainy", "foggy"] },
+          { "correct": "today", "alternatives": ["tomorrow", "yesterday", "now"] }
+        ]
+      },
+      {
+        "id": 3,
+        "sentence_en": "Was it cold yesterday?",
+        "translations": {
+          "ru": "Вчера было холодно?",
+          "es": "¿Hacía frío ayer?",
+          "fr": "Faisait-il froid hier ?",
+          "de": "War es gestern kalt?"
+        },
+        "words": [
+          { "correct": "Was", "alternatives": ["Is", "Will", "Does"] },
+          { "correct": "it", "alternatives": ["he", "she", "they"] },
+          { "correct": "cold", "alternatives": ["hot", "warm", "windy"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "soon"] }
+        ]
+      },
+      {
+        "id": 4,
+        "sentence_en": "I don't have a straight nose.",
+        "translations": {
+          "ru": "У меня не прямой нос.",
+          "es": "No tengo una nariz recta.",
+          "fr": "Je n'ai pas de nez droit.",
+          "de": "Ich habe keine gerade Nase."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["You", "He", "We"] },
+          { "correct": "don't", "alternatives": ["doesn't", "isn't", "can't"] },
+          { "correct": "have", "alternatives": ["see", "make", "find"] },
+          { "correct": "a", "alternatives": ["an", "the", "some"] },
+          { "correct": "straight", "alternatives": ["curly", "snub", "aquiline"] },
+          { "correct": "nose", "alternatives": ["ear", "eye", "mouth"] }
+        ]
+      },
+      {
+        "id": 5,
+        "sentence_en": "Are you happy?",
+        "translations": {
+          "ru": "Ты счастлив?",
+          "es": "¿Estás feliz?",
+          "fr": "Es-tu heureux ?",
+          "de": "Bist du glücklich?"
+        },
+        "words": [
+          { "correct": "Are", "alternatives": ["Is", "Do", "Can"] },
+          { "correct": "you", "alternatives": ["he", "they", "we"] },
+          { "correct": "happy", "alternatives": ["angry", "hungry", "tired"] }
+        ]
+      },
+      {
+        "id": 6,
+        "sentence_en": "You have small ears.",
+        "translations": {
+          "ru": "У тебя маленькие уши.",
+          "es": "Tienes orejas pequeñas.",
+          "fr": "Tu as de petites oreilles.",
+          "de": "Du hast kleine Ohren."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "have", "alternatives": ["see", "make", "find"] },
+          { "correct": "small", "alternatives": ["big", "long", "heavy"] },
+          { "correct": "ears", "alternatives": ["eyes", "hands", "feet"] }
+        ]
+      },
+      {
+        "id": 7,
+        "sentence_en": "It was hot yesterday.",
+        "translations": {
+          "ru": "Вчера было жарко.",
+          "es": "Hacía calor ayer.",
+          "fr": "Il faisait chaud hier.",
+          "de": "Es war gestern heiß."
+        },
+        "words": [
+          { "correct": "It", "alternatives": ["He", "She", "They"] },
+          { "correct": "was", "alternatives": ["is", "will", "does"] },
+          { "correct": "hot", "alternatives": ["cold", "rainy", "foggy"] },
+          { "correct": "yesterday", "alternatives": ["today", "tonight", "soon"] }
+        ]
+      },
+      {
+        "id": 8,
+        "sentence_en": "We don't have small hands.",
+        "translations": {
+          "ru": "У нас не маленькие руки.",
+          "es": "No tenemos manos pequeñas.",
+          "fr": "Nous n'avons pas de petites mains.",
+          "de": "Wir haben keine kleinen Hände."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["You", "They", "He"] },
+          { "correct": "don't", "alternatives": ["doesn't", "isn't", "can't"] },
+          { "correct": "have", "alternatives": ["see", "make", "find"] },
+          { "correct": "small", "alternatives": ["big", "heavy", "long"] },
+          { "correct": "hands", "alternatives": ["feet", "ears", "legs"] }
+        ]
+      },
+      {
+        "id": 9,
+        "sentence_en": "It's sunny but cold today.",
+        "translations": {
+          "ru": "Сегодня солнечно, но холодно.",
+          "es": "Hoy está soleado pero frío.",
+          "fr": "Il fait beau mais froid aujourd'hui.",
+          "de": "Es ist heute sonnig, aber kalt."
+        },
+        "words": [
+          { "correct": "It's", "alternatives": ["He's", "They're", "We're"] },
+          { "correct": "sunny", "alternatives": ["cloudy", "foggy", "windy"] },
+          { "correct": "but", "alternatives": ["and", "or", "so"] },
+          { "correct": "cold", "alternatives": ["hot", "rainy", "warm"] },
+          { "correct": "today", "alternatives": ["yesterday", "tomorrow", "tonight"] }
+        ]
+      },
+      {
+        "id": 10,
+        "sentence_en": "It'll be warm tomorrow.",
+        "translations": {
+          "ru": "Завтра будет тепло.",
+          "es": "Mañana hará calor.",
+          "fr": "Il fera chaud demain.",
+          "de": "Morgen wird es warm sein."
+        },
+        "words": [
+          { "correct": "It'll", "alternatives": ["It'd", "It's", "It was"] },
+          { "correct": "be", "alternatives": ["is", "was", "are"] },
+          { "correct": "warm", "alternatives": ["cold", "foggy", "rainy"] },
+          { "correct": "tomorrow", "alternatives": ["today", "yesterday", "soon"] }
+        ]
+      },
+      {
+        "id": 11,
+        "sentence_en": "Was it cloudy yesterday?",
+        "translations": {
+          "ru": "Вчера было облачно?",
+          "es": "¿Estaba nublado ayer?",
+          "fr": "Était-il nuageux hier ?",
+          "de": "War es gestern bewölkt?"
+        },
+        "words": [
+          { "correct": "Was", "alternatives": ["Is", "Will", "Does"] },
+          { "correct": "it", "alternatives": ["he", "she", "they"] },
+          { "correct": "cloudy", "alternatives": ["sunny", "foggy", "rainy"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "soon"] }
+        ]
+      },
+      {
+        "id": 12,
+        "sentence_en": "They aren't angry.",
+        "translations": {
+          "ru": "Они не сердитые.",
+          "es": "Ellos no están enojados.",
+          "fr": "Ils ne sont pas en colère.",
+          "de": "Sie sind nicht wütend."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "aren't", "alternatives": ["isn't", "doesn't", "can't"] },
+          { "correct": "angry", "alternatives": ["happy", "hungry", "tired"] }
+        ]
+      },
+      {
+        "id": 13,
+        "sentence_en": "She's young.",
+        "translations": {
+          "ru": "Она молодая.",
+          "es": "Ella es joven.",
+          "fr": "Elle est jeune.",
+          "de": "Sie ist jung."
+        },
+        "words": [
+          { "correct": "She's", "alternatives": ["He's", "It's", "We're"] },
+          { "correct": "young", "alternatives": ["old", "adult", "elderly"] }
+        ]
+      },
+      {
+        "id": 14,
+        "sentence_en": "I'm angry.",
+        "translations": {
+          "ru": "Я сердитый.",
+          "es": "Estoy enojado.",
+          "fr": "Je suis en colère.",
+          "de": "Ich bin wütend."
+        },
+        "words": [
+          { "correct": "I'm", "alternatives": ["You're", "He's", "They're"] },
+          { "correct": "angry", "alternatives": ["happy", "hungry", "tired"] }
+        ]
+      },
+      {
+        "id": 15,
+        "sentence_en": "He has a straight nose.",
+        "translations": {
+          "ru": "У него прямой нос.",
+          "es": "Él tiene una nariz recta.",
+          "fr": "Il a un nez droit.",
+          "de": "Er hat eine gerade Nase."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "has", "alternatives": ["have", "is", "was"] },
+          { "correct": "a", "alternatives": ["an", "the", "some"] },
+          { "correct": "straight", "alternatives": ["curly", "snub", "aquiline"] },
+          { "correct": "nose", "alternatives": ["ear", "eye", "mouth"] }
+        ]
+      },
+      {
+        "id": 16,
+        "sentence_en": "Was it windy yesterday?",
+        "translations": {
+          "ru": "Вчера было ветрено?",
+          "es": "¿Hacía viento ayer?",
+          "fr": "Faisait-il du vent hier ?",
+          "de": "War es gestern windig?"
+        },
+        "words": [
+          { "correct": "Was", "alternatives": ["Is", "Will", "Does"] },
+          { "correct": "it", "alternatives": ["he", "she", "they"] },
+          { "correct": "windy", "alternatives": ["sunny", "cloudy", "foggy"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "soon"] }
+        ]
+      },
+      {
+        "id": 17,
+        "sentence_en": "They aren't tall.",
+        "translations": {
+          "ru": "Они не высокие.",
+          "es": "Ellos no son altos.",
+          "fr": "Ils ne sont pas grands.",
+          "de": "Sie sind nicht groß."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "aren't", "alternatives": ["isn't", "doesn't", "can't"] },
+          { "correct": "tall", "alternatives": ["short", "fat", "skinny"] }
+        ]
+      },
+      {
+        "id": 18,
+        "sentence_en": "It's frosty and windy today.",
+        "translations": {
+          "ru": "Сегодня морозно и ветрено.",
+          "es": "Hoy está helado y ventoso.",
+          "fr": "Il fait glacial et venteux aujourd'hui.",
+          "de": "Es ist heute frostig und windig."
+        },
+        "words": [
+          { "correct": "It's", "alternatives": ["He's", "They're", "We're"] },
+          { "correct": "frosty", "alternatives": ["hot", "rainy", "foggy"] },
+          { "correct": "and", "alternatives": ["but", "or", "so"] },
+          { "correct": "windy", "alternatives": ["cloudy", "sunny", "cold"] },
+          { "correct": "today", "alternatives": ["yesterday", "tomorrow", "tonight"] }
+        ]
+      },
+      {
+        "id": 19,
+        "sentence_en": "Are you angry?",
+        "translations": {
+          "ru": "Ты сердитый?",
+          "es": "¿Estás enojado?",
+          "fr": "Es-tu en colère ?",
+          "de": "Bist du wütend?"
+        },
+        "words": [
+          { "correct": "Are", "alternatives": ["Is", "Do", "Can"] },
+          { "correct": "you", "alternatives": ["he", "they", "we"] },
+          { "correct": "angry", "alternatives": ["happy", "hungry", "tired"] }
+        ]
+      },
+      {
+        "id": 20,
+        "sentence_en": "Do you have short fingers?",
+        "translations": {
+          "ru": "У тебя короткие пальцы?",
+          "es": "¿Tienes dedos cortos?",
+          "fr": "As-tu des doigts courts ?",
+          "de": "Hast du kurze Finger?"
+        },
+        "words": [
+          { "correct": "Do", "alternatives": ["Does", "Is", "Can"] },
+          { "correct": "you", "alternatives": ["he", "they", "we"] },
+          { "correct": "have", "alternatives": ["see", "make", "find"] },
+          { "correct": "short", "alternatives": ["long", "fat", "big"] },
+          { "correct": "fingers", "alternatives": ["toes", "ears", "hands"] }
+        ]
+      },
+      {
+        "id": 21,
+        "sentence_en": "Does she have big eyes?",
+        "translations": {
+          "ru": "У неё большие глаза?",
+          "es": "¿Ella tiene ojos grandes?",
+          "fr": "A-t-elle de grands yeux ?",
+          "de": "Hat sie große Augen?"
+        },
+        "words": [
+          { "correct": "Does", "alternatives": ["Do", "Is", "Can"] },
+          { "correct": "she", "alternatives": ["he", "they", "we"] },
+          { "correct": "have", "alternatives": ["see", "make", "find"] },
+          { "correct": "big", "alternatives": ["small", "fat", "short"] },
+          { "correct": "eyes", "alternatives": ["ears", "hands", "feet"] }
+        ]
+      },
+      {
+        "id": 22,
+        "sentence_en": "You have long hair.",
+        "translations": {
+          "ru": "У тебя длинные волосы.",
+          "es": "Tienes pelo largo.",
+          "fr": "Tu as les cheveux longs.",
+          "de": "Du hast lange Haare."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "have", "alternatives": ["see", "make", "find"] },
+          { "correct": "long", "alternatives": ["short", "fat", "big"] },
+          { "correct": "hair", "alternatives": ["hand", "ear", "nose"] }
+        ]
+      },
+      {
+        "id": 23,
+        "sentence_en": "Is he elderly?",
+        "translations": {
+          "ru": "Он пожилой?",
+          "es": "¿Es él anciano?",
+          "fr": "Est-il âgé ?",
+          "de": "Ist er älter?"
+        },
+        "words": [
+          { "correct": "Is", "alternatives": ["Was", "Does", "Will"] },
+          { "correct": "he", "alternatives": ["she", "they", "we"] },
+          { "correct": "elderly", "alternatives": ["young", "adult", "happy"] }
+        ]
+      },
+      {
+        "id": 24,
+        "sentence_en": "She doesn't have long hair.",
+        "translations": {
+          "ru": "У неё нет длинных волос.",
+          "es": "Ella no tiene pelo largo.",
+          "fr": "Elle n'a pas les cheveux longs.",
+          "de": "Sie hat keine langen Haare."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "doesn't", "alternatives": ["don't", "isn't", "can't"] },
+          { "correct": "have", "alternatives": ["see", "make", "find"] },
+          { "correct": "long", "alternatives": ["short", "fat", "big"] },
+          { "correct": "hair", "alternatives": ["hand", "ear", "nose"] }
+        ]
+      },
+      {
+        "id": 25,
+        "sentence_en": "She has an aquiline nose.",
+        "translations": {
+          "ru": "У неё орлиный нос.",
+          "es": "Ella tiene una nariz aguileña.",
+          "fr": "Elle a un nez aquilin.",
+          "de": "Sie hat eine Adlernase."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "has", "alternatives": ["have", "is", "was"] },
+          { "correct": "an", "alternatives": ["a", "the", "some"] },
+          { "correct": "aquiline", "alternatives": ["flat", "snub", "pointed"] },
+          { "correct": "nose", "alternatives": ["ear", "hand", "leg"] }
+        ]
+      },
+      {
+        "id": 26,
+        "sentence_en": "You have brown hair.",
+        "translations": {
+          "ru": "У тебя каштановые волосы.",
+          "es": "Tienes pelo castaño.",
+          "fr": "Tu as les cheveux bruns.",
+          "de": "Du hast braune Haare."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "have", "alternatives": ["see", "make", "find"] },
+          { "correct": "brown", "alternatives": ["black", "red", "blue"] },
+          { "correct": "hair", "alternatives": ["hand", "ear", "nose"] }
+        ]
+      },
+      {
+        "id": 27,
+        "sentence_en": "You have gray hair.",
+        "translations": {
+          "ru": "У тебя седые волосы.",
+          "es": "Tienes pelo gris.",
+          "fr": "Tu as les cheveux gris.",
+          "de": "Du hast graue Haare."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "have", "alternatives": ["see", "make", "find"] },
+          { "correct": "gray", "alternatives": ["black", "red", "blue"] },
+          { "correct": "hair", "alternatives": ["hand", "ear", "nose"] }
+        ]
+      },
+      {
+        "id": 28,
+        "sentence_en": "It was warm yesterday.",
+        "translations": {
+          "ru": "Вчера было тепло.",
+          "es": "Hacía calor ayer.",
+          "fr": "Il faisait chaud hier.",
+          "de": "Es war gestern warm."
+        },
+        "words": [
+          { "correct": "It", "alternatives": ["He", "She", "They"] },
+          { "correct": "was", "alternatives": ["is", "will", "does"] },
+          { "correct": "warm", "alternatives": ["cold", "foggy", "rainy"] },
+          { "correct": "yesterday", "alternatives": ["today", "tonight", "soon"] }
+        ]
+      },
+      {
+        "id": 29,
+        "sentence_en": "He isn't happy.",
+        "translations": {
+          "ru": "Он не счастлив.",
+          "es": "Él no está feliz.",
+          "fr": "Il n'est pas heureux.",
+          "de": "Er ist nicht glücklich."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "isn't", "alternatives": ["aren't", "doesn't", "can't"] },
+          { "correct": "happy", "alternatives": ["angry", "hungry", "tired"] }
+        ]
+      },
+      {
+        "id": 30,
+        "sentence_en": "You don't have long nails.",
+        "translations": {
+          "ru": "У тебя не длинные ногти.",
+          "es": "No tienes uñas largas.",
+          "fr": "Tu n'as pas de longs ongles.",
+          "de": "Du hast keine langen Nägel."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "don't", "alternatives": ["doesn't", "isn't", "can't"] },
+          { "correct": "have", "alternatives": ["see", "make", "find"] },
+          { "correct": "long", "alternatives": ["short", "fat", "big"] },
+          { "correct": "nails", "alternatives": ["fingers", "ears", "hands"] }
+        ]
+      },
+      {
+        "id": 31,
+        "sentence_en": "They don't have snub noses.",
+        "translations": {
+          "ru": "У них не курносые носы.",
+          "es": "No tienen narices chatas.",
+          "fr": "Ils n'ont pas de nez camus.",
+          "de": "Sie haben keine Stupsnasen."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "don't", "alternatives": ["doesn't", "isn't", "can't"] },
+          { "correct": "have", "alternatives": ["see", "make", "find"] },
+          { "correct": "snub", "alternatives": ["aquiline", "flat", "straight"] },
+          { "correct": "noses", "alternatives": ["ears", "hands", "legs"] }
+        ]
+      },
+      {
+        "id": 32,
+        "sentence_en": "Was it frosty yesterday?",
+        "translations": {
+          "ru": "Вчера было морозно?",
+          "es": "¿Hacía mucho frío ayer?",
+          "fr": "Était-il glacial hier ?",
+          "de": "War es gestern frostig?"
+        },
+        "words": [
+          { "correct": "Was", "alternatives": ["Is", "Will", "Does"] },
+          { "correct": "it", "alternatives": ["he", "she", "they"] },
+          { "correct": "frosty", "alternatives": ["hot", "rainy", "foggy"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "soon"] }
+        ]
+      },
+      {
+        "id": 33,
+        "sentence_en": "Is it warm today?",
+        "translations": {
+          "ru": "Сегодня тепло?",
+          "es": "¿Hace calor hoy?",
+          "fr": "Fait-il chaud aujourd'hui ?",
+          "de": "Ist es heute warm?"
+        },
+        "words": [
+          { "correct": "Is", "alternatives": ["Was", "Does", "Will"] },
+          { "correct": "it", "alternatives": ["he", "she", "they"] },
+          { "correct": "warm", "alternatives": ["cold", "foggy", "rainy"] },
+          { "correct": "today", "alternatives": ["tomorrow", "yesterday", "now"] }
+        ]
+      },
+      {
+        "id": 34,
+        "sentence_en": "She has small feet.",
+        "translations": {
+          "ru": "У неё маленькие ноги.",
+          "es": "Ella tiene pies pequeños.",
+          "fr": "Elle a de petits pieds.",
+          "de": "Sie hat kleine Füße."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "has", "alternatives": ["have", "is", "was"] },
+          { "correct": "small", "alternatives": ["big", "long", "heavy"] },
+          { "correct": "feet", "alternatives": ["hands", "ears", "arms"] }
+        ]
+      },
+      {
+        "id": 35,
+        "sentence_en": "It'll be foggy tomorrow.",
+        "translations": {
+          "ru": "Завтра будет туманно.",
+          "es": "Mañana habrá niebla.",
+          "fr": "Il y aura du brouillard demain.",
+          "de": "Morgen wird es neblig sein."
+        },
+        "words": [
+          { "correct": "It'll", "alternatives": ["It'd", "It's", "It was"] },
+          { "correct": "be", "alternatives": ["is", "was", "are"] },
+          { "correct": "foggy", "alternatives": ["sunny", "cloudy", "rainy"] },
+          { "correct": "tomorrow", "alternatives": ["today", "yesterday", "soon"] }
+        ]
+      },
+      {
+        "id": 36,
+        "sentence_en": "He isn't big.",
+        "translations": {
+          "ru": "Он не большой.",
+          "es": "Él no es grande.",
+          "fr": "Il n'est pas grand.",
+          "de": "Er ist nicht groß."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "isn't", "alternatives": ["aren't", "doesn't", "can't"] },
+          { "correct": "big", "alternatives": ["small", "fat", "short"] }
+        ]
+      },
+      {
+        "id": 37,
+        "sentence_en": "Are they heavy?",
+        "translations": {
+          "ru": "Они тяжелые?",
+          "es": "¿Son pesados?",
+          "fr": "Sont-ils lourds ?",
+          "de": "Sind sie schwer?"
+        },
+        "words": [
+          { "correct": "Are", "alternatives": ["Is", "Do", "Can"] },
+          { "correct": "they", "alternatives": ["he", "she", "we"] },
+          { "correct": "heavy", "alternatives": ["light", "small", "thin"] }
+        ]
+      },
+      {
+        "id": 38,
+        "sentence_en": "They aren't small.",
+        "translations": {
+          "ru": "Они не маленькие.",
+          "es": "No son pequeños.",
+          "fr": "Ils ne sont pas petits.",
+          "de": "Sie sind nicht klein."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "aren't", "alternatives": ["isn't", "doesn't", "can't"] },
+          { "correct": "small", "alternatives": ["big", "long", "heavy"] }
+        ]
+      },
+      {
+        "id": 39,
+        "sentence_en": "Will it be warm tomorrow?",
+        "translations": {
+          "ru": "Завтра будет тепло?",
+          "es": "¿Hará calor mañana?",
+          "fr": "Fera-t-il chaud demain ?",
+          "de": "Wird es morgen warm sein?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Does", "Is", "Was"] },
+          { "correct": "it", "alternatives": ["he", "she", "they"] },
+          { "correct": "be", "alternatives": ["is", "was", "are"] },
+          { "correct": "warm", "alternatives": ["cold", "foggy", "rainy"] },
+          { "correct": "tomorrow", "alternatives": ["today", "yesterday", "soon"] }
+        ]
+      },
+      {
+        "id": 40,
+        "sentence_en": "She doesn't have gray hair.",
+        "translations": {
+          "ru": "У неё не седые волосы.",
+          "es": "Ella no tiene pelo gris.",
+          "fr": "Elle n'a pas les cheveux gris.",
+          "de": "Sie hat keine grauen Haare."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "doesn't", "alternatives": ["don't", "isn't", "can't"] },
+          { "correct": "have", "alternatives": ["see", "make", "find"] },
+          { "correct": "gray", "alternatives": ["black", "red", "blue"] },
+          { "correct": "hair", "alternatives": ["hand", "ear", "nose"] }
+        ]
+      },
+      {
+        "id": 41,
+        "sentence_en": "It's warm today.",
+        "translations": {
+          "ru": "Сегодня тепло.",
+          "es": "Hoy hace calor.",
+          "fr": "Il fait chaud aujourd'hui.",
+          "de": "Es ist heute warm."
+        },
+        "words": [
+          { "correct": "It's", "alternatives": ["He's", "They're", "We're"] },
+          { "correct": "warm", "alternatives": ["cold", "foggy", "rainy"] },
+          { "correct": "today", "alternatives": ["tomorrow", "yesterday", "now"] }
+        ]
+      },
+      {
+        "id": 42,
+        "sentence_en": "They're adult.",
+        "translations": {
+          "ru": "Они взрослые.",
+          "es": "Son adultos.",
+          "fr": "Ils sont adultes.",
+          "de": "Sie sind erwachsen."
+        },
+        "words": [
+          { "correct": "They're", "alternatives": ["We're", "He's", "She's"] },
+          { "correct": "adult", "alternatives": ["child", "elderly", "young"] }
+        ]
+      },
+      {
+        "id": 43,
+        "sentence_en": "Is he kind?",
+        "translations": {
+          "ru": "Он добрый?",
+          "es": "¿Es amable?",
+          "fr": "Est-il gentil ?",
+          "de": "Ist er nett?"
+        },
+        "words": [
+          { "correct": "Is", "alternatives": ["Was", "Does", "Will"] },
+          { "correct": "he", "alternatives": ["she", "they", "we"] },
+          { "correct": "kind", "alternatives": ["angry", "happy", "hungry"] }
+        ]
+      },
+      {
+        "id": 44,
+        "sentence_en": "I'm happy.",
+        "translations": {
+          "ru": "Я счастлив.",
+          "es": "Estoy feliz.",
+          "fr": "Je suis heureux.",
+          "de": "Ich bin glücklich."
+        },
+        "words": [
+          { "correct": "I'm", "alternatives": ["You're", "He's", "They're"] },
+          { "correct": "happy", "alternatives": ["angry", "hungry", "tired"] }
+        ]
+      },
+      {
+        "id": 45,
+        "sentence_en": "We aren't old.",
+        "translations": {
+          "ru": "Мы не старые.",
+          "es": "No somos viejos.",
+          "fr": "Nous ne sommes pas vieux.",
+          "de": "Wir sind nicht alt."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["You", "They", "He"] },
+          { "correct": "aren't", "alternatives": ["isn't", "doesn't", "can't"] },
+          { "correct": "old", "alternatives": ["young", "adult", "happy"] }
+        ]
+      },
+      {
+        "id": 46,
+        "sentence_en": "Is she cold?",
+        "translations": {
+          "ru": "Ей холодно?",
+          "es": "¿Tiene frío?",
+          "fr": "A-t-elle froid ?",
+          "de": "Ist ihr kalt?"
+        },
+        "words": [
+          { "correct": "Is", "alternatives": ["Was", "Does", "Will"] },
+          { "correct": "she", "alternatives": ["he", "they", "we"] },
+          { "correct": "cold", "alternatives": ["hot", "rainy", "foggy"] }
+        ]
+      },
+      {
+        "id": 47,
+        "sentence_en": "Do they have blond hair?",
+        "translations": {
+          "ru": "У них белокурые волосы?",
+          "es": "¿Tienen pelo rubio?",
+          "fr": "Ont-ils les cheveux blonds ?",
+          "de": "Haben sie blonde Haare?"
+        },
+        "words": [
+          { "correct": "Do", "alternatives": ["Does", "Is", "Can"] },
+          { "correct": "they", "alternatives": ["he", "she", "we"] },
+          { "correct": "have", "alternatives": ["see", "make", "find"] },
+          { "correct": "blond", "alternatives": ["black", "red", "blue"] },
+          { "correct": "hair", "alternatives": ["hand", "ear", "nose"] }
+        ]
+      },
+      {
+        "id": 48,
+        "sentence_en": "Is he healthy?",
+        "translations": {
+          "ru": "Он здоров?",
+          "es": "¿Está saludable?",
+          "fr": "Est-il en bonne santé ?",
+          "de": "Ist er gesund?"
+        },
+        "words": [
+          { "correct": "Is", "alternatives": ["Was", "Does", "Will"] },
+          { "correct": "he", "alternatives": ["she", "they", "we"] },
+          { "correct": "healthy", "alternatives": ["angry", "hungry", "tired"] }
+        ]
+      },
+      {
+        "id": 49,
+        "sentence_en": "We have big eyes.",
+        "translations": {
+          "ru": "У нас большие глаза.",
+          "es": "Tenemos ojos grandes.",
+          "fr": "Nous avons de grands yeux.",
+          "de": "Wir haben große Augen."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["You", "They", "He"] },
+          { "correct": "have", "alternatives": ["see", "make", "find"] },
+          { "correct": "big", "alternatives": ["small", "fat", "short"] },
+          { "correct": "eyes", "alternatives": ["ears", "hands", "feet"] }
+        ]
+      },
+      {
+        "id": 50,
+        "sentence_en": "It's windy today.",
+        "translations": {
+          "ru": "Сегодня ветрено.",
+          "es": "Hoy hace viento.",
+          "fr": "Il y a du vent aujourd'hui.",
+          "de": "Es ist heute windig."
+        },
+        "words": [
+          { "correct": "It's", "alternatives": ["He's", "They're", "We're"] },
+          { "correct": "windy", "alternatives": ["cloudy", "sunny", "cold"] },
+          { "correct": "today", "alternatives": ["yesterday", "tomorrow", "tonight"] }
+        ]
+      },
+      {
+        "id": 51,
+        "sentence_en": "Is it foggy today?",
+        "translations": {
+          "ru": "Сегодня туманно?",
+          "es": "¿Hay niebla hoy?",
+          "fr": "Y a-t-il du brouillard aujourd'hui ?",
+          "de": "Ist es heute neblig?"
+        },
+        "words": [
+          { "correct": "Is", "alternatives": ["Was", "Does", "Will"] },
+          { "correct": "it", "alternatives": ["he", "she", "they"] },
+          { "correct": "foggy", "alternatives": ["sunny", "cloudy", "rainy"] },
+          { "correct": "today", "alternatives": ["tomorrow", "yesterday", "now"] }
+        ]
+      },
+      {
+        "id": 52,
+        "sentence_en": "I'm slim.",
+        "translations": {
+          "ru": "Я худой.",
+          "es": "Soy delgado.",
+          "fr": "Je suis mince.",
+          "de": "Ich bin schlank."
+        },
+        "words": [
+          { "correct": "I'm", "alternatives": ["You're", "He's", "They're"] },
+          { "correct": "slim", "alternatives": ["fat", "heavy", "tall"] }
+        ]
+      },
+      {
+        "id": 53,
+        "sentence_en": "It's rainy today.",
+        "translations": {
+          "ru": "Сегодня дождливо.",
+          "es": "Hoy llueve.",
+          "fr": "Il pleut aujourd'hui.",
+          "de": "Es ist heute regnerisch."
+        },
+        "words": [
+          { "correct": "It's", "alternatives": ["He's", "They're", "We're"] },
+          { "correct": "rainy", "alternatives": ["sunny", "cloudy", "foggy"] },
+          { "correct": "today", "alternatives": ["tomorrow", "yesterday", "now"] }
+        ]
+      },
+      {
+        "id": 54,
+        "sentence_en": "Was it warm and windy yesterday?",
+        "translations": {
+          "ru": "Вчера было тепло и ветрено?",
+          "es": "¿Ayer hacía calor y viento?",
+          "fr": "Faisait-il chaud et venteux hier ?",
+          "de": "War es gestern warm und windig?"
+        },
+        "words": [
+          { "correct": "Was", "alternatives": ["Is", "Will", "Does"] },
+          { "correct": "it", "alternatives": ["he", "she", "they"] },
+          { "correct": "warm", "alternatives": ["cold", "foggy", "rainy"] },
+          { "correct": "and", "alternatives": ["but", "or", "so"] },
+          { "correct": "windy", "alternatives": ["cloudy", "sunny", "cold"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "soon"] }
+        ]
+      },
+      {
+        "id": 55,
+        "sentence_en": "You have dark eyes.",
+        "translations": {
+          "ru": "У тебя темные глаза.",
+          "es": "Tienes ojos oscuros.",
+          "fr": "Tu as les yeux foncés.",
+          "de": "Du hast dunkle Augen."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "have", "alternatives": ["see", "make", "find"] },
+          { "correct": "dark", "alternatives": ["bright", "dim", "light"] },
+          { "correct": "eyes", "alternatives": ["ears", "hands", "feet"] }
+        ]
+      },
+      {
+        "id": 56,
+        "sentence_en": "Was it foggy yesterday?",
+        "translations": {
+          "ru": "Вчера было туманно?",
+          "es": "¿Había niebla ayer?",
+          "fr": "Y avait-il du brouillard hier ?",
+          "de": "War es gestern neblig?"
+        },
+        "words": [
+          { "correct": "Was", "alternatives": ["Is", "Will", "Does"] },
+          { "correct": "it", "alternatives": ["he", "she", "they"] },
+          { "correct": "foggy", "alternatives": ["sunny", "cloudy", "rainy"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "soon"] }
+        ]
+      },
+      {
+        "id": 57,
+        "sentence_en": "He has a flat nose.",
+        "translations": {
+          "ru": "У него приплюснутый нос.",
+          "es": "Él tiene una nariz plana.",
+          "fr": "Il a un nez plat.",
+          "de": "Er hat eine flache Nase."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "has", "alternatives": ["have", "is", "was"] },
+          { "correct": "a", "alternatives": ["an", "the", "some"] },
+          { "correct": "flat", "alternatives": ["snub", "aquiline", "straight"] },
+          { "correct": "nose", "alternatives": ["ear", "eye", "mouth"] }
+        ]
+      },
+      {
+        "id": 58,
+        "sentence_en": "She has long fingers.",
+        "translations": {
+          "ru": "У неё длинные пальцы.",
+          "es": "Ella tiene dedos largos.",
+          "fr": "Elle a des doigts longs.",
+          "de": "Sie hat lange Finger."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "has", "alternatives": ["have", "is", "was"] },
+          { "correct": "long", "alternatives": ["short", "fat", "big"] },
+          { "correct": "fingers", "alternatives": ["toes", "ears", "hands"] }
+        ]
+      },
+      {
+        "id": 59,
+        "sentence_en": "Will it be cloudy tomorrow?",
+        "translations": {
+          "ru": "Завтра будет облачно?",
+          "es": "¿Estará nublado mañana?",
+          "fr": "Sera-t-il nuageux demain ?",
+          "de": "Wird es morgen bewölkt sein?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Does", "Is", "Was"] },
+          { "correct": "it", "alternatives": ["he", "she", "they"] },
+          { "correct": "be", "alternatives": ["is", "was", "are"] },
+          { "correct": "cloudy", "alternatives": ["sunny", "foggy", "rainy"] },
+          { "correct": "tomorrow", "alternatives": ["today", "yesterday", "soon"] }
+        ]
+      },
+      {
+        "id": 60,
+        "sentence_en": "It was cloudy yesterday.",
+        "translations": {
+          "ru": "Вчера было облачно.",
+          "es": "Ayer estaba nublado.",
+          "fr": "Le ciel était nuageux hier.",
+          "de": "Es war gestern bewölkt."
+        },
+        "words": [
+          { "correct": "It", "alternatives": ["He", "She", "They"] },
+          { "correct": "was", "alternatives": ["is", "will", "does"] },
+          { "correct": "cloudy", "alternatives": ["sunny", "foggy", "rainy"] },
+          { "correct": "yesterday", "alternatives": ["today", "tomorrow", "soon"] }
+        ]
+      },
+      {
+        "id": 61,
+        "sentence_en": "Are they tall?",
+        "translations": {
+          "ru": "Они высокие?",
+          "es": "¿Son altos?",
+          "fr": "Sont-ils grands ?",
+          "de": "Sind sie groß?"
+        },
+        "words": [
+          { "correct": "Are", "alternatives": ["Is", "Do", "Can"] },
+          { "correct": "they", "alternatives": ["he", "she", "we"] },
+          { "correct": "tall", "alternatives": ["short", "fat", "skinny"] }
+        ]
+      },
+      {
+        "id": 62,
+        "sentence_en": "Is she skinny?",
+        "translations": {
+          "ru": "Она тощая?",
+          "es": "¿Está muy delgada?",
+          "fr": "Est-elle maigre ?",
+          "de": "Ist sie dürr?"
+        },
+        "words": [
+          { "correct": "Is", "alternatives": ["Was", "Does", "Will"] },
+          { "correct": "she", "alternatives": ["he", "they", "we"] },
+          { "correct": "skinny", "alternatives": ["fat", "heavy", "tall"] }
+        ]
+      },
+      {
+        "id": 63,
+        "sentence_en": "They're kind.",
+        "translations": {
+          "ru": "Они добрые.",
+          "es": "Son amables.",
+          "fr": "Ils sont gentils.",
+          "de": "Sie sind nett."
+        },
+        "words": [
+          { "correct": "They're", "alternatives": ["We're", "He's", "She's"] },
+          { "correct": "kind", "alternatives": ["angry", "happy", "hungry"] }
+        ]
+      },
+      {
+        "id": 64,
+        "sentence_en": "Does she have straight hair?",
+        "translations": {
+          "ru": "У неё прямые волосы?",
+          "es": "¿Tiene pelo liso?",
+          "fr": "A-t-elle les cheveux raides ?",
+          "de": "Hat sie gerades Haar?"
+        },
+        "words": [
+          { "correct": "Does", "alternatives": ["Do", "Is", "Can"] },
+          { "correct": "she", "alternatives": ["he", "they", "we"] },
+          { "correct": "have", "alternatives": ["see", "make", "find"] },
+          { "correct": "straight", "alternatives": ["curly", "snub", "aquiline"] },
+          { "correct": "hair", "alternatives": ["hand", "ear", "nose"] }
+        ]
+      },
+      {
+        "id": 65,
+        "sentence_en": "We have long hair.",
+        "translations": {
+          "ru": "У нас длинные волосы.",
+          "es": "Tenemos pelo largo.",
+          "fr": "Nous avons les cheveux longs.",
+          "de": "Wir haben lange Haare."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["You", "They", "He"] },
+          { "correct": "have", "alternatives": ["see", "make", "find"] },
+          { "correct": "long", "alternatives": ["short", "fat", "big"] },
+          { "correct": "hair", "alternatives": ["hand", "ear", "nose"] }
+        ]
+      },
+      {
+        "id": 66,
+        "sentence_en": "You aren't old.",
+        "translations": {
+          "ru": "Ты не старый.",
+          "es": "No eres viejo.",
+          "fr": "Tu n'es pas vieux.",
+          "de": "Du bist nicht alt."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "aren't", "alternatives": ["isn't", "doesn't", "can't"] },
+          { "correct": "old", "alternatives": ["young", "adult", "happy"] }
+        ]
+      },
+      {
+        "id": 67,
+        "sentence_en": "He doesn't have short hair.",
+        "translations": {
+          "ru": "У него не короткие волосы.",
+          "es": "No tiene pelo corto.",
+          "fr": "Il n'a pas les cheveux courts.",
+          "de": "Er hat keine kurzen Haare."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "doesn't", "alternatives": ["don't", "isn't", "can't"] },
+          { "correct": "have", "alternatives": ["see", "make", "find"] },
+          { "correct": "short", "alternatives": ["long", "fat", "big"] },
+          { "correct": "hair", "alternatives": ["hand", "ear", "nose"] }
+        ]
+      }
+    ]
+  }
+  }
+  
+

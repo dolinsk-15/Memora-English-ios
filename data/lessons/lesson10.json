@@ -1,0 +1,2358 @@
+{
+  "id": 10,
+  "title": {
+    "english": "Prepositions of Direction and Movement",
+    "russian": "Предлоги направления и движения в английском языке",
+    "spanish": "Preposiciones de dirección y movimiento",
+    "french": "Prépositions de direction et de mouvement",
+    "german": "Präpositionen der Richtung und Bewegung"
+  },
+  "description": {
+    "english": "In this lesson, we'll learn about prepositions of direction and movement in English.",
+    "russian": "В этом уроке мы изучим предлоги направления и движения в английском языке.",
+    "spanish": "En esta lección, aprenderemos las preposiciones de dirección y movimiento en inglés.",
+    "french": "Dans cette leçon, nous apprendrons les prépositions de direction et de mouvement en anglais.",
+    "german": "In dieser Lektion lernen wir die Präpositionen der Richtung und Bewegung im Englischen."
+  },
+  "detailedDescription": {
+    "russian": {
+      "title": "Урок 10 — Предлоги направления и движения в английском языке",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Предлоги направления и движения в английском языке"
+        },
+        {
+          "type": "text",
+          "content": "В английском языке предлоги направления и движения употребляются после глаголов, связанных с перемещением — таких как:\n\ngo, come, run, swim, walk, move, travel, fly, drive, ride и другие."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Основные предлоги"
+        },
+        {
+          "type": "heading",
+          "content": "1. to — к, на, в"
+        },
+        {
+          "type": "text",
+          "content": "Указывает на направление к чему-либо.\n\nПримеры:\n • I go to the cinema. — Я хожу в кино.\n • He drives to the north. — Он едет на север.\n • She ran to the car. — Она побежала к машине."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "2. from — из, с, от"
+        },
+        {
+          "type": "text",
+          "content": "Указывает на движение откуда-то, из какого-то места.\n\nПримеры:\n • He came from the west. — Он пришёл с запада.\n • She came from the theater. — Она пришла из театра.\n • We fly from Moscow. — Мы летим из Москвы."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "3. into — внутрь, в"
+        },
+        {
+          "type": "text",
+          "content": "Указывает на движение внутрь какого-либо пространства.\n\nПримеры:\n • He will come into the room. — Он войдёт в комнату.\n • They ran into the house. — Они забежали в здание."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "4. out of — из (в смысле выйти изнутри)"
+        },
+        {
+          "type": "text",
+          "content": "Указывает на движение изнутри наружу.\n\nПримеры:\n • He will come out of the room. — Он выйдет из комнаты.\n • They ran out of the house. — Они выбежали из дома."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Важно помнить!"
+        },
+        {
+          "type": "text",
+          "content": "После предлогов направления и движения обычно используется артикль the:\n • to the car, into the house, out of the room\n\nНО артикль the не ставится в двух случаях:\n 1. Перед местами деятельности или регулярных занятий:\n • to work — на работу\n • to school — в школу\n 2. Перед названиями городов и стран:\n • from Moscow — из Москвы\n • to France — во Францию"
+        }
+      ]
+    },
+    "spanish": {
+      "title": "Lección 10 — Preposiciones de dirección y movimiento en inglés",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Preposiciones de dirección y movimiento en inglés"
+        },
+        {
+          "type": "text",
+          "content": "En inglés, usamos ciertas preposiciones después de los verbos que indican movimiento o desplazamiento, como:\n\ngo, come, run, walk, swim, travel, drive, fly, move, ride, entre otros.\n\nEstas preposiciones ayudan a indicar hacia dónde se dirige algo o alguien."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "1. to – hacia, a, en dirección a"
+        },
+        {
+          "type": "text",
+          "content": "La preposición \"to\" indica movimiento hacia un lugar, una persona o un punto específico.\n\nEjemplos:\n • I go to the cinema.\n(Voy al cine.)\n • He drives to the north.\n(Él conduce hacia el norte.)\n • She ran to the car.\n(Ella corrió hacia el coche.)\n\nImportante:\n\"To\" se parece al \"a\" español, pero en inglés se requiere casi siempre un artículo:\n→ to the cinema, to the car, etc."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "2. from – de, desde"
+        },
+        {
+          "type": "text",
+          "content": "\"From\" indica el punto de origen del movimiento, es decir, de dónde viene algo.\n\nEjemplos:\n • He came from the west.\n(Vino del oeste.)\n • She came from the theater.\n(Ella vino del teatro.)\n • We fly from Moscow.\n(Volamos desde Moscú.)\n\nNota:\nEn inglés se suele usar \"the\" con lugares concretos, pero no con nombres de ciudades o países:\n→ from Moscow, from France (sin \"the\")."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "3. into – dentro de, hacia dentro"
+        },
+        {
+          "type": "text",
+          "content": "\"Into\" indica que algo se mueve hacia el interior de un espacio cerrado.\nEs diferente de \"in\", que sólo indica ubicación.\n\nEjemplos:\n • He will come into the room.\n(Entrará en la habitación.)\n • They ran into the house.\n(Corrieron dentro de la casa.)\n\nDiferencia con el español:\nEn español normalmente usamos solo \"en\" o \"a\", pero en inglés se distingue claramente entre \"in\" (estático) y \"into\" (movimiento)."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "4. out of – fuera de, salir de"
+        },
+        {
+          "type": "text",
+          "content": "\"Out of\" indica que algo sale desde el interior hacia afuera.\n\nEjemplos:\n • He will come out of the room.\n(Saldrá de la habitación.)\n • They ran out of the house.\n(Salieron corriendo de la casa.)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Regla con los artículos (the)"
+        },
+        {
+          "type": "text",
+          "content": "Después de preposiciones como to, from, into, out of, normalmente se usa el artículo definido \"the\":\n • to the car, from the theater, into the house\n\nEXCEPCIONES importantes:\nNo se usa \"the\" en los siguientes casos:\n 1. Con actividades comunes o instituciones:\n • to work — al trabajo\n • to school — a la escuela\n • to bed — a la cama\n→ Se entienden como lugares de función, no como objetos físicos.\n 2. Con nombres de ciudades o países:\n • from Moscow — de Moscú\n • to France — a Francia\n→ Igual que en español, sin artículo."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Errores comunes de los hispanohablantes:"
+        },
+        {
+          "type": "text",
+          "content": " • Decir \"go a the school\" en lugar de go to school\n • Omitir el artículo cuando sí es necesario: \"into house\" en vez de into the house\n • No distinguir entre in (posición) y into (movimiento)\n • Traducir directamente como \"a dentro de\" o \"fuera\" sin matices"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Resumen visual:"
+        },
+        {
+          "type": "table",
+          "headers": ["Inglés", "Español", "Uso"],
+          "rows": [
+            ["to", "a, hacia", "Dirección (go to the park)"],
+            ["from", "de, desde", "Origen (come from school)"],
+            ["into", "dentro de / hacia", "Movimiento hacia dentro"],
+            ["out of", "fuera de / salir de", "Movimiento hacia fuera"]
+          ]
+        }
+      ]
+    },
+    "french": {
+      "title": "Leçon 10 — Les prépositions de direction et de mouvement en anglais",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Les prépositions de direction et de mouvement en anglais"
+        },
+        {
+          "type": "text",
+          "content": "En anglais, certaines prépositions sont étroitement liées aux verbes de mouvement comme :\n\ngo, come, run, walk, swim, move, travel, fly, drive, ride, etc.\n\nElles permettent d'indiquer où l'on va, d'où l'on vient, ou quel est le trajet effectué."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "1. to – vers, à, en direction de"
+        },
+        {
+          "type": "text",
+          "content": "La préposition \"to\" sert à exprimer le mouvement vers un lieu précis.\n\nExemples :\n • I go to the cinema.\n(Je vais au cinéma.)\n • He drives to the north.\n(Il conduit vers le nord.)\n • She ran to the car.\n(Elle a couru vers la voiture.)\n\nAttention :\nEn anglais, on utilise souvent \"the\" après \"to\", contrairement au français où on dit simplement \"au cinéma\" ou \"à l'école\"."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "2. from – de, depuis"
+        },
+        {
+          "type": "text",
+          "content": "\"From\" indique le point de départ ou l'origine du mouvement.\n\nExemples :\n • He came from the west.\n(Il est venu de l'ouest.)\n • She came from the theater.\n(Elle est venue du théâtre.)\n • We fly from Moscow.\n(Nous partons de Moscou.)\n\nRemarque importante :\nOn n'utilise pas \"the\" avec les noms de villes ou pays :\n→ from Moscow, from France"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "3. into – dans, à l'intérieur de (avec mouvement)"
+        },
+        {
+          "type": "text",
+          "content": "\"Into\" est utilisé pour indiquer un mouvement vers l'intérieur d'un lieu fermé.\n\nExemples :\n • He will come into the room.\n(Il entrera dans la pièce.)\n • They ran into the house.\n(Ils sont entrés en courant dans la maison.)\n\nDifférence à noter :\nEn français, on dit simplement \"dans\", mais en anglais on distingue \"in\" (statique) et \"into\" (mouvement)."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "4. out of – hors de, sortir de"
+        },
+        {
+          "type": "text",
+          "content": "\"Out of\" exprime le mouvement vers l'extérieur d'un lieu fermé.\n\nExemples :\n • He will come out of the room.\n(Il sortira de la pièce.)\n • They ran out of the house.\n(Ils sont sortis en courant de la maison.)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "L'usage de l'article \"the\""
+        },
+        {
+          "type": "text",
+          "content": "En anglais, après les prépositions to, from, into, out of, on utilise souvent l'article défini \"the\" :\n • to the cinema, from the theater, into the room\n\nMais attention : on ne met pas \"the\" dans certains cas :\n 1. Pour les lieux d'activités quotidiennes ou institutionnelles :\n • to school — à l'école\n • to work — au travail\n • to bed — au lit\n 2. Avec des noms de villes ou pays :\n • from Moscow — de Moscou\n • to France — en France"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Erreurs typiques des francophones :"
+        },
+        {
+          "type": "text",
+          "content": " • Traduire littéralement : \"to the work\" (alors qu'on dit to work)\n • Oublier \"the\" avec certains noms : \"go to school\" vs \"go to the shop\"\n • Ne pas faire la différence entre in et into, ou on et onto\n • Dire \"in the house\" pour signifier mouvement au lieu de into the house"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Résumé des prépositions vues :"
+        },
+        {
+          "type": "table",
+          "headers": ["Anglais", "Français", "Exemple anglais"],
+          "rows": [
+            ["to", "vers / à", "go to the park"],
+            ["from", "de / depuis", "come from the cinema"],
+            ["into", "dans (avec mouvement)", "run into the house"],
+            ["out of", "hors de / sortir de", "come out of the room"]
+          ]
+        }
+      ]
+    },
+    "german": {
+      "title": "Lektion 10 — Richtungs- und Bewegungspräpositionen im Englischen",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Richtungs- und Bewegungspräpositionen im Englischen"
+        },
+        {
+          "type": "text",
+          "content": "Im Englischen verwendet man bestimmte Präpositionen nach Verben der Bewegung, also nach Verben wie:\n\ngo, come, run, walk, swim, move, travel, fly, drive, ride usw.\n\nDiese Präpositionen geben die Richtung der Bewegung an – also wohin oder woher sich jemand oder etwas bewegt."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "1. to – nach, zu, in (Richtung)"
+        },
+        {
+          "type": "text",
+          "content": "\"To\" zeigt an, dass sich etwas auf ein Ziel zubewegt.\n\nBeispiele:\n • I go to the cinema.\n(Ich gehe ins Kino.)\n • He drives to the north.\n(Er fährt nach Norden.)\n • She ran to the car.\n(Sie rannte zum Auto.)\n\nHinweis:\nIm Englischen verwendet man oft den bestimmten Artikel \"the\" nach \"to\", z. B. to the cinema, to the car, während im Deutschen eher eine Präposition mit Dativ oder Akkusativ ohne Artikel verwendet wird (ins Kino, zur Schule)."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "2. from – von, aus"
+        },
+        {
+          "type": "text",
+          "content": "\"From\" zeigt den Ausgangspunkt einer Bewegung an.\n\nBeispiele:\n • He came from the west.\n(Er kam aus dem Westen.)\n • She came from the theater.\n(Sie kam aus dem Theater.)\n • We fly from Moscow.\n(Wir fliegen aus Moskau.)\n\nWichtig:\nMit Städten oder Ländern wird im Englischen kein \"the\" verwendet:\n→ from Moscow, from France (ohne Artikel)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "3. into – in … hinein"
+        },
+        {
+          "type": "text",
+          "content": "\"Into\" bedeutet, dass etwas in ein Objekt oder einen Raum hineingeht – also eine Bewegung nach innen.\n\nBeispiele:\n • He will come into the room.\n(Er wird in das Zimmer kommen.)\n • They ran into the house.\n(Sie rannten ins Haus hinein.)\n\nAchtung:\nIm Deutschen sagt man oft einfach \"in\", aber im Englischen unterscheidet man zwischen:\n • in = Lage (wo?)\n • into = Bewegung (wohin?)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "4. out of – aus … heraus"
+        },
+        {
+          "type": "text",
+          "content": "\"Out of\" zeigt an, dass etwas aus einem Raum oder Objekt herauskommt.\n\nBeispiele:\n • He will come out of the room.\n(Er wird aus dem Zimmer herauskommen.)\n • They ran out of the house.\n(Sie rannten aus dem Haus heraus.)"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Regeln für den Artikel \"the\""
+        },
+        {
+          "type": "text",
+          "content": "Nach Bewegungspräpositionen wie to, from, into, out of steht im Englischen meistens der bestimmte Artikel \"the\":\n • to the car, from the theater, into the house, out of the room"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Wichtige Ausnahmen (ohne \"the\"):"
+        },
+        {
+          "type": "text",
+          "content": " 1. Bei institutionellen Orten oder Tätigkeiten:\n • to school — zur Schule\n • to work — zur Arbeit\n • to bed — ins Bett\n 2. Bei Städten und Ländern:\n • from Berlin, to France — ohne Artikel"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Typische Fehler von deutschsprachigen Lernenden:"
+        },
+        {
+          "type": "text",
+          "content": " • Falsche Verwendung des Artikels: \"go to the work\" statt go to work\n • Kein Unterschied zwischen in und into\n • Direktes Übersetzen: \"aus dem Haus\" → \"from the house\" statt out of the house\n • Weglassen von \"the\" bei notwendigen Stellen: \"go to cinema\" statt go to the cinema"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Zusammenfassung:"
+        },
+        {
+          "type": "table",
+          "headers": ["Englisch", "Deutsch", "Beispiel"],
+          "rows": [
+            ["to", "nach / zu / in", "go to the park"],
+            ["from", "von / aus", "come from the cinema"],
+            ["into", "in … hinein", "run into the house"],
+            ["out of", "aus … heraus", "come out of the room"]
+          ]
+        }
+      ]
+    }
+  },
+  "vocabulary": {
+    "firstList": [
+      {
+        "number": 1,
+        "english": "to",
+        "russian": "к, на, в",
+        "spanish": "a",
+        "french": "à",
+        "german": "zu"
+      },
+      {
+        "number": 2,
+        "english": "from",
+        "russian": "от, из",
+        "spanish": "de",
+        "french": "de",
+        "german": "von"
+      },
+      {
+        "number": 3,
+        "english": "into",
+        "russian": "в, внутрь",
+        "spanish": "dentro de",
+        "french": "dans",
+        "german": "in"
+      },
+      {
+        "number": 4,
+        "english": "out of",
+        "russian": "из, наружу",
+        "spanish": "fuera de",
+        "french": "hors de",
+        "german": "aus"
+      },
+      {
+        "number": 5,
+        "english": "station",
+        "russian": "станция",
+        "spanish": "estación",
+        "french": "station",
+        "german": "Bahnhof"
+      },
+      {
+        "number": 6,
+        "english": "library",
+        "russian": "библиотека",
+        "spanish": "biblioteca",
+        "french": "bibliothèque",
+        "german": "Bibliothek"
+      },
+      {
+        "number": 7,
+        "english": "yard",
+        "russian": "двор",
+        "spanish": "patio",
+        "french": "cour",
+        "german": "Hof"
+      },
+      {
+        "number": 8,
+        "english": "garage",
+        "russian": "гараж",
+        "spanish": "garaje",
+        "french": "garage",
+        "german": "Garage"
+      },
+      {
+        "number": 9,
+        "english": "kitchen",
+        "russian": "кухня",
+        "spanish": "cocina",
+        "french": "cuisine",
+        "german": "Küche"
+      },
+      {
+        "number": 10,
+        "english": "hall",
+        "russian": "зал",
+        "spanish": "salón",
+        "french": "salle",
+        "german": "Saal"
+      },
+      {
+        "number": 11,
+        "english": "forest",
+        "russian": "лес",
+        "spanish": "bosque",
+        "french": "forêt",
+        "german": "Wald"
+      },
+      {
+        "number": 12,
+        "english": "park",
+        "russian": "парк",
+        "spanish": "parque",
+        "french": "parc",
+        "german": "Park"
+      },
+      {
+        "number": 13,
+        "english": "garden",
+        "russian": "сад",
+        "spanish": "jardín",
+        "french": "jardin",
+        "german": "Garten"
+      },
+      {
+        "number": 14,
+        "english": "wall",
+        "russian": "стена",
+        "spanish": "pared",
+        "french": "mur",
+        "german": "Wand"
+      },
+      {
+        "number": 15,
+        "english": "north",
+        "russian": "север",
+        "spanish": "norte",
+        "french": "nord",
+        "german": "Norden"
+      },
+      {
+        "number": 16,
+        "english": "south",
+        "russian": "юг",
+        "spanish": "sur",
+        "french": "sud",
+        "german": "Süden"
+      },
+      {
+        "number": 17,
+        "english": "west",
+        "russian": "запад",
+        "spanish": "oeste",
+        "french": "ouest",
+        "german": "Westen"
+      },
+      {
+        "number": 18,
+        "english": "east",
+        "russian": "восток",
+        "spanish": "este",
+        "french": "est",
+        "german": "Osten"
+      },
+      {
+        "number": 19,
+        "english": "left",
+        "russian": "лево",
+        "spanish": "izquierda",
+        "french": "gauche",
+        "german": "links"
+      },
+      {
+        "number": 20,
+        "english": "right",
+        "russian": "право",
+        "spanish": "derecha",
+        "french": "droite",
+        "german": "rechts"
+      }
+    ]
+  },
+  "sentences": [
+    {
+      "id": 1,
+      "english": "Do they come into the forest?",
+      "russian": "Они входят в лес?",
+      "spanish": "¿Entran ellos al bosque?",
+      "german": "Kommen sie in den Wald?",
+      "french": "Entrent-ils dans la forêt ?"
+    },
+    {
+      "id": 2,
+      "english": "We didn't fly to Moscow.",
+      "russian": "Мы не летали в Москву.",
+      "spanish": "No volamos a Moscú.",
+      "german": "Wir sind nicht nach Moskau geflogen.",
+      "french": "Nous ne sommes pas allés à Moscou en avion."
+    },
+    {
+      "id": 3,
+      "english": "Did she run out of the kitchen?",
+      "russian": "Она выбежала из кухни?",
+      "spanish": "¿Salió corriendo de la cocina?",
+      "german": "Ist sie aus der Küche gerannt?",
+      "french": "Est-elle sortie en courant de la cuisine ?"
+    },
+    {
+      "id": 4,
+      "english": "Did he come out of the park?",
+      "russian": "Он вышел из парка?",
+      "spanish": "¿Salió del parque?",
+      "german": "Kam er aus dem Park heraus?",
+      "french": "Est-il sorti du parc ?"
+    },
+    {
+      "id": 5,
+      "english": "Do you run out of the hall?",
+      "russian": "Ты выбегаешь из зала?",
+      "spanish": "¿Sales corriendo del salón?",
+      "german": "Rennst du aus dem Saal?",
+      "french": "Sors-tu en courant de la salle ?"
+    },
+    {
+      "id": 6,
+      "english": "They didn't run out of the house.",
+      "russian": "Они не выбежали из дома.",
+      "spanish": "No salieron corriendo de la casa.",
+      "german": "Sie sind nicht aus dem Haus gerannt.",
+      "french": "Ils ne sont pas sortis de la maison en courant."
+    },
+    {
+      "id": 7,
+      "english": "They fly from New York.",
+      "russian": "Они летают из Нью-Йорка.",
+      "spanish": "Ellos vuelan desde Nueva York.",
+      "german": "Sie fliegen aus New York.",
+      "french": "Ils volent depuis New York."
+    },
+    {
+      "id": 8,
+      "english": "They came into the garden.",
+      "russian": "Они вошли в сад.",
+      "spanish": "Ellos entraron al jardín.",
+      "german": "Sie kamen in den Garten.",
+      "french": "Ils sont entrés dans le jardin."
+    },
+    {
+      "id": 9,
+      "english": "We come from Moscow.",
+      "russian": "Мы приезжаем из Москвы.",
+      "spanish": "Venimos de Moscú.",
+      "german": "Wir kommen aus Moskau.",
+      "french": "Nous venons de Moscou."
+    },
+    {
+      "id": 10,
+      "english": "Did he fly to Moscow?",
+      "russian": "Он летал в Москву?",
+      "spanish": "¿Voló él a Moscú?",
+      "german": "Ist er nach Moskau geflogen?",
+      "french": "A-t-il volé à Moscou ?"
+    },
+    {
+      "id": 11,
+      "english": "He'll fly from London.",
+      "russian": "Он прилетит из Лондона.",
+      "spanish": "Él volará desde Londres.",
+      "german": "Er wird aus London fliegen.",
+      "french": "Il volera depuis Londres."
+    },
+    {
+      "id": 12,
+      "english": "He doesn't fly to London.",
+      "russian": "Он не летит в Лондон.",
+      "spanish": "Él no vuela a Londres.",
+      "german": "Er fliegt nicht nach London.",
+      "french": "Il ne vole pas vers Londres."
+    },
+    {
+      "id": 13,
+      "english": "We'll fly from Moscow.",
+      "russian": "Мы прилетим из Москвы.",
+      "spanish": "Volaremos desde Moscú.",
+      "german": "Wir werden aus Moskau fliegen.",
+      "french": "Nous volerons depuis Moscou."
+    },
+    {
+      "id": 14,
+      "english": "They came from the north.",
+      "russian": "Они пришли с севера.",
+      "spanish": "Vinieron del norte.",
+      "german": "Sie kamen aus dem Norden.",
+      "french": "Ils sont venus du nord."
+    },
+    {
+      "id": 15,
+      "english": "We won't go to the museum.",
+      "russian": "Мы не пойдём в музей.",
+      "spanish": "No iremos al museo.",
+      "german": "Wir werden nicht ins Museum gehen.",
+      "french": "Nous n'irons pas au musée."
+    },
+    {
+      "id": 16,
+      "english": "You don't come from the library.",
+      "russian": "Ты не приходишь из библиотеки.",
+      "spanish": "No vienes de la biblioteca.",
+      "german": "Du kommst nicht aus der Bibliothek.",
+      "french": "Tu ne viens pas de la bibliothèque."
+    },
+    {
+      "id": 17,
+      "english": "They'll run into the kitchen.",
+      "russian": "Они забегут в кухню.",
+      "spanish": "Ellos correrán hacia la cocina.",
+      "german": "Sie werden in die Küche rennen.",
+      "french": "Ils courront dans la cuisine."
+    },
+    {
+      "id": 18,
+      "english": "You don't fly to Moscow.",
+      "russian": "Ты не летишь в Москву.",
+      "spanish": "No vuelas a Moscú.",
+      "german": "Du fliegst nicht nach Moskau.",
+      "french": "Tu ne voles pas à Moscou."
+    },
+    {
+      "id": 19,
+      "english": "He won't come from London.",
+      "russian": "Он не приедет из Лондона.",
+      "spanish": "Él no vendrá de Londres.",
+      "german": "Er wird nicht aus London kommen.",
+      "french": "Il ne viendra pas de Londres."
+    },
+    {
+      "id": 20,
+      "english": "You go to the museum.",
+      "russian": "Ты идёшь в музей.",
+      "spanish": "Vas al museo.",
+      "german": "Du gehst ins Museum.",
+      "french": "Tu vas au musée."
+    },
+    {
+      "id": 21,
+      "english": "We didn't run into the kitchen.",
+      "russian": "Мы не забежали в кухню.",
+      "spanish": "No corrimos hacia la cocina.",
+      "german": "Wir sind nicht in die Küche gerannt.",
+      "french": "Nous ne sommes pas entrés dans la cuisine en courant."
+    },
+    {
+      "id": 22,
+      "english": "He won't come from the station.",
+      "russian": "Он не придёт со станции.",
+      "spanish": "Él no vendrá de la estación.",
+      "german": "Er wird nicht vom Bahnhof kommen.",
+      "french": "Il ne viendra pas de la gare."
+    },
+    {
+      "id": 23,
+      "english": "You come into the yard.",
+      "russian": "Ты входишь во двор.",
+      "spanish": "Entras al patio.",
+      "german": "Du kommst in den Hof.",
+      "french": "Tu entres dans la cour."
+    },
+    {
+      "id": 24,
+      "english": "Did they go to the cinema?",
+      "russian": "Они ходили в кино?",
+      "spanish": "¿Fueron al cine?",
+      "german": "Sind sie ins Kino gegangen?",
+      "french": "Sont-ils allés au cinéma ?"
+    },
+    {
+      "id": 25,
+      "english": "She ran into the garage.",
+      "russian": "Она забежала в гараж.",
+      "spanish": "Ella corrió al garaje.",
+      "german": "Sie rannte in die Garage.",
+      "french": "Elle a couru dans le garage."
+    },
+    {
+      "id": 26,
+      "english": "I won't come from London.",
+      "russian": "Я не приеду из Лондона.",
+      "spanish": "No vendré de Londres.",
+      "german": "Ich werde nicht aus London kommen.",
+      "french": "Je ne viendrai pas de Londres."
+    },
+    {
+      "id": 27,
+      "english": "You don't come from the theater.",
+      "russian": "Ты не приходишь из театра.",
+      "spanish": "No vienes del teatro.",
+      "german": "Du kommst nicht aus dem Theater.",
+      "french": "Tu ne viens pas du théâtre."
+    },
+    {
+      "id": 28,
+      "english": "I'll run into the garage.",
+      "russian": "Я забегу в гараж.",
+      "spanish": "Correré al garaje.",
+      "german": "Ich werde in die Garage rennen.",
+      "french": "Je courrai dans le garage."
+    },
+    {
+      "id": 29,
+      "english": "They went to the theater.",
+      "russian": "Они ходили в театр.",
+      "spanish": "Ellos fueron al teatro.",
+      "german": "Sie sind ins Theater gegangen.",
+      "french": "Ils sont allés au théâtre."
+    },
+    {
+      "id": 30,
+      "english": "They'll go to the office.",
+      "russian": "Они пойдут в офис.",
+      "spanish": "Irán a la oficina.",
+      "german": "Sie werden ins Büro gehen.",
+      "french": "Ils iront au bureau."
+    },
+    {
+      "id": 31,
+      "english": "Do they come out of the yard?",
+      "russian": "Они выходят со двора?",
+      "spanish": "¿Salen del patio?",
+      "german": "Kommen sie aus dem Hof heraus?",
+      "french": "Sortent-ils de la cour ?"
+    },
+    {
+      "id": 32,
+      "english": "Do we go to the east?",
+      "russian": "Мы идём на восток?",
+      "spanish": "¿Vamos al este?",
+      "german": "Gehen wir nach Osten?",
+      "french": "Allons-nous vers l'est ?"
+    },
+    {
+      "id": 33,
+      "english": "She doesn't come from New York.",
+      "russian": "Она не приезжает из Нью-Йорка.",
+      "spanish": "Ella no viene de Nueva York.",
+      "german": "Sie kommt nicht aus New York.",
+      "french": "Elle ne vient pas de New York."
+    },
+    {
+      "id": 34,
+      "english": "She won't fly to Moscow.",
+      "russian": "Она не полетит в Москву.",
+      "spanish": "Ella no volará a Moscú.",
+      "german": "Sie wird nicht nach Moskau fliegen.",
+      "french": "Elle ne volera pas à Moscou."
+    },
+    {
+      "id": 35,
+      "english": "They'll come from the office.",
+      "russian": "Они придут из офиса.",
+      "spanish": "Vendrán de la oficina.",
+      "german": "Sie werden aus dem Büro kommen.",
+      "french": "Ils viendront du bureau."
+    },
+    {
+      "id": 36,
+      "english": "Did they come from the cinema?",
+      "russian": "Они пришли из кино?",
+      "spanish": "¿Vinieron del cine?",
+      "german": "Kamen sie aus dem Kino?",
+      "french": "Sont-ils venus du cinéma ?"
+    },
+    {
+      "id": 37,
+      "english": "I'll go to the cinema.",
+      "russian": "Я пойду в кино.",
+      "spanish": "Iré al cine.",
+      "german": "Ich werde ins Kino gehen.",
+      "french": "J'irai au cinéma."
+    },
+    {
+      "id": 38,
+      "english": "We'll come from London.",
+      "russian": "Мы приедем из Лондона.",
+      "spanish": "Vendremos de Londres.",
+      "german": "Wir werden aus London kommen.",
+      "french": "Nous viendrons de Londres."
+    },
+    {
+      "id": 39,
+      "english": "She came from the office.",
+      "russian": "Она пришла из офиса.",
+      "spanish": "Ella vino de la oficina.",
+      "german": "Sie kam aus dem Büro.",
+      "french": "Elle est venue du bureau."
+    },
+    {
+      "id": 40,
+      "english": "He comes out of the garden.",
+      "russian": "Он выходит из сада.",
+      "spanish": "Él sale del jardín.",
+      "german": "Er kommt aus dem Garten heraus.",
+      "french": "Il sort du jardin."
+    },
+    {
+      "id": 41,
+      "english": "Did they run into the garage?",
+      "russian": "Они забежали в гараж?",
+      "spanish": "¿Corrieron al garaje?",
+      "german": "Sind sie in die Garage gerannt?",
+      "french": "Ont-ils couru dans le garage ?"
+    },
+    {
+      "id": 42,
+      "english": "He won't go to the south.",
+      "russian": "Он не пойдет на юг.",
+      "spanish": "Él no irá al sur.",
+      "german": "Er wird nicht nach Süden gehen.",
+      "french": "Il n'ira pas au sud."
+    },
+    {
+      "id": 43,
+      "english": "He won't come out of the garden.",
+      "russian": "Он не выйдет из сада.",
+      "spanish": "Él no saldrá del jardín.",
+      "german": "Er wird nicht aus dem Garten kommen.",
+      "french": "Il ne sortira pas du jardin."
+    },
+    {
+      "id": 44,
+      "english": "He doesn't come from Moscow.",
+      "russian": "Он не приезжает из Москвы.",
+      "spanish": "Él no viene de Moscú.",
+      "german": "Er kommt nicht aus Moskau.",
+      "french": "Il ne vient pas de Moscou."
+    },
+    {
+      "id": 45,
+      "english": "She doesn't come from the office.",
+      "russian": "Она не приходит из офиса.",
+      "spanish": "Ella no viene de la oficina.",
+      "german": "Sie kommt nicht aus dem Büro.",
+      "french": "Elle ne vient pas du bureau."
+    },
+    {
+      "id": 46,
+      "english": "You'll come out of the yard.",
+      "russian": "Ты выйдешь со двора.",
+      "spanish": "Saldrás del patio.",
+      "german": "Du wirst aus dem Hof kommen.",
+      "french": "Tu sortiras de la cour."
+    },
+    {
+      "id": 47,
+      "english": "We'll run into the house.",
+      "russian": "Мы забежим в дом.",
+      "spanish": "Correremos a la casa.",
+      "german": "Wir werden ins Haus rennen.",
+      "french": "Nous courrons dans la maison."
+    },
+    {
+      "id": 48,
+      "english": "Will you come into the kitchen?",
+      "russian": "Ты зайдешь в кухню?",
+      "spanish": "¿Entrarás en la cocina?",
+      "german": "Wirst du in die Küche kommen?",
+      "french": "Entreras-tu dans la cuisine ?"
+    },
+    {
+      "id": 49,
+      "english": "Did they come from the office?",
+      "russian": "Они пришли из офиса?",
+      "spanish": "¿Vinieron de la oficina?",
+      "german": "Kamen sie aus dem Büro?",
+      "french": "Sont-ils venus du bureau ?"
+    },
+    {
+      "id": 50,
+      "english": "We'll come from the museum.",
+      "russian": "Мы придем из музея.",
+      "spanish": "Vendremos del museo.",
+      "german": "Wir werden aus dem Museum kommen.",
+      "french": "Nous viendrons du musée."
+    },
+    {
+      "id": 51,
+      "english": "He won't come from New York.",
+      "russian": "Он не приедет из Нью-Йорка.",
+      "spanish": "Él no vendrá de Nueva York.",
+      "german": "Er wird nicht aus New York kommen.",
+      "french": "Il ne viendra pas de New York."
+    },
+    {
+      "id": 52,
+      "english": "He flies to London.",
+      "russian": "Он летит в Лондон.",
+      "spanish": "Él vuela a Londres.",
+      "german": "Er fliegt nach London.",
+      "french": "Il vole à Londres."
+    },
+    {
+      "id": 53,
+      "english": "She won't go to the north.",
+      "russian": "Она не пойдёт на север.",
+      "spanish": "Ella no irá al norte.",
+      "german": "Sie wird nicht nach Norden gehen.",
+      "french": "Elle n'ira pas au nord."
+    },
+    {
+      "id": 54,
+      "english": "You don't come from Moscow.",
+      "russian": "Ты не приезжаешь из Москвы.",
+      "spanish": "No vienes de Moscú.",
+      "german": "Du kommst nicht aus Moskau.",
+      "french": "Tu ne viens pas de Moscou."
+    },
+    {
+      "id": 55,
+      "english": "You won't run into the hall.",
+      "russian": "Ты не забежишь в зал.",
+      "spanish": "No correrás al salón.",
+      "german": "Du wirst nicht in den Saal rennen.",
+      "french": "Tu ne courras pas dans la salle."
+    },
+    {
+      "id": 56,
+      "english": "We ran out of the hall.",
+      "russian": "Мы выбежали из зала.",
+      "spanish": "Salimos corriendo del salón.",
+      "german": "Wir sind aus dem Saal gerannt.",
+      "french": "Nous sommes sortis en courant de la salle."
+    },
+    {
+      "id": 57,
+      "english": "They won't come from the museum.",
+      "russian": "Они не придут из музея.",
+      "spanish": "No vendrán del museo.",
+      "german": "Sie werden nicht aus dem Museum kommen.",
+      "french": "Ils ne viendront pas du musée."
+    },
+    {
+      "id": 58,
+      "english": "You'll fly to London.",
+      "russian": "Ты полетишь в Лондон.",
+      "spanish": "Volarás a Londres.",
+      "german": "Du wirst nach London fliegen.",
+      "french": "Tu voleras à Londres."
+    },
+    {
+      "id": 59,
+      "english": "You don't run into the house.",
+      "russian": "Ты не забегаешь в дом.",
+      "spanish": "No corres a la casa.",
+      "german": "Du rennst nicht ins Haus.",
+      "french": "Tu ne cours pas dans la maison."
+    },
+    {
+      "id": 60,
+      "english": "She flew to Paris.",
+      "russian": "Она летала в Париж.",
+      "spanish": "Ella voló a París.",
+      "german": "Sie ist nach Paris geflogen.",
+      "french": "Elle a volé à Paris."
+    },
+    {
+      "id": 61,
+      "english": "I won't fly to Paris.",
+      "russian": "Я не полечу в Париж.",
+      "spanish": "No volaré a París.",
+      "german": "Ich werde nicht nach Paris fliegen.",
+      "french": "Je ne volerai pas à Paris."
+    },
+    {
+      "id": 62,
+      "english": "Will he come from the west?",
+      "russian": "Он придёт с запада?",
+      "spanish": "¿Vendrá del oeste?",
+      "german": "Wird er aus dem Westen kommen?",
+      "french": "Viendra-t-il de l'ouest ?"
+    },
+    {
+      "id": 63,
+      "english": "You came from the station.",
+      "russian": "Ты пришел со станции.",
+      "spanish": "Viniste de la estación.",
+      "german": "Du kamst vom Bahnhof.",
+      "french": "Tu es venu de la gare."
+    },
+    {
+      "id": 64,
+      "english": "I went to the south.",
+      "russian": "Я ходил на юг.",
+      "spanish": "Fui al sur.",
+      "german": "Ich ging nach Süden.",
+      "french": "Je suis allé au sud."
+    },
+    {
+      "id": 65,
+      "english": "I come from the office.",
+      "russian": "Я прихожу из офиса.",
+      "spanish": "Vengo de la oficina.",
+      "german": "Ich komme aus dem Büro.",
+      "french": "Je viens du bureau."
+    },
+    {
+      "id": 66,
+      "english": "They don't come out of the park.",
+      "russian": "Они не выходят из парка.",
+      "spanish": "No salen del parque.",
+      "german": "Sie kommen nicht aus dem Park.",
+      "french": "Ils ne sortent pas du parc."
+    },
+    {
+      "id": 67,
+      "english": "I didn't go to the museum.",
+      "russian": "Я не ходил в музей.",
+      "spanish": "No fui al museo.",
+      "german": "Ich bin nicht ins Museum gegangen.",
+      "french": "Je ne suis pas allé au musée."
+    },
+    {
+      "id": 68,
+      "english": "You don't run out of the room.",
+      "russian": "Ты не выбегаешь из комнаты.",
+      "spanish": "No sales corriendo de la habitación.",
+      "german": "Du rennst nicht aus dem Zimmer.",
+      "french": "Tu ne sors pas en courant de la pièce."
+    },
+    {
+      "id": 69,
+      "english": "Did they come into the garden?",
+      "russian": "Они вошли в сад?",
+      "spanish": "¿Entraron en el jardín?",
+      "german": "Sind sie in den Garten gekommen?",
+      "french": "Sont-ils entrés dans le jardin ?"
+    },
+    {
+      "id": 70,
+      "english": "I don't go to the wall.",
+      "russian": "Я не иду к стене.",
+      "spanish": "No voy hacia la pared.",
+      "german": "Ich gehe nicht zur Wand.",
+      "french": "Je ne vais pas au mur."
+    },
+    {
+      "id": 71,
+      "english": "I don't go to the east.",
+      "russian": "Я не иду на восток.",
+      "spanish": "No voy al este.",
+      "german": "Ich gehe nicht nach Osten.",
+      "french": "Je ne vais pas vers l'est."
+    }
+  ],
+  "exam": {
+    "sentences": [
+      {
+        "id": 1,
+        "sentence_en": "Do they come into the forest?",
+        "translations": {
+          "ru": "Они входят в лес?",
+          "es": "¿Entran ellos al bosque?",
+          "fr": "Entrent-ils dans la forêt ?",
+          "de": "Kommen sie in den Wald?"
+        },
+        "words": [
+          { "correct": "Do", "alternatives": ["Does", "Did", "Will"] },
+          { "correct": "they", "alternatives": ["he", "we", "you"] },
+          { "correct": "come", "alternatives": ["go", "run", "walk"] },
+          { "correct": "into", "alternatives": ["in", "to", "onto"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "forest", "alternatives": ["park", "garden", "yard"] }
+        ]
+      },
+      {
+        "id": 2,
+        "sentence_en": "We didn't fly to Moscow.",
+        "translations": {
+          "ru": "Мы не летали в Москву.",
+          "es": "No volamos a Moscú.",
+          "fr": "Nous ne sommes pas allés à Moscou en avion.",
+          "de": "Wir sind nicht nach Moskau geflogen."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "I"] },
+          { "correct": "didn't", "alternatives": ["don't", "wasn't", "won't"] },
+          { "correct": "fly", "alternatives": ["go", "move", "travel"] },
+          { "correct": "to", "alternatives": ["into", "at", "from"] },
+          { "correct": "Moscow", "alternatives": ["London", "Paris", "Berlin"] }
+        ]
+      },
+      {
+        "id": 3,
+        "sentence_en": "Did she run out of the kitchen?",
+        "translations": {
+          "ru": "Она выбежала из кухни?",
+          "es": "¿Salió corriendo de la cocina?",
+          "fr": "Est-elle sortie en courant de la cuisine ?",
+          "de": "Ist sie aus der Küche gerannt?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Does", "Will", "Was"] },
+          { "correct": "she", "alternatives": ["he", "they", "you"] },
+          { "correct": "run", "alternatives": ["walk", "go", "move"] },
+          { "correct": "out of", "alternatives": ["from", "off", "into"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "kitchen", "alternatives": ["hall", "garage", "yard"] }
+        ]
+      },
+      {
+        "id": 4,
+        "sentence_en": "Did he come out of the park?",
+        "translations": {
+          "ru": "Он вышел из парка?",
+          "es": "¿Salió del parque?",
+          "fr": "Est-il sorti du parc ?",
+          "de": "Kam er aus dem Park heraus?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Does", "Will", "Was"] },
+          { "correct": "he", "alternatives": ["she", "they", "we"] },
+          { "correct": "come", "alternatives": ["go", "run", "walk"] },
+          { "correct": "out of", "alternatives": ["from", "off", "into"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "park", "alternatives": ["garden", "forest", "yard"] }
+        ]
+      },
+      {
+        "id": 5,
+        "sentence_en": "Do you run out of the hall?",
+        "translations": {
+          "ru": "Ты выбегаешь из зала?",
+          "es": "¿Sales corriendo del salón?",
+          "fr": "Sors-tu en courant de la salle ?",
+          "de": "Rennst du aus dem Saal?"
+        },
+        "words": [
+          { "correct": "Do", "alternatives": ["Does", "Did", "Will"] },
+          { "correct": "you", "alternatives": ["we", "they", "he"] },
+          { "correct": "run", "alternatives": ["walk", "go", "move"] },
+          { "correct": "out of", "alternatives": ["from", "off", "into"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "hall", "alternatives": ["kitchen", "garage", "yard"] }
+        ]
+      },
+      {
+        "id": 6,
+        "sentence_en": "They didn't run out of the house.",
+        "translations": {
+          "ru": "Они не выбежали из дома.",
+          "es": "No salieron corriendo de la casa.",
+          "fr": "Ils ne sont pas sortis de la maison en courant.",
+          "de": "Sie sind nicht aus dem Haus gerannt."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "didn't", "alternatives": ["don't", "wasn't", "won't"] },
+          { "correct": "run", "alternatives": ["walk", "go", "move"] },
+          { "correct": "out of", "alternatives": ["from", "off", "into"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "house", "alternatives": ["garage", "kitchen", "yard"] }
+        ]
+      },
+      {
+        "id": 7,
+        "sentence_en": "They fly from New York.",
+        "translations": {
+          "ru": "Они летают из Нью-Йорка.",
+          "es": "Ellos vuelan desde Nueva York.",
+          "fr": "Ils volent depuis New York.",
+          "de": "Sie fliegen aus New York."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "fly", "alternatives": ["go", "move", "travel"] },
+          { "correct": "from", "alternatives": ["out of", "to", "into"] },
+          { "correct": "New York", "alternatives": ["London", "Paris", "Berlin"] }
+        ]
+      },
+      {
+        "id": 8,
+        "sentence_en": "They came into the garden.",
+        "translations": {
+          "ru": "Они вошли в сад.",
+          "es": "Ellos entraron al jardín.",
+          "fr": "Ils sont entrés dans le jardin.",
+          "de": "Sie kamen in den Garten."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "came", "alternatives": ["went", "ran", "walked"] },
+          { "correct": "into", "alternatives": ["in", "to", "onto"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "garden", "alternatives": ["park", "forest", "yard"] }
+        ]
+      },
+      {
+        "id": 9,
+        "sentence_en": "We come from Moscow.",
+        "translations": {
+          "ru": "Мы приезжаем из Москвы.",
+          "es": "Venimos de Moscú.",
+          "fr": "Nous venons de Moscou.",
+          "de": "Wir kommen aus Moskau."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "I"] },
+          { "correct": "come", "alternatives": ["go", "run", "walk"] },
+          { "correct": "from", "alternatives": ["out of", "to", "into"] },
+          { "correct": "Moscow", "alternatives": ["London", "Paris", "Berlin"] }
+        ]
+      },
+      {
+        "id": 10,
+        "sentence_en": "Did he fly to Moscow?",
+        "translations": {
+          "ru": "Он летал в Москву?",
+          "es": "¿Voló él a Moscú?",
+          "fr": "A-t-il volé à Moscou ?",
+          "de": "Ist er nach Moskau geflogen?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Does", "Will", "Was"] },
+          { "correct": "he", "alternatives": ["she", "they", "we"] },
+          { "correct": "fly", "alternatives": ["go", "move", "travel"] },
+          { "correct": "to", "alternatives": ["into", "at", "from"] },
+          { "correct": "Moscow", "alternatives": ["London", "Paris", "Berlin"] }
+        ]
+      },
+      {
+        "id": 11,
+        "sentence_en": "He'll fly from London.",
+        "translations": {
+          "ru": "Он прилетит из Лондона.",
+          "es": "Él volará desde Londres.",
+          "fr": "Il volera depuis Londres.",
+          "de": "Er wird aus London fliegen."
+        },
+        "words": [
+          { "correct": "He'll", "alternatives": ["He'd", "She'll", "Hell"] },
+          { "correct": "fly", "alternatives": ["go", "move", "travel"] },
+          { "correct": "from", "alternatives": ["out of", "to", "into"] },
+          { "correct": "London", "alternatives": ["Moscow", "Paris", "Berlin"] }
+        ]
+      },
+      {
+        "id": 12,
+        "sentence_en": "He doesn't fly to London.",
+        "translations": {
+          "ru": "Он не летит в Лондон.",
+          "es": "Él no vuela a Londres.",
+          "fr": "Il ne vole pas vers Londres.",
+          "de": "Er fliegt nicht nach London."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "doesn't", "alternatives": ["didn't", "isn't", "won't"] },
+          { "correct": "fly", "alternatives": ["go", "move", "travel"] },
+          { "correct": "to", "alternatives": ["into", "at", "from"] },
+          { "correct": "London", "alternatives": ["Moscow", "Paris", "Berlin"] }
+        ]
+      },
+      {
+        "id": 13,
+        "sentence_en": "We'll fly from Moscow.",
+        "translations": {
+          "ru": "Мы прилетим из Москвы.",
+          "es": "Volaremos desde Moscú.",
+          "fr": "Nous volerons depuis Moscou.",
+          "de": "Wir werden aus Moskau fliegen."
+        },
+        "words": [
+          { "correct": "We'll", "alternatives": ["Well", "We'd", "We was"] },
+          { "correct": "fly", "alternatives": ["go", "move", "travel"] },
+          { "correct": "from", "alternatives": ["out of", "to", "into"] },
+          { "correct": "Moscow", "alternatives": ["London", "Paris", "Berlin"] }
+        ]
+      },
+      {
+        "id": 14,
+        "sentence_en": "They came from the north.",
+        "translations": {
+          "ru": "Они пришли с севера.",
+          "es": "Vinieron del norte.",
+          "fr": "Ils sont venus du nord.",
+          "de": "Sie kamen aus dem Norden."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "came", "alternatives": ["went", "ran", "walked"] },
+          { "correct": "from", "alternatives": ["out of", "to", "into"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "north", "alternatives": ["south", "west", "east"] }
+        ]
+      },
+      {
+        "id": 15,
+        "sentence_en": "We won't go to the museum.",
+        "translations": {
+          "ru": "Мы не пойдём в музей.",
+          "es": "No iremos al museo.",
+          "fr": "Nous n'irons pas au musée.",
+          "de": "Wir werden nicht ins Museum gehen."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "I"] },
+          { "correct": "won't", "alternatives": ["will", "would", "wasn't"] },
+          { "correct": "go", "alternatives": ["come", "run", "walk"] },
+          { "correct": "to", "alternatives": ["into", "at", "from"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "museum", "alternatives": ["theater", "library", "station"] }
+        ]
+      },
+      {
+        "id": 16,
+        "sentence_en": "You don't come from the library.",
+        "translations": {
+          "ru": "Ты не приходишь из библиотеки.",
+          "es": "No vienes de la biblioteca.",
+          "fr": "Tu ne viens pas de la bibliothèque.",
+          "de": "Du kommst nicht aus der Bibliothek."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "don't", "alternatives": ["didn't", "isn't", "won't"] },
+          { "correct": "come", "alternatives": ["go", "run", "walk"] },
+          { "correct": "from", "alternatives": ["out of", "to", "into"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "library", "alternatives": ["museum", "theater", "station"] }
+        ]
+      },
+      {
+        "id": 17,
+        "sentence_en": "They'll run into the kitchen.",
+        "translations": {
+          "ru": "Они забегут в кухню.",
+          "es": "Ellos correrán hacia la cocina.",
+          "fr": "Ils courront dans la cuisine.",
+          "de": "Sie werden in die Küche rennen."
+        },
+        "words": [
+          { "correct": "They'll", "alternatives": ["They'd", "They would", "They was"] },
+          { "correct": "run", "alternatives": ["walk", "go", "move"] },
+          { "correct": "into", "alternatives": ["in", "to", "onto"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "kitchen", "alternatives": ["hall", "garage", "yard"] }
+        ]
+      },
+      {
+        "id": 18,
+        "sentence_en": "You don't fly to Moscow.",
+        "translations": {
+          "ru": "Ты не летишь в Москву.",
+          "es": "No vuelas a Moscú.",
+          "fr": "Tu ne voles pas à Moscou.",
+          "de": "Du fliegst nicht nach Moskau."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "don't", "alternatives": ["didn't", "isn't", "won't"] },
+          { "correct": "fly", "alternatives": ["go", "move", "travel"] },
+          { "correct": "to", "alternatives": ["into", "at", "from"] },
+          { "correct": "Moscow", "alternatives": ["London", "Paris", "Berlin"] }
+        ]
+      },
+      {
+        "id": 19,
+        "sentence_en": "He won't come from London.",
+        "translations": {
+          "ru": "Он не приедет из Лондона.",
+          "es": "Él no vendrá de Londres.",
+          "fr": "Il ne viendra pas de Londres.",
+          "de": "Er wird nicht aus London kommen."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "won't", "alternatives": ["will", "would", "wasn't"] },
+          { "correct": "come", "alternatives": ["go", "run", "walk"] },
+          { "correct": "from", "alternatives": ["out of", "to", "into"] },
+          { "correct": "London", "alternatives": ["Moscow", "Paris", "Berlin"] }
+        ]
+      },
+      {
+        "id": 20,
+        "sentence_en": "You go to the museum.",
+        "translations": {
+          "ru": "Ты идёшь в музей.",
+          "es": "Vas al museo.",
+          "fr": "Tu vas au musée.",
+          "de": "Du gehst ins Museum."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "go", "alternatives": ["come", "run", "walk"] },
+          { "correct": "to", "alternatives": ["into", "at", "from"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "museum", "alternatives": ["theater", "library", "station"] }
+        ]
+      },
+      {
+        "id": 21,
+        "sentence_en": "We didn't run into the kitchen.",
+        "translations": {
+          "ru": "Мы не забежали в кухню.",
+          "es": "No corrimos hacia la cocina.",
+          "fr": "Nous ne sommes pas entrés dans la cuisine en courant.",
+          "de": "Wir sind nicht in die Küche gerannt."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "I"] },
+          { "correct": "didn't", "alternatives": ["don't", "wasn't", "won't"] },
+          { "correct": "run", "alternatives": ["walk", "go", "move"] },
+          { "correct": "into", "alternatives": ["in", "to", "onto"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "kitchen", "alternatives": ["hall", "garage", "yard"] }
+        ]
+      },
+      {
+        "id": 22,
+        "sentence_en": "He won't come from the station.",
+        "translations": {
+          "ru": "Он не придёт со станции.",
+          "es": "Él no vendrá de la estación.",
+          "fr": "Il ne viendra pas de la gare.",
+          "de": "Er wird nicht vom Bahnhof kommen."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "won't", "alternatives": ["will", "would", "wasn't"] },
+          { "correct": "come", "alternatives": ["go", "run", "walk"] },
+          { "correct": "from", "alternatives": ["out of", "to", "into"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "station", "alternatives": ["library", "museum", "theater"] }
+        ]
+      },
+      {
+        "id": 23,
+        "sentence_en": "You come into the yard.",
+        "translations": {
+          "ru": "Ты входишь во двор.",
+          "es": "Entras al patio.",
+          "fr": "Tu entres dans la cour.",
+          "de": "Du kommst in den Hof."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "come", "alternatives": ["go", "run", "walk"] },
+          { "correct": "into", "alternatives": ["in", "to", "onto"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "yard", "alternatives": ["garden", "park", "forest"] }
+        ]
+      },
+      {
+        "id": 24,
+        "sentence_en": "Did they go to the cinema?",
+        "translations": {
+          "ru": "Они ходили в кино?",
+          "es": "¿Fueron al cine?",
+          "fr": "Sont-ils allés au cinéma ?",
+          "de": "Sind sie ins Kino gegangen?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Does", "Will", "Was"] },
+          { "correct": "they", "alternatives": ["he", "we", "you"] },
+          { "correct": "go", "alternatives": ["come", "run", "walk"] },
+          { "correct": "to", "alternatives": ["into", "at", "from"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "cinema", "alternatives": ["theater", "museum", "station"] }
+        ]
+      },
+      {
+        "id": 25,
+        "sentence_en": "She ran into the garage.",
+        "translations": {
+          "ru": "Она забежала в гараж.",
+          "es": "Ella corrió al garaje.",
+          "fr": "Elle a couru dans le garage.",
+          "de": "Sie rannte in die Garage."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "ran", "alternatives": ["walked", "went", "moved"] },
+          { "correct": "into", "alternatives": ["in", "to", "onto"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "garage", "alternatives": ["kitchen", "hall", "yard"] }
+        ]
+      },
+      {
+        "id": 26,
+        "sentence_en": "I won't come from London.",
+        "translations": {
+          "ru": "Я не приеду из Лондона.",
+          "es": "No vendré de Londres.",
+          "fr": "Je ne viendrai pas de Londres.",
+          "de": "Ich werde nicht aus London kommen."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["We", "They", "He"] },
+          { "correct": "won't", "alternatives": ["will", "would", "wasn't"] },
+          { "correct": "come", "alternatives": ["go", "run", "walk"] },
+          { "correct": "from", "alternatives": ["out of", "to", "into"] },
+          { "correct": "London", "alternatives": ["Moscow", "Paris", "Berlin"] }
+        ]
+      },
+      {
+        "id": 27,
+        "sentence_en": "You don't come from the theater.",
+        "translations": {
+          "ru": "Ты не приходишь из театра.",
+          "es": "No vienes del teatro.",
+          "fr": "Tu ne viens pas du théâtre.",
+          "de": "Du kommst nicht aus dem Theater."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "don't", "alternatives": ["didn't", "isn't", "won't"] },
+          { "correct": "come", "alternatives": ["go", "run", "walk"] },
+          { "correct": "from", "alternatives": ["out of", "to", "into"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "theater", "alternatives": ["museum", "library", "station"] }
+        ]
+      },
+      {
+        "id": 28,
+        "sentence_en": "I'll run into the garage.",
+        "translations": {
+          "ru": "Я забегу в гараж.",
+          "es": "Correré al garaje.",
+          "fr": "Je courrai dans le garage.",
+          "de": "Ich werde in die Garage rennen."
+        },
+        "words": [
+          { "correct": "I'll", "alternatives": ["I'd", "Ill", "I was"] },
+          { "correct": "run", "alternatives": ["walk", "go", "move"] },
+          { "correct": "into", "alternatives": ["in", "to", "onto"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "garage", "alternatives": ["kitchen", "hall", "yard"] }
+        ]
+      },
+      {
+        "id": 29,
+        "sentence_en": "They went to the theater.",
+        "translations": {
+          "ru": "Они ходили в театр.",
+          "es": "Ellos fueron al teatro.",
+          "fr": "Ils sont allés au théâtre.",
+          "de": "Sie sind ins Theater gegangen."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "went", "alternatives": ["came", "ran", "walked"] },
+          { "correct": "to", "alternatives": ["into", "at", "from"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "theater", "alternatives": ["museum", "library", "station"] }
+        ]
+      },
+      {
+        "id": 30,
+        "sentence_en": "They'll go to the office.",
+        "translations": {
+          "ru": "Они пойдут в офис.",
+          "es": "Irán a la oficina.",
+          "fr": "Ils iront au bureau.",
+          "de": "Sie werden ins Büro gehen."
+        },
+        "words": [
+          { "correct": "They'll", "alternatives": ["They'd", "They were", "They was"] },
+          { "correct": "go", "alternatives": ["come", "run", "walk"] },
+          { "correct": "to", "alternatives": ["into", "at", "from"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "office", "alternatives": ["museum", "library", "station"] }
+        ]
+      },
+      {
+        "id": 31,
+        "sentence_en": "Do they come out of the yard?",
+        "translations": {
+          "ru": "Они выходят со двора?",
+          "es": "¿Salen del patio?",
+          "fr": "Sortent-ils de la cour ?",
+          "de": "Kommen sie aus dem Hof heraus?"
+        },
+        "words": [
+          { "correct": "Do", "alternatives": ["Does", "Did", "Will"] },
+          { "correct": "they", "alternatives": ["he", "we", "you"] },
+          { "correct": "come", "alternatives": ["go", "run", "walk"] },
+          { "correct": "out of", "alternatives": ["from", "off", "into"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "yard", "alternatives": ["garden", "park", "forest"] }
+        ]
+      },
+      {
+        "id": 32,
+        "sentence_en": "Do we go to the east?",
+        "translations": {
+          "ru": "Мы идём на восток?",
+          "es": "¿Vamos al este?",
+          "fr": "Allons-nous vers l'est ?",
+          "de": "Gehen wir nach Osten?"
+        },
+        "words": [
+          { "correct": "Do", "alternatives": ["Does", "Did", "Will"] },
+          { "correct": "we", "alternatives": ["they", "he", "you"] },
+          { "correct": "go", "alternatives": ["come", "run", "walk"] },
+          { "correct": "to", "alternatives": ["into", "at", "from"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "east", "alternatives": ["west", "north", "south"] }
+        ]
+      },
+      {
+        "id": 33,
+        "sentence_en": "She doesn't come from New York.",
+        "translations": {
+          "ru": "Она не приезжает из Нью-Йорка.",
+          "es": "Ella no viene de Nueva York.",
+          "fr": "Elle ne vient pas de New York.",
+          "de": "Sie kommt nicht aus New York."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "doesn't", "alternatives": ["didn't", "isn't", "won't"] },
+          { "correct": "come", "alternatives": ["go", "run", "walk"] },
+          { "correct": "from", "alternatives": ["out of", "to", "into"] },
+          { "correct": "New York", "alternatives": ["London", "Paris", "Berlin"] }
+        ]
+      },
+      {
+        "id": 34,
+        "sentence_en": "She won't fly to Moscow.",
+        "translations": {
+          "ru": "Она не полетит в Москву.",
+          "es": "Ella no volará a Moscú.",
+          "fr": "Elle ne volera pas à Moscou.",
+          "de": "Sie wird nicht nach Moskau fliegen."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "won't", "alternatives": ["will", "would", "wasn't"] },
+          { "correct": "fly", "alternatives": ["go", "move", "travel"] },
+          { "correct": "to", "alternatives": ["into", "at", "from"] },
+          { "correct": "Moscow", "alternatives": ["London", "Paris", "Berlin"] }
+        ]
+      },
+      {
+        "id": 35,
+        "sentence_en": "They'll come from the office.",
+        "translations": {
+          "ru": "Они придут из офиса.",
+          "es": "Vendrán de la oficina.",
+          "fr": "Ils viendront du bureau.",
+          "de": "Sie werden aus dem Büro kommen."
+        },
+        "words": [
+          { "correct": "They'll", "alternatives": ["They'd", "They would", "They was"] },
+          { "correct": "come", "alternatives": ["go", "run", "walk"] },
+          { "correct": "from", "alternatives": ["out of", "to", "into"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "office", "alternatives": ["museum", "library", "station"] }
+        ]
+      },
+      {
+        "id": 36,
+        "sentence_en": "Did they come from the cinema?",
+        "translations": {
+          "ru": "Они пришли из кино?",
+          "es": "¿Vinieron del cine?",
+          "fr": "Sont-ils venus du cinéma ?",
+          "de": "Kamen sie aus dem Kino?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Does", "Will", "Was"] },
+          { "correct": "they", "alternatives": ["he", "we", "you"] },
+          { "correct": "come", "alternatives": ["go", "run", "walk"] },
+          { "correct": "from", "alternatives": ["out of", "to", "into"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "cinema", "alternatives": ["theater", "museum", "station"] }
+        ]
+      },
+      {
+        "id": 37,
+        "sentence_en": "I'll go to the cinema.",
+        "translations": {
+          "ru": "Я пойду в кино.",
+          "es": "Iré al cine.",
+          "fr": "J'irai au cinéma.",
+          "de": "Ich werde ins Kino gehen."
+        },
+        "words": [
+          { "correct": "I'll", "alternatives": ["I'd", "Ill", "I was"] },
+          { "correct": "go", "alternatives": ["come", "run", "walk"] },
+          { "correct": "to", "alternatives": ["into", "at", "from"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "cinema", "alternatives": ["theater", "museum", "station"] }
+        ]
+      },
+      {
+        "id": 38,
+        "sentence_en": "We'll come from London.",
+        "translations": {
+          "ru": "Мы приедем из Лондона.",
+          "es": "Vendremos de Londres.",
+          "fr": "Nous viendrons de Londres.",
+          "de": "Wir werden aus London kommen."
+        },
+        "words": [
+          { "correct": "We'll", "alternatives": ["Well", "We'd", "We was"] },
+          { "correct": "come", "alternatives": ["go", "run", "walk"] },
+          { "correct": "from", "alternatives": ["out of", "to", "into"] },
+          { "correct": "London", "alternatives": ["Moscow", "Paris", "Berlin"] }
+        ]
+      },
+      {
+        "id": 39,
+        "sentence_en": "She came from the office.",
+        "translations": {
+          "ru": "Она пришла из офиса.",
+          "es": "Ella vino de la oficina.",
+          "fr": "Elle est venue du bureau.",
+          "de": "Sie kam aus dem Büro."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "came", "alternatives": ["went", "ran", "walked"] },
+          { "correct": "from", "alternatives": ["out of", "to", "into"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "office", "alternatives": ["museum", "library", "station"] }
+        ]
+      },
+      {
+        "id": 40,
+        "sentence_en": "He comes out of the garden.",
+        "translations": {
+          "ru": "Он выходит из сада.",
+          "es": "Él sale del jardín.",
+          "fr": "Il sort du jardin.",
+          "de": "Er kommt aus dem Garten heraus."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "comes", "alternatives": ["goes", "runs", "walks"] },
+          { "correct": "out of", "alternatives": ["from", "off", "into"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "garden", "alternatives": ["yard", "park", "forest"] }
+        ]
+      },
+      {
+        "id": 41,
+        "sentence_en": "Did they run into the garage?",
+        "translations": {
+          "ru": "Они забежали в гараж?",
+          "es": "¿Corrieron al garaje?",
+          "fr": "Ont-ils couru dans le garage ?",
+          "de": "Sind sie in die Garage gerannt?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Does", "Will", "Was"] },
+          { "correct": "they", "alternatives": ["he", "we", "you"] },
+          { "correct": "run", "alternatives": ["walk", "go", "move"] },
+          { "correct": "into", "alternatives": ["in", "to", "onto"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "garage", "alternatives": ["kitchen", "hall", "yard"] }
+        ]
+      },
+      {
+        "id": 42,
+        "sentence_en": "He won't go to the south.",
+        "translations": {
+          "ru": "Он не пойдет на юг.",
+          "es": "Él no irá al sur.",
+          "fr": "Il n'ira pas au sud.",
+          "de": "Er wird nicht nach Süden gehen."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "won't", "alternatives": ["will", "would", "wasn't"] },
+          { "correct": "go", "alternatives": ["come", "run", "walk"] },
+          { "correct": "to", "alternatives": ["into", "at", "from"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "south", "alternatives": ["north", "west", "east"] }
+        ]
+      },
+      {
+        "id": 43,
+        "sentence_en": "He won't come out of the garden.",
+        "translations": {
+          "ru": "Он не выйдет из сада.",
+          "es": "Él no saldrá del jardín.",
+          "fr": "Il ne sortira pas du jardin.",
+          "de": "Er wird nicht aus dem Garten kommen."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "won't", "alternatives": ["will", "would", "wasn't"] },
+          { "correct": "come", "alternatives": ["go", "run", "walk"] },
+          { "correct": "out of", "alternatives": ["from", "off", "into"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "garden", "alternatives": ["yard", "park", "forest"] }
+        ]
+      },
+      {
+        "id": 44,
+        "sentence_en": "He doesn't come from Moscow.",
+        "translations": {
+          "ru": "Он не приезжает из Москвы.",
+          "es": "Él no viene de Moscú.",
+          "fr": "Il ne vient pas de Moscou.",
+          "de": "Er kommt nicht aus Moskau."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "doesn't", "alternatives": ["didn't", "isn't", "won't"] },
+          { "correct": "come", "alternatives": ["go", "run", "walk"] },
+          { "correct": "from", "alternatives": ["out of", "to", "into"] },
+          { "correct": "Moscow", "alternatives": ["London", "Paris", "Berlin"] }
+        ]
+      },
+      {
+        "id": 45,
+        "sentence_en": "She doesn't come from the office.",
+        "translations": {
+          "ru": "Она не приходит из офиса.",
+          "es": "Ella no viene de la oficina.",
+          "fr": "Elle ne vient pas du bureau.",
+          "de": "Sie kommt nicht aus dem Büro."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "doesn't", "alternatives": ["didn't", "isn't", "won't"] },
+          { "correct": "come", "alternatives": ["go", "run", "walk"] },
+          { "correct": "from", "alternatives": ["out of", "to", "into"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "office", "alternatives": ["museum", "library", "station"] }
+        ]
+      },
+      {
+        "id": 46,
+        "sentence_en": "You'll come out of the yard.",
+        "translations": {
+          "ru": "Ты выйдешь со двора.",
+          "es": "Saldrás del patio.",
+          "fr": "Tu sortiras de la cour.",
+          "de": "Du wirst aus dem Hof kommen."
+        },
+        "words": [
+          { "correct": "You'll", "alternatives": ["You'd", "You would", "You was"] },
+          { "correct": "come", "alternatives": ["go", "run", "walk"] },
+          { "correct": "out of", "alternatives": ["from", "off", "into"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "yard", "alternatives": ["garden", "park", "forest"] }
+        ]
+      },
+      {
+        "id": 47,
+        "sentence_en": "We'll run into the house.",
+        "translations": {
+          "ru": "Мы забежим в дом.",
+          "es": "Correremos a la casa.",
+          "fr": "Nous courrons dans la maison.",
+          "de": "Wir werden ins Haus rennen."
+        },
+        "words": [
+          { "correct": "We'll", "alternatives": ["Well", "We'd", "We was"] },
+          { "correct": "run", "alternatives": ["walk", "go", "move"] },
+          { "correct": "into", "alternatives": ["in", "to", "onto"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "house", "alternatives": ["garage", "kitchen", "yard"] }
+        ]
+      },
+      {
+        "id": 48,
+        "sentence_en": "Will you come into the kitchen?",
+        "translations": {
+          "ru": "Ты зайдешь в кухню?",
+          "es": "¿Entrarás en la cocina?",
+          "fr": "Entreras-tu dans la cuisine ?",
+          "de": "Wirst du in die Küche kommen?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Would", "Did", "Does"] },
+          { "correct": "you", "alternatives": ["we", "they", "he"] },
+          { "correct": "come", "alternatives": ["go", "run", "walk"] },
+          { "correct": "into", "alternatives": ["in", "to", "onto"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "kitchen", "alternatives": ["hall", "garage", "yard"] }
+        ]
+      },
+      {
+        "id": 49,
+        "sentence_en": "Did they come from the office?",
+        "translations": {
+          "ru": "Они пришли из офиса?",
+          "es": "¿Vinieron de la oficina?",
+          "fr": "Sont-ils venus du bureau ?",
+          "de": "Kamen sie aus dem Büro?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Does", "Will", "Was"] },
+          { "correct": "they", "alternatives": ["he", "we", "you"] },
+          { "correct": "come", "alternatives": ["go", "run", "walk"] },
+          { "correct": "from", "alternatives": ["out of", "to", "into"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "office", "alternatives": ["museum", "library", "station"] }
+        ]
+      },
+      {
+        "id": 50,
+        "sentence_en": "We'll come from the museum.",
+        "translations": {
+          "ru": "Мы придем из музея.",
+          "es": "Vendremos del museo.",
+          "fr": "Nous viendrons du musée.",
+          "de": "Wir werden aus dem Museum kommen."
+        },
+        "words": [
+          { "correct": "We'll", "alternatives": ["Well", "We'd", "We was"] },
+          { "correct": "come", "alternatives": ["go", "run", "walk"] },
+          { "correct": "from", "alternatives": ["out of", "to", "into"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "museum", "alternatives": ["theater", "library", "station"] }
+        ]
+      },
+      {
+        "id": 51,
+        "sentence_en": "He won't come from New York.",
+        "translations": {
+          "ru": "Он не приедет из Нью-Йорка.",
+          "es": "Él no vendrá de Nueva York.",
+          "fr": "Il ne viendra pas de New York.",
+          "de": "Er wird nicht aus New York kommen."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "won't", "alternatives": ["will", "would", "wasn't"] },
+          { "correct": "come", "alternatives": ["go", "run", "walk"] },
+          { "correct": "from", "alternatives": ["out of", "to", "into"] },
+          { "correct": "New York", "alternatives": ["London", "Paris", "Berlin"] }
+        ]
+      },
+      {
+        "id": 52,
+        "sentence_en": "He flies to London.",
+        "translations": {
+          "ru": "Он летит в Лондон.",
+          "es": "Él vuela a Londres.",
+          "fr": "Il vole à Londres.",
+          "de": "Er fliegt nach London."
+        },
+        "words": [
+          { "correct": "He", "alternatives": ["She", "They", "We"] },
+          { "correct": "flies", "alternatives": ["goes", "travels", "moves"] },
+          { "correct": "to", "alternatives": ["into", "at", "from"] },
+          { "correct": "London", "alternatives": ["Moscow", "Paris", "Berlin"] }
+        ]
+      },
+      {
+        "id": 53,
+        "sentence_en": "She won't go to the north.",
+        "translations": {
+          "ru": "Она не пойдёт на север.",
+          "es": "Ella no irá al norte.",
+          "fr": "Elle n'ira pas au nord.",
+          "de": "Sie wird nicht nach Norden gehen."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "won't", "alternatives": ["will", "would", "wasn't"] },
+          { "correct": "go", "alternatives": ["come", "run", "walk"] },
+          { "correct": "to", "alternatives": ["into", "at", "from"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "north", "alternatives": ["south", "west", "east"] }
+        ]
+      },
+      {
+        "id": 54,
+        "sentence_en": "You don't come from Moscow.",
+        "translations": {
+          "ru": "Ты не приезжаешь из Москвы.",
+          "es": "No vienes de Moscú.",
+          "fr": "Tu ne viens pas de Moscou.",
+          "de": "Du kommst nicht aus Moskau."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "don't", "alternatives": ["didn't", "isn't", "won't"] },
+          { "correct": "come", "alternatives": ["go", "run", "walk"] },
+          { "correct": "from", "alternatives": ["out of", "to", "into"] },
+          { "correct": "Moscow", "alternatives": ["London", "Paris", "Berlin"] }
+        ]
+      },
+      {
+        "id": 55,
+        "sentence_en": "You won't run into the hall.",
+        "translations": {
+          "ru": "Ты не забежишь в зал.",
+          "es": "No correrás al salón.",
+          "fr": "Tu ne courras pas dans la salle.",
+          "de": "Du wirst nicht in den Saal rennen."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "won't", "alternatives": ["will", "would", "wasn't"] },
+          { "correct": "run", "alternatives": ["walk", "go", "move"] },
+          { "correct": "into", "alternatives": ["in", "to", "onto"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "hall", "alternatives": ["kitchen", "garage", "yard"] }
+        ]
+      },
+      {
+        "id": 56,
+        "sentence_en": "We ran out of the hall.",
+        "translations": {
+          "ru": "Мы выбежали из зала.",
+          "es": "Salimos corriendo del salón.",
+          "fr": "Nous sommes sortis en courant de la salle.",
+          "de": "Wir sind aus dem Saal gerannt."
+        },
+        "words": [
+          { "correct": "We", "alternatives": ["They", "You", "I"] },
+          { "correct": "ran", "alternatives": ["walked", "went", "moved"] },
+          { "correct": "out of", "alternatives": ["from", "off", "into"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "hall", "alternatives": ["kitchen", "garage", "yard"] }
+        ]
+      },
+      {
+        "id": 57,
+        "sentence_en": "They won't come from the museum.",
+        "translations": {
+          "ru": "Они не придут из музея.",
+          "es": "No vendrán del museo.",
+          "fr": "Ils ne viendront pas du musée.",
+          "de": "Sie werden nicht aus dem Museum kommen."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "won't", "alternatives": ["will", "would", "wasn't"] },
+          { "correct": "come", "alternatives": ["go", "run", "walk"] },
+          { "correct": "from", "alternatives": ["out of", "to", "into"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "museum", "alternatives": ["theater", "library", "station"] }
+        ]
+      },
+      {
+        "id": 58,
+        "sentence_en": "You'll fly to London.",
+        "translations": {
+          "ru": "Ты полетишь в Лондон.",
+          "es": "Volarás a Londres.",
+          "fr": "Tu voleras à Londres.",
+          "de": "Du wirst nach London fliegen."
+        },
+        "words": [
+          { "correct": "You'll", "alternatives": ["You'd", "You would", "You was"] },
+          { "correct": "fly", "alternatives": ["go", "move", "travel"] },
+          { "correct": "to", "alternatives": ["into", "at", "from"] },
+          { "correct": "London", "alternatives": ["Moscow", "Paris", "Berlin"] }
+        ]
+      },
+      {
+        "id": 59,
+        "sentence_en": "You don't run into the house.",
+        "translations": {
+          "ru": "Ты не забегаешь в дом.",
+          "es": "No corres a la casa.",
+          "fr": "Tu ne cours pas dans la maison.",
+          "de": "Du rennst nicht ins Haus."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "don't", "alternatives": ["didn't", "isn't", "won't"] },
+          { "correct": "run", "alternatives": ["walk", "go", "move"] },
+          { "correct": "into", "alternatives": ["in", "to", "onto"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "house", "alternatives": ["garage", "kitchen", "yard"] }
+        ]
+      },
+      {
+        "id": 60,
+        "sentence_en": "She flew to Paris.",
+        "translations": {
+          "ru": "Она летала в Париж.",
+          "es": "Ella voló a París.",
+          "fr": "Elle a volé à Paris.",
+          "de": "Sie ist nach Paris geflogen."
+        },
+        "words": [
+          { "correct": "She", "alternatives": ["He", "They", "We"] },
+          { "correct": "flew", "alternatives": ["went", "ran", "walked"] },
+          { "correct": "to", "alternatives": ["into", "at", "from"] },
+          { "correct": "Paris", "alternatives": ["London", "Moscow", "Berlin"] }
+        ]
+      },
+      {
+        "id": 61,
+        "sentence_en": "I won't fly to Paris.",
+        "translations": {
+          "ru": "Я не полечу в Париж.",
+          "es": "No volaré a París.",
+          "fr": "Je ne volerai pas à Paris.",
+          "de": "Ich werde nicht nach Paris fliegen."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["We", "They", "He"] },
+          { "correct": "won't", "alternatives": ["will", "would", "wasn't"] },
+          { "correct": "fly", "alternatives": ["go", "move", "travel"] },
+          { "correct": "to", "alternatives": ["into", "at", "from"] },
+          { "correct": "Paris", "alternatives": ["London", "Moscow", "Berlin"] }
+        ]
+      },
+      {
+        "id": 62,
+        "sentence_en": "Will he come from the west?",
+        "translations": {
+          "ru": "Он придёт с запада?",
+          "es": "¿Vendrá del oeste?",
+          "fr": "Viendra-t-il de l'ouest ?",
+          "de": "Wird er aus dem Westen kommen?"
+        },
+        "words": [
+          { "correct": "Will", "alternatives": ["Would", "Did", "Does"] },
+          { "correct": "he", "alternatives": ["she", "they", "we"] },
+          { "correct": "come", "alternatives": ["go", "run", "walk"] },
+          { "correct": "from", "alternatives": ["out of", "to", "into"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "west", "alternatives": ["north", "south", "east"] }
+        ]
+      },
+      {
+        "id": 63,
+        "sentence_en": "You came from the station.",
+        "translations": {
+          "ru": "Ты пришел со станции.",
+          "es": "Viniste de la estación.",
+          "fr": "Tu es venu de la gare.",
+          "de": "Du kamst vom Bahnhof."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "came", "alternatives": ["went", "ran", "walked"] },
+          { "correct": "from", "alternatives": ["out of", "to", "into"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "station", "alternatives": ["library", "museum", "theater"] }
+        ]
+      },
+      {
+        "id": 64,
+        "sentence_en": "I went to the south.",
+        "translations": {
+          "ru": "Я ходил на юг.",
+          "es": "Fui al sur.",
+          "fr": "Je suis allé au sud.",
+          "de": "Ich ging nach Süden."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["We", "They", "He"] },
+          { "correct": "went", "alternatives": ["came", "ran", "walked"] },
+          { "correct": "to", "alternatives": ["into", "at", "from"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "south", "alternatives": ["north", "west", "east"] }
+        ]
+      },
+      {
+        "id": 65,
+        "sentence_en": "I come from the office.",
+        "translations": {
+          "ru": "Я прихожу из офиса.",
+          "es": "Vengo de la oficina.",
+          "fr": "Je viens du bureau.",
+          "de": "Ich komme aus dem Büro."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["We", "They", "He"] },
+          { "correct": "come", "alternatives": ["go", "run", "walk"] },
+          { "correct": "from", "alternatives": ["out of", "to", "into"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "office", "alternatives": ["museum", "library", "station"] }
+        ]
+      },
+      {
+        "id": 66,
+        "sentence_en": "They don't come out of the park.",
+        "translations": {
+          "ru": "Они не выходят из парка.",
+          "es": "No salen del parque.",
+          "fr": "Ils ne sortent pas du parc.",
+          "de": "Sie kommen nicht aus dem Park."
+        },
+        "words": [
+          { "correct": "They", "alternatives": ["We", "You", "He"] },
+          { "correct": "don't", "alternatives": ["didn't", "isn't", "won't"] },
+          { "correct": "come", "alternatives": ["go", "run", "walk"] },
+          { "correct": "out of", "alternatives": ["from", "off", "into"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "park", "alternatives": ["garden", "forest", "yard"] }
+        ]
+      },
+      {
+        "id": 67,
+        "sentence_en": "I didn't go to the museum.",
+        "translations": {
+          "ru": "Я не ходил в музей.",
+          "es": "No fui al museo.",
+          "fr": "Je ne suis pas allé au musée.",
+          "de": "Ich bin nicht ins Museum gegangen."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["We", "They", "He"] },
+          { "correct": "didn't", "alternatives": ["don't", "wasn't", "won't"] },
+          { "correct": "go", "alternatives": ["come", "run", "walk"] },
+          { "correct": "to", "alternatives": ["into", "at", "from"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "museum", "alternatives": ["theater", "library", "station"] }
+        ]
+      },
+      {
+        "id": 68,
+        "sentence_en": "You don't run out of the room.",
+        "translations": {
+          "ru": "Ты не выбегаешь из комнаты.",
+          "es": "No sales corriendo de la habitación.",
+          "fr": "Tu ne sors pas en courant de la pièce.",
+          "de": "Du rennst nicht aus dem Zimmer."
+        },
+        "words": [
+          { "correct": "You", "alternatives": ["We", "They", "He"] },
+          { "correct": "don't", "alternatives": ["didn't", "isn't", "won't"] },
+          { "correct": "run", "alternatives": ["walk", "go", "move"] },
+          { "correct": "out of", "alternatives": ["from", "off", "into"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "room", "alternatives": ["hall", "garage", "yard"] }
+        ]
+      },
+      {
+        "id": 69,
+        "sentence_en": "Did they come into the garden?",
+        "translations": {
+          "ru": "Они вошли в сад?",
+          "es": "¿Entraron en el jardín?",
+          "fr": "Sont-ils entrés dans le jardin ?",
+          "de": "Sind sie in den Garten gekommen?"
+        },
+        "words": [
+          { "correct": "Did", "alternatives": ["Does", "Will", "Was"] },
+          { "correct": "they", "alternatives": ["he", "we", "you"] },
+          { "correct": "come", "alternatives": ["go", "run", "walk"] },
+          { "correct": "into", "alternatives": ["in", "to", "onto"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "garden", "alternatives": ["park", "forest", "yard"] }
+        ]
+      },
+      {
+        "id": 70,
+        "sentence_en": "I don't go to the wall.",
+        "translations": {
+          "ru": "Я не иду к стене.",
+          "es": "No voy hacia la pared.",
+          "fr": "Je ne vais pas au mur.",
+          "de": "Ich gehe nicht zur Wand."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["We", "They", "He"] },
+          { "correct": "don't", "alternatives": ["didn't", "isn't", "won't"] },
+          { "correct": "go", "alternatives": ["come", "run", "walk"] },
+          { "correct": "to", "alternatives": ["into", "at", "from"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "wall", "alternatives": ["door", "window", "roof"] }
+        ]
+      },
+      {
+        "id": 71,
+        "sentence_en": "I don't go to the east.",
+        "translations": {
+          "ru": "Я не иду на восток.",
+          "es": "No voy al este.",
+          "fr": "Je ne vais pas vers l'est.",
+          "de": "Ich gehe nicht nach Osten."
+        },
+        "words": [
+          { "correct": "I", "alternatives": ["We", "They", "He"] },
+          { "correct": "don't", "alternatives": ["didn't", "isn't", "won't"] },
+          { "correct": "go", "alternatives": ["come", "run", "walk"] },
+          { "correct": "to", "alternatives": ["into", "at", "from"] },
+          { "correct": "the", "alternatives": ["a", "an", "some"] },
+          { "correct": "east", "alternatives": ["west", "north", "south"] }
+        ]
+      }
+    ]
+  }
+}

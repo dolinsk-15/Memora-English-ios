@@ -1,0 +1,6 @@
+** BUILD FAILED **
+
+
+The following build commands failed:
+	SwiftEmitModule normal x86_64 Emitting\ module\ for\ SuperwallKit (in target 'SuperwallKit' from project 'Pods')
+(1 failure)

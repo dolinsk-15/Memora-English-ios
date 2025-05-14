@@ -1,0 +1,2514 @@
+{
+  "id": 18,
+  "title": {
+    "english": "Words",
+    "russian": "Слова",
+    "spanish": "Palabras",
+    "french": "Mots",
+    "german": "Wörter"
+  },
+  "description": {
+    "english": "In this lesson, you'll learn important and frequently used English words. It's essential to know them to speak and understand English confidently in real life.",
+    "russian": "В этом уроке — важные часто используемые английские слова. Их обязательно нужно знать, чтобы уверенно говорить и понимать английский в реальной жизни.",
+    "spanish": "En esta lección aprenderás palabras importantes y de uso frecuente en inglés. Es imprescindible conocerlas para poder hablar y entender el inglés con confianza en la vida real.",
+    "french": "Dans cette leçon, vous apprendrez des mots importants et fréquemment utilisés en anglais. Il est indispensable de les connaître pour parler et comprendre l'anglais avec confiance dans la vie réelle.",
+    "german": "In dieser Lektion lernst du wichtige und häufig verwendete englische Wörter. Es ist unerlässlich, sie zu kennen, um im echten Leben sicher Englisch sprechen und verstehen zu können."
+  },
+  "detailedDescription": {
+    "russian": {
+      "title": "Урок 18 — Слова",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Слова"
+        },
+        {
+          "type": "text",
+          "content": "В этом уроке — важные часто используемые английские слова. Их обязательно нужно знать, чтобы уверенно говорить и понимать английский в реальной жизни."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "content": "Если вы добрались до этого урока — поздравляем, вы уже наполовину англичанин!"
+        },
+        {
+          "type": "text",
+          "content": "Если наше приложение помогло вам хоть немного — поддержите нас отзывом в App Store или Google Play."
+        },
+        {
+          "type": "text",
+          "content": "Ваш отзыв — это как пятёрка на экзамене для нас. А если ещё и с добрым словом — вообще праздник!"
+        },
+        {
+          "type": "text",
+          "content": "Спасибо, что учитесь вместе с нами!"
+        }
+      ]
+    },
+    "english": {
+      "title": "Lesson 18 — Words",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Words"
+        },
+        {
+          "type": "text",
+          "content": "In this lesson, you'll learn important and frequently used English words. It's essential to know them to speak and understand English confidently in real life."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "content": "If you've made it to this lesson — congratulations, you're already half English!"
+        },
+        {
+          "type": "text",
+          "content": "If our app has helped you even a little — please support us with a review on the App Store or Google Play."
+        },
+        {
+          "type": "text",
+          "content": "Your review is like getting an A on an exam for us. And if you add a kind word — it's a real celebration!"
+        },
+        {
+          "type": "text",
+          "content": "Thank you for learning with us!"
+        }
+      ]
+    },
+    "spanish": {
+      "title": "Lección 18 — Palabras",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Palabras"
+        },
+        {
+          "type": "text",
+          "content": "En esta lección aprenderás palabras importantes y de uso frecuente en inglés. Es imprescindible conocerlas para poder hablar y entender el inglés con confianza en la vida real."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "content": "Si has llegado hasta esta lección — ¡felicidades, ya eres medio inglés!"
+        },
+        {
+          "type": "text",
+          "content": "Si nuestra aplicación te ha ayudado aunque sea un poco, apóyanos dejando una reseña en App Store o Google Play."
+        },
+        {
+          "type": "text",
+          "content": "Tu reseña es como una matrícula de honor para nosotros. ¡Y si además escribes unas palabras amables, será una verdadera fiesta!"
+        },
+        {
+          "type": "text",
+          "content": "¡Gracias por aprender con nosotros!"
+        }
+      ]
+    },
+    "french": {
+      "title": "Leçon 18 — Mots",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Mots"
+        },
+        {
+          "type": "text",
+          "content": "Dans cette leçon, vous apprendrez des mots importants et fréquemment utilisés en anglais. Il est indispensable de les connaître pour parler et comprendre l'anglais avec confiance dans la vie réelle."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "content": "Si vous êtes arrivé jusqu'à cette leçon — félicitations, vous êtes déjà à moitié anglais !"
+        },
+        {
+          "type": "text",
+          "content": "Si notre application vous a aidé, même un peu, soutenez-nous en laissant un avis sur l'App Store ou Google Play."
+        },
+        {
+          "type": "text",
+          "content": "Votre avis, c'est comme une excellente note pour nous. Et si vous laissez aussi quelques mots gentils, ce sera vraiment la fête !"
+        },
+        {
+          "type": "text",
+          "content": "Merci d'apprendre avec nous !"
+        }
+      ]
+    },
+    "german": {
+      "title": "Lektion 18 — Wörter",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Wörter"
+        },
+        {
+          "type": "text",
+          "content": "In dieser Lektion lernst du wichtige und häufig verwendete englische Wörter. Es ist unerlässlich, sie zu kennen, um im echten Leben sicher Englisch sprechen und verstehen zu können."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "content": "Wenn du es bis zu dieser Lektion geschafft hast – herzlichen Glückwunsch, du bist schon halb Engländer!"
+        },
+        {
+          "type": "text",
+          "content": "Wenn dir unsere App auch nur ein wenig geholfen hat, unterstütze uns bitte mit einer Bewertung im App Store oder bei Google Play."
+        },
+        {
+          "type": "text",
+          "content": "Deine Bewertung ist für uns wie eine Eins in der Schule. Und wenn du auch noch ein paar nette Worte dazulässt, ist das für uns ein echtes Fest!"
+        },
+        {
+          "type": "text",
+          "content": "Danke, dass du mit uns lernst!"
+        }
+      ]
+    }
+  },
+  "vocabulary": {
+    "firstList": [
+        { "number": 1,  "english": "admit",        "russian": "признавать, допускать",                              "spanish": "admitir",                               "french": "admettre",                         "german": "zugeben, eingestehen" },
+    { "number": 2,  "english": "appeal",       "russian": "обращение, апелляция, привлекательность",            "spanish": "apelación, atractivo",                "french": "appel, attrait",                    "german": "Berufung, Reiz" },
+    { "number": 3,  "english": "attempt",      "russian": "попытка, старание",                                   "spanish": "intento",                             "french": "tentative",                         "german": "Versuch" },
+    { "number": 4,  "english": "beyond",       "russian": "за пределами, сверх, вне",                            "spanish": "más allá de",                         "french": "au-delà de",                        "german": "jenseits von" },
+    { "number": 5,  "english": "claim",        "russian": "претензия, требование",                               "spanish": "reclamo, demanda",                    "french": "revendication, réclamation",        "german": "Anspruch, Forderung" },
+    { "number": 6,  "english": "consequences", "russian": "последствия, результаты",                             "spanish": "consecuencias",                       "french": "conséquences",                      "german": "Folgen" },
+    { "number": 7,  "english": "consumer",     "russian": "потребитель, клиент",                                 "spanish": "consumidor",                          "french": "consommateur",                      "german": "Verbraucher" },
+    { "number": 8,  "english": "consistency",  "russian": "постоянство",                                         "spanish": "constancia, coherencia",              "french": "cohérence, constance",              "german": "Kohärenz, Beständigkeit" },
+    { "number": 9,  "english": "desire",       "russian": "желание, стремление",                                 "spanish": "deseo",                               "french": "désir",                              "german": "Verlangen, Wunsch" },
+    { "number": 10, "english": "engage",       "russian": "вовлекать, привлекать",                               "spanish": "involucrar, comprometer",             "french": "impliquer, engager",                "german": "einbeziehen, engagieren" },
+    { "number": 11, "english": "establish",    "russian": "установить, основать",                                "spanish": "establecer",                          "french": "établir",                            "german": "etablieren, gründen" },
+    { "number": 12, "english": "executive",    "russian": "исполнительный, управляющий",                         "spanish": "ejecutivo",                           "french": "exécutif",                           "german": "leitend, Exekutiv-" },
+    { "number": 13, "english": "expand",       "russian": "расширять, увеличивать",                              "spanish": "expandir, ampliar",                   "french": "étendre, élargir",                  "german": "erweitern, ausdehnen" },
+    { "number": 14, "english": "fraction",     "russian": "крупица, доля",                                       "spanish": "fracción",                            "french": "fraction",                           "german": "Bruchteil, Fraktion" },
+    { "number": 15, "english": "guilty",       "russian": "виновный, преступный",                                "spanish": "culpable",                            "french": "coupable",                           "german": "schuldig" },
+    { "number": 16, "english": "however",      "russian": "однако, тем не менее",                                "spanish": "sin embargo",                         "french": "cependant",                          "german": "jedoch, dennoch" },
+    { "number": 17, "english": "owe",          "russian": "быть должным, задолжать",                             "spanish": "deber (dinero)",                      "french": "devoir (de l'argent)",              "german": "schulden" },
+    { "number": 18, "english": "passion",      "russian": "страсть, увлечение",                                  "spanish": "pasión",                              "french": "passion",                            "german": "Leidenschaft" },
+    { "number": 19, "english": "phase",        "russian": "фаза, этап",                                          "spanish": "fase",                                "french": "phase",                              "german": "Phase" },
+    { "number": 20, "english": "responsible",  "russian": "ответственный, надёжный",                             "spanish": "responsable",                         "french": "responsable",                        "german": "verantwortlich" },
+    { "number": 21, "english": "rather",       "russian": "скорее, вернее",                                      "spanish": "más bien",                            "french": "plutôt",                             "german": "eher" },
+    { "number": 22, "english": "rush",         "russian": "спешка, стремительность",                             "spanish": "prisa",                               "french": "hâte, ruée",                         "german": "Eile, Andrang" },
+    { "number": 23, "english": "sensitive",    "russian": "чувствительный, восприимчивый",                       "spanish": "sensible",                            "french": "sensible",                           "german": "empfindlich" },
+    { "number": 24, "english": "suggest",      "russian": "предлагать, советовать",                              "spanish": "sugerir, proponer",                   "french": "suggérer",                           "german": "vorschlagen" },
+    { "number": 25, "english": "surround",     "russian": "окружать",                                            "spanish": "rodear",                              "french": "entourer",                           "german": "umgeben" },
+    { "number": 26, "english": "threat",       "russian": "угроза, опасность",                                   "spanish": "amenaza",                             "french": "menace",                             "german": "Bedrohung" },
+    { "number": 27, "english": "treat",        "russian": "лечить; обращаться",                                  "spanish": "tratar, atender",                     "french": "traiter",                            "german": "behandeln" },
+    { "number": 28, "english": "ultimate",     "russian": "конечный, предельный",                                "spanish": "último, definitivo",                  "french": "ultime, final",                      "german": "letztendlich, ultimativ" },
+    { "number": 29, "english": "wonder",       "russian": "интересоваться, удивляться",                          "spanish": "preguntarse, maravilla",              "french": "se demander, merveille",             "german": "sich wundern, Wunder" },
+    { "number": 30, "english": "either",       "russian": "либо, любой из двух",                                 "spanish": "cualquiera de los dos",               "french": "l'un ou l'autre",                    "german": "entweder" },
+    { "number": 31, "english": "neither",      "russian": "ни тот, ни другой",                                   "spanish": "ninguno de los dos",                  "french": "ni l'un ni l'autre",                 "german": "weder … noch" },
+    { "number": 32, "english": "assume",       "russian": "предполагать, допускать",                             "spanish": "suponer",                             "french": "supposer",                           "german": "annehmen" },
+    { "number": 33, "english": "survey",       "russian": "опрос, исследование",                                 "spanish": "encuesta",                            "french": "sondage, enquête",                   "german": "Umfrage" },
+    { "number": 34, "english": "pleased",      "russian": "довольный, удовлетворённый",                          "spanish": "contento, satisfecho",                "french": "content, satisfait",                 "german": "zufrieden" },
+    { "number": 35, "english": "intense",      "russian": "интенсивный, напряжённый",                            "spanish": "intenso",                             "french": "intense",                            "german": "intensiv" },
+    { "number": 36, "english": "mutual",       "russian": "взаимный, обоюдный",                                  "spanish": "mutuo",                               "french": "mutuel",                             "german": "gegenseitig" },
+    { "number": 37, "english": "so far",       "russian": "пока что, до сих пор",                                "spanish": "hasta ahora",                         "french": "jusqu'à présent",                    "german": "bis jetzt" },
+    { "number": 39, "english": "entertainment","russian": "развлечение, досуг",                                  "spanish": "entretenimiento",                     "french": "divertissement",                     "german": "Unterhaltung" },
+    { "number": 40, "english": "essential",    "russian": "существенный, необходимый",                           "spanish": "esencial",                            "french": "essentiel",                          "german": "wesentlich" },
+    { "number": 41, "english": "mortgage",     "russian": "ипотека, залог",                                      "spanish": "hipoteca",                            "french": "hypothèque",                         "german": "Hypothek" },
+    { "number": 42, "english": "measure",      "russian": "мера; измерение",                                     "spanish": "medida; medir",                       "french": "mesure; mesurer",                    "german": "Maß; messen" },
+    { "number": 43, "english": "eventually",   "russian": "в конце концов, со временем",                         "spanish": "finalmente",                          "french": "finalement",                         "german": "schließlich" },
+    { "number": 44, "english": "basically",    "russian": "в основном, по сути",                                 "spanish": "básicamente",                         "french": "fondamentalement, en gros",          "german": "grundsätzlich, im Grunde" },
+    { "number": 45, "english": "float",        "russian": "плавать; поплавок",                                   "spanish": "flotar",                              "french": "flotter",                            "german": "schweben, treiben" },
+    { "number": 46, "english": "blind",        "russian": "слепой; жалюзи",                                      "spanish": "ciego; persiana",                     "french": "aveugle; store",                     "german": "blind; Jalousie" },
+    { "number": 47, "english": "ties",         "russian": "узы; галстуки",                                       "spanish": "lazos; corbatas",                     "french": "liens; cravates",                    "german": "Bindungen; Krawatten" },
+    { "number": 48, "english": "suspected",    "russian": "подозреваемый, предполагаемый",                       "spanish": "sospechoso (adj.)",                   "french": "suspecté, présumé",                  "german": "verdächtigt, mutmaßlich" },
+    { "number": 49, "english": "permanent",    "russian": "постоянный, неизменный",                              "spanish": "permanente",                          "french": "permanent",                          "german": "dauerhaft" },
+    { "number": 50, "english": "blame",        "russian": "вина; обвинять",                                      "spanish": "culpa; culpar",                       "french": "blâme; blâmer",                      "german": "Schuld; beschuldigen" },
+    { "number": 51,  "english": "advanced",      "russian": "передовой, продвинутый",                   "spanish": "avanzado",                         "french": "avancé",                         "german": "fortgeschritten" },
+    { "number": 52,  "english": "response",      "russian": "ответ, реакция",                           "spanish": "respuesta",                       "french": "réponse",                        "german": "Antwort, Reaktion" },
+    { "number": 53,  "english": "exhausted",     "russian": "измученный, истощённый",                   "spanish": "agotado",                         "french": "épuisé",                          "german": "erschöpft" },
+    { "number": 54,  "english": "approximately", "russian": "примерно, ориентировочно",                "spanish": "aproximadamente",                 "french": "approximativement",               "german": "ungefähr" },
+    { "number": 55,  "english": "deny",          "russian": "отрицать, отвергать",                      "spanish": "negar",                           "french": "nier",                            "german": "leugnen" },
+    { "number": 56,  "english": "fulfill",       "russian": "выполнять, исполнять",                     "spanish": "cumplir",                         "french": "accomplir, satisfaire",           "german": "erfüllen" },
+    { "number": 57,  "english": "graduate",      "russian": "выпускник; окончить учёбу",                "spanish": "graduarse / graduado",            "french": "diplômé / obtenir son diplôme",  "german": "Absolvent / absolvieren" },
+    { "number": 58,  "english": "seed",          "russian": "семя, зерно",                              "spanish": "semilla",                         "french": "graine",                          "german": "Samen" },
+    { "number": 59,  "english": "settle",        "russian": "селиться; урегулировать",                  "spanish": "asentarse; resolver",             "french": "s'installer; régler",             "german": "sich niederlassen; regeln" },
+    { "number": 60,  "english": "meanwhile",     "russian": "между тем, тем временем",                  "spanish": "mientras tanto",                  "french": "pendant ce temps",                "german": "währenddessen" },
+    { "number": 61,  "english": "suggestions",   "russian": "предложения, рекомендации",               "spanish": "sugerencias",                     "french": "suggestions",                     "german": "Vorschläge" },
+    { "number": 62,  "english": "attitude",      "russian": "отношение, позиция",                       "spanish": "actitud",                         "french": "attitude",                        "german": "Einstellung, Haltung" },
+    { "number": 63,  "english": "cover",         "russian": "покрывать; защита",                        "spanish": "cubrir; cobertura",               "french": "couvrir; couverture",             "german": "decken; Deckung" },
+    { "number": 64,  "english": "cable",         "russian": "кабель, провод",                           "spanish": "cable",                           "french": "câble",                           "german": "Kabel" },
+    { "number": 65,  "english": "legit",         "russian": "законный; настоящий (разг.)",              "spanish": "legítimo",                        "french": "légitime",                        "german": "legitim, legal" },
+    { "number": 66,  "english": "roughly",       "russian": "приблизительно, грубо",                    "spanish": "aproximadamente",                 "french": "approximativement",               "german": "ungefähr, grob" },
+    { "number": 67,  "english": "considering",   "russian": "принимая во внимание",                     "spanish": "teniendo en cuenta",              "french": "en tenant compte de",             "german": "angesichts, unter Berücksichtigung" },
+    { "number": 68,  "english": "sacrifice",     "russian": "жертва; жертвовать",                       "spanish": "sacrificio; sacrificar",          "french": "sacrifice; sacrifier",            "german": "Opfer; opfern" },
+    { "number": 69,  "english": "bankrupt",      "russian": "банкрот; обанкротившийся",                 "spanish": "en bancarrota",                   "french": "en faillite",                      "german": "bankrott, insolvent" },
+    { "number": 70,  "english": "honor",         "russian": "честь, почёт",                             "spanish": "honor",                           "french": "honneur",                         "german": "Ehre" },
+    { "number": 71,  "english": "aware",         "russian": "осведомлённый, знающий",                   "spanish": "consciente",                      "french": "conscient",                       "german": "bewusst" },
+    { "number": 72,  "english": "pull",          "russian": "тянуть; притягивать",                      "spanish": "tirar; jalar",                    "french": "tirer",                           "german": "ziehen" },
+    { "number": 73,  "english": "abandoned",     "russian": "заброшенный, покинутый",                   "spanish": "abandonado",                      "french": "abandonné",                       "german": "verlassen" },
+    { "number": 74,  "english": "asset",         "russian": "актив; ценное имущество",                  "spanish": "activo, bien",                    "french": "actif, atout",                    "german": "Vermögenswert" },
+    { "number": 75,  "english": "approval",      "russian": "одобрение, утверждение",                   "spanish": "aprobación",                      "french": "approbation",                     "german": "Zustimmung" },
+    { "number": 76,  "english": "engaged",       "russian": "помолвленный; занятый",                     "spanish": "comprometido; ocupado",           "french": "fiancé; occupé",                  "german": "verlobt; beschäftigt" },
+    { "number": 77,  "english": "affordable",    "russian": "доступный по цене",                        "spanish": "asequible",                       "french": "abordable",                       "german": "erschwinglich" },
+    { "number": 78,  "english": "pitch",         "russian": "подача; короткая презентация",             "spanish": "presentación breve",              "french": "pitch, présentation",             "german": "Pitch, Kurzpräsentation" },
+    { "number": 79,  "english": "rely",          "russian": "полагаться, зависеть",                     "spanish": "confiar; depender",               "french": "compter sur",                     "german": "sich verlassen auf" },
+    { "number": 80,  "english": "attorney",      "russian": "адвокат, юрист",                           "spanish": "abogado",                         "french": "avocat",                          "german": "Anwalt" },
+    { "number": 81,  "english": "satisfy",       "russian": "удовлетворять",                            "spanish": "satisfacer",                      "french": "satisfaire",                      "german": "befriedigen" },
+    { "number": 82,  "english": "arrangement",   "russian": "договорённость; расположение",             "spanish": "arreglo; acuerdo",                "french": "arrangement; disposition",        "german": "Vereinbarung; Anordnung" },
+    { "number": 83,  "english": "dispute",       "russian": "спор, разногласие",                        "spanish": "disputa",                         "french": "dispute",                         "german": "Streit" },
+    { "number": 84,  "english": "modify",        "russian": "изменять, модифицировать",                 "spanish": "modificar",                       "french": "modifier",                        "german": "modifizieren, ändern" },
+    { "number": 85,  "english": "judges",        "russian": "судьи, арбитры",                           "spanish": "jueces",                          "french": "juges",                           "german": "Richter" },
+    { "number": 86,  "english": "consent",       "russian": "согласие, разрешение",                     "spanish": "consentimiento",                  "french": "consentement",                    "german": "Zustimmung, Einwilligung" },
+    { "number": 87,  "english": "consequence",   "russian": "последствие, результат",                   "spanish": "consecuencia",                    "french": "conséquence",                     "german": "Konsequenz" },
+    { "number": 88,  "english": "lonely",        "russian": "одинокий, уединённый",                     "spanish": "solitario",                       "french": "solitaire",                       "german": "einsam" },
+    { "number": 89,  "english": "hurry",         "russian": "спешить; спешка",                          "spanish": "prisa; darse prisa",              "french": "hâte; se dépêcher",               "german": "Eile; sich beeilen" },
+    { "number": 90,  "english": "revenue",       "russian": "доход, выручка",                           "spanish": "ingresos",                        "french": "revenus",                         "german": "Einnahmen" },
+    { "number": 91,  "english": "labor",         "russian": "труд, работа",                             "spanish": "trabajo, labor",                  "french": "travail",                         "german": "Arbeit" },
+    { "number": 92,  "english": "handle",        "russian": "управлять, справляться; ручка",            "spanish": "manejar; asa",                    "french": "gérer; poignée",                  "german": "handhaben; Griff" },
+    { "number": 93,  "english": "influence",     "russian": "влияние; влиять",                          "spanish": "influencia",                      "french": "influence",                       "german": "Einfluss" },
+    { "number": 94,  "english": "rough",         "russian": "грубый; приблизительный",                  "spanish": "áspero; aproximado",              "french": "rugueux; approximatif",           "german": "rau; grob; ungefähr" },
+    { "number": 95,  "english": "reputation",    "russian": "репутация, известность",                   "spanish": "reputación",                      "french": "réputation",                      "german": "Ruf" },
+    { "number": 96,  "english": "commute",       "russian": "ездить на работу",                         "spanish": "desplazarse al trabajo",          "french": "faire la navette",                "german": "pendeln" },
+    { "number": 97,  "english": "equity",        "russian": "справедливость, равенство",               "spanish": "equidad",                         "french": "équité",                          "german": "Gerechtigkeit" },
+    { "number": 98,  "english": "justice",       "russian": "правосудие; справедливость",               "spanish": "justicia",                        "french": "justice",                         "german": "Justiz; Gerechtigkeit" },
+    { "number": 99,  "english": "towards",       "russian": "по направлению к; относительно",           "spanish": "hacia",                           "french": "vers",                            "german": "in Richtung auf" },
+    { "number": 100, "english": "expose",        "russian": "разоблачать, раскрывать",                  "spanish": "exponer, revelar",                "french": "exposer, révéler",                "german": "aufdecken, enthüllen" },
+    { "number": 101, "english": "demand",       "russian": "требовать; спрос",                     "spanish": "exigir, demanda",              "french": "demander, demande",               "german": "fordern, Nachfrage" },
+    { "number": 102, "english": "assist",       "russian": "помогать, содействовать",              "spanish": "asistir, ayudar",              "french": "assister, aider",                 "german": "helfen, assistieren" },
+    { "number": 103, "english": "enemy",        "russian": "враг, противник",                      "spanish": "enemigo",                      "french": "ennemi",                          "german": "Feind" },
+    { "number": 104, "english": "sharp",        "russian": "острый; резкий",                       "spanish": "afilado, agudo",               "french": "tranchant, aigu",                 "german": "scharf" },
+    { "number": 105, "english": "minority",     "russian": "меньшинство",                          "spanish": "minoría",                      "french": "minorité",                        "german": "Minderheit" },
+    { "number": 106, "english": "assessment",   "russian": "оценка, анализ",                       "spanish": "evaluación",                   "french": "évaluation",                      "german": "Bewertung" },
+    { "number": 107, "english": "reveal",       "russian": "раскрывать, показывать",               "spanish": "revelar, desvelar",            "french": "révéler, dévoiler",               "german": "enthüllen, offenbaren" },
+    { "number": 108, "english": "responsibility","russian": "ответственность, обязанность",        "spanish": "responsabilidad",              "french": "responsabilité",                  "german": "Verantwortung" },
+    { "number": 109, "english": "treatment",    "russian": "лечение, терапия",                     "spanish": "tratamiento",                  "french": "traitement",                      "german": "Behandlung" },
+    { "number": 110, "english": "dimension",    "russian": "измерение, размерность",               "spanish": "dimensión",                    "french": "dimension",                       "german": "Dimension" },
+    { "number": 111, "english": "cabin",        "russian": "кабина; хижина",                       "spanish": "cabaña, cabina",               "french": "cabane, cabine",                  "german": "Kabine, Hütte" },
+    { "number": 112, "english": "coast",        "russian": "морское побережье",                    "spanish": "costa",                        "french": "côte",                            "german": "Küste" },
+    { "number": 113, "english": "shore",        "russian": "берег",                                "spanish": "orilla",                       "french": "rivage, rive",                    "german": "Ufer, Küste" },
+    { "number": 114, "english": "funny",        "russian": "смешной, забавный",                    "spanish": "divertido, gracioso",          "french": "drôle, amusant",                  "german": "lustig, witzig" },
+    { "number": 115, "english": "revenge",      "russian": "месть, возмездие",                     "spanish": "venganza",                     "french": "vengeance",                       "german": "Rache" },
+    { "number": 116, "english": "relation",     "russian": "отношение, связь",                     "spanish": "relación",                     "french": "relation",                        "german": "Beziehung" },
+    { "number": 117, "english": "obvious",      "russian": "очевидный, явный",                     "spanish": "obvio, evidente",              "french": "évident",                         "german": "offensichtlich" },
+    { "number": 118, "english": "silence",      "russian": "тишина, молчание",                     "spanish": "silencio",                     "french": "silence",                         "german": "Stille, Schweigen" },
+    { "number": 119, "english": "wisdom",       "russian": "мудрость, благоразумие",               "spanish": "sabiduría",                    "french": "sagesse",                         "german": "Weisheit" },
+    { "number": 120, "english": "diverse",      "russian": "разнообразный, разносторонний",        "spanish": "diverso, variado",             "french": "divers, varié",                   "german": "vielfältig, verschieden" },
+    { "number": 121, "english": "fence",        "russian": "забор, ограда",                        "spanish": "valla, cerca",                 "french": "clôture",                         "german": "Zaun" },
+    { "number": 122, "english": "manufacture",  "russian": "производить, изготовление",            "spanish": "fabricar, manufacturar",       "french": "fabriquer, manufacture",          "german": "herstellen, Fertigung" },
+    { "number": 123, "english": "obviously",    "russian": "очевидно, разумеется",                 "spanish": "obviamente",                   "french": "évidemment",                      "german": "offensichtlich, natürlich" },
+    { "number": 124, "english": "melt",         "russian": "плавиться, растворяться",              "spanish": "derretirse, fundirse",         "french": "fondre",                          "german": "schmelzen" },
+    { "number": 125, "english": "poverty",      "russian": "бедность, нищета",                     "spanish": "pobreza",                      "french": "pauvreté",                        "german": "Armut" },
+    { "number": 126, "english": "naive",        "russian": "наивный, простодушный",                "spanish": "ingenuo",                      "french": "naïf",                            "german": "naiv" },
+    { "number": 127, "english": "forbidden",    "russian": "запрещённый, недопустимый",            "spanish": "prohibido",                    "french": "interdit",                        "german": "verboten" },
+    { "number": 128, "english": "confidence",   "russian": "уверенность, доверие",                 "spanish": "confianza",                    "french": "confiance",                       "german": "Vertrauen, Selbstvertrauen" },
+    { "number": 129, "english": "possession",   "russian": "владение, обладание",                  "spanish": "posesión",                     "french": "possession",                      "german": "Besitz" },
+    { "number": 130, "english": "regret",       "russian": "сожаление, раскаяние",                 "spanish": "arrepentimiento, lamentar",    "french": "regret",                          "german": "Bedauern" },
+    { "number": 131, "english": "confused",     "russian": "сбитый с толку, растерянный",          "spanish": "confundido",                   "french": "confus",                          "german": "verwirrt" },
+    { "number": 132, "english": "sincerely",    "russian": "искренне, честно",                     "spanish": "sinceramente",                 "french": "sincèrement",                     "german": "aufrichtig" },
+    { "number": 133, "english": "forecast",     "russian": "прогноз, предсказание",                "spanish": "pronóstico",                   "french": "prévision",                       "german": "Prognose, Vorhersage" },
+    { "number": 134, "english": "hazard",       "russian": "опасность, риск",                      "spanish": "peligro, riesgo",              "french": "danger, risque",                  "german": "Gefahr, Risiko" },
+    { "number": 135, "english": "remove",       "russian": "удалять, устранять",                   "spanish": "quitar, eliminar",             "french": "enlever, retirer",                "german": "entfernen" },
+    { "number": 136, "english": "replace",      "russian": "заменять, сменять",                    "spanish": "reemplazar, sustituir",        "french": "remplacer",                       "german": "ersetzen" },
+    { "number": 137, "english": "waste",        "russian": "отходы; растрачивать",                 "spanish": "desperdicio; desperdiciar",    "french": "déchets; gaspiller",              "german": "Abfall; verschwenden" },
+    { "number": 138, "english": "habit",        "russian": "привычка, обычай",                     "spanish": "hábito, costumbre",            "french": "habitude",                        "german": "Gewohnheit" },
+    { "number": 139, "english": "brave",        "russian": "храбрый, отважный",                    "spanish": "valiente",                     "french": "courageux",                       "german": "mutig, tapfer" },
+    { "number": 140, "english": "subtle",       "russian": "тонкий, едва различимый",              "spanish": "sutil",                        "french": "subtil",                          "german": "subtil, fein" },
+    { "number": 141, "english": "literally",    "russian": "буквально, дословно",                  "spanish": "literalmente",                 "french": "littéralement",                   "german": "buchstäblich" },
+    { "number": 142, "english": "certain",      "russian": "определённый; уверенный",              "spanish": "cierto, seguro",               "french": "certain",                         "german": "sicher, bestimmt" },
+    { "number": 143, "english": "shy",          "russian": "застенчивый, робкий",                  "spanish": "tímido",                       "french": "timide",                          "german": "schüchtern" },
+    { "number": 144, "english": "miracle",      "russian": "чудо, диво",                           "spanish": "milagro",                      "french": "miracle",                         "german": "Wunder" },
+    { "number": 145, "english": "due",          "russian": "должный; срок платежа",                "spanish": "debido; fecha límite",         "french": "dû; échéance",                    "german": "fällig; geschuldet" },
+    { "number": 146, "english": "occur",        "russian": "происходить, случаться",               "spanish": "ocurrir, suceder",             "french": "se produire",                     "german": "geschehen, vorkommen" },
+    { "number": 147, "english": "reduce",       "russian": "уменьшать, сокращать",                 "spanish": "reducir, disminuir",           "french": "réduire",                         "german": "verringern, reduzieren" },
+    { "number": 148, "english": "abroad",       "russian": "за границей",                          "spanish": "en el extranjero",             "french": "à l'étranger",                    "german": "im Ausland" },
+    { "number": 149, "english": "pleasant",     "russian": "приятный",                             "spanish": "agradable",                    "french": "agréable",                        "german": "angenehm" },
+    { "number": 150, "english": "besides",      "russian": "кроме того, помимо",                   "spanish": "además de",                    "french": "outre, en plus de",               "german": "außerdem, neben" },
+    { "number": 151, "english": "thunder",      "russian": "гром",                                 "spanish": "trueno",                       "french": "tonnerre",                        "german": "Donner" },
+    { "number": 152, "english": "storm",        "russian": "буря, шторм",                          "spanish": "tormenta",                     "french": "tempête",                         "german": "Sturm" },
+    { "number": 153, "english": "length",       "russian": "длина, продолжительность",             "spanish": "longitud",                     "french": "longueur",                        "german": "Länge" },
+    { "number": 154, "english": "while",        "russian": "пока; в то время как",                 "spanish": "mientras",                     "french": "pendant que",                     "german": "während" },
+    { "number": 155, "english": "unfortunately","russian": "к сожалению",                          "spanish": "desafortunadamente",           "french": "malheureusement",                 "german": "leider" },
+    { "number": 156, "english": "sincere",      "russian": "искренний, душевный",                  "spanish": "sincero",                      "french": "sincère",                         "german": "aufrichtig" },
+    { "number": 157, "english": "tolerant",     "russian": "терпимый",                             "spanish": "tolerante",                    "french": "tolérant",                        "german": "tolerant" },
+    { "number": 158, "english": "effort",       "russian": "усилие, старание",                     "spanish": "esfuerzo",                     "french": "effort",                          "german": "Anstrengung" },
+    { "number": 159, "english": "encourage",    "russian": "поощрять, поддерживать",               "spanish": "animar, alentar",              "french": "encourager",                      "german": "ermutigen" },
+    { "number": 160, "english": "generous",     "russian": "щедрый, великодушный",                 "spanish": "generoso",                     "french": "généreux",                        "german": "großzügig" },
+    { "number": 161, "english": "topic",        "russian": "тема, предмет обсуждения",             "spanish": "tema",                         "french": "sujet",                           "german": "Thema" },
+    { "number": 162, "english": "borrow",       "russian": "одалживать, брать на время",           "spanish": "pedir prestado",               "french": "emprunter",                       "german": "ausleihen" },
+    { "number": 163, "english": "improve",      "russian": "улучшать, совершенствовать",           "spanish": "mejorar",                      "french": "améliorer",                       "german": "verbessern" },
+    { "number": 164, "english": "explore",      "russian": "исследовать, изучать",                 "spanish": "explorar",                     "french": "explorer",                        "german": "erkunden" },
+    { "number": 165, "english": "discover",     "russian": "обнаруживать, открывать",              "spanish": "descubrir",                    "french": "découvrir",                       "german": "entdecken" },
+    { "number": 166, "english": "importance",   "russian": "важность, значимость",                 "spanish": "importancia",                  "french": "importance",                      "german": "Bedeutung" },
+    { "number": 167, "english": "peaceful",     "russian": "мирный, спокойный",                    "spanish": "pacífico, tranquilo",          "french": "paisible, tranquille",            "german": "friedlich, ruhig" }
+      
+    ]
+
+  },
+  "exam": {
+    "sentences": [
+      {
+        "id": 1,
+        "word_en": "admit",
+        "translations": {
+          "ru": "признавать",
+          "es": "admitir",
+          "fr": "admettre",
+          "de": "zugeben"
+        },
+        "words": [
+          { "correct": "admit", "alternatives": ["avoid", "deny", "ignore", "reject", "refuse", "conceal", "dispute"] }
+        ]
+      },
+      {
+        "id": 2,
+        "word_en": "appeal",
+        "translations": {
+          "ru": "апелляция / привлекательность",
+          "es": "apelación",
+          "fr": "appel",
+          "de": "Berufung"
+        },
+        "words": [
+          { "correct": "appeal", "alternatives": ["reject", "apply", "agree", "ignore", "dislike", "repel", "demand"] }
+        ]
+      },
+      {
+        "id": 3,
+        "word_en": "attempt",
+        "translations": {
+          "ru": "попытка",
+          "es": "intento",
+          "fr": "tentative",
+          "de": "Versuch"
+        },
+        "words": [
+          { "correct": "attempt", "alternatives": ["success", "delay", "refuse", "failure", "completion", "avoidance", "surrender"] }
+        ]
+      },
+      {
+        "id": 4,
+        "word_en": "beyond",
+        "translations": {
+          "ru": "за пределами",
+          "es": "más allá",
+          "fr": "au-delà",
+          "de": "jenseits"
+        },
+        "words": [
+          { "correct": "beyond", "alternatives": ["before", "inside", "beneath", "after", "under", "within", "beside"] }
+        ]
+      },
+      {
+        "id": 5,
+        "word_en": "claim",
+        "translations": {
+          "ru": "претензия / утверждение",
+          "es": "reclamación",
+          "fr": "revendication",
+          "de": "Anspruch"
+        },
+        "words": [
+          { "correct": "claim", "alternatives": ["doubt", "blame", "dream", "deny", "question", "dispute", "refute"] }
+        ]
+      },
+      {
+        "id": 6,
+        "word_en": "consequences",
+        "translations": {
+          "ru": "последствия",
+          "es": "consecuencias",
+          "fr": "conséquences",
+          "de": "Folgen"
+        },
+        "words": [
+          { "correct": "consequences", "alternatives": ["causes", "actions", "parties", "events", "ideas", "origins", "beginnings"] }
+        ]
+      },
+      {
+        "id": 7,
+        "word_en": "consumer",
+        "translations": {
+          "ru": "потребитель",
+          "es": "consumidor",
+          "fr": "consommateur",
+          "de": "Verbraucher"
+        },
+        "words": [
+          { "correct": "consumer", "alternatives": ["producer", "seller", "teacher", "creator", "supplier", "manufacturer", "distributor"] }
+        ]
+      },
+      {
+        "id": 8,
+        "word_en": "consistency",
+        "translations": {
+          "ru": "последовательность / постоянство",
+          "es": "consistencia",
+          "fr": "cohérence",
+          "de": "Beständigkeit"
+        },
+        "words": [
+          { "correct": "consistency", "alternatives": ["creativity", "chaos", "curiosity", "variation", "randomness", "inconsistency", "changeability"] }
+        ]
+      },
+      {
+        "id": 9,
+        "word_en": "desire",
+        "translations": {
+          "ru": "желание",
+          "es": "deseo",
+          "fr": "désir",
+          "de": "Wunsch"
+        },
+        "words": [
+          { "correct": "desire", "alternatives": ["dislike", "duty", "despair", "hate", "fear", "aversion", "indifference"] }
+        ]
+      },
+      {
+        "id": 10,
+        "word_en": "engage",
+        "translations": {
+          "ru": "вовлекать",
+          "es": "involucrar",
+          "fr": "engager / impliquer",
+          "de": "einbeziehen"
+        },
+        "words": [
+          { "correct": "engage", "alternatives": ["escape", "erase", "enable", "disengage", "avoid", "ignore", "release"] }
+        ]
+      },
+      {
+        "id": 11,
+        "word_en": "establish",
+        "translations": {
+          "ru": "установить, основать",
+          "es": "establecer",
+          "fr": "établir",
+          "de": "etablieren"
+        },
+        "words": [
+          { "correct": "establish", "alternatives": ["destroy", "cancel", "refuse", "ignore", "move", "abolish", "disrupt"] }
+        ]
+      },
+      {
+        "id": 12,
+        "word_en": "executive",
+        "translations": {
+          "ru": "исполнительный, управляющий",
+          "es": "ejecutivo",
+          "fr": "exécutif",
+          "de": "leitend"
+        },
+        "words": [
+          { "correct": "executive", "alternatives": ["employee", "intern", "assistant", "client", "trainee", "worker", "subordinate"] }
+        ]
+      },
+      {
+        "id": 13,
+        "word_en": "expand",
+        "translations": {
+          "ru": "расширять",
+          "es": "expandir",
+          "fr": "étendre",
+          "de": "erweitern"
+        },
+        "words": [
+          { "correct": "expand", "alternatives": ["reduce", "limit", "freeze", "focus", "stop", "shrink", "contract"] }
+        ]
+      },
+      {
+        "id": 14,
+        "word_en": "fraction",
+        "translations": {
+          "ru": "доля, часть",
+          "es": "fracción",
+          "fr": "fraction",
+          "de": "Bruchteil"
+        },
+        "words": [
+          { "correct": "fraction", "alternatives": ["whole", "integer", "unit", "zero", "sum", "total", "multiple"] }
+        ]
+      },
+      {
+        "id": 15,
+        "word_en": "guilty",
+        "translations": {
+          "ru": "виновный",
+          "es": "culpable",
+          "fr": "coupable",
+          "de": "schuldig"
+        },
+        "words": [
+          { "correct": "guilty", "alternatives": ["innocent", "proud", "happy", "clear", "righteous", "blameless", "faultless"] }
+        ]
+      },
+      {
+        "id": 16,
+        "word_en": "however",
+        "translations": {
+          "ru": "однако",
+          "es": "sin embargo",
+          "fr": "cependant",
+          "de": "jedoch"
+        },
+        "words": [
+          { "correct": "however", "alternatives": ["therefore", "meanwhile", "instead", "furthermore", "because", "also", "thus"] }
+        ]
+      },
+      {
+        "id": 17,
+        "word_en": "owe",
+        "translations": {
+          "ru": "быть должным",
+          "es": "deber",
+          "fr": "devoir",
+          "de": "schulden"
+        },
+        "words": [
+          { "correct": "owe", "alternatives": ["lend", "give", "borrow", "possess", "pay", "receive", "own"] }
+        ]
+      },
+      {
+        "id": 18,
+        "word_en": "passion",
+        "translations": {
+          "ru": "страсть",
+          "es": "pasión",
+          "fr": "passion",
+          "de": "Leidenschaft"
+        },
+        "words": [
+          { "correct": "passion", "alternatives": ["apathy", "boredom", "calmness", "duty", "silence", "indifference", "disinterest"] }
+        ]
+      },
+      {
+        "id": 19,
+        "word_en": "phase",
+        "translations": {
+          "ru": "фаза, этап",
+          "es": "fase",
+          "fr": "phase",
+          "de": "Phase"
+        },
+        "words": [
+          { "correct": "phase", "alternatives": ["whole", "result", "beginning", "end", "process", "completion", "cycle"] }
+        ]
+      },
+      {
+        "id": 20,
+        "word_en": "responsible",
+        "translations": {
+          "ru": "ответственный",
+          "es": "responsable",
+          "fr": "responsable",
+          "de": "verantwortlich"
+        },
+        "words": [
+          { "correct": "responsible", "alternatives": ["careless", "free", "irresponsible", "happy", "unreliable", "unaccountable", "negligent"] }
+        ]
+      },
+      {
+        "id": 21,
+        "word_en": "rather",
+        "translations": {
+          "ru": "скорее",
+          "es": "más bien",
+          "fr": "plutôt",
+          "de": "eher"
+        },
+        "words": [
+          { "correct": "rather", "alternatives": ["exactly", "never", "certainly", "always", "instead", "precisely", "absolutely"] }
+        ]
+      },
+      {
+        "id": 22,
+        "word_en": "rush",
+        "translations": {
+          "ru": "спешка",
+          "es": "prisa",
+          "fr": "hâte",
+          "de": "Eile"
+        },
+        "words": [
+          { "correct": "rush", "alternatives": ["delay", "wait", "rest", "linger", "stroll", "pause", "dawdle"] }
+        ]
+      },
+      {
+        "id": 23,
+        "word_en": "sensitive",
+        "translations": {
+          "ru": "чувствительный",
+          "es": "sensible",
+          "fr": "sensible",
+          "de": "empfindlich"
+        },
+        "words": [
+          { "correct": "sensitive", "alternatives": ["tough", "loud", "insensitive", "strong", "indifferent", "callous", "unfeeling"] }
+        ]
+      },
+      {
+        "id": 24,
+        "word_en": "suggest",
+        "translations": {
+          "ru": "предлагать",
+          "es": "sugerir",
+          "fr": "suggérer",
+          "de": "vorschlagen"
+        },
+        "words": [
+          { "correct": "suggest", "alternatives": ["demand", "force", "refuse", "order", "ignore", "command", "insist"] }
+        ]
+      },
+      {
+        "id": 25,
+        "word_en": "surround",
+        "translations": {
+          "ru": "окружать",
+          "es": "rodear",
+          "fr": "entourer",
+          "de": "umgeben"
+        },
+        "words": [
+          { "correct": "surround", "alternatives": ["abandon", "hide", "escape", "release", "separate", "disperse", "free"] }
+        ]
+      },
+      {
+        "id": 26,
+        "word_en": "threat",
+        "translations": {
+          "ru": "угроза, опасность",
+          "es": "amenaza",
+          "fr": "menace",
+          "de": "Bedrohung"
+        },
+        "words": [
+          { "correct": "threat", "alternatives": ["safety", "promise", "reward", "friend", "help", "security", "assurance"] }
+        ]
+      },
+      {
+        "id": 27,
+        "word_en": "treat",
+        "translations": {
+          "ru": "лечить; обращаться",
+          "es": "tratar, atender",
+          "fr": "traiter",
+          "de": "behandeln"
+        },
+        "words": [
+          { "correct": "treat", "alternatives": ["ignore", "harm", "reject", "lose", "break", "neglect", "mistreat"] }
+        ]
+      },
+      {
+        "id": 28,
+        "word_en": "ultimate",
+        "translations": {
+          "ru": "конечный, предельный",
+          "es": "último, definitivo",
+          "fr": "ultime, final",
+          "de": "letztendlich, ultimativ"
+        },
+        "words": [
+          { "correct": "ultimate", "alternatives": ["initial", "basic", "temporary", "secondary", "minor", "preliminary", "introductory"] }
+        ]
+      },
+      {
+        "id": 29,
+        "word_en": "wonder",
+        "translations": {
+          "ru": "интересоваться, удивляться",
+          "es": "preguntarse, maravilla",
+          "fr": "se demander, merveille",
+          "de": "sich wundern, Wunder"
+        },
+        "words": [
+          { "correct": "wonder", "alternatives": ["know", "ignore", "forget", "understand", "decide", "believe", "accept"] }
+        ]
+      },
+      {
+        "id": 30,
+        "word_en": "either",
+        "translations": {
+          "ru": "либо, любой из двух",
+          "es": "cualquiera de los dos",
+          "fr": "l'un ou l'autre",
+          "de": "entweder"
+        },
+        "words": [
+          { "correct": "either", "alternatives": ["neither", "both", "none", "all", "any", "every", "each"] }
+        ]
+      },
+      {
+        "id": 31,
+        "word_en": "neither",
+        "translations": {
+          "ru": "ни тот, ни другой",
+          "es": "ninguno de los dos",
+          "fr": "ni l'un ni l'autre",
+          "de": "weder … noch"
+        },
+        "words": [
+          { "correct": "neither", "alternatives": ["either", "both", "all", "none", "some", "any", "every"] }
+        ]
+      },
+      {
+        "id": 32,
+        "word_en": "assume",
+        "translations": {
+          "ru": "предполагать, допускать",
+          "es": "suponer",
+          "fr": "supposer",
+          "de": "annehmen"
+        },
+        "words": [
+          { "correct": "assume", "alternatives": ["know", "prove", "deny", "confirm", "verify", "doubt", "question"] }
+        ]
+      },
+      {
+        "id": 33,
+        "word_en": "survey",
+        "translations": {
+          "ru": "опрос, исследование",
+          "es": "encuesta",
+          "fr": "sondage, enquête",
+          "de": "Umfrage"
+        },
+        "words": [
+          { "correct": "survey", "alternatives": ["ignore", "hide", "avoid", "interview", "opinion", "guess", "experiment"] }
+        ]
+      },
+      {
+        "id": 34,
+        "word_en": "pleased",
+        "translations": {
+          "ru": "довольный, удовлетворённый",
+          "es": "contento, satisfecho",
+          "fr": "content, satisfait",
+          "de": "zufrieden"
+        },
+        "words": [
+          { "correct": "pleased", "alternatives": ["disappointed", "angry", "sad", "upset", "annoyed", "unhappy", "miserable"] }
+        ]
+      },
+      {
+        "id": 35,
+        "word_en": "intense",
+        "translations": {
+          "ru": "интенсивный, напряжённый",
+          "es": "intenso",
+          "fr": "intense",
+          "de": "intensiv"
+        },
+        "words": [
+          { "correct": "intense", "alternatives": ["mild", "weak", "gentle", "calm", "moderate", "light", "soft"] }
+        ]
+      },
+      {
+        "id": 36,
+        "word_en": "mutual",
+        "translations": {
+          "ru": "взаимный, обоюдный",
+          "es": "mutuo",
+          "fr": "mutuel",
+          "de": "gegenseitig"
+        },
+        "words": [
+          { "correct": "mutual", "alternatives": ["one-sided", "personal", "selfish", "individual", "separate", "unilateral", "independent"] }
+        ]
+      },
+      {
+        "id": 37,
+        "word_en": "so far",
+        "translations": {
+          "ru": "пока что, до сих пор",
+          "es": "hasta ahora",
+          "fr": "jusqu'à présent",
+          "de": "bis jetzt"
+        },
+        "words": [
+          { "correct": "so far", "alternatives": ["in future", "never", "always", "recently", "later", "previously", "henceforth"] }
+        ]
+      },
+      {
+        "id": 39,
+        "word_en": "entertainment",
+        "translations": {
+          "ru": "развлечение, досуг",
+          "es": "entretenimiento",
+          "fr": "divertissement",
+          "de": "Unterhaltung"
+        },
+        "words": [
+          { "correct": "entertainment", "alternatives": ["boredom", "work", "study", "duty", "chore", "task", "obligation"] }
+        ]
+      },
+      {
+        "id": 40,
+        "word_en": "essential",
+        "translations": {
+          "ru": "существенный, необходимый",
+          "es": "esencial",
+          "fr": "essentiel",
+          "de": "wesentlich"
+        },
+        "words": [
+          { "correct": "essential", "alternatives": ["optional", "trivial", "unnecessary", "extra", "secondary", "inessential", "superfluous"] }
+        ]
+      },
+      {
+        "id": 41,
+        "word_en": "mortgage",
+        "translations": {
+          "ru": "ипотека, залог",
+          "es": "hipoteca",
+          "fr": "hypothèque",
+          "de": "Hypothek"
+        },
+        "words": [
+          { "correct": "mortgage", "alternatives": ["gift", "donation", "inheritance", "savings", "salary", "grant", "investment"] }
+        ]
+      },
+      {
+        "id": 42,
+        "word_en": "measure",
+        "translations": {
+          "ru": "мера; измерение",
+          "es": "medida; medir",
+          "fr": "mesure; mesurer",
+          "de": "Maß; messen"
+        },
+        "words": [
+          { "correct": "measure", "alternatives": ["guess", "estimate", "ignore", "overlook", "neglect", "skip", "avoid"] }
+        ]
+      },
+      {
+        "id": 43,
+        "word_en": "eventually",
+        "translations": {
+          "ru": "в конце концов, со временем",
+          "es": "finalmente",
+          "fr": "finalement",
+          "de": "schließlich"
+        },
+        "words": [
+          { "correct": "eventually", "alternatives": ["immediately", "never", "currently", "initially", "rarely", "promptly", "instantly"] }
+        ]
+      },
+      {
+        "id": 44,
+        "word_en": "basically",
+        "translations": {
+          "ru": "в основном, по сути",
+          "es": "básicamente",
+          "fr": "fondamentalement, en gros",
+          "de": "grundsätzlich, im Grunde"
+        },
+        "words": [
+          { "correct": "basically", "alternatives": ["completely", "specifically", "rarely", "exactly", "partially", "elaborately", "complexly"] }
+        ]
+      },
+      {
+        "id": 45,
+        "word_en": "float",
+        "translations": {
+          "ru": "плавать; поплавок",
+          "es": "flotar",
+          "fr": "flotter",
+          "de": "schweben, treiben"
+        },
+        "words": [
+          { "correct": "float", "alternatives": ["sink", "fall", "drop", "dive", "plunge", "submerge", "descend"] }
+        ]
+      },
+      {
+        "id": 46,
+        "word_en": "blind",
+        "translations": {
+          "ru": "слепой; жалюзи",
+          "es": "ciego; persiana",
+          "fr": "aveugle; store",
+          "de": "blind; Jalousie"
+        },
+        "words": [
+          { "correct": "blind", "alternatives": ["sighted", "aware", "visible", "seeing", "clear", "perceptive", "observant"] }
+        ]
+      },
+      {
+        "id": 47,
+        "word_en": "ties",
+        "translations": {
+          "ru": "узы; галстуки",
+          "es": "lazos; corbatas",
+          "fr": "liens; cravates",
+          "de": "Bindungen; Krawatten"
+        },
+        "words": [
+          { "correct": "ties", "alternatives": ["separations", "breaks", "divisions", "gaps", "distances", "splits", "isolations"] }
+        ]
+      },
+      {
+        "id": 48,
+        "word_en": "suspected",
+        "translations": {
+          "ru": "подозреваемый, предполагаемый",
+          "es": "sospechoso (adj.)",
+          "fr": "suspecté, présumé",
+          "de": "verdächtigt, mutmaßlich"
+        },
+        "words": [
+          { "correct": "suspected", "alternatives": ["proven", "trusted", "verified", "confirmed", "known", "certain", "established"] }
+        ]
+      },
+      {
+        "id": 49,
+        "word_en": "permanent",
+        "translations": {
+          "ru": "постоянный, неизменный",
+          "es": "permanente",
+          "fr": "permanent",
+          "de": "dauerhaft"
+        },
+        "words": [
+          { "correct": "permanent", "alternatives": ["temporary", "brief", "occasional", "short-term", "interim", "transient", "fleeting"] }
+        ]
+      },
+      {
+        "id": 50,
+        "word_en": "blame",
+        "translations": {
+          "ru": "вина; обвинять",
+          "es": "culpa; culpar",
+          "fr": "blâme; blâmer",
+          "de": "Schuld; beschuldigen"
+        },
+        "words": [
+          { "correct": "blame", "alternatives": ["praise", "defend", "support", "credit", "honor", "commend", "approve"] }
+        ]
+      },
+      {
+        "id": 51,
+        "word_en": "advanced",
+        "translations": {
+          "ru": "передовой, продвинутый",
+          "es": "avanzado",
+          "fr": "avancé",
+          "de": "fortgeschritten"
+        },
+        "words": [
+          { "correct": "advanced", "alternatives": ["basic", "elementary", "beginner", "simple", "introductory", "rudimentary", "primitive"] }
+        ]
+      },
+      {
+        "id": 52,
+        "word_en": "response",
+        "translations": {
+          "ru": "ответ, реакция",
+          "es": "respuesta",
+          "fr": "réponse",
+          "de": "Antwort, Reaktion"
+        },
+        "words": [
+          { "correct": "response", "alternatives": ["question", "silence", "ignorance", "command", "statement", "query", "inquiry"] }
+        ]
+      },
+      {
+        "id": 53,
+        "word_en": "exhausted",
+        "translations": {
+          "ru": "измученный, истощённый",
+          "es": "agotado",
+          "fr": "épuisé",
+          "de": "erschöpft"
+        },
+        "words": [
+          { "correct": "exhausted", "alternatives": ["energetic", "refreshed", "rested", "vigorous", "lively", "invigorated", "active"] }
+        ]
+      },
+      {
+        "id": 54,
+        "word_en": "approximately",
+        "translations": {
+          "ru": "примерно, ориентировочно",
+          "es": "aproximadamente",
+          "fr": "approximativement",
+          "de": "ungefähr"
+        },
+        "words": [
+          { "correct": "approximately", "alternatives": ["exactly", "precisely", "definitely", "absolutely", "certainly", "specifically", "accurately"] }
+        ]
+      },
+      {
+        "id": 55,
+        "word_en": "deny",
+        "translations": {
+          "ru": "отрицать, отвергать",
+          "es": "negar",
+          "fr": "nier",
+          "de": "leugnen"
+        },
+        "words": [
+          { "correct": "deny", "alternatives": ["admit", "confirm", "accept", "acknowledge", "confess", "affirm", "validate"] }
+        ]
+      },
+      {
+        "id": 56,
+        "word_en": "fulfill",
+        "translations": {
+          "ru": "выполнять, исполнять",
+          "es": "cumplir",
+          "fr": "accomplir, satisfaire",
+          "de": "erfüllen"
+        },
+        "words": [
+          { "correct": "fulfill", "alternatives": ["neglect", "ignore", "abandon", "fail", "disregard", "break", "violate"] }
+        ]
+      },
+      {
+        "id": 57,
+        "word_en": "graduate",
+        "translations": {
+          "ru": "выпускник; окончить учёбу",
+          "es": "graduarse / graduado",
+          "fr": "diplômé / obtenir son diplôme",
+          "de": "Absolvent / absolvieren"
+        },
+        "words": [
+          { "correct": "graduate", "alternatives": ["dropout", "fail", "quit", "enroll", "start", "flunk", "withdraw"] }
+        ]
+      },
+      {
+        "id": 58,
+        "word_en": "seed",
+        "translations": {
+          "ru": "семя, зерно",
+          "es": "semilla",
+          "fr": "graine",
+          "de": "Samen"
+        },
+        "words": [
+          { "correct": "seed", "alternatives": ["harvest", "result", "product", "flower", "fruit", "outcome", "yield"] }
+        ]
+      },
+      {
+        "id": 59,
+        "word_en": "settle",
+        "translations": {
+          "ru": "селиться; урегулировать",
+          "es": "asentarse; resolver",
+          "fr": "s'installer; régler",
+          "de": "sich niederlassen; regeln"
+        },
+        "words": [
+          { "correct": "settle", "alternatives": ["wander", "disturb", "provoke", "move", "agitate", "roam", "escalate"] }
+        ]
+      },
+      {
+        "id": 60,
+        "word_en": "suggestions",
+        "translations": {
+          "ru": "предложения, рекомендации",
+          "es": "sugerencias",
+          "fr": "suggestions",
+          "de": "Vorschläge"
+        },
+        "words": [
+          { "correct": "suggestions", "alternatives": ["demands", "orders", "requirements", "commands", "rules", "mandates", "directives"] }
+        ]
+      },
+      {
+        "id": 61,
+        "word_en": "attitude",
+        "translations": {
+          "ru": "отношение, позиция",
+          "es": "actitud",
+          "fr": "attitude",
+          "de": "Einstellung, Haltung"
+        },
+        "words": [
+          { "correct": "attitude", "alternatives": ["behavior", "knowledge", "skill", "opinion", "mood", "action", "belief"] }
+        ]
+      },
+      {
+        "id": 62,
+        "word_en": "cover",
+        "translations": {
+          "ru": "покрывать; защита",
+          "es": "cubrir; cobertura",
+          "fr": "couvrir; couverture",
+          "de": "decken; Deckung"
+        },
+        "words": [
+          { "correct": "cover", "alternatives": ["expose", "reveal", "display", "uncover", "show", "bare", "strip"] }
+        ]
+      },
+      {
+        "id": 63,
+        "word_en": "cable",
+        "translations": {
+          "ru": "кабель, провод",
+          "es": "cable",
+          "fr": "câble",
+          "de": "Kabel"
+        },
+        "words": [
+          { "correct": "cable", "alternatives": ["wireless", "satellite", "antenna", "signal", "radio", "broadcast", "airwaves"] }
+        ]
+      },
+      {
+        "id": 64,
+        "word_en": "legit",
+        "translations": {
+          "ru": "законный; настоящий (разг.)",
+          "es": "legítimo",
+          "fr": "légitime",
+          "de": "legitim, legal"
+        },
+        "words": [
+          { "correct": "legit", "alternatives": ["fake", "fraudulent", "counterfeit", "illegal", "false", "bogus", "phony"] }
+        ]
+      },
+      {
+        "id": 65,
+        "word_en": "roughly",
+        "translations": {
+          "ru": "приблизительно, грубо",
+          "es": "aproximadamente",
+          "fr": "approximativement",
+          "de": "ungefähr, grob"
+        },
+        "words": [
+          { "correct": "roughly", "alternatives": ["exactly", "precisely", "smoothly", "gently", "accurately", "specifically", "finely"] }
+        ]
+      },
+      {
+        "id": 66,
+        "word_en": "considering",
+        "translations": {
+          "ru": "принимая во внимание",
+          "es": "teniendo en cuenta",
+          "fr": "en tenant compte de",
+          "de": "angesichts, unter Berücksichtigung"
+        },
+        "words": [
+          { "correct": "considering", "alternatives": ["ignoring", "forgetting", "overlooking", "disregarding", "neglecting", "dismissing", "omitting"] }
+        ]
+      },
+      {
+        "id": 67,
+        "word_en": "sacrifice",
+        "translations": {
+          "ru": "жертва; жертвовать",
+          "es": "sacrificio; sacrificar",
+          "fr": "sacrifice; sacrifier",
+          "de": "Opfer; opfern"
+        },
+        "words": [
+          { "correct": "sacrifice", "alternatives": ["gain", "benefit", "profit", "advantage", "reward", "acquisition", "attainment"] }
+        ]
+      },
+      {
+        "id": 68,
+        "word_en": "bankrupt",
+        "translations": {
+          "ru": "банкрот; обанкротившийся",
+          "es": "en bancarrota",
+          "fr": "en faillite",
+          "de": "bankrott, insolvent"
+        },
+        "words": [
+          { "correct": "bankrupt", "alternatives": ["wealthy", "solvent", "profitable", "rich", "thriving", "prosperous", "flourishing"] }
+        ]
+      },
+      {
+        "id": 69,
+        "word_en": "honor",
+        "translations": {
+          "ru": "честь, почёт",
+          "es": "honor",
+          "fr": "honneur",
+          "de": "Ehre"
+        },
+        "words": [
+          { "correct": "honor", "alternatives": ["disgrace", "shame", "insult", "dishonor", "disrespect", "contempt", "scorn"] }
+        ]
+      },
+      {
+        "id": 70,
+        "word_en": "aware",
+        "translations": {
+          "ru": "осведомлённый, знающий",
+          "es": "consciente",
+          "fr": "conscient",
+          "de": "bewusst"
+        },
+        "words": [
+          { "correct": "aware", "alternatives": ["ignorant", "oblivious", "uninformed", "heedless", "mindless", "unaware", "unconscious"] }
+        ]
+      },
+      {
+        "id": 71,
+        "word_en": "pull",
+        "translations": {
+          "ru": "тянуть; притягивать",
+          "es": "tirar; jalar",
+          "fr": "tirer",
+          "de": "ziehen"
+        },
+        "words": [
+          { "correct": "pull", "alternatives": ["push", "release", "drop", "lift", "throw", "repel", "shove"] }
+        ]
+      },
+      {
+        "id": 72,
+        "word_en": "abandoned",
+        "translations": {
+          "ru": "заброшенный, покинутый",
+          "es": "abandonado",
+          "fr": "abandonné",
+          "de": "verlassen"
+        },
+        "words": [
+          { "correct": "abandoned", "alternatives": ["occupied", "inhabited", "maintained", "cherished", "supported", "claimed", "kept"] }
+        ]
+      },
+      {
+        "id": 73,
+        "word_en": "asset",
+        "translations": {
+          "ru": "актив; ценное имущество",
+          "es": "activo, bien",
+          "fr": "actif, atout",
+          "de": "Vermögenswert"
+        },
+        "words": [
+          { "correct": "asset", "alternatives": ["liability", "debt", "burden", "drawback", "disadvantage", "hindrance", "encumbrance"] }
+        ]
+      },
+      {
+        "id": 74,
+        "word_en": "approval",
+        "translations": {
+          "ru": "одобрение, утверждение",
+          "es": "aprobación",
+          "fr": "approbation",
+          "de": "Zustimmung"
+        },
+        "words": [
+          { "correct": "approval", "alternatives": ["rejection", "disapproval", "denial", "criticism", "condemnation", "censure", "rebuke"] }
+        ]
+      },
+      {
+        "id": 75,
+        "word_en": "engaged",
+        "translations": {
+          "ru": "помолвленный; занятый",
+          "es": "comprometido; ocupado",
+          "fr": "fiancé; occupé",
+          "de": "verlobt; beschäftigt"
+        },
+        "words": [
+          { "correct": "engaged", "alternatives": ["single", "divorced", "separated", "idle", "free", "available", "unoccupied"] }
+        ]
+      },
+      {
+        "id": 76,
+        "word_en": "affordable",
+        "translations": {
+          "ru": "доступный по цене",
+          "es": "asequible",
+          "fr": "abordable",
+          "de": "erschwinglich"
+        },
+        "words": [
+          { "correct": "affordable", "alternatives": ["expensive", "costly", "extravagant", "priceless", "unreasonable", "dear", "exorbitant"] }
+        ]
+      },
+      {
+        "id": 77,
+        "word_en": "pitch",
+        "translations": {
+          "ru": "подача; короткая презентация",
+          "es": "presentación breve",
+          "fr": "pitch, présentation",
+          "de": "Pitch, Kurzpräsentation"
+        },
+        "words": [
+          { "correct": "pitch", "alternatives": ["silence", "withdrawal", "refusal", "hesitation", "delay", "retraction", "objection"] }
+        ]
+      },
+      {
+        "id": 78,
+        "word_en": "rely",
+        "translations": {
+          "ru": "полагаться, зависеть",
+          "es": "confiar; depender",
+          "fr": "compter sur",
+          "de": "sich verlassen auf"
+        },
+        "words": [
+          { "correct": "rely", "alternatives": ["doubt", "distrust", "suspect", "ignore", "abandon", "question", "mistrust"] }
+        ]
+      },
+      {
+        "id": 79,
+        "word_en": "attorney",
+        "translations": {
+          "ru": "адвокат, юрист",
+          "es": "abogado",
+          "fr": "avocat",
+          "de": "Anwalt"
+        },
+        "words": [
+          { "correct": "attorney", "alternatives": ["criminal", "defendant", "prisoner", "judge", "plaintiff", "witness", "juror"] }
+        ]
+      },
+      {
+        "id": 80,
+        "word_en": "satisfy",
+        "translations": {
+          "ru": "удовлетворять",
+          "es": "satisfacer",
+          "fr": "satisfaire",
+          "de": "befriedigen"
+        },
+        "words": [
+          { "correct": "satisfy", "alternatives": ["disappoint", "frustrate", "neglect", "annoy", "anger", "displease", "fail"] }
+        ]
+      },
+      {
+        "id": 81,
+        "word_en": "arrangement",
+        "translations": {
+          "ru": "договорённость; расположение",
+          "es": "arreglo; acuerdo",
+          "fr": "arrangement; disposition",
+          "de": "Vereinbarung; Anordnung"
+        },
+        "words": [
+          { "correct": "arrangement", "alternatives": ["chaos", "disorder", "confusion", "mess", "jumble", "disarray", "disorganization"] }
+        ]
+      },
+      {
+        "id": 82,
+        "word_en": "dispute",
+        "translations": {
+          "ru": "спор, разногласие",
+          "es": "disputa",
+          "fr": "dispute",
+          "de": "Streit"
+        },
+        "words": [
+          { "correct": "dispute", "alternatives": ["agreement", "harmony", "consensus", "accord", "peace", "concord", "settlement"] }
+        ]
+      },
+      {
+        "id": 83,
+        "word_en": "modify",
+        "translations": {
+          "ru": "изменять, модифицировать",
+          "es": "modificar",
+          "fr": "modifier",
+          "de": "modifizieren, ändern"
+        },
+        "words": [
+          { "correct": "modify", "alternatives": ["preserve", "maintain", "retain", "keep", "fix", "freeze", "stabilize"] }
+        ]
+      },
+      {
+        "id": 84,
+        "word_en": "judges",
+        "translations": {
+          "ru": "судьи, арбитры",
+          "es": "jueces",
+          "fr": "juges",
+          "de": "Richter"
+        },
+        "words": [
+          { "correct": "judges", "alternatives": ["criminals", "prisoners", "defendants", "lawyers", "witnesses", "plaintiffs", "jurors"] }
+        ]
+      },
+      {
+        "id": 85,
+        "word_en": "consent",
+        "translations": {
+          "ru": "согласие, разрешение",
+          "es": "consentimiento",
+          "fr": "consentement",
+          "de": "Zustimmung, Einwilligung"
+        },
+        "words": [
+          { "correct": "consent", "alternatives": ["refusal", "rejection", "prohibition", "denial", "veto", "dissent", "objection"] }
+        ]
+      },
+      {
+        "id": 86,
+        "word_en": "consequence",
+        "translations": {
+          "ru": "последствие, результат",
+          "es": "consecuencia",
+          "fr": "conséquence",
+          "de": "Konsequenz"
+        },
+        "words": [
+          { "correct": "consequence", "alternatives": ["cause", "origin", "source", "reason", "antecedent", "precedent", "basis"] }
+        ]
+      },
+      {
+        "id": 87,
+        "word_en": "lonely",
+        "translations": {
+          "ru": "одинокий, уединённый",
+          "es": "solitario",
+          "fr": "solitaire",
+          "de": "einsam"
+        },
+        "words": [
+          { "correct": "lonely", "alternatives": ["sociable", "popular", "crowded", "accompanied", "connected", "friended", "communal"] }
+        ]
+      },
+      {
+        "id": 88,
+        "word_en": "hurry",
+        "translations": {
+          "ru": "спешить; спешка",
+          "es": "prisa; darse prisa",
+          "fr": "hâte; se dépêcher",
+          "de": "Eile; sich beeilen"
+        },
+        "words": [
+          { "correct": "hurry", "alternatives": ["delay", "linger", "procrastinate", "wait", "dawdle", "loiter", "pause"] }
+        ]
+      },
+      {
+        "id": 89,
+        "word_en": "revenue",
+        "translations": {
+          "ru": "доход, выручка",
+          "es": "ingresos",
+          "fr": "revenus",
+          "de": "Einnahmen"
+        },
+        "words": [
+          { "correct": "revenue", "alternatives": ["expense", "cost", "loss", "debt", "outlay", "expenditure", "deficit"] }
+        ]
+      },
+      {
+        "id": 90,
+        "word_en": "labor",
+        "translations": {
+          "ru": "труд, работа",
+          "es": "trabajo, labor",
+          "fr": "travail",
+          "de": "Arbeit"
+        },
+        "words": [
+          { "correct": "labor", "alternatives": ["leisure", "rest", "relaxation", "idleness", "ease", "inactivity", "recreation"] }
+        ]
+      },
+      {
+        "id": 91,
+        "word_en": "handle",
+        "translations": {
+          "ru": "управлять, справляться; ручка",
+          "es": "manejar; asa",
+          "fr": "gérer; poignée",
+          "de": "handhaben; Griff"
+        },
+        "words": [
+          { "correct": "handle", "alternatives": ["avoid", "fail", "mismanage", "ignore", "neglect", "botch", "fumble"] }
+        ]
+      },
+      {
+        "id": 92,
+        "word_en": "influence",
+        "translations": {
+          "ru": "влияние; влиять",
+          "es": "influencia",
+          "fr": "influence",
+          "de": "Einfluss"
+        },
+        "words": [
+          { "correct": "influence", "alternatives": ["powerlessness", "irrelevance", "insignificance", "weakness", "impotence", "inability", "ineffectiveness"] }
+        ]
+      },
+      {
+        "id": 93,
+        "word_en": "rough",
+        "translations": {
+          "ru": "грубый; приблизительный",
+          "es": "áspero; aproximado",
+          "fr": "rugueux; approximatif",
+          "de": "rau; grob; ungefähr"
+        },
+        "words": [
+          { "correct": "rough", "alternatives": ["smooth", "exact", "polished", "gentle", "calm", "refined", "precise"] }
+        ]
+      },
+      {
+        "id": 94,
+        "word_en": "reputation",
+        "translations": {
+          "ru": "репутация, известность",
+          "es": "reputación",
+          "fr": "réputation",
+          "de": "Ruf"
+        },
+        "words": [
+          { "correct": "reputation", "alternatives": ["anonymity", "obscurity", "invisibility", "disrepute", "infamy", "notoriety", "dishonor"] }
+        ]
+      },
+      {
+        "id": 95,
+        "word_en": "commute",
+        "translations": {
+          "ru": "ездить на работу",
+          "es": "desplazarse al trabajo",
+          "fr": "faire la navette",
+          "de": "pendeln"
+        },
+        "words": [
+          { "correct": "commute", "alternatives": ["stay", "relocate", "teleport", "reside", "dwell", "remain", "abide"] }
+        ]
+      },
+      {
+        "id": 96,
+        "word_en": "equity",
+        "translations": {
+          "ru": "справедливость, равенство",
+          "es": "equidad",
+          "fr": "équité",
+          "de": "Gerechtigkeit"
+        },
+        "words": [
+          { "correct": "equity", "alternatives": ["bias", "injustice", "disparity", "unfairness", "inequality", "prejudice", "discrimination"] }
+        ]
+      },
+      {
+        "id": 97,
+        "word_en": "justice",
+        "translations": {
+          "ru": "правосудие; справедливость",
+          "es": "justicia",
+          "fr": "justice",
+          "de": "Justiz; Gerechtigkeit"
+        },
+        "words": [
+          { "correct": "justice", "alternatives": ["corruption", "bias", "favoritism", "inequity", "unfairness", "wrong", "partiality"] }
+        ]
+      },
+      {
+        "id": 98,
+        "word_en": "towards",
+        "translations": {
+          "ru": "по направлению к; относительно",
+          "es": "hacia",
+          "fr": "vers",
+          "de": "in Richtung auf"
+        },
+        "words": [
+          { "correct": "towards", "alternatives": ["away", "backward", "opposite", "from", "against", "diverging", "retreating"] }
+        ]
+      },
+      {
+        "id": 99,
+        "word_en": "expose",
+        "translations": {
+          "ru": "разоблачать, раскрывать",
+          "es": "exponer, revelar",
+          "fr": "exposer, révéler",
+          "de": "aufdecken, enthüllen"
+        },
+        "words": [
+          { "correct": "expose", "alternatives": ["hide", "conceal", "cover", "protect", "shield", "mask", "veil"] }
+        ]
+      },
+      {
+        "id": 100,
+        "word_en": "demand",
+        "translations": {
+          "ru": "требовать; спрос",
+          "es": "exigir, demanda",
+          "fr": "demander, demande",
+          "de": "fordern, Nachfrage"
+        },
+        "words": [
+          { "correct": "demand", "alternatives": ["offer", "supply", "provide", "yield", "concede", "waive", "relinquish"] }
+        ]
+      },
+      {
+        "id": 101,
+        "word_en": "assist",
+        "translations": {
+          "ru": "помогать, содействовать",
+          "es": "asistir, ayudar",
+          "fr": "assister, aider",
+          "de": "helfen, assistieren"
+        },
+        "words": [
+          { "correct": "assist", "alternatives": ["prevent", "hinder", "block", "obstruct", "impede", "oppose", "resist"] }
+        ]
+      },
+      {
+        "id": 102,
+        "word_en": "enemy",
+        "translations": {
+          "ru": "враг, противник",
+          "es": "enemigo",
+          "fr": "ennemi",
+          "de": "Feind"
+        },
+        "words": [
+          { "correct": "enemy", "alternatives": ["friend", "ally", "supporter", "companion", "partner", "confidant", "associate"] }
+        ]
+      },
+      {
+        "id": 103,
+        "word_en": "sharp",
+        "translations": {
+          "ru": "острый; резкий",
+          "es": "afilado, agudo",
+          "fr": "tranchant, aigu",
+          "de": "scharf"
+        },
+        "words": [
+          { "correct": "sharp", "alternatives": ["dull", "smooth", "rounded", "flat", "vague", "blunt", "obtuse"] }
+        ]
+      },
+      {
+        "id": 104,
+        "word_en": "minority",
+        "translations": {
+          "ru": "меньшинство",
+          "es": "minoría",
+          "fr": "minorité",
+          "de": "Minderheit"
+        },
+        "words": [
+          { "correct": "minority", "alternatives": ["majority", "totality", "bulk", "whole", "mass", "plurality", "preponderance"] }
+        ]
+      },
+      {
+        "id": 105,
+        "word_en": "assessment",
+        "translations": {
+          "ru": "оценка, анализ",
+          "es": "evaluación",
+          "fr": "évaluation",
+          "de": "Bewertung"
+        },
+        "words": [
+          { "correct": "assessment", "alternatives": ["guess", "ignorance", "intuition", "neglect", "oversight", "disregard", "misjudgment"] }
+        ]
+      },
+      {
+        "id": 106,
+        "word_en": "reveal",
+        "translations": {
+          "ru": "раскрывать, показывать",
+          "es": "revelar, desvelar",
+          "fr": "révéler, dévoiler",
+          "de": "enthüllen, offenbaren"
+        },
+        "words": [
+          { "correct": "reveal", "alternatives": ["hide", "disguise", "cover", "mask", "obscure", "conceal", "veil"] }
+        ]
+      },
+      {
+        "id": 107,
+        "word_en": "responsibility",
+        "translations": {
+          "ru": "ответственность, обязанность",
+          "es": "responsabilidad",
+          "fr": "responsabilité",
+          "de": "Verantwortung"
+        },
+        "words": [
+          { "correct": "responsibility", "alternatives": ["freedom", "carelessness", "recklessness", "irresponsibility", "impunity", "negligence", "exemption"] }
+        ]
+      },
+      {
+        "id": 108,
+        "word_en": "treatment",
+        "translations": {
+          "ru": "лечение, терапия",
+          "es": "tratamiento",
+          "fr": "traitement",
+          "de": "Behandlung"
+        },
+        "words": [
+          { "correct": "treatment", "alternatives": ["neglect", "abandonment", "ignorance", "mistreatment", "abuse", "harm", "injury"] }
+        ]
+      },
+      {
+        "id": 109,
+        "word_en": "dimension",
+        "translations": {
+          "ru": "измерение, размерность",
+          "es": "dimensión",
+          "fr": "dimension",
+          "de": "Dimension"
+        },
+        "words": [
+          { "correct": "dimension", "alternatives": ["point", "line", "surface", "plane", "singularity", "flatness", "limitlessness"] }
+        ]
+      },
+      {
+        "id": 110,
+        "word_en": "cabin",
+        "translations": {
+          "ru": "кабина; хижина",
+          "es": "cabaña, cabina",
+          "fr": "cabane, cabine",
+          "de": "Kabine, Hütte"
+        },
+        "words": [
+          { "correct": "cabin", "alternatives": ["mansion", "palace", "castle", "estate", "skyscraper", "hall", "tower"] }
+        ]
+      },
+      {
+        "id": 111,
+        "word_en": "coast",
+        "translations": {
+          "ru": "морское побережье",
+          "es": "costa",
+          "fr": "côte",
+          "de": "Küste"
+        },
+        "words": [
+          { "correct": "coast", "alternatives": ["mountain", "desert", "forest", "inland", "valley", "plateau", "plain"] }
+        ]
+      },
+      {
+        "id": 112,
+        "word_en": "shore",
+        "translations": {
+          "ru": "берег",
+          "es": "orilla",
+          "fr": "rivage, rive",
+          "de": "Ufer, Küste"
+        },
+        "words": [
+          { "correct": "shore", "alternatives": ["center", "core", "interior", "heartland", "deep", "middle", "mainland"] }
+        ]
+      },
+      {
+        "id": 113,
+        "word_en": "funny",
+        "translations": {
+          "ru": "смешной, забавный",
+          "es": "divertido, gracioso",
+          "fr": "drôle, amusant",
+          "de": "lustig, witzig"
+        },
+        "words": [
+          { "correct": "funny", "alternatives": ["serious", "sad", "boring", "tragic", "dull", "grave", "solemn"] }
+        ]
+      },
+      {
+        "id": 114,
+        "word_en": "revenge",
+        "translations": {
+          "ru": "месть, возмездие",
+          "es": "venganza",
+          "fr": "vengeance",
+          "de": "Rache"
+        },
+        "words": [
+          { "correct": "revenge", "alternatives": ["forgiveness", "mercy", "compassion", "pardon", "reconciliation", "absolution", "amnesty"] }
+        ]
+      },
+      {
+        "id": 115,
+        "word_en": "relation",
+        "translations": {
+          "ru": "отношение, связь",
+          "es": "relación",
+          "fr": "relation",
+          "de": "Beziehung"
+        },
+        "words": [
+          { "correct": "relation", "alternatives": ["separation", "isolation", "distance", "disconnection", "detachment", "estrangement", "alienation"] }
+        ]
+      },
+      {
+        "id": 116,
+        "word_en": "obvious",
+        "translations": {
+          "ru": "очевидный, явный",
+          "es": "obvio, evidente",
+          "fr": "évident",
+          "de": "offensichtlich"
+        },
+        "words": [
+          { "correct": "obvious", "alternatives": ["hidden", "obscure", "subtle", "ambiguous", "vague", "unclear", "concealed"] }
+        ]
+      },
+      {
+        "id": 117,
+        "word_en": "silence",
+        "translations": {
+          "ru": "тишина, молчание",
+          "es": "silencio",
+          "fr": "silence",
+          "de": "Stille, Schweigen"
+        },
+        "words": [
+          { "correct": "silence", "alternatives": ["noise", "sound", "commotion", "clamor", "uproar", "din", "hubbub"] }
+        ]
+      },
+      {
+        "id": 118,
+        "word_en": "wisdom",
+        "translations": {
+          "ru": "мудрость, благоразумие",
+          "es": "sabiduría",
+          "fr": "sagesse",
+          "de": "Weisheit"
+        },
+        "words": [
+          { "correct": "wisdom", "alternatives": ["foolishness", "ignorance", "folly", "naivety", "inexperience", "stupidity", "imprudence"] }
+        ]
+      },
+      {
+        "id": 119,
+        "word_en": "diverse",
+        "translations": {
+          "ru": "разнообразный, разносторонний",
+          "es": "diverso, variado",
+          "fr": "divers, varié",
+          "de": "vielfältig, verschieden"
+        },
+        "words": [
+          { "correct": "diverse", "alternatives": ["uniform", "identical", "homogeneous", "similar", "alike", "same", "undifferentiated"] }
+        ]
+      },
+      {
+        "id": 120,
+        "word_en": "fence",
+        "translations": {
+          "ru": "забор, ограда",
+          "es": "valla, cerca",
+          "fr": "clôture",
+          "de": "Zaun"
+        },
+        "words": [
+          { "correct": "fence", "alternatives": ["opening", "entrance", "passage", "gap", "breach", "access", "entry"] }
+        ]
+      },
+      {
+        "id": 121,
+        "word_en": "manufacture",
+        "translations": {
+          "ru": "производить, изготовление",
+          "es": "fabricar, manufacturar",
+          "fr": "fabriquer, manufacture",
+          "de": "herstellen, Fertigung"
+        },
+        "words": [
+          { "correct": "manufacture", "alternatives": ["consume", "destroy", "dismantle", "demolish", "scrap", "ruin", "waste"] }
+        ]
+      },
+      {
+        "id": 122,
+        "word_en": "obviously",
+        "translations": {
+          "ru": "очевидно, разумеется",
+          "es": "obviamente",
+          "fr": "évidemment",
+          "de": "offensichtlich, natürlich"
+        },
+        "words": [
+          { "correct": "obviously", "alternatives": ["secretly", "obscurely", "ambiguously", "vaguely", "covertly", "unclearly", "doubtfully"] }
+        ]
+      },
+      {
+        "id": 123,
+        "word_en": "melt",
+        "translations": {
+          "ru": "плавиться, растворяться",
+          "es": "derretirse, fundirse",
+          "fr": "fondre",
+          "de": "schmelzen"
+        },
+        "words": [
+          { "correct": "melt", "alternatives": ["freeze", "solidify", "congeal", "crystallize", "set", "harden", "coagulate"] }
+        ]
+      },
+      {
+        "id": 124,
+        "word_en": "poverty",
+        "translations": {
+          "ru": "бедность, нищета",
+          "es": "pobreza",
+          "fr": "pauvreté",
+          "de": "Armut"
+        },
+        "words": [
+          { "correct": "poverty", "alternatives": ["wealth", "prosperity", "abundance", "riches", "affluence", "opulence", "luxury"] }
+        ]
+      },
+      {
+        "id": 125,
+        "word_en": "naive",
+        "translations": {
+          "ru": "наивный, простодушный",
+          "es": "ingenuo",
+          "fr": "naïf",
+          "de": "naiv"
+        },
+        "words": [
+          { "correct": "naive", "alternatives": ["sophisticated", "experienced", "worldly", "cynical", "jaded", "artful", "knowing"] }
+        ]
+      },
+      {
+        "id": 126,
+        "word_en": "forbidden",
+        "translations": {
+          "ru": "запрещённый, недопустимый",
+          "es": "prohibido",
+          "fr": "interdit",
+          "de": "verboten"
+        },
+        "words": [
+          { "correct": "forbidden", "alternatives": ["allowed", "encouraged", "authorized", "sanctioned", "approved", "permitted", "legal"] }
+        ]
+      },
+      {
+        "id": 127,
+        "word_en": "confidence",
+        "translations": {
+          "ru": "уверенность, доверие",
+          "es": "confianza",
+          "fr": "confiance",
+          "de": "Vertrauen, Selbstvertrauen"
+        },
+        "words": [
+          { "correct": "confidence", "alternatives": ["doubt", "uncertainty", "hesitation", "distrust", "skepticism", "fear", "apprehension"] }
+        ]
+      },
+      {
+        "id": 128,
+        "word_en": "possession",
+        "translations": {
+          "ru": "владение, обладание",
+          "es": "posesión",
+          "fr": "possession",
+          "de": "Besitz"
+        },
+        "words": [
+          { "correct": "possession", "alternatives": ["lack", "absence", "deprivation", "loss", "want", "need", "shortage"] }
+        ]
+      },
+      {
+        "id": 129,
+        "word_en": "regret",
+        "translations": {
+          "ru": "сожаление, раскаяние",
+          "es": "arrepentimiento, lamentar",
+          "fr": "regret",
+          "de": "Bedauern"
+        },
+        "words": [
+          { "correct": "regret", "alternatives": ["satisfaction", "contentment", "delight", "joy", "pleasure", "happiness", "fulfillment"] }
+        ]
+      },
+      {
+        "id": 130,
+        "word_en": "confused",
+        "translations": {
+          "ru": "сбитый с толку, растерянный",
+          "es": "confundido",
+          "fr": "confus",
+          "de": "verwirrt"
+        },
+        "words": [
+          { "correct": "confused", "alternatives": ["certain", "clear", "confident", "sure", "organized", "lucid", "oriented"] }
+        ]
+      },
+      {
+        "id": 131,
+        "word_en": "sincerely",
+        "translations": {
+          "ru": "искренне, честно",
+          "es": "sinceramente",
+          "fr": "sincèrement",
+          "de": "aufrichtig"
+        },
+        "words": [
+          { "correct": "sincerely", "alternatives": ["dishonestly", "deceptively", "falsely", "insincerely", "sarcastically", "ironically", "mockingly"] }
+        ]
+      },
+      {
+        "id": 132,
+        "word_en": "forecast",
+        "translations": {
+          "ru": "прогноз, предсказание",
+          "es": "pronóstico",
+          "fr": "prévision",
+          "de": "Prognose, Vorhersage"
+        },
+        "words": [
+          { "correct": "forecast", "alternatives": ["history", "record", "memory", "hindsight", "report", "past", "retrospect"] }
+        ]
+      },
+      {
+        "id": 133,
+        "word_en": "hazard",
+        "translations": {
+          "ru": "опасность, риск",
+          "es": "peligro, riesgo",
+          "fr": "danger, risque",
+          "de": "Gefahr, Risiko"
+        },
+        "words": [
+          { "correct": "hazard", "alternatives": ["safety", "benefit", "advantage", "assurance", "certainty", "security", "protection"] }
+        ]
+      },
+      {
+        "id": 134,
+        "word_en": "remove",
+        "translations": {
+          "ru": "удалять, устранять",
+          "es": "quitar, eliminar",
+          "fr": "enlever, retirer",
+          "de": "entfernen"
+        },
+        "words": [
+          { "correct": "remove", "alternatives": ["install", "apply", "attach", "add", "insert", "place", "connect"] }
+        ]
+      },
+      {
+        "id": 135,
+        "word_en": "replace",
+        "translations": {
+          "ru": "заменять, сменять",
+          "es": "reemplazar, sustituir",
+          "fr": "remplacer",
+          "de": "ersetzen"
+        },
+        "words": [
+          { "correct": "replace", "alternatives": ["keep", "retain", "repair", "discard", "fix", "maintain", "preserve"] }
+        ]
+      },
+      {
+        "id": 136,
+        "word_en": "waste",
+        "translations": {
+          "ru": "отходы; растрачивать",
+          "es": "desperdicio; desperdiciar",
+          "fr": "déchets; gaspiller",
+          "de": "Abfall; verschwenden"
+        },
+        "words": [
+          { "correct": "waste", "alternatives": ["save", "use", "utilize", "hoard", "resource", "conserve", "preserve"] }
+        ]
+      },
+      {
+        "id": 137,
+        "word_en": "habit",
+        "translations": {
+          "ru": "привычка, обычай",
+          "es": "hábito, costumbre",
+          "fr": "habitude",
+          "de": "Gewohnheit"
+        },
+        "words": [
+          { "correct": "habit", "alternatives": ["exception", "choice", "decision", "novelty", "incident", "anomaly", "deviation"] }
+        ]
+      },
+      {
+        "id": 138,
+        "word_en": "brave",
+        "translations": {
+          "ru": "храбрый, отважный",
+          "es": "valiente",
+          "fr": "courageux",
+          "de": "mutig, tapfer"
+        },
+        "words": [
+          { "correct": "brave", "alternatives": ["cowardly", "afraid", "scared", "anxious", "nervous", "timid", "fearful"] }
+        ]
+      },
+      {
+        "id": 139,
+        "word_en": "subtle",
+        "translations": {
+          "ru": "тонкий, едва различимый",
+          "es": "sutil",
+          "fr": "subtil",
+          "de": "subtil, fein"
+        },
+        "words": [
+          { "correct": "subtle", "alternatives": ["obvious", "clear", "plain", "direct", "blatant", "explicit", "overt"] }
+        ]
+      },
+      {
+        "id": 140,
+        "word_en": "literally",
+        "translations": {
+          "ru": "буквально, дословно",
+          "es": "literalmente",
+          "fr": "littéralement",
+          "de": "buchstäblich"
+        },
+        "words": [
+          { "correct": "literally", "alternatives": ["figuratively", "virtually", "approximately", "loosely", "generally", "metaphorically", "symbolically"] }
+        ]
+      },
+      {
+        "id": 141,
+        "word_en": "certain",
+        "translations": {
+          "ru": "определённый; уверенный",
+          "es": "cierto, seguro",
+          "fr": "certain",
+          "de": "sicher, bestimmt"
+        },
+        "words": [
+          { "correct": "certain", "alternatives": ["uncertain", "unsure", "vague", "indefinite", "random", "doubtful", "ambiguous"] }
+        ]
+      },
+      {
+        "id": 142,
+        "word_en": "shy",
+        "translations": {
+          "ru": "застенчивый, робкий",
+          "es": "tímido",
+          "fr": "timide",
+          "de": "schüchtern"
+        },
+        "words": [
+          { "correct": "shy", "alternatives": ["bold", "confident", "outgoing", "assertive", "extroverted", "sociable", "gregarious"] }
+        ]
+      },
+      {
+        "id": 143,
+        "word_en": "miracle",
+        "translations": {
+          "ru": "чудо, диво",
+          "es": "milagro",
+          "fr": "miracle",
+          "de": "Wunder"
+        },
+        "words": [
+          { "correct": "miracle", "alternatives": ["disaster", "accident", "misfortune", "failure", "ordinary", "commonplace", "routine"] }
+        ]
+      },
+      {
+        "id": 144,
+        "word_en": "due",
+        "translations": {
+          "ru": "должный; срок платежа",
+          "es": "debido; fecha límite",
+          "fr": "dû; échéance",
+          "de": "fällig; geschuldet"
+        },
+        "words": [
+          { "correct": "due", "alternatives": ["early", "unnecessary", "late", "optional", "overdue", "premature", "voluntary"] }
+        ]
+      },
+      {
+        "id": 145,
+        "word_en": "occur",
+        "translations": {
+          "ru": "происходить, случаться",
+          "es": "ocurrir, suceder",
+          "fr": "se produire",
+          "de": "geschehen, vorkommen"
+        },
+        "words": [
+          { "correct": "occur", "alternatives": ["prevent", "avoid", "suppress", "stop", "vanish", "avert", "prohibit"] }
+        ]
+      },
+      {
+        "id": 146,
+        "word_en": "reduce",
+        "translations": {
+          "ru": "уменьшать, сокращать",
+          "es": "reducir, disminuir",
+          "fr": "réduire",
+          "de": "verringern, reduzieren"
+        },
+        "words": [
+          { "correct": "reduce", "alternatives": ["increase", "grow", "add", "maximize", "raise", "expand", "enlarge"] }
+        ]
+      },
+      {
+        "id": 147,
+        "word_en": "abroad",
+        "translations": {
+          "ru": "за границей",
+          "es": "en el extranjero",
+          "fr": "à l'étranger",
+          "de": "im Ausland"
+        },
+        "words": [
+          { "correct": "abroad", "alternatives": ["home", "locally", "domestic", "nearby", "nationally", "inland", "internally"] }
+        ]
+      },
+      {
+        "id": 148,
+        "word_en": "pleasant",
+        "translations": {
+          "ru": "приятный",
+          "es": "agradable",
+          "fr": "agréable",
+          "de": "angenehm"
+        },
+        "words": [
+          { "correct": "pleasant", "alternatives": ["unpleasant", "annoying", "nasty", "disagreeable", "offensive", "irritating", "repulsive"] }
+        ]
+      },
+      {
+        "id": 149,
+        "word_en": "besides",
+        "translations": {
+          "ru": "кроме того, помимо",
+          "es": "además de",
+          "fr": "outre, en plus de",
+          "de": "außerdem, neben"
+        },
+        "words": [
+          { "correct": "besides", "alternatives": ["except", "without", "instead", "only", "minus", "excluding", "barring"] }
+        ]
+      },
+      {
+        "id": 150,
+        "word_en": "thunder",
+        "translations": {
+          "ru": "гром",
+          "es": "trueno",
+          "fr": "tonnerre",
+          "de": "Donner"
+        },
+        "words": [
+          { "correct": "thunder", "alternatives": ["silence", "whisper", "calm", "hush", "peace", "quiet", "stillness"] }
+        ]
+      },
+      {
+        "id": 151,
+        "word_en": "storm",
+        "translations": {
+          "ru": "буря, шторм",
+          "es": "tormenta",
+          "fr": "tempête",
+          "de": "Sturm"
+        },
+        "words": [
+          { "correct": "storm", "alternatives": ["calm", "stillness", "serenity", "quiet", "sunshine", "peace", "tranquility"] }
+        ]
+      },
+      {
+        "id": 152,
+        "word_en": "length",
+        "translations": {
+          "ru": "длина, продолжительность",
+          "es": "longitud",
+          "fr": "longueur",
+          "de": "Länge"
+        },
+        "words": [
+          { "correct": "length", "alternatives": ["width", "height", "shortness", "depth", "briefness", "conciseness", "compactness"] }
+        ]
+      },
+      {
+        "id": 153,
+        "word_en": "while",
+        "translations": {
+          "ru": "пока; в то время как",
+          "es": "mientras",
+          "fr": "pendant que",
+          "de": "während"
+        },
+        "words": [
+          { "correct": "while", "alternatives": ["after", "before", "since", "until", "although", "subsequently", "prior"] }
+        ]
+      },
+      {
+        "id": 154,
+        "word_en": "unfortunately",
+        "translations": {
+          "ru": "к сожалению",
+          "es": "desafortunadamente",
+          "fr": "malheureusement",
+          "de": "leider"
+        },
+        "words": [
+          { "correct": "unfortunately", "alternatives": ["fortunately", "happily", "hopefully", "surprisingly", "sadly", "luckily", "providentially"] }
+        ]
+      },
+      {
+        "id": 155,
+        "word_en": "sincere",
+        "translations": {
+          "ru": "искренний, душевный",
+          "es": "sincero",
+          "fr": "sincère",
+          "de": "aufrichtig"
+        },
+        "words": [
+          { "correct": "sincere", "alternatives": ["fake", "deceptive", "dishonest", "insincere", "artificial", "false", "hypocritical"] }
+        ]
+      },
+      {
+        "id": 156,
+        "word_en": "tolerant",
+        "translations": {
+          "ru": "терпимый",
+          "es": "tolerante",
+          "fr": "tolérant",
+          "de": "tolerant"
+        },
+        "words": [
+          { "correct": "tolerant", "alternatives": ["intolerant", "biased", "narrow-minded", "judgmental", "critical", "prejudiced", "bigoted"] }
+        ]
+      },
+      {
+        "id": 157,
+        "word_en": "effort",
+        "translations": {
+          "ru": "усилие, старание",
+          "es": "esfuerzo",
+          "fr": "effort",
+          "de": "Anstrengung"
+        },
+        "words": [
+          { "correct": "effort", "alternatives": ["laziness", "ease", "rest", "apathy", "inaction", "idleness", "passivity"] }
+        ]
+      },
+      {
+        "id": 158,
+        "word_en": "encourage",
+        "translations": {
+          "ru": "поощрять, поддерживать",
+          "es": "animar, alentar",
+          "fr": "encourager",
+          "de": "ermutigen"
+        },
+        "words": [
+          { "correct": "encourage", "alternatives": ["discourage", "prevent", "forbid", "dissuade", "deter", "hinder", "inhibit"] }
+        ]
+      },
+      {
+        "id": 159,
+        "word_en": "generous",
+        "translations": {
+          "ru": "щедрый, великодушный",
+          "es": "generoso",
+          "fr": "généreux",
+          "de": "großzügig"
+        },
+        "words": [
+          { "correct": "generous", "alternatives": ["selfish", "greedy", "stingy", "mean", "miserly", "ungenerous", "parsimonious"] }
+        ]
+      },
+      {
+        "id": 160,
+        "word_en": "topic",
+        "translations": {
+          "ru": "тема, предмет обсуждения",
+          "es": "tema",
+          "fr": "sujet",
+          "de": "Thema"
+        },
+        "words": [
+          { "correct": "topic", "alternatives": ["answer", "conclusion", "result", "question", "digression", "tangent", "aside"] }
+        ]
+      },
+      {
+        "id": 161,
+        "word_en": "borrow",
+        "translations": {
+          "ru": "одалживать, брать на время",
+          "es": "pedir prestado",
+          "fr": "emprunter",
+          "de": "ausleihen"
+        },
+        "words": [
+          { "correct": "borrow", "alternatives": ["lend", "give", "donate", "return", "provide", "loan", "supply"] }
+        ]
+      },
+      {
+        "id": 162,
+        "word_en": "improve",
+        "translations": {
+          "ru": "улучшать, совершенствовать",
+          "es": "mejorar",
+          "fr": "améliorer",
+          "de": "verbessern"
+        },
+        "words": [
+          { "correct": "improve", "alternatives": ["worsen", "damage", "decline", "deteriorate", "ruin", "impair", "degrade"] }
+        ]
+      },
+      {
+        "id": 163,
+        "word_en": "explore",
+        "translations": {
+          "ru": "исследовать, изучать",
+          "es": "explorar",
+          "fr": "explorer",
+          "de": "erkunden"
+        },
+        "words": [
+          { "correct": "explore", "alternatives": ["ignore", "avoid", "overlook", "neglect", "settle", "disregard", "bypass"] }
+        ]
+      },
+      {
+        "id": 164,
+        "word_en": "discover",
+        "translations": {
+          "ru": "обнаруживать, открывать",
+          "es": "descubrir",
+          "fr": "découvrir",
+          "de": "entdecken"
+        },
+        "words": [
+          { "correct": "discover", "alternatives": ["hide", "miss", "lose", "cover", "obscure", "conceal", "mask"] }
+        ]
+      },
+      {
+        "id": 165,
+        "word_en": "importance",
+        "translations": {
+          "ru": "важность, значимость",
+          "es": "importancia",
+          "fr": "importance",
+          "de": "Bedeutung"
+        },
+        "words": [
+          { "correct": "importance", "alternatives": ["triviality", "futility", "pettiness", "unimportance", "worthlessness", "insignificance", "irrelevance"] }
+        ]
+      },
+      {
+        "id": 166,
+        "word_en": "peaceful",
+        "translations": {
+          "ru": "мирный, спокойный",
+          "es": "pacífico, tranquilo",
+          "fr": "paisible, tranquille",
+          "de": "friedlich, ruhig"
+        },
+        "words": [
+          { "correct": "peaceful", "alternatives": ["violent", "chaotic", "turbulent", "noisy", "agitated", "disruptive", "riotous"] }
+        ]
+      },
+      
+      {
+        "id": 167,
+        "word_en": "meanwhile",
+        "translations": {
+          "ru": "между тем, тем временем",
+          "es": "mientras tanto",
+          "fr": "pendant ce temps",
+          "de": "währenddessen"
+        },
+        "words": [
+          { "correct": "meanwhile", "alternatives": ["afterward", "finally", "before", "previously", "subsequently", "later", "earlier"] }
+        ]
+      }
+    ]
+  }
+}

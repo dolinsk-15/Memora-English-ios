@@ -1,0 +1,1 @@
+{"version":3,"file":"Entitlement.d.ts","sourceRoot":"","sources":["../../../../src/public/Entitlement.ts"],"names":[],"mappings":"AAAA,qBAAa,WAAW;IAEtB,EAAE,EAAE,MAAM,CAAC;IAEX,IAAI,EAAE,MAAM,CAAC;IAEb;;;OAGG;gBACS,EAAE,EAAE,MAAM;IAKtB,MAAM,CAAC,QAAQ,CAAC,IAAI,EAAE,GAAG,GAAG,WAAW;IAIvC;;;;;OAKG;IACH,MAAM,CAAC,MAAM,CAAC,EAAE,EAAE,MAAM,EAAE,IAAI,EAAE,MAAM,GAAG,WAAW;CAKrD"}

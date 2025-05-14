@@ -1,0 +1,2531 @@
+{
+  "id": 14,
+  "title": {
+    "english": "Present Perfect",
+    "russian": "Present Perfect",
+    "spanish": "Present Perfect",
+    "french": "Present Perfect",
+    "german": "Present Perfect"
+  },
+  "description": {
+    "english": "In this lesson, we'll learn about the Present Perfect tense in English.",
+    "russian": "Present Perfect — это форма, с помощью которой в английском языке выражается результат действия, уже совершённого к настоящему моменту.",
+    "spanish": "En esta lección, aprenderemos el tiempo Present Perfect en inglés.",
+    "french": "Dans cette leçon, nous apprendrons le temps Present Perfect en anglais.",
+    "german": "In dieser Lektion lernen wir die Present Perfect-Zeitform im Englischen."
+  },
+  "detailedDescription": {
+    "russian": {
+      "title": "Урок 14 – Present Perfect",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Present Perfect"
+        },
+        {
+          "type": "text",
+          "content": "Present Perfect — это форма, с помощью которой в английском языке выражается результат действия, уже совершённого к настоящему моменту. Несмотря на то, что грамматически это время настоящее, по смыслу оно часто переводится на русский как прошедшее совершенное — то есть отвечает на вопрос «что сделал?»"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Формула образования:"
+        },
+        {
+          "type": "text",
+          "content": "have / has + V3 (третья форма глагола)\n • have используется с: I, you, we, they\n • has используется с: he, she, it"
+        },
+        {
+          "type": "table",
+          "headers": ["Местоимение", "Вспомогательный глагол"],
+          "rows": [
+            ["I", "have"],
+            ["you", "have"],
+            ["we", "have"],
+            ["they", "have"],
+            ["he", "has"],
+            ["she", "has"],
+            ["it", "has"]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "V3 — третья форма глагола:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Для правильных глаголов: окончание -ed (worked, played, opened)",
+            "Для неправильных глаголов: особая форма (done, seen, gone, written)"
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Примеры утвердительных предложений:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I have done it. — Я сделал это.",
+            "He has played football. — Он поиграл в футбол."
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Отрицательные предложения:"
+        },
+        {
+          "type": "text",
+          "content": "Добавляется частица not после have / has:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I have not done it. — Я не сделал это.",
+            "He has not played football. — Он не поиграл в футбол."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Сокращённые формы:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "haven't = have not",
+            "hasn't = has not"
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Вопросительные предложения:"
+        },
+        {
+          "type": "text",
+          "content": "Have / Has выносится в начало:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Have I done it? — Я сделал это?",
+            "Has he played football? — Он поиграл в футбол?"
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Употребление слов-подсказок:"
+        },
+        {
+          "type": "text",
+          "content": "Present Perfect часто используется со словами:"
+        },
+        {
+          "type": "table",
+          "headers": ["Английское слово", "Перевод", "Где используется"],
+          "rows": [
+            ["already", "уже", "в утвердительных фразах"],
+            ["yet", "уже / ещё", "в вопросах и отрицаниях"]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Примеры с already / yet:"
+        },
+        {
+          "type": "text",
+          "content": "Утвердительные предложения:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I have already done it. — Я уже сделал это.",
+            "He has already heard this song. — Он уже слышал эту песню."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Отрицательные предложения:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I haven't done it yet. — Я ещё не сделал это.",
+            "She hasn't seen them yet. — Она их ещё не видела."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Вопросительные предложения:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Have you done it yet? — Ты уже сделал это?",
+            "Have you helped him yet? — Ты уже помог ему?"
+          ]
+        }
+      ]
+    },
+    "spanish": {
+      "title": "Lección 14 — Present Perfect (pretérito perfecto en inglés)",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Present Perfect (pretérito perfecto en inglés)"
+        },
+        {
+          "type": "text",
+          "content": "En esta lección aprenderás cómo usar el Present Perfect en inglés, un tiempo verbal que se usa para hablar del resultado de una acción pasada que tiene relevancia en el presente.\n\nAunque se llama \"presente perfecto\", en español se suele traducir como un pasado perfecto:\n→ responde a la pregunta: ¿qué has hecho?"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Estructura:"
+        },
+        {
+          "type": "text",
+          "content": "have / has + participio pasado (V3)"
+        },
+        {
+          "type": "table",
+          "headers": ["Pronombres", "Auxiliar"],
+          "rows": [
+            ["I, you, we, they", "have"],
+            ["he, she, it", "has"]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Participio pasado (V3):"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Para verbos regulares, se forma con -ed:\nplayed, worked, opened",
+            "Para verbos irregulares, se usa la tercera forma:\ndone, seen, gone, written"
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Ejemplos (afirmaciones):"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I have done it. — He hecho eso.",
+            "He has played football. — Él ha jugado al fútbol."
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Negaciones:"
+        },
+        {
+          "type": "text",
+          "content": "Añadimos not después del auxiliar:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I have not done it. — No lo he hecho.",
+            "He has not played football. — Él no ha jugado al fútbol."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Formas contraídas:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "haven't = have not",
+            "hasn't = has not"
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Preguntas:"
+        },
+        {
+          "type": "text",
+          "content": "El auxiliar have / has va al principio:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Have I done it? — ¿Lo he hecho?",
+            "Has he played football? — ¿Él ha jugado al fútbol?"
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Palabras clave comunes:"
+        },
+        {
+          "type": "text",
+          "content": "Se usan frecuentemente los siguientes adverbios:"
+        },
+        {
+          "type": "table",
+          "headers": ["Inglés", "Español", "Uso común"],
+          "rows": [
+            ["already", "ya", "en frases afirmativas"],
+            ["yet", "ya / aún", "en preguntas y negativas"]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Ejemplos con already y yet:"
+        },
+        {
+          "type": "text",
+          "content": "Afirmativas:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I have already done it. — Ya lo he hecho.",
+            "He has already heard this song. — Él ya ha escuchado esta canción."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Negativas:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I haven't done it yet. — Aún no lo he hecho.",
+            "She hasn't seen them yet. — Ella aún no los ha visto."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Preguntas:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Have you done it yet? — ¿Ya lo has hecho?",
+            "Have you helped him yet? — ¿Ya lo has ayudado?"
+          ]
+        }
+      ]
+    },
+    "french": {
+      "title": "Leçon 14 — Le Present Perfect en anglais",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Le Present Perfect en anglais"
+        },
+        {
+          "type": "text",
+          "content": "Dans cette leçon, nous allons apprendre à utiliser le Present Perfect, un temps anglais qui sert à exprimer le résultat d'une action passée ayant un lien avec le présent.\n\nMême si grammaticalement c'est un temps du présent, on le traduit souvent en français par un passé composé :\n→ Il répond à la question « Qu'est-ce que tu as fait ? »"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Structure du Present Perfect :"
+        },
+        {
+          "type": "text",
+          "content": "have / has + participe passé (V3)"
+        },
+        {
+          "type": "table",
+          "headers": ["Pronom", "Auxiliaire"],
+          "rows": [
+            ["I, you, we, they", "have"],
+            ["he, she, it", "has"]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Participe passé (V3) :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Verbes réguliers → terminaison -ed :\nplayed, worked, opened",
+            "Verbes irréguliers → 3e forme du verbe :\ndone, seen, gone, written"
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Exemples (phrases affirmatives) :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I have done it. — J'ai fait ça.",
+            "He has played football. — Il a joué au foot."
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Phrases négatives :"
+        },
+        {
+          "type": "text",
+          "content": "On ajoute not après l'auxiliaire have/has :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I have not done it. — Je ne l'ai pas fait.",
+            "He has not played football. — Il n'a pas joué au foot."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Formes contractées :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "haven't = have not",
+            "hasn't = has not"
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Forme interrogative :"
+        },
+        {
+          "type": "text",
+          "content": "On place have / has au début de la phrase :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Have I done it? — Est-ce que je l'ai fait ?",
+            "Has he played football? — Est-ce qu'il a joué au foot ?"
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Mots fréquents utilisés avec le Present Perfect :"
+        },
+        {
+          "type": "table",
+          "headers": ["Anglais", "Français", "Utilisation"],
+          "rows": [
+            ["already", "déjà", "dans les affirmations"],
+            ["yet", "déjà / pas encore", "dans les questions et les négations"]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Exemples avec already et yet :"
+        },
+        {
+          "type": "text",
+          "content": "Phrases affirmatives :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I have already done it. — Je l'ai déjà fait.",
+            "He has already heard this song. — Il a déjà entendu cette chanson."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Phrases négatives :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I haven't done it yet. — Je ne l'ai pas encore fait.",
+            "She hasn't seen them yet. — Elle ne les a pas encore vus."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Questions :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Have you done it yet? — Est-ce que tu l'as déjà fait ?",
+            "Have you helped him yet? — Est-ce que tu l'as déjà aidé ?"
+          ]
+        }
+      ]
+    },
+    "german": {
+      "title": "Lektion 14 — Das Present Perfect im Englischen",
+      "sections": [
+        {
+          "type": "heading",
+          "content": "Das Present Perfect im Englischen"
+        },
+        {
+          "type": "text",
+          "content": "In dieser Lektion lernst du das englische Present Perfect, eine Zeitform, die verwendet wird, um das Ergebnis einer Handlung in der Vergangenheit auszudrücken, die einen Bezug zur Gegenwart hat.\n\nObwohl \"Present Perfect\" eine Gegenwartszeit ist, wird sie im Deutschen meist mit dem Perfekt (z. B. \"ich habe gemacht\") übersetzt.\n→ Sie beantwortet die Frage: \"Was hast du gemacht?\""
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Struktur:"
+        },
+        {
+          "type": "text",
+          "content": "have / has + Partizip Perfekt (V3)"
+        },
+        {
+          "type": "table",
+          "headers": ["Pronomen", "Hilfsverb"],
+          "rows": [
+            ["I, you, we, they", "have"],
+            ["he, she, it", "has"]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Partizip Perfekt (V3):"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Regelmäßige Verben → -ed am Ende:\nplayed, worked, opened",
+            "Unregelmäßige Verben → 3. Verbform aus der Liste:\ndone, seen, gone, written"
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Beispiele (Aussagesätze):"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I have done it. — Ich habe es gemacht.",
+            "He has played football. — Er hat Fußball gespielt."
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Verneinung:"
+        },
+        {
+          "type": "text",
+          "content": "Man fügt not nach dem Hilfsverb hinzu:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I have not done it. — Ich habe es nicht gemacht.",
+            "He has not played football. — Er hat kein Fußball gespielt."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Kurzformen:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "haven't = have not",
+            "hasn't = has not"
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Fragen:"
+        },
+        {
+          "type": "text",
+          "content": "Das Hilfsverb have / has steht am Anfang:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Have I done it? — Habe ich es gemacht?",
+            "Has he played football? — Hat er Fußball gespielt?"
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Typische Signalwörter:"
+        },
+        {
+          "type": "text",
+          "content": "Im Present Perfect kommen oft folgende Wörter vor:"
+        },
+        {
+          "type": "table",
+          "headers": ["Englisch", "Deutsch", "Verwendung"],
+          "rows": [
+            ["already", "schon", "in Aussagesätzen"],
+            ["yet", "schon / noch nicht", "in Fragen und Verneinungen"]
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "content": "Beispiele mit already und yet:"
+        },
+        {
+          "type": "text",
+          "content": "Aussagesätze:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I have already done it. — Ich habe es schon gemacht.",
+            "He has already heard this song. — Er hat dieses Lied schon gehört."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Verneinungen:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "I haven't done it yet. — Ich habe es noch nicht gemacht.",
+            "She hasn't seen them yet. — Sie hat sie noch nicht gesehen."
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Fragen:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Have you done it yet? — Hast du es schon gemacht?",
+            "Have you helped him yet? — Hast du ihm schon geholfen?"
+          ]
+        }
+      ]
+    }
+  },
+  "vocabulary": {
+    "firstList": [
+      {
+        "number": 1,
+        "english": "number",
+        "russian": "номер",
+        "spanish": "número",
+        "french": "numéro",
+        "german": "Nummer"
+      },
+      {
+        "number": 2,
+        "english": "hope",
+        "russian": "надежда",
+        "spanish": "esperanza",
+        "french": "espoir",
+        "german": "Hoffnung"
+      },
+      {
+        "number": 3,
+        "english": "shoes",
+        "russian": "обувь",
+        "spanish": "zapatos",
+        "french": "chaussures",
+        "german": "Schuhe"
+      },
+      {
+        "number": 4,
+        "english": "clothes",
+        "russian": "одежда",
+        "spanish": "ropa",
+        "french": "vêtements",
+        "german": "Kleidung"
+      },
+      {
+        "number": 5,
+        "english": "kilometer",
+        "russian": "километр",
+        "spanish": "kilómetro",
+        "french": "kilomètre",
+        "german": "Kilometer"
+      },
+      {
+        "number": 6,
+        "english": "story",
+        "russian": "история, рассказ",
+        "spanish": "historia",
+        "french": "histoire",
+        "german": "Geschichte"
+      },
+      {
+        "number": 7,
+        "english": "project",
+        "russian": "проект",
+        "spanish": "proyecto",
+        "french": "projet",
+        "german": "Projekt"
+      },
+      {
+        "number": 8,
+        "english": "song",
+        "russian": "песня",
+        "spanish": "canción",
+        "french": "chanson",
+        "german": "Lied"
+      },
+      {
+        "number": 9,
+        "english": "incident",
+        "russian": "происшествие",
+        "spanish": "incidente",
+        "french": "incident",
+        "german": "Vorfall"
+      },
+      {
+        "number": 10,
+        "english": "essay",
+        "russian": "эссе",
+        "spanish": "ensayo",
+        "french": "essai",
+        "german": "Aufsatz"
+      },
+      {
+        "number": 11,
+        "english": "newspaper",
+        "russian": "газета",
+        "spanish": "periódico",
+        "french": "journal",
+        "german": "Zeitung"
+      }
+    ],
+    "secondList": [
+      {
+        "number": 12,
+        "english": "given",
+        "russian": "отдал",
+        "spanish": "dado",
+        "french": "donné",
+        "german": "gegeben"
+      },
+      {
+        "number": 13,
+        "english": "known",
+        "russian": "узнал",
+        "spanish": "sabido",
+        "french": "su",
+        "german": "gekannt"
+      },
+      {
+        "number": 14,
+        "english": "written",
+        "russian": "написал",
+        "spanish": "escrito",
+        "french": "écrit",
+        "german": "geschrieben"
+      },
+      {
+        "number": 15,
+        "english": "grown",
+        "russian": "вырос",
+        "spanish": "crecido",
+        "french": "poussé",
+        "german": "gewachsen"
+      },
+      {
+        "number": 16,
+        "english": "forgotten",
+        "russian": "забыл",
+        "spanish": "olvidado",
+        "french": "oublié",
+        "german": "vergessen"
+      },
+      {
+        "number": 17,
+        "english": "seen",
+        "russian": "увидел",
+        "spanish": "visto",
+        "french": "vu",
+        "german": "gesehen"
+      },
+      {
+        "number": 18,
+        "english": "shown",
+        "russian": "показал",
+        "spanish": "mostrado",
+        "french": "montré",
+        "german": "gezeigt"
+      },
+      {
+        "number": 19,
+        "english": "spoken",
+        "russian": "поговорил",
+        "spanish": "hablado",
+        "french": "parlé",
+        "german": "gesprochen"
+      },
+      {
+        "number": 20,
+        "english": "broken",
+        "russian": "сломал",
+        "spanish": "roto",
+        "french": "cassé",
+        "german": "gebrochen"
+      },
+      {
+        "number": 21,
+        "english": "drunk",
+        "russian": "выпил",
+        "spanish": "bebido",
+        "french": "bu",
+        "german": "getrunken"
+      },
+      {
+        "number": 22,
+        "english": "eaten",
+        "russian": "съел",
+        "spanish": "comido",
+        "french": "mangé",
+        "german": "gegessen"
+      },
+      {
+        "number": 23,
+        "english": "gone",
+        "russian": "сходил",
+        "spanish": "ido",
+        "french": "allé",
+        "german": "gegangen"
+      },
+      {
+        "number": 24,
+        "english": "begun",
+        "russian": "начал",
+        "spanish": "empezado",
+        "french": "commencé",
+        "german": "begonnen"
+      }
+    ]
+  },
+  
+    "sentences": [
+      {
+        "id": 1,
+        "english": "Have you brought food and drinks yet?",
+        "russian": "Ты уже принёс еду и напитки?",
+        "spanish": "¿Ya has traído comida y bebida?",
+        "german": "Hast du schon Essen und Getränke mitgebracht?",
+        "french": "As-tu déjà apporté de la nourriture et des boissons ?"
+      },
+      {
+        "id": 2,
+        "english": "Have you gone there yet?",
+        "russian": "Ты уже сходил туда?",
+        "spanish": "¿Ya has ido allí?",
+        "german": "Bist du schon dorthin gegangen?",
+        "french": "Es-tu déjà allé là-bas ?"
+      },
+      {
+        "id": 3,
+        "english": "Has she started the project yet?",
+        "russian": "Она уже начала проект?",
+        "spanish": "¿Ya ha empezado el proyecto?",
+        "german": "Hat sie das Projekt schon begonnen?",
+        "french": "A-t-elle déjà commencé le projet ?"
+      },
+      {
+        "id": 4,
+        "english": "She's already run two kilometers.",
+        "russian": "Она уже пробежала два километра.",
+        "spanish": "Ella ya ha corrido dos kilómetros.",
+        "german": "Sie ist bereits zwei Kilometer gelaufen.",
+        "french": "Elle a déjà couru deux kilomètres."
+      },
+      {
+        "id": 5,
+        "english": "They've already sat.",
+        "russian": "Они уже сели.",
+        "spanish": "Ya se han sentado.",
+        "german": "Sie haben sich schon hingesetzt.",
+        "french": "Ils se sont déjà assis."
+      },
+      {
+        "id": 6,
+        "english": "She hasn't finished yet.",
+        "russian": "Она ещё не закончила.",
+        "spanish": "Ella aún no ha terminado.",
+        "german": "Sie ist noch nicht fertig.",
+        "french": "Elle n'a pas encore terminé."
+      },
+      {
+        "id": 7,
+        "english": "Has she eaten yet?",
+        "russian": "Она уже ела?",
+        "spanish": "¿Ya ha comido?",
+        "german": "Hat sie schon gegessen?",
+        "french": "A-t-elle déjà mangé ?"
+      },
+      {
+        "id": 8,
+        "english": "Have you worked yet?",
+        "russian": "Ты уже поработал?",
+        "spanish": "¿Ya has trabajado?",
+        "german": "Hast du schon gearbeitet?",
+        "french": "As-tu déjà travaillé ?"
+      },
+      {
+        "id": 9,
+        "english": "She's already answered the questions.",
+        "russian": "Она уже ответила на вопросы.",
+        "spanish": "Ella ya ha respondido las preguntas.",
+        "german": "Sie hat die Fragen bereits beantwortet.",
+        "french": "Elle a déjà répondu aux questions."
+      },
+      {
+        "id": 10,
+        "english": "Has she made the cake yet?",
+        "russian": "Она уже сделала торт?",
+        "spanish": "¿Ya ha hecho el pastel?",
+        "german": "Hat sie den Kuchen schon gemacht?",
+        "french": "A-t-elle déjà fait le gâteau ?"
+      },
+      {
+        "id": 11,
+        "english": "Has she thought about it yet?",
+        "russian": "Она уже подумала об этом?",
+        "spanish": "¿Ya lo ha pensado?",
+        "german": "Hat sie schon darüber nachgedacht?",
+        "french": "A-t-elle déjà réfléchi à cela ?"
+      },
+      {
+        "id": 12,
+        "english": "She hasn't given them the documents yet.",
+        "russian": "Она ещё не отдала им документы.",
+        "spanish": "Todavía no les ha entregado los documentos.",
+        "german": "Sie hat ihnen die Dokumente noch nicht gegeben.",
+        "french": "Elle ne leur a pas encore donné les documents."
+      },
+      {
+        "id": 13,
+        "english": "You've already closed the door.",
+        "russian": "Ты уже закрыл дверь.",
+        "spanish": "Ya has cerrado la puerta.",
+        "german": "Du hast die Tür schon geschlossen.",
+        "french": "Tu as déjà fermé la porte."
+      },
+      {
+        "id": 14,
+        "english": "He's already started the project.",
+        "russian": "Он уже начал проект.",
+        "spanish": "Él ya ha empezado el proyecto.",
+        "german": "Er hat das Projekt schon begonnen.",
+        "french": "Il a déjà commencé le projet."
+      },
+      {
+        "id": 15,
+        "english": "We've already looked here.",
+        "russian": "Мы уже посмотрели здесь.",
+        "spanish": "Ya hemos mirado aquí.",
+        "german": "Wir haben hier schon geschaut.",
+        "french": "Nous avons déjà regardé ici."
+      },
+      {
+        "id": 16,
+        "english": "You haven't made the cake yet.",
+        "russian": "Ты ещё не сделал торт.",
+        "spanish": "Todavía no has hecho el pastel.",
+        "german": "Du hast den Kuchen noch nicht gemacht.",
+        "french": "Tu n'as pas encore fait le gâteau."
+      },
+      {
+        "id": 17,
+        "english": "He hasn't closed the door yet.",
+        "russian": "Он ещё не закрыл дверь.",
+        "spanish": "Él aún no ha cerrado la puerta.",
+        "german": "Er hat die Tür noch nicht geschlossen.",
+        "french": "Il n'a pas encore fermé la porte."
+      },
+      {
+        "id": 18,
+        "english": "She hasn't worked yet.",
+        "russian": "Она ещё не работала.",
+        "spanish": "Ella aún no ha trabajado.",
+        "german": "Sie hat noch nicht gearbeitet.",
+        "french": "Elle n'a pas encore travaillé."
+      },
+      {
+        "id": 19,
+        "english": "He hasn't given me his number yet.",
+        "russian": "Он ещё не дал мне свой номер.",
+        "spanish": "Él aún no me ha dado su número.",
+        "german": "Er hat mir seine Nummer noch nicht gegeben.",
+        "french": "Il ne m'a pas encore donné son numéro."
+      },
+      {
+        "id": 20,
+        "english": "We've already spoken.",
+        "russian": "Мы уже поговорили.",
+        "spanish": "Ya hemos hablado.",
+        "german": "Wir haben schon gesprochen.",
+        "french": "Nous avons déjà parlé."
+      },
+      {
+        "id": 21,
+        "english": "You haven't known the news yet.",
+        "russian": "Ты ещё не узнал новости.",
+        "spanish": "Todavía no te has enterado de las noticias.",
+        "german": "Du hast die Nachrichten noch nicht erfahren.",
+        "french": "Tu n'as pas encore appris la nouvelle."
+      },
+      {
+        "id": 22,
+        "english": "Have you come home yet?",
+        "russian": "Ты уже пришел домой?",
+        "spanish": "¿Ya has llegado a casa?",
+        "german": "Bist du schon nach Hause gekommen?",
+        "french": "Es-tu déjà rentré à la maison ?"
+      },
+      {
+        "id": 23,
+        "english": "We've already put our shoes into the box.",
+        "russian": "Мы уже положили свои туфли в коробку.",
+        "spanish": "Ya hemos puesto nuestros zapatos en la caja.",
+        "german": "Wir haben unsere Schuhe schon in die Kiste gelegt.",
+        "french": "Nous avons déjà mis nos chaussures dans la boîte."
+      },
+      {
+        "id": 24,
+        "english": "They haven't sat yet.",
+        "russian": "Они ещё не сели.",
+        "spanish": "Todavía no se han sentado.",
+        "german": "Sie haben sich noch nicht hingesetzt.",
+        "french": "Ils ne se sont pas encore assis."
+      },
+      {
+        "id": 25,
+        "english": "They haven't loved me yet.",
+        "russian": "Они ещё не полюбили меня.",
+        "spanish": "Todavía no me han amado.",
+        "german": "Sie haben mich noch nicht geliebt.",
+        "french": "Ils ne m'ont pas encore aimé."
+      },
+      {
+        "id": 26,
+        "english": "Have you bought food and drinks yet?",
+        "russian": "Ты уже купил еду и напитки?",
+        "spanish": "¿Ya has comprado comida y bebida?",
+        "german": "Hast du schon Essen und Getränke gekauft?",
+        "french": "As-tu déjà acheté de la nourriture et des boissons ?"
+      },
+      {
+        "id": 27,
+        "english": "He's already forgotten about the incident.",
+        "russian": "Он уже забыл о происшествии.",
+        "spanish": "Él ya se ha olvidado del incidente.",
+        "german": "Er hat den Vorfall schon vergessen.",
+        "french": "Il a déjà oublié l'incident."
+      },
+      {
+        "id": 28,
+        "english": "I've already eaten.",
+        "russian": "Я уже ел.",
+        "spanish": "Ya he comido.",
+        "german": "Ich habe schon gegessen.",
+        "french": "J'ai déjà mangé."
+      },
+      {
+        "id": 29,
+        "english": "Has he run two kilometers yet?",
+        "russian": "Он уже пробежал два километра?",
+        "spanish": "¿Ya ha corrido dos kilómetros?",
+        "german": "Ist er schon zwei Kilometer gelaufen?",
+        "french": "A-t-il déjà couru deux kilomètres ?"
+      },
+      {
+        "id": 30,
+        "english": "I haven't loved them yet.",
+        "russian": "Я ещё не полюбил их.",
+        "spanish": "Todavía no los he amado.",
+        "german": "Ich habe sie noch nicht geliebt.",
+        "french": "Je ne les ai pas encore aimés."
+      },
+      {
+        "id": 31,
+        "english": "I've already told everything.",
+        "russian": "Я уже рассказал всё.",
+        "spanish": "Ya lo he contado todo.",
+        "german": "Ich habe schon alles erzählt.",
+        "french": "J'ai déjà tout raconté."
+      },
+      {
+        "id": 32,
+        "english": "She's already spoken to him.",
+        "russian": "Она уже поговорила с ним.",
+        "spanish": "Ella ya ha hablado con él.",
+        "german": "Sie hat schon mit ihm gesprochen.",
+        "french": "Elle a déjà parlé avec lui."
+      },
+      {
+        "id": 33,
+        "english": "Has she read the letter yet?",
+        "russian": "Она уже прочитала письмо?",
+        "spanish": "¿Ya ha leído la carta?",
+        "german": "Hat sie den Brief schon gelesen?",
+        "french": "A-t-elle déjà lu la lettre ?"
+      },
+      {
+        "id": 34,
+        "english": "Have they begun yet?",
+        "russian": "Они уже начали?",
+        "spanish": "¿Ya han comenzado?",
+        "german": "Haben sie schon angefangen?",
+        "french": "Ont-ils déjà commencé ?"
+      },
+      {
+        "id": 35,
+        "english": "Has he begun yet?",
+        "russian": "Он уже начал?",
+        "spanish": "¿Ya ha comenzado?",
+        "german": "Hat er schon angefangen?",
+        "french": "A-t-il déjà commencé ?"
+      },
+      {
+        "id": 36,
+        "english": "We haven't lost hope yet.",
+        "russian": "Мы ещё не потеряли надежду.",
+        "spanish": "Todavía no hemos perdido la esperanza.",
+        "german": "Wir haben die Hoffnung noch nicht verloren.",
+        "french": "Nous n'avons pas encore perdu espoir."
+      },
+      {
+        "id": 37,
+        "english": "Has he grown yet?",
+        "russian": "Он уже вырос?",
+        "spanish": "¿Ya ha crecido?",
+        "german": "Ist er schon gewachsen?",
+        "french": "A-t-il déjà grandi ?"
+      },
+      {
+        "id": 38,
+        "english": "He hasn't drunk a cup of tea yet.",
+        "russian": "Он ещё не выпил чашку чая.",
+        "spanish": "Él aún no ha bebido una taza de té.",
+        "german": "Er hat noch keine Tasse Tee getrunken.",
+        "french": "Il n'a pas encore bu une tasse de thé."
+      },
+      {
+        "id": 39,
+        "english": "We've already helped you.",
+        "russian": "Мы уже помогли тебе.",
+        "spanish": "Ya te hemos ayudado.",
+        "german": "Wir haben dir schon geholfen.",
+        "french": "Nous t'avons déjà aidé."
+      },
+      {
+        "id": 40,
+        "english": "Have they known the news yet?",
+        "russian": "Они уже узнали новости?",
+        "spanish": "¿Ya se han enterado de las noticias?",
+        "german": "Haben sie die Neuigkeiten schon erfahren?",
+        "french": "Ont-ils déjà appris la nouvelle ?"
+      },
+      {
+        "id": 41,
+        "english": "You've already asked me.",
+        "russian": "Ты уже спрашивал меня.",
+        "spanish": "Ya me has preguntado.",
+        "german": "Du hast mich schon gefragt.",
+        "french": "Tu m'as déjà demandé."
+      },
+      {
+        "id": 42,
+        "english": "They haven't written that letter yet.",
+        "russian": "Они ещё не написали то письмо.",
+        "spanish": "Todavía no han escrito esa carta.",
+        "german": "Sie haben diesen Brief noch nicht geschrieben.",
+        "french": "Ils n'ont pas encore écrit cette lettre."
+      },
+      {
+        "id": 43,
+        "english": "Has she paid the bill yet?",
+        "russian": "Она уже оплатила счёт?",
+        "spanish": "¿Ya ha pagado la cuenta?",
+        "german": "Hat sie die Rechnung schon bezahlt?",
+        "french": "A-t-elle déjà payé l'addition ?"
+      },
+      {
+        "id": 44,
+        "english": "They haven't found the answer yet.",
+        "russian": "Они ещё не нашли ответ.",
+        "spanish": "Todavía no han encontrado la respuesta.",
+        "german": "Sie haben die Antwort noch nicht gefunden.",
+        "french": "Ils n'ont pas encore trouvé la réponse."
+      },
+      {
+        "id": 45,
+        "english": "Has she grown yet?",
+        "russian": "Она уже выросла?",
+        "spanish": "¿Ya ha crecido?",
+        "german": "Ist sie schon gewachsen?",
+        "french": "A-t-elle déjà grandi ?"
+      },
+      {
+        "id": 46,
+        "english": "We haven't put our new shoes into the box yet.",
+        "russian": "Мы ещё не положили свои новые туфли в коробку.",
+        "spanish": "Todavía no hemos puesto nuestros zapatos nuevos en la caja.",
+        "german": "Wir haben unsere neuen Schuhe noch nicht in die Kiste gelegt.",
+        "french": "Nous n'avons pas encore mis nos nouvelles chaussures dans la boîte."
+      },
+      {
+        "id": 47,
+        "english": "We haven't closed the door yet.",
+        "russian": "Мы ещё не закрыли дверь.",
+        "spanish": "Todavía no hemos cerrado la puerta.",
+        "german": "Wir haben die Tür noch nicht geschlossen.",
+        "french": "Nous n'avons pas encore fermé la porte."
+      },
+      {
+        "id": 48,
+        "english": "He hasn't worked yet.",
+        "russian": "Он ещё не поработал.",
+        "spanish": "Él aún no ha trabajado.",
+        "german": "Er hat noch nicht gearbeitet.",
+        "french": "Il n'a pas encore travaillé."
+      },
+      {
+        "id": 49,
+        "english": "You've already opened the box.",
+        "russian": "Ты уже открыл коробку.",
+        "spanish": "Ya has abierto la caja.",
+        "german": "Du hast die Kiste schon geöffnet.",
+        "french": "Tu as déjà ouvert la boîte."
+      },
+      {
+        "id": 50,
+        "english": "You've already known the news.",
+        "russian": "Ты уже узнал новости.",
+        "spanish": "Ya te has enterado de las noticias.",
+        "german": "Du hast die Nachrichten schon erfahren.",
+        "french": "Tu as déjà appris la nouvelle."
+      },
+      {
+        "id": 51,
+        "english": "She hasn't brought us coffee yet.",
+        "russian": "Она ещё не принесла нам кофе.",
+        "spanish": "Ella aún no nos ha traído café.",
+        "german": "Sie hat uns noch keinen Kaffee gebracht.",
+        "french": "Elle ne nous a pas encore apporté de café."
+      },
+      {
+        "id": 52,
+        "english": "We've already loved you.",
+        "russian": "Мы уже полюбили тебя.",
+        "spanish": "Ya te hemos amado.",
+        "german": "Wir haben dich schon geliebt.",
+        "french": "Nous t'avons déjà aimé."
+      },
+      {
+        "id": 53,
+        "english": "I've already loved them.",
+        "russian": "Я уже полюбил их.",
+        "spanish": "Ya los he amado.",
+        "german": "Ich habe sie schon geliebt.",
+        "french": "Je les ai déjà aimés."
+      },
+      {
+        "id": 54,
+        "english": "We haven't studied yet.",
+        "russian": "Мы ещё не изучили.",
+        "spanish": "Todavía no hemos estudiado.",
+        "german": "Wir haben noch nicht gelernt.",
+        "french": "Nous n'avons pas encore étudié."
+      },
+      {
+        "id": 55,
+        "english": "He hasn't written this letter yet.",
+        "russian": "Он ещё не написал это письмо.",
+        "spanish": "Él aún no ha escrito esta carta.",
+        "german": "Er hat diesen Brief noch nicht geschrieben.",
+        "french": "Il n'a pas encore écrit cette lettre."
+      },
+      {
+        "id": 56,
+        "english": "Have you left the company yet?",
+        "russian": "Ты уже оставил компанию?",
+        "spanish": "¿Ya has dejado la empresa?",
+        "german": "Hast du das Unternehmen schon verlassen?",
+        "french": "As-tu déjà quitté l'entreprise ?"
+      },
+      {
+        "id": 57,
+        "english": "Have you helped him yet?",
+        "russian": "Ты уже помог ему?",
+        "spanish": "¿Ya lo has ayudado?",
+        "german": "Hast du ihm schon geholfen?",
+        "french": "L'as-tu déjà aidé ?"
+      },
+      {
+        "id": 58,
+        "english": "I haven't found my keys yet.",
+        "russian": "Я ещё не нашёл свои ключи.",
+        "spanish": "Todavía no he encontrado mis llaves.",
+        "german": "Ich habe meine Schlüssel noch nicht gefunden.",
+        "french": "Je n'ai pas encore trouvé mes clés."
+      },
+      {
+        "id": 59,
+        "english": "She hasn't shown him the photos yet.",
+        "russian": "Она ещё не показала ему фотографии.",
+        "spanish": "Ella aún no le ha mostrado las fotos.",
+        "german": "Sie hat ihm die Fotos noch nicht gezeigt.",
+        "french": "Elle ne lui a pas encore montré les photos."
+      },
+      {
+        "id": 60,
+        "english": "You've already drunk coffee.",
+        "russian": "Ты уже выпил кофе.",
+        "spanish": "Ya has bebido café.",
+        "german": "Du hast schon Kaffee getrunken.",
+        "french": "Tu as déjà bu du café."
+      },
+      {
+        "id": 61,
+        "english": "Have they put their shoes into the box yet?",
+        "russian": "Они уже положили свои туфли в коробку?",
+        "spanish": "¿Ya han puesto sus zapatos en la caja?",
+        "german": "Haben sie ihre Schuhe schon in die Kiste gelegt?",
+        "french": "Ont-ils déjà mis leurs chaussures dans la boîte ?"
+      },
+      {
+        "id": 62,
+        "english": "She's already gone there.",
+        "russian": "Она уже сходила туда.",
+        "spanish": "Ella ya ha ido allí.",
+        "german": "Sie ist schon dorthin gegangen.",
+        "french": "Elle y est déjà allée."
+      },
+      {
+        "id": 63,
+        "english": "You've already sat.",
+        "russian": "Ты уже сел.",
+        "spanish": "Ya te has sentado.",
+        "german": "Du hast dich schon hingesetzt.",
+        "french": "Tu t'es déjà assis."
+      },
+      {
+        "id": 64,
+        "english": "He's already asked me.",
+        "russian": "Он уже спросил меня.",
+        "spanish": "Él ya me ha preguntado.",
+        "german": "Er hat mich schon gefragt.",
+        "french": "Il m'a déjà demandé."
+      },
+      {
+        "id": 65,
+        "english": "Has she finished the project yet?",
+        "russian": "Она уже закончила проект?",
+        "spanish": "¿Ya ha terminado el proyecto?",
+        "german": "Hat sie das Projekt schon beendet?",
+        "french": "A-t-elle déjà terminé le projet ?"
+      }
+    ],
+    "exam": {
+  "sentences": [
+    {
+      "id": 1,
+      "sentence_en": "Have you brought food and drinks yet?",
+      "translations": {
+        "ru": "Ты уже принёс еду и напитки?",
+        "es": "¿Ya has traído comida y bebida?",
+        "fr": "As-tu déjà apporté de la nourriture et des boissons ?",
+        "de": "Hast du schon Essen und Getränke mitgebracht?"
+      },
+      "words": [
+        { "correct": "Have", "alternatives": ["Has", "Did", "Do"] },
+        { "correct": "you", "alternatives": ["they", "he", "she"] },
+        { "correct": "brought", "alternatives": ["bought", "bring", "brings"] },
+        { "correct": "food", "alternatives": ["drink", "book", "fruit"] },
+        { "correct": "and", "alternatives": ["or", "but", "with"] },
+        { "correct": "drinks", "alternatives": ["foods", "snacks", "cakes"] },
+        { "correct": "yet", "alternatives": ["already", "still", "soon"] }
+      ]
+    },
+    {
+      "id": 2,
+      "sentence_en": "Have you gone there yet?",
+      "translations": {
+        "ru": "Ты уже сходил туда?",
+        "es": "¿Ya has ido allí?",
+        "fr": "Es-tu déjà allé là-bas ?",
+        "de": "Bist du schon dorthin gegangen?"
+      },
+      "words": [
+        { "correct": "Have", "alternatives": ["Has", "Did", "Do"] },
+        { "correct": "you", "alternatives": ["they", "he", "she"] },
+        { "correct": "gone", "alternatives": ["go", "went", "goes"] },
+        { "correct": "there", "alternatives": ["here", "where", "then"] },
+        { "correct": "yet", "alternatives": ["already", "still", "soon"] }
+      ]
+    },
+    {
+      "id": 3,
+      "sentence_en": "Has she started the project yet?",
+      "translations": {
+        "ru": "Она уже начала проект?",
+        "es": "¿Ya ha empezado el proyecto?",
+        "fr": "A-t-elle déjà commencé le projet ?",
+        "de": "Hat sie das Projekt schon begonnen?"
+      },
+      "words": [
+        { "correct": "Has", "alternatives": ["Have", "Did", "Does"] },
+        { "correct": "she", "alternatives": ["he", "they", "we"] },
+        { "correct": "started", "alternatives": ["start", "starts", "starting"] },
+        { "correct": "the", "alternatives": ["a", "an", "this"] },
+        { "correct": "project", "alternatives": ["plan", "essay", "story"] },
+        { "correct": "yet", "alternatives": ["already", "still", "soon"] }
+      ]
+    },
+    {
+      "id": 4,
+      "sentence_en": "She's already run two kilometers.",
+      "translations": {
+        "ru": "Она уже пробежала два километра.",
+        "es": "Ella ya ha corrido dos kilómetros.",
+        "fr": "Elle a déjà couru deux kilomètres.",
+        "de": "Sie ist bereits zwei Kilometer gelaufen."
+      },
+      "words": [
+        { "correct": "She's", "alternatives": ["He's", "I've", "They've"] },
+        { "correct": "already", "alternatives": ["yet", "still", "soon"] },
+        { "correct": "run", "alternatives": ["ran", "runs", "running"] },
+        { "correct": "two", "alternatives": ["three", "ten", "twelve"] },
+        { "correct": "kilometers", "alternatives": ["meters", "miles", "hours"] }
+      ]
+    },
+    {
+      "id": 5,
+      "sentence_en": "They've already sat.",
+      "translations": {
+        "ru": "Они уже сели.",
+        "es": "Ya se han sentado.",
+        "fr": "Ils se sont déjà assis.",
+        "de": "Sie haben sich schon hingesetzt."
+      },
+      "words": [
+        { "correct": "They've", "alternatives": ["We've", "You've", "He's"] },
+        { "correct": "already", "alternatives": ["yet", "still", "soon"] },
+        { "correct": "sat", "alternatives": ["set", "sit", "sate"] }
+      ]
+    },
+    {
+      "id": 6,
+      "sentence_en": "She hasn't finished yet.",
+      "translations": {
+        "ru": "Она ещё не закончила.",
+        "es": "Ella aún no ha terminado.",
+        "fr": "Elle n'a pas encore terminé.",
+        "de": "Sie ist noch nicht fertig."
+      },
+      "words": [
+        { "correct": "She", "alternatives": ["He", "They", "We"] },
+        { "correct": "hasn't", "alternatives": ["haven't", "isn't", "doesn't"] },
+        { "correct": "finished", "alternatives": ["finish", "finishes", "finishing"] },
+        { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+      ]
+    },
+    {
+      "id": 7,
+      "sentence_en": "Has she eaten yet?",
+      "translations": {
+        "ru": "Она уже ела?",
+        "es": "¿Ya ha comido?",
+        "fr": "A-t-elle déjà mangé ?",
+        "de": "Hat sie schon gegessen?"
+      },
+      "words": [
+        { "correct": "Has", "alternatives": ["Have", "Did", "Does"] },
+        { "correct": "she", "alternatives": ["he", "they", "we"] },
+        { "correct": "eaten", "alternatives": ["ate", "eats", "eating"] },
+        { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+      ]
+    },
+    {
+      "id": 8,
+      "sentence_en": "Have you worked yet?",
+      "translations": {
+        "ru": "Ты уже поработал?",
+        "es": "¿Ya has trabajado?",
+        "fr": "As-tu déjà travaillé ?",
+        "de": "Hast du schon gearbeitet?"
+      },
+      "words": [
+        { "correct": "Have", "alternatives": ["Has", "Did", "Do"] },
+        { "correct": "you", "alternatives": ["they", "he", "she"] },
+        { "correct": "worked", "alternatives": ["work", "works", "working"] },
+        { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+      ]
+    },
+    {
+      "id": 9,
+      "sentence_en": "She's already answered the questions.",
+      "translations": {
+        "ru": "Она уже ответила на вопросы.",
+        "es": "Ella ya ha respondido las preguntas.",
+        "fr": "Elle a déjà répondu aux questions.",
+        "de": "Sie hat die Fragen bereits beantwortet."
+      },
+      "words": [
+        { "correct": "She's", "alternatives": ["He's", "I've", "They've"] },
+        { "correct": "already", "alternatives": ["yet", "still", "soon"] },
+        { "correct": "answered", "alternatives": ["answer", "answers", "answering"] },
+        { "correct": "the", "alternatives": ["a", "an", "these"] },
+        { "correct": "questions", "alternatives": ["answers", "letters", "stories"] }
+      ]
+    },
+    {
+      "id": 10,
+      "sentence_en": "Has she made the cake yet?",
+      "translations": {
+        "ru": "Она уже сделала торт?",
+        "es": "¿Ya ha hecho el pastel?",
+        "fr": "A-t-elle déjà fait le gâteau ?",
+        "de": "Hat sie den Kuchen schon gemacht?"
+      },
+      "words": [
+        { "correct": "Has", "alternatives": ["Have", "Did", "Does"] },
+        { "correct": "she", "alternatives": ["he", "they", "we"] },
+        { "correct": "made", "alternatives": ["make", "makes", "making"] },
+        { "correct": "the", "alternatives": ["a", "an", "this"] },
+        { "correct": "cake", "alternatives": ["bread", "pie", "cookie"] },
+        { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+      ]
+    },
+    {
+      "id": 11,
+      "sentence_en": "Has she thought about it yet?",
+      "translations": {
+        "ru": "Она уже подумала об этом?",
+        "es": "¿Ya lo ha pensado?",
+        "fr": "A-t-elle déjà réfléchi à cela ?",
+        "de": "Hat sie schon darüber nachgedacht?"
+      },
+      "words": [
+        { "correct": "Has", "alternatives": ["Have", "Did", "Does"] },
+        { "correct": "she", "alternatives": ["he", "they", "we"] },
+        { "correct": "thought", "alternatives": ["think", "thinks", "thinking"] },
+        { "correct": "about", "alternatives": ["for", "with", "on"] },
+        { "correct": "it", "alternatives": ["him", "her", "them"] },
+        { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+      ]
+    },
+    {
+      "id": 12,
+      "sentence_en": "She hasn't given them the documents yet.",
+      "translations": {
+        "ru": "Она ещё не отдала им документы.",
+        "es": "Todavía no les ha entregado los documentos.",
+        "fr": "Elle ne leur a pas encore donné les documents.",
+        "de": "Sie hat ihnen die Dokumente noch nicht gegeben."
+      },
+      "words": [
+        { "correct": "She", "alternatives": ["He", "They", "We"] },
+        { "correct": "hasn't", "alternatives": ["haven't", "isn't", "doesn't"] },
+        { "correct": "given", "alternatives": ["gave", "gives", "giving"] },
+        { "correct": "them", "alternatives": ["him", "her", "us"] },
+        { "correct": "the", "alternatives": ["a", "an", "this"] },
+        { "correct": "documents", "alternatives": ["letters", "books", "stories"] },
+        { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+      ]
+    },
+    {
+      "id": 13,
+      "sentence_en": "You've already closed the door.",
+      "translations": {
+        "ru": "Ты уже закрыл дверь.",
+        "es": "Ya has cerrado la puerta.",
+        "fr": "Tu as déjà fermé la porte.",
+        "de": "Du hast die Tür schon geschlossen."
+      },
+      "words": [
+        { "correct": "You've", "alternatives": ["We've", "He's", "They've"] },
+        { "correct": "already", "alternatives": ["yet", "still", "soon"] },
+        { "correct": "closed", "alternatives": ["close", "closes", "closing"] },
+        { "correct": "the", "alternatives": ["a", "an", "this"] },
+        { "correct": "door", "alternatives": ["window", "box", "wall"] }
+      ]
+        },
+        {
+          "id": 14,
+          "sentence_en": "He's already started the project.",
+          "translations": {
+            "ru": "Он уже начал проект.",
+            "es": "Él ya ha empezado el proyecto.",
+            "fr": "Il a déjà commencé le projet.",
+            "de": "Er hat das Projekt schon begonnen."
+          },
+          "words": [
+            { "correct": "He's", "alternatives": ["She's", "I've", "They've"] },
+            { "correct": "already", "alternatives": ["yet", "still", "soon"] },
+            { "correct": "started", "alternatives": ["start", "starts", "starting"] },
+            { "correct": "the", "alternatives": ["a", "an", "this"] },
+            { "correct": "project", "alternatives": ["plan", "essay", "story"] }
+          ]
+        },
+        {
+          "id": 15,
+          "sentence_en": "We've already looked here.",
+          "translations": {
+            "ru": "Мы уже посмотрели здесь.",
+            "es": "Ya hemos mirado aquí.",
+            "fr": "Nous avons déjà regardé ici.",
+            "de": "Wir haben hier schon geschaut."
+          },
+          "words": [
+            { "correct": "We've", "alternatives": ["You've", "He's", "They've"] },
+            { "correct": "already", "alternatives": ["yet", "still", "soon"] },
+            { "correct": "looked", "alternatives": ["look", "looks", "looking"] },
+            { "correct": "here", "alternatives": ["there", "where", "then"] }
+          ]
+        },
+        {
+          "id": 16,
+          "sentence_en": "You haven't made the cake yet.",
+          "translations": {
+            "ru": "Ты ещё не сделал торт.",
+            "es": "Todavía no has hecho el pastel.",
+            "fr": "Tu n'as pas encore fait le gâteau.",
+            "de": "Du hast den Kuchen noch nicht gemacht."
+          },
+          "words": [
+            { "correct": "You", "alternatives": ["He", "They", "We"] },
+            { "correct": "haven't", "alternatives": ["hasn't", "isn't", "doesn't"] },
+            { "correct": "made", "alternatives": ["make", "makes", "making"] },
+            { "correct": "the", "alternatives": ["a", "an", "this"] },
+            { "correct": "cake", "alternatives": ["bread", "pie", "cookie"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 17,
+          "sentence_en": "He hasn't closed the door yet.",
+          "translations": {
+            "ru": "Он ещё не закрыл дверь.",
+            "es": "Él aún no ha cerrado la puerta.",
+            "fr": "Il n'a pas encore fermé la porte.",
+            "de": "Er hat die Tür noch nicht geschlossen."
+          },
+          "words": [
+            { "correct": "He", "alternatives": ["She", "They", "We"] },
+            { "correct": "hasn't", "alternatives": ["haven't", "isn't", "doesn't"] },
+            { "correct": "closed", "alternatives": ["close", "closes", "closing"] },
+            { "correct": "the", "alternatives": ["a", "an", "this"] },
+            { "correct": "door", "alternatives": ["window", "box", "wall"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 18,
+          "sentence_en": "She hasn't worked yet.",
+          "translations": {
+            "ru": "Она ещё не работала.",
+            "es": "Ella aún no ha trabajado.",
+            "fr": "Elle n'a pas encore travaillé.",
+            "de": "Sie hat noch nicht gearbeitet."
+          },
+          "words": [
+            { "correct": "She", "alternatives": ["He", "They", "We"] },
+            { "correct": "hasn't", "alternatives": ["haven't", "isn't", "doesn't"] },
+            { "correct": "worked", "alternatives": ["work", "works", "working"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 19,
+          "sentence_en": "He hasn't given me his number yet.",
+          "translations": {
+            "ru": "Он ещё не дал мне свой номер.",
+            "es": "Él aún no me ha dado su número.",
+            "fr": "Il ne m'a pas encore donné son numéro.",
+            "de": "Er hat mir seine Nummer noch nicht gegeben."
+          },
+          "words": [
+            { "correct": "He", "alternatives": ["She", "They", "We"] },
+            { "correct": "hasn't", "alternatives": ["haven't", "isn't", "doesn't"] },
+            { "correct": "given", "alternatives": ["gave", "gives", "giving"] },
+            { "correct": "me", "alternatives": ["him", "her", "us"] },
+            { "correct": "his", "alternatives": ["her", "their", "our"] },
+            { "correct": "number", "alternatives": ["name", "address", "email"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 20,
+          "sentence_en": "We've already spoken.",
+          "translations": {
+            "ru": "Мы уже поговорили.",
+            "es": "Ya hemos hablado.",
+            "fr": "Nous avons déjà parlé.",
+            "de": "Wir haben schon gesprochen."
+          },
+          "words": [
+            { "correct": "We've", "alternatives": ["You've", "He's", "They've"] },
+            { "correct": "already", "alternatives": ["yet", "still", "soon"] },
+            { "correct": "spoken", "alternatives": ["speak", "speaks", "speaking"] }
+          ]
+        },
+        {
+          "id": 21,
+          "sentence_en": "You haven't known the news yet.",
+          "translations": {
+            "ru": "Ты ещё не узнал новости.",
+            "es": "Todavía no te has enterado de las noticias.",
+            "fr": "Tu n'as pas encore appris la nouvelle.",
+            "de": "Du hast die Nachrichten noch nicht erfahren."
+          },
+          "words": [
+            { "correct": "You", "alternatives": ["He", "They", "We"] },
+            { "correct": "haven't", "alternatives": ["hasn't", "isn't", "doesn't"] },
+            { "correct": "known", "alternatives": ["know", "knows", "knowing"] },
+            { "correct": "the", "alternatives": ["a", "an", "this"] },
+            { "correct": "news", "alternatives": ["story", "letter", "book"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 22,
+          "sentence_en": "Have you come home yet?",
+          "translations": {
+            "ru": "Ты уже пришел домой?",
+            "es": "¿Ya has llegado a casa?",
+            "fr": "Es-tu déjà rentré à la maison ?",
+            "de": "Bist du schon nach Hause gekommen?"
+          },
+          "words": [
+            { "correct": "Have", "alternatives": ["Has", "Did", "Do"] },
+            { "correct": "you", "alternatives": ["they", "he", "she"] },
+            { "correct": "come", "alternatives": ["came", "comes", "coming"] },
+            { "correct": "home", "alternatives": ["here", "there", "away"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 23,
+          "sentence_en": "We've already put our shoes into the box.",
+          "translations": {
+            "ru": "Мы уже положили свои туфли в коробку.",
+            "es": "Ya hemos puesto nuestros zapatos en la caja.",
+            "fr": "Nous avons déjà mis nos chaussures dans la boîte.",
+            "de": "Wir haben unsere Schuhe schon in die Kiste gelegt."
+          },
+          "words": [
+            { "correct": "We've", "alternatives": ["You've", "He's", "They've"] },
+            { "correct": "already", "alternatives": ["yet", "still", "soon"] },
+            { "correct": "put", "alternatives": ["puts", "putting", "putted"] },
+            { "correct": "our", "alternatives": ["your", "his", "their"] },
+            { "correct": "shoes", "alternatives": ["socks", "hats", "gloves"] },
+            { "correct": "into", "alternatives": ["onto", "under", "over"] },
+            { "correct": "the", "alternatives": ["a", "an", "this"] },
+            { "correct": "box", "alternatives": ["bag", "basket", "drawer"] }
+          ]
+        },
+        {
+          "id": 24,
+          "sentence_en": "They haven't sat yet.",
+          "translations": {
+            "ru": "Они ещё не сели.",
+            "es": "Todavía no se han sentado.",
+            "fr": "Ils ne se sont pas encore assis.",
+            "de": "Sie haben sich noch nicht hingesetzt."
+          },
+          "words": [
+            { "correct": "They", "alternatives": ["We", "You", "He"] },
+            { "correct": "haven't", "alternatives": ["hasn't", "isn't", "doesn't"] },
+            { "correct": "sat", "alternatives": ["sit", "sits", "sitting"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 25,
+          "sentence_en": "They haven't loved me yet.",
+          "translations": {
+            "ru": "Они ещё не полюбили меня.",
+            "es": "Todavía no me han amado.",
+            "fr": "Ils ne m'ont pas encore aimé.",
+            "de": "Sie haben mich noch nicht geliebt."
+          },
+          "words": [
+            { "correct": "They", "alternatives": ["We", "You", "He"] },
+            { "correct": "haven't", "alternatives": ["hasn't", "isn't", "doesn't"] },
+            { "correct": "loved", "alternatives": ["love", "loves", "loving"] },
+            { "correct": "me", "alternatives": ["him", "her", "us"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 26,
+          "sentence_en": "Have you bought food and drinks yet?",
+          "translations": {
+            "ru": "Ты уже купил еду и напитки?",
+            "es": "¿Ya has comprado comida y bebida?",
+            "fr": "As-tu déjà acheté de la nourriture et des boissons ?",
+            "de": "Hast du schon Essen und Getränke gekauft?"
+          },
+          "words": [
+            { "correct": "Have", "alternatives": ["Has", "Did", "Do"] },
+            { "correct": "you", "alternatives": ["they", "he", "she"] },
+            { "correct": "bought", "alternatives": ["buy", "buys", "buying"] },
+            { "correct": "food", "alternatives": ["drink", "book", "fruit"] },
+            { "correct": "and", "alternatives": ["or", "but", "with"] },
+            { "correct": "drinks", "alternatives": ["foods", "snacks", "cakes"] },
+            { "correct": "yet", "alternatives": ["already", "still", "soon"] }
+          ]
+        },
+        {
+          "id": 27,
+          "sentence_en": "He's already forgotten about the incident.",
+          "translations": {
+            "ru": "Он уже забыл о происшествии.",
+            "es": "Él ya se ha olvidado del incidente.",
+            "fr": "Il a déjà oublié l'incident.",
+            "de": "Er hat den Vorfall schon vergessen."
+          },
+          "words": [
+            { "correct": "He's", "alternatives": ["She's", "I've", "They've"] },
+            { "correct": "already", "alternatives": ["yet", "still", "soon"] },
+            { "correct": "forgotten", "alternatives": ["forget", "forgets", "forgetting"] },
+            { "correct": "about", "alternatives": ["for", "with", "on"] },
+            { "correct": "the", "alternatives": ["a", "an", "this"] },
+            { "correct": "incident", "alternatives": ["accident", "event", "story"] }
+          ]
+        },
+        {
+          "id": 28,
+          "sentence_en": "I've already eaten.",
+          "translations": {
+            "ru": "Я уже ел.",
+            "es": "Ya he comido.",
+            "fr": "J'ai déjà mangé.",
+            "de": "Ich habe schon gegessen."
+          },
+          "words": [
+            { "correct": "I've", "alternatives": ["You've", "He's", "They've"] },
+            { "correct": "already", "alternatives": ["yet", "still", "soon"] },
+            { "correct": "eaten", "alternatives": ["eat", "eats", "eating"] }
+          ]
+        },
+        {
+          "id": 29,
+          "sentence_en": "Has he run two kilometers yet?",
+          "translations": {
+            "ru": "Он уже пробежал два километра?",
+            "es": "¿Ya ha corrido dos kilómetros?",
+            "fr": "A-t-il déjà couru deux kilomètres ?",
+            "de": "Ist er schon zwei Kilometer gelaufen?"
+          },
+          "words": [
+            { "correct": "Has", "alternatives": ["Have", "Did", "Does"] },
+            { "correct": "he", "alternatives": ["she", "they", "we"] },
+            { "correct": "run", "alternatives": ["ran", "runs", "running"] },
+            { "correct": "two", "alternatives": ["three", "ten", "twelve"] },
+            { "correct": "kilometers", "alternatives": ["meters", "miles", "hours"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 30,
+          "sentence_en": "I haven't loved them yet.",
+          "translations": {
+            "ru": "Я ещё не полюбил их.",
+            "es": "Todavía no los he amado.",
+            "fr": "Je ne les ai pas encore aimés.",
+            "de": "Ich habe sie noch nicht geliebt."
+          },
+          "words": [
+            { "correct": "I", "alternatives": ["He", "They", "We"] },
+            { "correct": "haven't", "alternatives": ["hasn't", "isn't", "doesn't"] },
+            { "correct": "loved", "alternatives": ["love", "loves", "loving"] },
+            { "correct": "them", "alternatives": ["him", "her", "us"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 31,
+          "sentence_en": "I've already told everything.",
+          "translations": {
+            "ru": "Я уже рассказал всё.",
+            "es": "Ya lo he contado todo.",
+            "fr": "J'ai déjà tout raconté.",
+            "de": "Ich habe schon alles erzählt."
+          },
+          "words": [
+            { "correct": "I've", "alternatives": ["You've", "He's", "They've"] },
+            { "correct": "already", "alternatives": ["yet", "still", "soon"] },
+            { "correct": "told", "alternatives": ["tell", "tells", "telling"] },
+            { "correct": "everything", "alternatives": ["nothing", "something", "anything"] }
+          ]
+        },
+        {
+          "id": 32,
+          "sentence_en": "She's already spoken to him.",
+          "translations": {
+            "ru": "Она уже поговорила с ним.",
+            "es": "Ella ya ha hablado con él.",
+            "fr": "Elle a déjà parlé avec lui.",
+            "de": "Sie hat schon mit ihm gesprochen."
+          },
+          "words": [
+            { "correct": "She's", "alternatives": ["He's", "I've", "They've"] },
+            { "correct": "already", "alternatives": ["yet", "still", "soon"] },
+            { "correct": "spoken", "alternatives": ["speak", "speaks", "speaking"] },
+            { "correct": "to", "alternatives": ["with", "at", "for"] },
+            { "correct": "him", "alternatives": ["her", "them", "us"] }
+          ]
+        },
+        {
+          "id": 33,
+          "sentence_en": "Has she read the letter yet?",
+          "translations": {
+            "ru": "Она уже прочитала письмо?",
+            "es": "¿Ya ha leído la carta?",
+            "fr": "A-t-elle déjà lu la lettre ?",
+            "de": "Hat sie den Brief schon gelesen?"
+          },
+          "words": [
+            { "correct": "Has", "alternatives": ["Have", "Did", "Does"] },
+            { "correct": "she", "alternatives": ["he", "they", "we"] },
+            { "correct": "read", "alternatives": ["reads", "reading", "readed"] },
+            { "correct": "the", "alternatives": ["a", "an", "this"] },
+            { "correct": "letter", "alternatives": ["book", "story", "note"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 34,
+          "sentence_en": "Have they begun yet?",
+          "translations": {
+            "ru": "Они уже начали?",
+            "es": "¿Ya han comenzado?",
+            "fr": "Ont-ils déjà commencé ?",
+            "de": "Haben sie schon angefangen?"
+          },
+          "words": [
+            { "correct": "Have", "alternatives": ["Has", "Did", "Do"] },
+            { "correct": "they", "alternatives": ["he", "she", "we"] },
+            { "correct": "begun", "alternatives": ["begin", "begins", "beginning"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 35,
+          "sentence_en": "Has he begun yet?",
+          "translations": {
+            "ru": "Он уже начал?",
+            "es": "¿Ya ha comenzado?",
+            "fr": "A-t-il déjà commencé ?",
+            "de": "Hat er schon angefangen?"
+          },
+          "words": [
+            { "correct": "Has", "alternatives": ["Have", "Did", "Does"] },
+            { "correct": "he", "alternatives": ["she", "they", "we"] },
+            { "correct": "begun", "alternatives": ["begin", "begins", "beginning"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 36,
+          "sentence_en": "We haven't lost hope yet.",
+          "translations": {
+            "ru": "Мы ещё не потеряли надежду.",
+            "es": "Todavía no hemos perdido la esperanza.",
+            "fr": "Nous n'avons pas encore perdu espoir.",
+            "de": "Wir haben die Hoffnung noch nicht verloren."
+          },
+          "words": [
+            { "correct": "We", "alternatives": ["He", "They", "I"] },
+            { "correct": "haven't", "alternatives": ["hasn't", "isn't", "doesn't"] },
+            { "correct": "lost", "alternatives": ["lose", "loses", "losing"] },
+            { "correct": "hope", "alternatives": ["fear", "dream", "wish"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 37,
+          "sentence_en": "Has he grown yet?",
+          "translations": {
+            "ru": "Он уже вырос?",
+            "es": "¿Ya ha crecido?",
+            "fr": "A-t-il déjà grandi ?",
+            "de": "Ist er schon gewachsen?"
+          },
+          "words": [
+            { "correct": "Has", "alternatives": ["Have", "Did", "Does"] },
+            { "correct": "he", "alternatives": ["she", "they", "we"] },
+            { "correct": "grown", "alternatives": ["grow", "grows", "growing"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 38,
+          "sentence_en": "He hasn't drunk a cup of tea yet.",
+          "translations": {
+            "ru": "Он ещё не выпил чашку чая.",
+            "es": "Él aún no ha bebido una taza de té.",
+            "fr": "Il n'a pas encore bu une tasse de thé.",
+            "de": "Er hat noch keine Tasse Tee getrunken."
+          },
+          "words": [
+            { "correct": "He", "alternatives": ["She", "They", "We"] },
+            { "correct": "hasn't", "alternatives": ["haven't", "isn't", "doesn't"] },
+            { "correct": "drunk", "alternatives": ["drink", "drinks", "drinking"] },
+            { "correct": "a", "alternatives": ["the", "an", "this"] },
+            { "correct": "cup", "alternatives": ["glass", "bottle", "mug"] },
+            { "correct": "of", "alternatives": ["in", "on", "at"] },
+            { "correct": "tea", "alternatives": ["coffee", "juice", "water"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 39,
+          "sentence_en": "We've already helped you.",
+          "translations": {
+            "ru": "Мы уже помогли тебе.",
+            "es": "Ya te hemos ayudado.",
+            "fr": "Nous t'avons déjà aidé.",
+            "de": "Wir haben dir schon geholfen."
+          },
+          "words": [
+            { "correct": "We've", "alternatives": ["You've", "He's", "They've"] },
+            { "correct": "already", "alternatives": ["yet", "still", "soon"] },
+            { "correct": "helped", "alternatives": ["help", "helps", "helping"] },
+            { "correct": "you", "alternatives": ["him", "her", "them"] }
+          ]
+        },
+        {
+          "id": 40,
+          "sentence_en": "Have they known the news yet?",
+          "translations": {
+            "ru": "Они уже узнали новости?",
+            "es": "¿Ya se han enterado de las noticias?",
+            "fr": "Ont-ils déjà appris la nouvelle ?",
+            "de": "Haben sie die Neuigkeiten schon erfahren?"
+          },
+          "words": [
+            { "correct": "Have", "alternatives": ["Has", "Did", "Do"] },
+            { "correct": "they", "alternatives": ["he", "she", "we"] },
+            { "correct": "known", "alternatives": ["know", "knows", "knowing"] },
+            { "correct": "the", "alternatives": ["a", "an", "this"] },
+            { "correct": "news", "alternatives": ["story", "letter", "book"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 41,
+          "sentence_en": "You've already asked me.",
+          "translations": {
+            "ru": "Ты уже спрашивал меня.",
+            "es": "Ya me has preguntado.",
+            "fr": "Tu m'as déjà demandé.",
+            "de": "Du hast mich schon gefragt."
+          },
+          "words": [
+            { "correct": "You've", "alternatives": ["We've", "He's", "They've"] },
+            { "correct": "already", "alternatives": ["yet", "still", "soon"] },
+            { "correct": "asked", "alternatives": ["ask", "asks", "asking"] },
+            { "correct": "me", "alternatives": ["him", "her", "us"] }
+          ]
+        },
+        {
+          "id": 42,
+          "sentence_en": "They haven't written that letter yet.",
+          "translations": {
+            "ru": "Они ещё не написали то письмо.",
+            "es": "Todavía no han escrito esa carta.",
+            "fr": "Ils n'ont pas encore écrit cette lettre.",
+            "de": "Sie haben diesen Brief noch nicht geschrieben."
+          },
+          "words": [
+            { "correct": "They", "alternatives": ["We", "You", "He"] },
+            { "correct": "haven't", "alternatives": ["hasn't", "isn't", "doesn't"] },
+            { "correct": "written", "alternatives": ["write", "writes", "writing"] },
+            { "correct": "that", "alternatives": ["this", "a", "an"] },
+            { "correct": "letter", "alternatives": ["book", "story", "note"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 43,
+          "sentence_en": "Has she paid the bill yet?",
+          "translations": {
+            "ru": "Она уже оплатила счёт?",
+            "es": "¿Ya ha pagado la cuenta?",
+            "fr": "A-t-elle déjà payé l'addition ?",
+            "de": "Hat sie die Rechnung schon bezahlt?"
+          },
+          "words": [
+            { "correct": "Has", "alternatives": ["Have", "Did", "Does"] },
+            { "correct": "she", "alternatives": ["he", "they", "we"] },
+            { "correct": "paid", "alternatives": ["pay", "pays", "paying"] },
+            { "correct": "the", "alternatives": ["a", "an", "this"] },
+            { "correct": "bill", "alternatives": ["check", "receipt", "invoice"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 44,
+          "sentence_en": "They haven't found the answer yet.",
+          "translations": {
+            "ru": "Они ещё не нашли ответ.",
+            "es": "Todavía no han encontrado la respuesta.",
+            "fr": "Ils n'ont pas encore trouvé la réponse.",
+            "de": "Sie haben die Antwort noch nicht gefunden."
+          },
+          "words": [
+            { "correct": "They", "alternatives": ["We", "You", "He"] },
+            { "correct": "haven't", "alternatives": ["hasn't", "isn't", "doesn't"] },
+            { "correct": "found", "alternatives": ["find", "finds", "finding"] },
+            { "correct": "the", "alternatives": ["a", "an", "this"] },
+            { "correct": "answer", "alternatives": ["question", "problem", "solution"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 45,
+          "sentence_en": "Has she grown yet?",
+          "translations": {
+            "ru": "Она уже выросла?",
+            "es": "¿Ya ha crecido?",
+            "fr": "A-t-elle déjà grandi ?",
+            "de": "Ist sie schon gewachsen?"
+          },
+          "words": [
+            { "correct": "Has", "alternatives": ["Have", "Did", "Does"] },
+            { "correct": "she", "alternatives": ["he", "they", "we"] },
+            { "correct": "grown", "alternatives": ["grow", "grows", "growing"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 46,
+          "sentence_en": "We haven't put our new shoes into the box yet.",
+          "translations": {
+            "ru": "Мы ещё не положили свои новые туфли в коробку.",
+            "es": "Todavía no hemos puesto nuestros zapatos nuevos en la caja.",
+            "fr": "Nous n'avons pas encore mis nos nouvelles chaussures dans la boîte.",
+            "de": "Wir haben unsere neuen Schuhe noch nicht in die Kiste gelegt."
+          },
+          "words": [
+            { "correct": "We", "alternatives": ["He", "They", "I"] },
+            { "correct": "haven't", "alternatives": ["hasn't", "isn't", "doesn't"] },
+            { "correct": "put", "alternatives": ["puts", "putting", "putted"] },
+            { "correct": "our", "alternatives": ["your", "his", "their"] },
+            { "correct": "new", "alternatives": ["old", "used", "worn"] },
+            { "correct": "shoes", "alternatives": ["socks", "hats", "gloves"] },
+            { "correct": "into", "alternatives": ["onto", "under", "over"] },
+            { "correct": "the", "alternatives": ["a", "an", "this"] },
+            { "correct": "box", "alternatives": ["bag", "basket", "drawer"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 47,
+          "sentence_en": "We haven't closed the door yet.",
+          "translations": {
+            "ru": "Мы ещё не закрыли дверь.",
+            "es": "Todavía no hemos cerrado la puerta.",
+            "fr": "Nous n'avons pas encore fermé la porte.",
+            "de": "Wir haben die Tür noch nicht geschlossen."
+          },
+          "words": [
+            { "correct": "We", "alternatives": ["He", "They", "I"] },
+            { "correct": "haven't", "alternatives": ["hasn't", "isn't", "doesn't"] },
+            { "correct": "closed", "alternatives": ["close", "closes", "closing"] },
+            { "correct": "the", "alternatives": ["a", "an", "this"] },
+            { "correct": "door", "alternatives": ["window", "box", "wall"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 48,
+          "sentence_en": "He hasn't worked yet.",
+          "translations": {
+            "ru": "Он ещё не поработал.",
+            "es": "Él aún no ha trabajado.",
+            "fr": "Il n'a pas encore travaillé.",
+            "de": "Er hat noch nicht gearbeitet."
+          },
+          "words": [
+            { "correct": "He", "alternatives": ["She", "They", "We"] },
+            { "correct": "hasn't", "alternatives": ["haven't", "isn't", "doesn't"] },
+            { "correct": "worked", "alternatives": ["work", "works", "working"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 49,
+          "sentence_en": "You've already opened the box.",
+          "translations": {
+            "ru": "Ты уже открыл коробку.",
+            "es": "Ya has abierto la caja.",
+            "fr": "Tu as déjà ouvert la boîte.",
+            "de": "Du hast die Kiste schon geöffnet."
+          },
+          "words": [
+            { "correct": "You've", "alternatives": ["We've", "He's", "They've"] },
+            { "correct": "already", "alternatives": ["yet", "still", "soon"] },
+            { "correct": "opened", "alternatives": ["open", "opens", "opening"] },
+            { "correct": "the", "alternatives": ["a", "an", "this"] },
+            { "correct": "box", "alternatives": ["bag", "basket", "drawer"] }
+          ]
+        },
+        {
+          "id": 50,
+          "sentence_en": "You've already known the news.",
+          "translations": {
+            "ru": "Ты уже узнал новости.",
+            "es": "Ya te has enterado de las noticias.",
+            "fr": "Tu as déjà appris la nouvelle.",
+            "de": "Du hast die Nachrichten schon erfahren."
+          },
+          "words": [
+            { "correct": "You've", "alternatives": ["We've", "He's", "They've"] },
+            { "correct": "already", "alternatives": ["yet", "still", "soon"] },
+            { "correct": "known", "alternatives": ["know", "knows", "knowing"] },
+            { "correct": "the", "alternatives": ["a", "an", "this"] },
+            { "correct": "news", "alternatives": ["story", "letter", "book"] }
+          ]
+        },
+        {
+          "id": 51,
+          "sentence_en": "She hasn't brought us coffee yet.",
+          "translations": {
+            "ru": "Она ещё не принесла нам кофе.",
+            "es": "Ella aún no nos ha traído café.",
+            "fr": "Elle ne nous a pas encore apporté de café.",
+            "de": "Sie hat uns noch keinen Kaffee gebracht."
+          },
+          "words": [
+            { "correct": "She", "alternatives": ["He", "They", "We"] },
+            { "correct": "hasn't", "alternatives": ["haven't", "isn't", "doesn't"] },
+            { "correct": "brought", "alternatives": ["bring", "brings", "bringing"] },
+            { "correct": "us", "alternatives": ["him", "her", "them"] },
+            { "correct": "coffee", "alternatives": ["tea", "juice", "water"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 52,
+          "sentence_en": "We've already loved you.",
+          "translations": {
+            "ru": "Мы уже полюбили тебя.",
+            "es": "Ya te hemos amado.",
+            "fr": "Nous t'avons déjà aimé.",
+            "de": "Wir haben dich schon geliebt."
+          },
+          "words": [
+            { "correct": "We've", "alternatives": ["You've", "He's", "They've"] },
+            { "correct": "already", "alternatives": ["yet", "still", "soon"] },
+            { "correct": "loved", "alternatives": ["love", "loves", "loving"] },
+            { "correct": "you", "alternatives": ["him", "her", "them"] }
+          ]
+        },
+        {
+          "id": 53,
+          "sentence_en": "I've already loved them.",
+          "translations": {
+            "ru": "Я уже полюбил их.",
+            "es": "Ya los he amado.",
+            "fr": "Je les ai déjà aimés.",
+            "de": "Ich habe sie schon geliebt."
+          },
+          "words": [
+            { "correct": "I've", "alternatives": ["You've", "He's", "They've"] },
+            { "correct": "already", "alternatives": ["yet", "still", "soon"] },
+            { "correct": "loved", "alternatives": ["love", "loves", "loving"] },
+            { "correct": "them", "alternatives": ["him", "her", "us"] }
+          ]
+        },
+        {
+          "id": 54,
+          "sentence_en": "We haven't studied yet.",
+          "translations": {
+            "ru": "Мы ещё не изучили.",
+            "es": "Todavía no hemos estudiado.",
+            "fr": "Nous n'avons pas encore étudié.",
+            "de": "Wir haben noch nicht gelernt."
+          },
+          "words": [
+            { "correct": "We", "alternatives": ["He", "They", "I"] },
+            { "correct": "haven't", "alternatives": ["hasn't", "isn't", "doesn't"] },
+            { "correct": "studied", "alternatives": ["study", "studies", "studying"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 55,
+          "sentence_en": "He hasn't written this letter yet.",
+          "translations": {
+            "ru": "Он ещё не написал это письмо.",
+            "es": "Él aún no ha escrito esta carta.",
+            "fr": "Il n'a pas encore écrit cette lettre.",
+            "de": "Er hat diesen Brief noch nicht geschrieben."
+          },
+          "words": [
+            { "correct": "He", "alternatives": ["She", "They", "We"] },
+            { "correct": "hasn't", "alternatives": ["haven't", "isn't", "doesn't"] },
+            { "correct": "written", "alternatives": ["write", "writes", "writing"] },
+            { "correct": "this", "alternatives": ["that", "a", "an"] },
+            { "correct": "letter", "alternatives": ["book", "story", "note"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 56,
+          "sentence_en": "Have you left the company yet?",
+          "translations": {
+            "ru": "Ты уже оставил компанию?",
+            "es": "¿Ya has dejado la empresa?",
+            "fr": "As-tu déjà quitté l'entreprise ?",
+            "de": "Hast du das Unternehmen schon verlassen?"
+          },
+          "words": [
+            { "correct": "Have", "alternatives": ["Has", "Did", "Do"] },
+            { "correct": "you", "alternatives": ["they", "he", "she"] },
+            { "correct": "left", "alternatives": ["leave", "leaves", "leaving"] },
+            { "correct": "the", "alternatives": ["a", "an", "this"] },
+            { "correct": "company", "alternatives": ["office", "job", "work"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 57,
+          "sentence_en": "Have you helped him yet?",
+          "translations": {
+            "ru": "Ты уже помог ему?",
+            "es": "¿Ya lo has ayudado?",
+            "fr": "L'as-tu déjà aidé ?",
+            "de": "Hast du ihm schon geholfen?"
+          },
+          "words": [
+            { "correct": "Have", "alternatives": ["Has", "Did", "Do"] },
+            { "correct": "you", "alternatives": ["they", "he", "she"] },
+            { "correct": "helped", "alternatives": ["help", "helps", "helping"] },
+            { "correct": "him", "alternatives": ["her", "them", "us"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 58,
+          "sentence_en": "I haven't found my keys yet.",
+          "translations": {
+            "ru": "Я ещё не нашёл свои ключи.",
+            "es": "Todavía no he encontrado mis llaves.",
+            "fr": "Je n'ai pas encore trouvé mes clés.",
+            "de": "Ich habe meine Schlüssel noch nicht gefunden."
+          },
+          "words": [
+            { "correct": "I", "alternatives": ["He", "They", "We"] },
+            { "correct": "haven't", "alternatives": ["hasn't", "isn't", "doesn't"] },
+            { "correct": "found", "alternatives": ["find", "finds", "finding"] },
+            { "correct": "my", "alternatives": ["your", "his", "their"] },
+            { "correct": "keys", "alternatives": ["wallet", "phone", "bag"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 59,
+          "sentence_en": "She hasn't shown him the photos yet.",
+          "translations": {
+            "ru": "Она ещё не показала ему фотографии.",
+            "es": "Ella aún no le ha mostrado las fotos.",
+            "fr": "Elle ne lui a pas encore montré les photos.",
+            "de": "Sie hat ihm die Fotos noch nicht gezeigt."
+          },
+          "words": [
+            { "correct": "She", "alternatives": ["He", "They", "We"] },
+            { "correct": "hasn't", "alternatives": ["haven't", "isn't", "doesn't"] },
+            { "correct": "shown", "alternatives": ["show", "shows", "showing"] },
+            { "correct": "him", "alternatives": ["her", "them", "us"] },
+            { "correct": "the", "alternatives": ["a", "an", "this"] },
+            { "correct": "photos", "alternatives": ["pictures", "images", "drawings"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 60,
+          "sentence_en": "You've already drunk coffee.",
+          "translations": {
+            "ru": "Ты уже выпил кофе.",
+            "es": "Ya has bebido café.",
+            "fr": "Tu as déjà bu du café.",
+            "de": "Du hast schon Kaffee getrunken."
+          },
+          "words": [
+            { "correct": "You've", "alternatives": ["We've", "He's", "They've"] },
+            { "correct": "already", "alternatives": ["yet", "still", "soon"] },
+            { "correct": "drunk", "alternatives": ["drink", "drinks", "drinking"] },
+            { "correct": "coffee", "alternatives": ["tea", "juice", "water"] }
+          ]
+        },
+        {
+          "id": 61,
+          "sentence_en": "Have they put their shoes into the box yet?",
+          "translations": {
+            "ru": "Они уже положили свои туфли в коробку?",
+            "es": "¿Ya han puesto sus zapatos en la caja?",
+            "fr": "Ont-ils déjà mis leurs chaussures dans la boîte ?",
+            "de": "Haben sie ihre Schuhe schon in die Kiste gelegt?"
+          },
+          "words": [
+            { "correct": "Have", "alternatives": ["Has", "Did", "Do"] },
+            { "correct": "they", "alternatives": ["he", "she", "we"] },
+            { "correct": "put", "alternatives": ["puts", "putting", "putted"] },
+            { "correct": "their", "alternatives": ["your", "his", "our"] },
+            { "correct": "shoes", "alternatives": ["socks", "hats", "gloves"] },
+            { "correct": "into", "alternatives": ["onto", "under", "over"] },
+            { "correct": "the", "alternatives": ["a", "an", "this"] },
+            { "correct": "box", "alternatives": ["bag", "basket", "drawer"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        },
+        {
+          "id": 62,
+          "sentence_en": "She's already gone there.",
+          "translations": {
+            "ru": "Она уже сходила туда.",
+            "es": "Ella ya ha ido allí.",
+            "fr": "Elle y est déjà allée.",
+            "de": "Sie ist schon dorthin gegangen."
+          },
+          "words": [
+            { "correct": "She's", "alternatives": ["He's", "I've", "They've"] },
+            { "correct": "already", "alternatives": ["yet", "still", "soon"] },
+            { "correct": "gone", "alternatives": ["go", "goes", "going"] },
+            { "correct": "there", "alternatives": ["here", "where", "then"] }
+          ]
+        },
+        {
+          "id": 63,
+          "sentence_en": "You've already sat.",
+          "translations": {
+            "ru": "Ты уже сел.",
+            "es": "Ya te has sentado.",
+            "fr": "Tu t'es déjà assis.",
+            "de": "Du hast dich schon hingesetzt."
+          },
+          "words": [
+            { "correct": "You've", "alternatives": ["We've", "He's", "They've"] },
+            { "correct": "already", "alternatives": ["yet", "still", "soon"] },
+            { "correct": "sat", "alternatives": ["set", "sit", "sate"] }
+          ]
+        },
+        {
+          "id": 64,
+          "sentence_en": "He's already asked me.",
+          "translations": {
+            "ru": "Он уже спросил меня.",
+            "es": "Él ya me ha preguntado.",
+            "fr": "Il m'a déjà demandé.",
+            "de": "Er hat mich schon gefragt."
+          },
+          "words": [
+            { "correct": "He's", "alternatives": ["She's", "I've", "They've"] },
+            { "correct": "already", "alternatives": ["yet", "still", "soon"] },
+            { "correct": "asked", "alternatives": ["ask", "asks", "asking"] },
+            { "correct": "me", "alternatives": ["him", "her", "us"] }
+          ]
+        },
+        {
+          "id": 65,
+          "sentence_en": "Has she finished the project yet?",
+          "translations": {
+            "ru": "Она уже закончила проект?",
+            "es": "¿Ya ha terminado el proyecto?",
+            "fr": "A-t-elle déjà terminé le projet ?",
+            "de": "Hat sie das Projekt schon beendet?"
+          },
+          "words": [
+            { "correct": "Has", "alternatives": ["Have", "Did", "Does"] },
+            { "correct": "she", "alternatives": ["he", "they", "we"] },
+            { "correct": "finished", "alternatives": ["finish", "finishes", "finishing"] },
+            { "correct": "the", "alternatives": ["a", "an", "this"] },
+            { "correct": "project", "alternatives": ["plan", "essay", "story"] },
+            { "correct": "yet", "alternatives": ["already", "soon", "now"] }
+          ]
+        }
+      ]
+    }
+  }
+
