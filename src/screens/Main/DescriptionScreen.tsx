@@ -1,10 +1,9 @@
-import React, { useRef, useEffect, useState } from 'react';
+import React, { useRef, useEffect } from 'react';
 import {
   View,
   Text,
   StyleSheet,
   TouchableOpacity,
-  SafeAreaView,
   StatusBar,
   Animated,
   Platform,
@@ -17,6 +16,8 @@ import { LinearGradient } from 'expo-linear-gradient';
 import type { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { MainStackParamList } from '../../navigation/types';
 import AsyncStorage from '@react-native-async-storage/async-storage';
+import { SafeAreaView } from 'react-native-safe-area-context';
+import { useLocalization } from '../../contexts/LocalizationContext';
 
 // Импортируем данные уроков
 import lesson1Data from '../../../data/lessons/lesson1.json';
@@ -105,14 +106,13 @@ interface LessonData {
 
 type Props = NativeStackScreenProps<MainStackParamList, 'Description'>;
 type Language = 'english' | 'russian' | 'spanish' | 'french' | 'german';
+type SupportedLanguage = 'ru' | 'es' | 'fr' | 'de';
 
 const DescriptionScreen: React.FC<Props> = ({ navigation, route }) => {
   const { lessonId } = route.params;
   const scrollY = useRef(new Animated.Value(0)).current;
+  const { language } = useLocalization();
   
-  // Если библиотека i18next не установлена, просто используем переменную состояния
-  const [currentLanguage, setCurrentLanguage] = useState<Language>('russian'); // По умолчанию русский для тестирования
-
   // Получаем данные урока в зависимости от ID
   const getLessonData = (id: number): LessonData => {
     switch (id) {
@@ -169,24 +169,17 @@ const DescriptionScreen: React.FC<Props> = ({ navigation, route }) => {
       german: `Lektion ${lessonId}`
     };
     
-    return translations[currentLanguage] || translations.english;
-  };
-
-  // Отслеживаем изменение языка
-  useEffect(() => {
-    const checkLanguage = async () => {
-      try {
-        const savedLanguage = await AsyncStorage.getItem('user_language');
-        if (savedLanguage && ['english', 'russian', 'spanish', 'french', 'german'].includes(savedLanguage)) {
-          setCurrentLanguage(savedLanguage as Language);
-        }
-      } catch (error) {
-        console.error('Error fetching language:', error);
-      }
+    // Map the language from LocalizationContext to our Language type
+    const languageMap: Record<SupportedLanguage, Language> = {
+      'ru': 'russian',
+      'es': 'spanish',
+      'fr': 'french',
+      'de': 'german'
     };
     
-    checkLanguage();
-  }, []);
+    const mappedLanguage = languageMap[language] || 'english';
+    return translations[mappedLanguage] || translations.english;
+  };
 
   // Mark description as viewed
   useEffect(() => {
@@ -416,10 +409,20 @@ const DescriptionScreen: React.FC<Props> = ({ navigation, route }) => {
 
   // Рендеринг описания
   const renderDescription = () => {
+    // Map the language from LocalizationContext to our Language type
+    const languageMap: Record<SupportedLanguage, Language> = {
+      'ru': 'russian',
+      'es': 'spanish',
+      'fr': 'french',
+      'de': 'german'
+    };
+    
+    const mappedLanguage = languageMap[language] || 'english';
+
     // Проверяем, есть ли detailedDescription для текущего языка
     if (lessonData.detailedDescription && 
-        lessonData.detailedDescription[currentLanguage as keyof DetailedDescription]) {
-      const description = lessonData.detailedDescription[currentLanguage as keyof DetailedDescription];
+        lessonData.detailedDescription[mappedLanguage as keyof DetailedDescription]) {
+      const description = lessonData.detailedDescription[mappedLanguage as keyof DetailedDescription];
       
       if (description) {
         const { title, sections } = description;
@@ -436,7 +439,7 @@ const DescriptionScreen: React.FC<Props> = ({ navigation, route }) => {
     // Для языков без детального описания показываем простое описание
     return (
       <Text style={styles.descriptionText}>
-        {lessonData.description ? (lessonData.description[currentLanguage] || lessonData.description.english) : ""}
+        {lessonData.description ? (lessonData.description[mappedLanguage] || lessonData.description.english) : ""}
       </Text>
     );
   };
@@ -449,7 +452,7 @@ const DescriptionScreen: React.FC<Props> = ({ navigation, route }) => {
       end={{ x: 0, y: 0.2 }}
     >
       <StatusBar barStyle="light-content" />
-      <SafeAreaView style={styles.safeArea}>
+      <SafeAreaView style={styles.safeArea} edges={["top", "left", "right", "bottom"]}>
         {/* Header Background */}
         <Animated.View style={[styles.headerBackground, { opacity: headerOpacity }]} />
         

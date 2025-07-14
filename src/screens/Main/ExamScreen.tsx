@@ -4,7 +4,6 @@ import {
   Text,
   StyleSheet,
   TouchableOpacity,
-  SafeAreaView,
   StatusBar,
   FlatList,
   Alert,
@@ -19,8 +18,8 @@ import { MainStackParamList } from '../../navigation/types';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { useTranslation } from '../../localization';
 import { lessonService } from '../../services/lessonService';
-import { Audio } from 'expo-av';
 import * as Speech from 'expo-speech';
+import { SafeAreaView } from 'react-native-safe-area-context';
 
 type Props = NativeStackScreenProps<MainStackParamList, 'Exam'>;
 
@@ -53,9 +52,13 @@ const commonDistractors = [
   'come', 'comes', 'came', 'know', 'knows', 'knew', 'known',
 ];
 
+// Добавить маппинг языка
+const languageMap = { ru: 'russian', es: 'spanish', fr: 'french', de: 'german' };
+
 const ExamScreen: React.FC<Props> = ({ navigation, route }) => {
   const { lessonId } = route.params;
   const { t, language } = useTranslation();
+  const mappedLanguage = languageMap[language] || 'english';
   
   // Состояние экзамена
   const [sentences, setSentences] = useState<ExamSentence[]>([]);
@@ -86,43 +89,8 @@ const ExamScreen: React.FC<Props> = ({ navigation, route }) => {
   // Добавим новое состояние для отслеживания текущей позиции в предложении
   const [currentPosition, setCurrentPosition] = useState(0);
 
-  // Add sound state
-  const [sound, setSound] = useState<Audio.Sound | null>(null);
-
-  // Update the audio initialization effect
-  useEffect(() => {
-    // Initialize audio
-    const initAudio = async () => {
-      try {
-        console.log('Initializing audio system...');
-        
-        // Request audio permissions (needed on some platforms)
-        const permissionResponse = await Audio.requestPermissionsAsync();
-        console.log('Audio permissions:', permissionResponse);
-        
-        // Set audio mode
-        await Audio.setAudioModeAsync({
-          playsInSilentModeIOS: true,
-          staysActiveInBackground: false,
-          shouldDuckAndroid: true,
-        });
-        
-        console.log('Audio system initialized successfully');
-      } catch (error) {
-        console.error('Error initializing audio:', error);
-      }
-    };
-    
-    initAudio();
-    
-    // Cleanup when component unmounts
-    return () => {
-      console.log('Component unmounting, cleaning up audio');
-      if (sound) {
-        sound.unloadAsync();
-      }
-    };
-  }, []);
+  // Remove audio state and initialization
+  const [sound, setSound] = useState<null>(null);
 
   // Загрузка данных экзамена
   useEffect(() => {
@@ -172,27 +140,12 @@ const ExamScreen: React.FC<Props> = ({ navigation, route }) => {
           
           // Преобразуем данные предложений в формат для экзамена
           const formattedSentences: ExamSentence[] = examSentences.map((sentenceData: any) => {
-            // Получаем перевод в зависимости от выбранного языка
-            let translation: string = sentenceData.translations.ru; // По умолчанию русский
-            
-            // Проверяем наличие перевода на выбранный язык
-            switch(language.toLowerCase()) {
-              case 'spanish':
-                translation = sentenceData.translations.es;
-                break;
-              case 'french':
-                translation = sentenceData.translations.fr;
-                break;
-              case 'german':
-                translation = sentenceData.translations.de;
-                break;
-              case 'russian':
-              default:
-                translation = sentenceData.translations.ru;
-                break;
+            let translation: string;
+            if (sentenceData.translations) {
+              translation = sentenceData.translations?.[language] || sentenceData.translations?.ru || sentenceData.english;
+            } else {
+              translation = sentenceData[mappedLanguage] || sentenceData.english;
             }
-            
-            // Выбираем правильные слова и их порядок
             const words = sentenceData.words.map((w: any) => w.correct);
             const correctOrder = words.map((_: any, index: number) => index);
             
@@ -247,27 +200,12 @@ const ExamScreen: React.FC<Props> = ({ navigation, route }) => {
         
         // Преобразуем данные предложений в формат для экзамена
         const formattedSentences: ExamSentence[] = sentencesData.map((sentence: any) => {
-          // Получаем перевод в зависимости от выбранного языка
-          let translation: string = sentence.russian; // По умолчанию русский
-          
-          // Проверяем наличие перевода на выбранный язык
-          switch(language.toLowerCase()) {
-            case 'spanish':
-              translation = sentence.spanish;
-              break;
-            case 'french':
-              translation = sentence.french;
-              break;
-            case 'german':
-              translation = sentence.german;
-              break;
-            case 'russian':
-            default:
-              translation = sentence.russian;
-              break;
+          let translation: string;
+          if (sentence.translations) {
+            translation = sentence.translations?.[language] || sentence.translations?.ru || sentence.english;
+          } else {
+            translation = sentence[mappedLanguage] || sentence.english;
           }
-          
-          // Разбиваем предложение на слова для составления
           const words = sentence.english.replace(/[.,!?]/g, '').split(' ');
           
           // Для каждого слова создаем правильный индекс
@@ -321,7 +259,7 @@ const ExamScreen: React.FC<Props> = ({ navigation, route }) => {
     };
     
     loadExamData();
-  }, [lessonId, language, navigation]);
+  }, [language, lessonId, navigation]);
 
   // Функция для перемешивания массива (алгоритм Фишера-Йейтса)
   const shuffleArray = <T extends any>(array: T[]): T[] => {
@@ -452,13 +390,11 @@ const ExamScreen: React.FC<Props> = ({ navigation, route }) => {
     setAvailableWords(newWords);
   };
 
-  // Replace the playSentenceAudio function with this text-to-speech version
+  // Update the speakSentence function to be simpler
   const speakSentence = async (sentence: ExamSentence) => {
     try {
-      // Stop any ongoing speech
-      Speech.stop();
+      await Speech.stop();
       
-      // Use the English sentence as the text to speak
       const textToSpeak = sentence.english;
       
       if (!textToSpeak) {
@@ -468,19 +404,31 @@ const ExamScreen: React.FC<Props> = ({ navigation, route }) => {
       
       console.log('Speaking sentence:', textToSpeak);
       
-      // Speak the sentence in English
-      Speech.speak(textToSpeak, {
+      try {
+        await Speech.speak(textToSpeak, {
         language: 'en-US',
         pitch: 1.0,
-        rate: 0.9, // Slightly slower rate for better comprehension
+          rate: 0.9,
         onStart: () => console.log('Speech started'),
         onDone: () => console.log('Speech finished'),
-        onError: (error) => console.error('Speech error:', error)
+          onError: (error) => {
+            console.error('Speech error:', error);
+          }
       });
+      } catch (speechError) {
+        console.error('Error during speech:', speechError);
+      }
     } catch (error) {
       console.error('Error with text-to-speech:', error);
     }
   };
+
+  // Remove audio initialization effect
+  useEffect(() => {
+    return () => {
+      Speech.stop();
+    };
+  }, []);
 
   // Now update the checkAnswer function to use text-to-speech
   const checkAnswer = () => {
@@ -664,14 +612,6 @@ const ExamScreen: React.FC<Props> = ({ navigation, route }) => {
     );
   };
 
-  // Add cleanup when component unmounts
-  useEffect(() => {
-    return () => {
-      // Stop any ongoing speech when component unmounts
-      Speech.stop();
-    };
-  }, []);
-
   if (loading) {
     return (
       <LinearGradient
@@ -708,7 +648,7 @@ const ExamScreen: React.FC<Props> = ({ navigation, route }) => {
       end={{ x: 1, y: 1 }}
     >
       <StatusBar barStyle="light-content" />
-      <SafeAreaView style={styles.safeArea}>
+      <SafeAreaView style={styles.safeArea} edges={["top", "left", "right", "bottom"]}>
         {/* Добавляем TouchableWithoutFeedback для обработки нажатий на весь экран */}
         <TouchableWithoutFeedback 
           onPress={() => {
@@ -857,19 +797,7 @@ const ExamScreen: React.FC<Props> = ({ navigation, route }) => {
                   style={styles.checkButton}
                   onPress={resetAttempt}
                 >
-                  <Text style={styles.buttonText}>
-                    {t('exam.tryAgain') === 'exam.tryAgain' 
-                      ? language.toLowerCase() === 'spanish' 
-                        ? 'Inténtalo de nuevo' 
-                        : language.toLowerCase() === 'french' 
-                          ? 'Essaie encore' 
-                          : language.toLowerCase() === 'german' 
-                            ? 'Versuche es erneut' 
-                            : language.toLowerCase() === 'russian' 
-                              ? 'Попробуй заново' 
-                              : 'Try again'
-                      : t('exam.tryAgain')}
-                  </Text>
+                  <Text style={styles.buttonText}>{t('exam.tryAgain')}</Text>
                 </TouchableOpacity>
               ) : (
                 // Если ответ еще не проверен

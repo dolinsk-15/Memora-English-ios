@@ -4,7 +4,6 @@ import {
   Text,
   StyleSheet,
   TouchableOpacity,
-  SafeAreaView,
   StatusBar,
   Animated,
   Platform,
@@ -19,9 +18,9 @@ import { useNavigation } from '@react-navigation/native';
 import type { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { AuthStackParamList } from '../../navigation/types';
 import { AuthContext } from '../../navigation/RootNavigator';
-import { supabase } from '../../lib/supabase';
 import { getUserDbId } from '../../utils/userUtils';
 import { useLocalization } from '../../contexts/LocalizationContext';
+import { SafeAreaView } from 'react-native-safe-area-context';
 
 type AuthNavigationProp = NativeStackNavigationProp<AuthStackParamList, 'LanguageSelection'>;
 
@@ -50,11 +49,27 @@ const subtitleTranslations = {
 };
 
 const languages: LanguageOption[] = [
-  { id: 'russian', name: 'Russian', nativeName: 'Русский', nativeText: 'Выберите родной язык' },
-  { id: 'spanish', name: 'Spanish', nativeName: 'Español', nativeText: 'Seleccione su lengua materna' },
-  { id: 'french', name: 'French', nativeName: 'Français', nativeText: 'Choisissez votre langue maternelle' },
-  { id: 'german', name: 'German', nativeName: 'Deutsch', nativeText: 'Wählen Sie Ihre Muttersprache' },
+  { id: 'ru', name: 'Russian', nativeName: 'Русский', nativeText: 'Выберите родной язык' },
+  { id: 'es', name: 'Spanish', nativeName: 'Español', nativeText: 'Seleccione su lengua materna' },
+  { id: 'fr', name: 'French', nativeName: 'Français', nativeText: 'Choisissez votre langue maternelle' },
+  { id: 'de', name: 'German', nativeName: 'Deutsch', nativeText: 'Wählen Sie Ihre Muttersprache' },
 ];
+
+// Функция для получения emoji-флага по id языка
+const getFlagEmoji = (id: string) => {
+  switch (id) {
+    case 'ru':
+      return '🇷🇺';
+    case 'es':
+      return '🇪🇸';
+    case 'fr':
+      return '🇫🇷';
+    case 'de':
+      return '🇩🇪';
+    default:
+      return '🏳️';
+  }
+};
 
 const LanguageSelectionScreen: React.FC = () => {
   const navigation = useNavigation<AuthNavigationProp>();
@@ -94,16 +109,9 @@ const LanguageSelectionScreen: React.FC = () => {
       end={{ x: 1, y: 1 }}
     >
       <StatusBar barStyle="light-content" />
-      <SafeAreaView style={styles.safeArea}>
+      <SafeAreaView style={styles.safeArea} edges={["top", "left", "right", "bottom"]}>
         {/* Header Background */}
         <Animated.View style={[styles.headerBackground, { opacity: headerOpacity }]} />
-        
-        {/* Header */}
-        <View style={styles.navigationHeader}>
-          <View style={styles.headerTitleContainer}>
-            <Text style={styles.headerTitle}>Выберите родной язык</Text>
-          </View>
-        </View>
 
         <ScrollView 
           style={styles.scrollView}
@@ -112,14 +120,73 @@ const LanguageSelectionScreen: React.FC = () => {
           scrollEventThrottle={16}
         >
           <View style={styles.contentContainer}>
-            <Text style={[styles.subtitle, { marginBottom: 24 }]}>
-              {subtitleTranslations.english}
-            </Text>
             <View style={styles.languageList}>
               {languages.map((language) => {
                 const isSelected = selectedId === language.id;
                 const isPressed = pressedId === language.id;
 
+                if (Platform.OS === 'android') {
+                  return (
+                    <LinearGradient
+                      key={language.id}
+                      colors={['#1E40AF', '#0F172A']}
+                      start={{ x: 0, y: 0 }}
+                      end={{ x: 1, y: 1 }}
+                      style={[
+                        styles.languageCardAndroid,
+                        isSelected && styles.selectedCard,
+                        isPressed && styles.pressedCard,
+                      ]}
+                    >
+                      <TouchableOpacity
+                        style={{ flex: 1 }}
+                        onPress={() => handleLanguageSelect(language.id)}
+                        onPressIn={() => setPressedId(language.id)}
+                        onPressOut={() => setPressedId(null)}
+                        activeOpacity={0.85}
+                      >
+                        <View style={styles.languageContent}>
+                          <View style={styles.leftSection}>
+                            <View style={[
+                              styles.languageIcon,
+                              isPressed && styles.pressedIcon
+                            ]}>
+                              <Text style={styles.iconText}>
+                                {getFlagEmoji(language.id)}
+                              </Text>
+                            </View>
+                            <View style={styles.languageNames}>
+                              <Text style={[
+                                styles.nativeText,
+                                isPressed && styles.pressedText
+                              ]}>
+                                {language.nativeText}
+                              </Text>
+                              <Text style={[
+                                styles.languageName,
+                                isPressed && styles.pressedText
+                              ]}>
+                                {language.name}
+                              </Text>
+                              <Text style={[
+                                styles.nativeName,
+                                isPressed && styles.pressedText
+                              ]}>
+                                {language.nativeName}
+                              </Text>
+                            </View>
+                          </View>
+                          {isSelected && (
+                            <View style={styles.checkmark}>
+                              <Ionicons name="checkmark-circle" size={24} color="#3B82F6" />
+                            </View>
+                          )}
+                        </View>
+                      </TouchableOpacity>
+                    </LinearGradient>
+                  );
+                }
+                // iOS: keep as is
                 return (
                   <TouchableOpacity
                     key={language.id}
@@ -139,7 +206,7 @@ const LanguageSelectionScreen: React.FC = () => {
                           isPressed && styles.pressedIcon
                         ]}>
                           <Text style={styles.iconText}>
-                            {language.name.charAt(0)}
+                            {getFlagEmoji(language.id)}
                           </Text>
                         </View>
                         <View style={styles.languageNames}>
@@ -196,28 +263,13 @@ const styles = StyleSheet.create({
     backgroundColor: '#581C87',
     zIndex: 1,
   },
-  navigationHeader: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    justifyContent: 'center',
-    paddingHorizontal: 8,
-    height: 44,
-    zIndex: 2,
-  },
-  headerTitleContainer: {
-    alignItems: 'center',
-  },
-  headerTitle: {
-    fontSize: 20,
-    fontWeight: '600',
-    color: 'white',
-  },
   scrollView: {
     flex: 1,
   },
   contentContainer: {
     padding: 20,
     paddingTop: 20,
+    paddingBottom: Platform.OS === 'android' ? 32 : 0,
   },
   subtitle: {
     fontSize: 16,
@@ -305,8 +357,8 @@ const styles = StyleSheet.create({
   },
   iconText: {
     color: 'white',
-    fontSize: 24,
     fontWeight: 'bold',
+    fontSize: Platform.OS === 'android' ? 32 : 40,
   },
   languageNames: {
     flex: 1,
@@ -332,6 +384,13 @@ const styles = StyleSheet.create({
     color: '#FFA07A',
     marginBottom: 6,
     fontWeight: '500',
+  },
+  languageCardAndroid: {
+    borderRadius: 20,
+    marginBottom: 16,
+    elevation: 8,
+    width: '100%',
+    overflow: 'hidden',
   },
 });
 

@@ -4,7 +4,6 @@ import {
   Text,
   StyleSheet,
   TouchableOpacity,
-  SafeAreaView,
   StatusBar,
   Platform,
   Alert,
@@ -21,6 +20,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 import { lessonService } from '../../services/lessonService';
 import { useTranslation } from '../../localization';
 import * as Speech from 'expo-speech';
+import { SafeAreaView } from 'react-native-safe-area-context';
 
 type RepeatCountingScreenNavigationProp = NativeStackNavigationProp<MainStackParamList, 'RepeatCounting'>;
 type RepeatCountingScreenRouteProp = RouteProp<MainStackParamList, 'RepeatCounting'>;
@@ -73,12 +73,16 @@ const textItems: TextItem[] = [
   // Other texts...
 ];
 
+// Добавить маппинг языка
+const languageMap = { ru: 'russian', es: 'spanish', fr: 'french', de: 'german' };
+
 const RepeatCountingScreen = () => {
   const navigation = useNavigation<RepeatCountingScreenNavigationProp>();
   const route = useRoute<RepeatCountingScreenRouteProp>();
   const { lessonId, itemId, itemType, targetRepetitions = 10 } = route.params;
   
   const { t, language } = useTranslation();
+  const mappedLanguage = languageMap[language] || 'english';
   
   const [currentIndex, setCurrentIndex] = useState(0);
   const [repetitionCount, setRepetitionCount] = useState(0);
@@ -189,11 +193,13 @@ const RepeatCountingScreen = () => {
         if (vocabularyData && vocabularyData.allWords && vocabularyData.allWords.length > 0) {
           console.log(`Found ${vocabularyData.allWords.length} words for lesson ${lessonId}`);
           
-          const currentLanguage = language?.toLowerCase() || 'russian';
-          
           const words: WordPair[] = vocabularyData.allWords.map((word: any) => {
-            const translation = word[currentLanguage] || word.russian;
-            
+            let translation: string;
+            if (word.translations) {
+              translation = word.translations?.[language] || word.translations?.ru || word.english;
+            } else {
+              translation = word[mappedLanguage] || word.english;
+            }
             return {
               id: word.number,
               english: word.english,
@@ -202,18 +208,11 @@ const RepeatCountingScreen = () => {
           });
           
           setAllLessonWords(words);
-          setSupabaseWordItems(words); // Используем то же имя состояния, хотя оно теперь не связано с Supabase
+          setSupabaseWordItems(words);
           
-          // Если у нас есть itemId, находим его индекс
           if (itemId) {
             const wordIndex = words.findIndex(word => word.id === itemId);
-            if (wordIndex !== -1) {
-              console.log(`Found word with ID ${itemId} at index ${wordIndex}`);
-              setCurrentIndex(wordIndex);
-            } else {
-              console.warn(`Word with ID ${itemId} not found, using first word instead`);
-              setCurrentIndex(0); // Используем первое слово
-            }
+            setCurrentIndex(wordIndex !== -1 ? wordIndex : 0);
           }
         } else {
           console.warn(`No words found for lesson ${lessonId}`);
@@ -246,11 +245,13 @@ const RepeatCountingScreen = () => {
         if (sentencesData && sentencesData.length > 0) {
           console.log(`Found ${sentencesData.length} sentences for lesson ${lessonId}`);
           
-          const currentLanguage = language?.toLowerCase() || 'russian';
-          
           const sentences: SentencePair[] = sentencesData.map((sentence: any) => {
-            const translation = sentence[currentLanguage] || sentence.russian;
-            
+            let translation: string;
+            if (sentence.translations) {
+              translation = sentence.translations?.[language] || sentence.translations?.ru || sentence.english;
+            } else {
+              translation = sentence[mappedLanguage] || sentence.english;
+            }
             return {
               id: sentence.id,
               english: sentence.english,
@@ -261,16 +262,9 @@ const RepeatCountingScreen = () => {
           setAllLessonSentences(sentences);
           setSupabaseSentenceItems(sentences);
           
-          // Если у нас есть itemId, находим его индекс
           if (itemId) {
             const sentenceIndex = sentences.findIndex(sentence => sentence.id === itemId);
-            if (sentenceIndex !== -1) {
-              console.log(`Found sentence with ID ${itemId} at index ${sentenceIndex}`);
-              setCurrentIndex(sentenceIndex);
-            } else {
-              console.warn(`Sentence with ID ${itemId} not found, using first sentence instead`);
-              setCurrentIndex(0); // Используем первое предложение
-            }
+            setCurrentIndex(sentenceIndex !== -1 ? sentenceIndex : 0);
           }
         } else {
           console.warn(`No sentences found for lesson ${lessonId}`);
@@ -822,6 +816,30 @@ const RepeatCountingScreen = () => {
     
     // Для предложений используем состояния itemEnglish и itemTranslation
     if (itemType === 'sentence' && itemEnglish && itemTranslation) {
+      if (Platform.OS === 'android') {
+        return (
+          <LinearGradient
+            colors={['#3B82F6', '#1F2937']}
+            start={{ x: 0, y: 0 }}
+            end={{ x: 1, y: 1 }}
+            style={styles.wordCardAndroidInner}
+          >
+            <View style={styles.wordCardAndroidContent}>
+              <View style={styles.wordRowAndroid}>
+                <Text style={styles.englishWordAndroid}>{itemEnglish}</Text>
+                <TouchableOpacity 
+                  style={styles.soundButtonAndroid}
+                  onPress={() => speakWord(itemEnglish)}
+                >
+                  <Ionicons name="volume-medium" size={24} color="#fff" />
+                </TouchableOpacity>
+              </View>
+              <Text style={styles.translationWordAndroid}>{itemTranslation}</Text>
+            </View>
+          </LinearGradient>
+        );
+      }
+      // iOS: keep as is
       return (
         <View style={styles.wordCard}>
           <View style={styles.wordRow}>
@@ -840,6 +858,20 @@ const RepeatCountingScreen = () => {
     
     // Для других типов контента используем существующую логику с items
     if (!currentItem) {
+      if (Platform.OS === 'android') {
+        return (
+          <LinearGradient
+            colors={['#3B82F6', '#1F2937']}
+            start={{ x: 0, y: 0 }}
+            end={{ x: 1, y: 1 }}
+            style={styles.wordCardAndroidInner}
+          >
+            <View style={styles.wordCardAndroidContent}>
+              <Text style={styles.englishWordAndroid}>{t('repeat.noContent')}</Text>
+            </View>
+          </LinearGradient>
+        );
+      }
       return (
         <View style={styles.wordCard}>
           <Text style={styles.englishWord}>{t('repeat.noContent')}</Text>
@@ -849,6 +881,22 @@ const RepeatCountingScreen = () => {
     
     if (itemType === 'text') {
       const textItem = currentItem as TextItem;
+      if (Platform.OS === 'android') {
+        return (
+          <LinearGradient
+            colors={['#3B82F6', '#1F2937']}
+            start={{ x: 0, y: 0 }}
+            end={{ x: 1, y: 1 }}
+            style={styles.wordCardAndroidInner}
+          >
+            <View style={styles.wordCardAndroidContent}>
+              <Text style={styles.textTitleAndroid}>{textItem.title || t('repeat.noTitle')}</Text>
+              <Text style={styles.englishWordAndroid}>{textItem.content || t('repeat.noContent')}</Text>
+              <Text style={styles.translationWordAndroid}>{textItem.translation || t('repeat.noTranslation')}</Text>
+            </View>
+          </LinearGradient>
+        );
+      }
       return (
         <View style={styles.wordCard}>
           <Text style={styles.textTitle}>{textItem.title || t('repeat.noTitle')}</Text>
@@ -859,6 +907,29 @@ const RepeatCountingScreen = () => {
     } else {
       // Word или других типов
       const item = currentItem as WordPair | SentencePair;
+      if (Platform.OS === 'android') {
+        return (
+          <LinearGradient
+            colors={['#3B82F6', '#1F2937']}
+            start={{ x: 0, y: 0 }}
+            end={{ x: 1, y: 1 }}
+            style={styles.wordCardAndroidInner}
+          >
+            <View style={styles.wordCardAndroidContent}>
+              <View style={styles.wordRowAndroid}>
+                <Text style={styles.englishWordAndroid}>{item.english || t('repeat.noWord')}</Text>
+                <TouchableOpacity 
+                  style={styles.soundButtonAndroid}
+                  onPress={() => speakWord(item.english)}
+                >
+                  <Ionicons name="volume-medium" size={24} color="#fff" />
+                </TouchableOpacity>
+              </View>
+              <Text style={styles.translationWordAndroid}>{item.translation || t('repeat.noTranslation')}</Text>
+            </View>
+          </LinearGradient>
+        );
+      }
       return (
         <View style={styles.wordCard}>
           <View style={styles.wordRow}>
@@ -1010,19 +1081,13 @@ const RepeatCountingScreen = () => {
           
           if (targetSentence) {
             console.log('Found sentence for repetition:', targetSentence);
-            
-            // Получаем текущий язык
-            const currentLanguage = language || 'russian';
-            
-            // Устанавливаем данные для отображения
+            // Получаем перевод на выбранном языке
             setItemEnglish(targetSentence.english);
-            setItemTranslation(targetSentence[currentLanguage.toLowerCase()] || targetSentence.russian);
-            
-            // Также обновляем локальную коллекцию предложений с этим предложением
+            setItemTranslation(targetSentence[mappedLanguage] || targetSentence.english);
             setSupabaseSentenceItems([{
               id: targetSentence.id,
               english: targetSentence.english,
-              translation: targetSentence[currentLanguage.toLowerCase()] || targetSentence.russian
+              translation: targetSentence[mappedLanguage] || targetSentence.english
             }]);
           } else {
             console.error('Sentence not found with ID:', itemId);
@@ -1048,7 +1113,7 @@ const RepeatCountingScreen = () => {
       end={{ x: 1, y: 1 }}
     >
       <StatusBar barStyle="light-content" />
-      <SafeAreaView style={styles.safeArea}>
+      <SafeAreaView style={styles.safeArea} edges={["top", "left", "right", "bottom"]}>
         {/* Header with correct translation */}
         <View style={[styles.navigationHeader, styles.headerWithBackground]}>
           <TouchableOpacity
@@ -1072,7 +1137,58 @@ const RepeatCountingScreen = () => {
 
           {/* Repetition Button or Action Buttons */}
           {repetitionCount >= localTargetRepetitions ? (
-            // Show three buttons when target repetitions reached
+            Platform.OS === 'android' ? (
+              <View style={styles.actionButtonsContainerAndroid}>
+                <LinearGradient
+                  colors={['#3B82F6', '#1F2937']}
+                  start={{ x: 0, y: 0 }}
+                  end={{ x: 1, y: 1 }}
+                  style={styles.actionButtonAndroid}
+                >
+                  <TouchableOpacity
+                    style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}
+                    onPress={handleGoBack}
+                    activeOpacity={0.85}
+                  >
+                    <Text style={styles.actionButtonTextAndroid}>{t('common.back')}</Text>
+                  </TouchableOpacity>
+                </LinearGradient>
+                <LinearGradient
+                  colors={['#3B82F6', '#1F2937']}
+                  start={{ x: 0, y: 0 }}
+                  end={{ x: 1, y: 1 }}
+                  style={styles.actionButtonAndroid}
+                >
+                  <TouchableOpacity
+                    style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}
+                    onPress={handleRestart}
+                    activeOpacity={0.85}
+                  >
+                    <Text style={styles.actionButtonTextAndroid}>{t('repeat.restart')}</Text>
+                  </TouchableOpacity>
+                </LinearGradient>
+                <LinearGradient
+                  colors={['#3B82F6', '#1F2937']}
+                  start={{ x: 0, y: 0 }}
+                  end={{ x: 1, y: 1 }}
+                  style={styles.actionButtonAndroid}
+                >
+                  <TouchableOpacity
+                    style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}
+                    onPress={handleNextItem}
+                    activeOpacity={0.85}
+                  >
+                    <Text style={styles.actionButtonTextAndroid}>
+                      {itemType === 'word' 
+                        ? t('repeat.nextWord') 
+                        : itemType === 'sentence' 
+                          ? t('repeat.nextSentence') 
+                          : t('repeat.nextText')}
+                    </Text>
+                  </TouchableOpacity>
+                </LinearGradient>
+              </View>
+            ) : (
             <View style={styles.actionButtonsContainer}>
               <TouchableOpacity
                 style={styles.actionButton}
@@ -1080,14 +1196,12 @@ const RepeatCountingScreen = () => {
               >
                 <Text style={styles.actionButtonText}>{t('common.back')}</Text>
               </TouchableOpacity>
-              
               <TouchableOpacity
                 style={styles.actionButton}
                 onPress={handleRestart}
               >
                 <Text style={styles.actionButtonText}>{t('repeat.restart')}</Text>
               </TouchableOpacity>
-              
               <TouchableOpacity
                 style={styles.actionButton}
                 onPress={handleNextItem}
@@ -1101,14 +1215,30 @@ const RepeatCountingScreen = () => {
                 </Text>
               </TouchableOpacity>
             </View>
+            )
           ) : (
-            // Show single repetition button when still practicing
+            Platform.OS === 'android' ? (
+              <TouchableOpacity
+                style={styles.repetitionButtonAndroid}
+                onPress={handleRepetition}
+                activeOpacity={0.85}
+              >
+                <LinearGradient
+                  colors={['#3B82F6', '#1F2937']}
+                  start={{ x: 0, y: 0 }}
+                  end={{ x: 1, y: 1 }}
+                  style={{ ...StyleSheet.absoluteFillObject, borderRadius: 18 }}
+                />
+                <Text style={styles.repetitionButtonTextAndroid}>{t('repeat.sayAndTap')}</Text>
+              </TouchableOpacity>
+            ) : (
             <TouchableOpacity
               style={styles.repetitionButton}
               onPress={handleRepetition}
             >
               <Text style={styles.repetitionButtonText}>{t('repeat.sayAndTap')}</Text>
             </TouchableOpacity>
+            )
           )}
 
           {/* Stats text with correct translation key */}
@@ -1303,6 +1433,98 @@ const styles = StyleSheet.create({
     padding: 8,
     backgroundColor: 'rgba(59, 130, 246, 0.2)',
     borderRadius: 20,
+  },
+  // --- Android styles for word card ---
+  wordCardAndroidInner: {
+    borderRadius: 20,
+    elevation: 8,
+    marginBottom: 0,
+    overflow: 'hidden',
+  },
+  wordCardAndroidContent: {
+    alignItems: 'center',
+    gap: 12,
+    padding: 24,
+  },
+  wordRowAndroid: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 12,
+  },
+  englishWordAndroid: {
+    fontSize: 24,
+    fontWeight: '700',
+    color: 'white',
+  },
+  translationWordAndroid: {
+    fontSize: 20,
+    color: '#D1D5DB',
+  },
+  soundButtonAndroid: {
+    padding: 8,
+    backgroundColor: 'rgba(59, 130, 246, 0.2)',
+    borderRadius: 20,
+  },
+  textTitleAndroid: {
+    fontSize: 20,
+    fontWeight: '700',
+    color: '#60A5FA',
+    marginBottom: 8,
+  },
+  repetitionButtonAndroid: {
+    borderRadius: 18,
+    marginTop: 8,
+    marginBottom: 8,
+    elevation: 6,
+    paddingVertical: 20,
+    paddingHorizontal: 18,
+    alignItems: 'center',
+    justifyContent: 'center',
+    minHeight: 64,
+    width: '100%',
+  },
+  repetitionButtonTextAndroid: {
+    color: 'white',
+    fontSize: 18,
+    fontWeight: '700',
+    letterSpacing: 0.2,
+    textAlign: 'center',
+    flexWrap: 'wrap',
+    width: '100%',
+  },
+  actionButtonsContainerAndroid: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    gap: 12,
+    marginTop: 8,
+    marginBottom: 8,
+  },
+  actionButtonAndroid: {
+    flex: 1,
+    borderRadius: 18,
+    elevation: 6,
+    marginHorizontal: 0,
+    minWidth: 0,
+    minHeight: 72,
+    marginBottom: 0,
+    marginTop: 0,
+    marginRight: 0,
+    marginLeft: 0,
+    paddingVertical: 0,
+    paddingHorizontal: 0,
+    overflow: 'hidden',
+  },
+  actionButtonTextAndroid: {
+    color: 'white',
+    fontSize: 16,
+    fontWeight: '700',
+    textAlign: 'center',
+    textAlignVertical: 'center',
+    flexWrap: 'wrap',
+    width: '100%',
+    paddingVertical: 16,
+    paddingHorizontal: 6,
+    minHeight: 40,
   },
 });
 

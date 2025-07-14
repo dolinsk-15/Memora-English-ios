@@ -104,6 +104,9 @@ export default {
   words: {
     irregularVerb: "unregelmäßiges Verb",
     irregularVerbsSection: "Unregelmäßige Verben",
+    phrasalVerbsSection: "Phrasal Verben",
+    pastParticipleSection: "Partizip Perfekt",
+    pressTheButton: "Drücken Sie die Taste",
     repeatButtonHint: "Drücken Sie die Taste"
   },
   exam: {
@@ -118,7 +121,8 @@ export default {
     completed: "Prüfung abgeschlossen",
     yourScore: "Deine Punktzahl: {{score}}%",
     successMessage: "Du hast die Prüfung bestanden!",
-    noSentences: "Keine Sätze für diese Lektion verfügbar"
+    noSentences: "Keine Sätze für diese Lektion verfügbar",
+    tryAgain: "Erneut versuchen"
   },
   repeat: {
     words: "Wörter wiederholen",

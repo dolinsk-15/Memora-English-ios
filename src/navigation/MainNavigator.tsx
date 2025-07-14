@@ -9,13 +9,13 @@ import {
   DescriptionScreen,
   WordsScreen,
   SentencesScreen,
-  TextsScreen,
+  // TextsScreen,
   RepeatCountingScreen
 } from '../screens/Main';
 import ExamScreen from '../screens/Main/ExamScreen';
 import SettingsScreen from '../screens/Settings/SettingsScreen';
 import ChangeLanguageScreen from '../screens/Settings/ChangeLanguageScreen';
-import PaywallScreen from '../screens/Paywall/PaywallScreen';
+//import PaywallScreen from '../screens/Paywall/PaywallScreen';
 
 const Stack = createNativeStackNavigator<MainStackParamList>();
 
@@ -33,12 +33,12 @@ const MainNavigator = () => {
       <Stack.Screen name="Description" component={DescriptionScreen} />
       <Stack.Screen name="Words" component={WordsScreen} />
       <Stack.Screen name="Sentences" component={SentencesScreen} />
-      <Stack.Screen name="Texts" component={TextsScreen} />
+      {/* <Stack.Screen name="Texts" component={TextsScreen} /> */}
       <Stack.Screen name="Exam" component={ExamScreen} />
       <Stack.Screen name="RepeatCounting" component={RepeatCountingScreen} />
       <Stack.Screen name="Settings" component={SettingsScreen} />
       <Stack.Screen name="ChangeLanguage" component={ChangeLanguageScreen} />
-      <Stack.Screen name="Paywall" component={PaywallScreen} />
+      
     </Stack.Navigator>
   );
 };

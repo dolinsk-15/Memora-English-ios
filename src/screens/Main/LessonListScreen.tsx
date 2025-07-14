@@ -5,15 +5,13 @@ import {
   StyleSheet,
   ScrollView,
   TouchableOpacity,
-  SafeAreaView,
   StatusBar,
   Animated,
   Platform,
   Pressable,
   NativeSyntheticEvent,
   NativeScrollEvent,
-  Alert,
-  Image
+  Image,
 } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { LinearGradient } from 'expo-linear-gradient';
@@ -23,156 +21,116 @@ import { MainStackParamList } from '../../navigation/types';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import SuperwallService from '../../services/SuperwallService';
 import { useTranslation } from '../../localization';
-
-type LessonsNavigationProp = NativeStackNavigationProp<MainStackParamList, 'LessonList'>;
-
-interface LessonData {
-  id: number;
-  title: string;
-  progress: number;
-  unlocked: boolean;
-  isCompleted: boolean;
-}
+import { SafeAreaView } from 'react-native-safe-area-context';
+import { usePremium } from '../../contexts/PremiumContext';
+import LoadingIndicator from '../../components/LoadingIndicator';
 
 const LessonListScreen = () => {
-  const navigation = useNavigation<LessonsNavigationProp>();
+  const navigation = useNavigation<NativeStackNavigationProp<MainStackParamList, 'LessonList'>>();
   const { t, language } = useTranslation();
+  const { isPro, setPro, isLoading } = usePremium();
   const [selectedId, setSelectedId] = useState<number | null>(null);
   const [pressedId, setPressedId] = useState<number | null>(null);
-  
-  // Начальные данные для уроков (первый урок всегда разблокирован)
-  const [lessons, setLessons] = useState<LessonData[]>(
-    Array.from({ length: 18 }, (_, i) => ({
-      id: i + 1,
-      title: `${t('lessons.lessonTitle')} ${i + 1}`,
-      progress: 0,
-      unlocked: i === 0, // только первый урок разблокирован изначально
-      isCompleted: false // Добавляем дефолтное значение
-    }))
-  );
-  
-  const [isPurchased, setIsPurchased] = useState(false);
   const scrollY = useRef(new Animated.Value(0)).current;
 
-  // Загрузка данных прогресса и статуса покупки
+  // Состояние уроков (с прогрессом)
+  const [lessons, setLessons] = useState<any[]>([]);
+
+  // Helper для глубокого сравнения массивов уроков (по ключевым полям)
+  const lessonsEqual = (a: any[], b: any[]) => {
+    if (a.length !== b.length) return false;
+    for (let i = 0; i < a.length; i++) {
+      const la = a[i];
+      const lb = b[i];
+      if (la.id !== lb.id || la.progress !== lb.progress || la.unlocked !== lb.unlocked || la.isCompleted !== lb.isCompleted) {
+        return false;
+      }
+    }
+    return true;
+  };
+
+  // Загружаем уроки и прогресс
   useEffect(() => {
+    if (isLoading) return; // Ждём определения статуса подписки
+
     const loadData = async () => {
       try {
-        // Проверяем, совершена ли покупка
-        const purchased = await SuperwallService.isPurchased();
-        setIsPurchased(purchased);
-        
-        // Загружаем прогресс уроков с переводом названий
-        const updatedLessons = Array.from({ length: 18 }, (_, i) => ({
+        const newLessons = Array.from({ length: 18 }, (_, i) => ({
           id: i + 1,
           title: `${t('lessons.lessonTitle')} ${i + 1}`,
           progress: 0,
-          unlocked: i === 0, // только первый урок разблокирован изначально
-          isCompleted: false // Добавляем дефолтное значение
+          unlocked: i === 0 || isPro,
+          isCompleted: false,
         }));
-        
-        // Первый урок всегда разблокирован
-        updatedLessons[0].unlocked = true;
-        
-        // ИЗМЕНЕНИЕ: Если доступ куплен, то разблокируем ВСЕ уроки
-        if (purchased) {
-          for (let i = 0; i < updatedLessons.length; i++) {
-            updatedLessons[i].unlocked = true;
-          }
-        }
-        
-        // Загружаем прогресс для каждого урока и статус завершения
-        for (let i = 0; i < updatedLessons.length; i++) {
+
+        for (let i = 0; i < newLessons.length; i++) {
           const lessonId = i + 1;
           const savedProgress = await AsyncStorage.getItem(`lessonProgress_${lessonId}`);
           const isCompleted = await AsyncStorage.getItem(`lesson_${lessonId}_completed`);
-          
+
           if (savedProgress) {
             const progress = parseInt(savedProgress, 10);
-            if (!isNaN(progress) && progress >= 0 && progress <= 100) {
-              updatedLessons[i].progress = progress;
-              
-              // Если урок имеет флаг "завершен" (вне зависимости от процента),
-              // отмечаем его как завершенный визуально
-              if (isCompleted === 'true') {
-                updatedLessons[i].isCompleted = true;
-              }
-            }
+            if (!isNaN(progress)) newLessons[i].progress = progress;
           }
+          if (isCompleted === 'true') newLessons[i].isCompleted = true;
+          if (isPro) newLessons[i].unlocked = true;
         }
-        
-        // Обновление заголовков уроков при смене языка
-        const updatedLessonsWithTitles = [...updatedLessons];
-        for (let i = 0; i < updatedLessonsWithTitles.length; i++) {
-          updatedLessonsWithTitles[i].title = `${t('lessons.lessonTitle')} ${i + 1}`;
+
+        if (!lessonsEqual(lessons, newLessons)) {
+          setLessons(newLessons);
         }
-        
-        setLessons(updatedLessonsWithTitles);
-      } catch (error) {
-        console.error('Error loading lessons data:', error);
+      } catch (err) {
+        console.error('LessonListScreen loadData error:', err);
       }
     };
-    
+
     loadData();
-    
-    // Обновление при возвращении на экран
     const unsubscribe = navigation.addListener('focus', loadData);
     return () => unsubscribe();
-  }, [navigation, t, language]);
+  }, [navigation, t, language, isPro, isLoading]);
 
-  // Обработчик нажатия на урок
   const handleLessonPress = async (lessonId: number) => {
     try {
       const lesson = lessons.find(l => l.id === lessonId);
-      
       if (!lesson) return;
-      
-      if (!lesson.unlocked) {
-        // Если урок заблокирован, сразу переходим на экран оплаты
-        // без показа промежуточного диалогового окна
-        navigation.navigate('Paywall');
+  
+      // Если нет подписки и это не первый урок — показываем Paywall
+      if (!isPro && lessonId > 1) {
+        await SuperwallService.showPaywall('campaign_trigger');
         return;
       }
-      
-      // Проверка, если это первый урок и он завершен, и пользователь не купил доступ
-      if (lessonId === 1 && lessons[0].progress === 100 && !isPurchased) {
-        // Показываем экран оплаты после завершения первого урока
-        navigation.navigate('Paywall');
-        return;
-      }
-      
-      // Если урок разблокирован, переходим к нему
+  
       navigation.navigate('LessonDetail', { lessonId });
     } catch (error) {
-      console.error('Error handling lesson press:', error);
+      console.error('LessonListScreen: Error handling lesson press:', error);
     }
   };
+  
 
-  const renderProgressBar = (progress: number) => {
-    return (
-      <View style={styles.progressBarContainer}>
-        <LinearGradient
-          colors={['#3B82F6', '#06B6D4']}
-          start={{ x: 0, y: 0 }}
-          end={{ x: 1, y: 0 }}
-          style={[styles.progressBar, { width: `${progress}%` }]}
-        />
-      </View>
-    );
-  };
+  const renderProgressBar = (progress: number) => (
+    <View style={styles.progressBarContainer}>
+      <LinearGradient
+        colors={['#3B82F6', '#06B6D4']}
+        start={{ x: 0, y: 0 }}
+        end={{ x: 1, y: 0 }}
+        style={[styles.progressBar, { width: `${progress}%` }]}
+      />
+    </View>
+  );
 
   const headerOpacity = scrollY.interpolate({
     inputRange: [0, 100],
     outputRange: [0, 1],
     extrapolate: 'clamp',
   });
-  
+
   const handleScroll = (event: NativeSyntheticEvent<NativeScrollEvent>) => {
     const offsetY = event.nativeEvent.contentOffset.y;
     scrollY.setValue(offsetY);
   };
 
   return (
+    <LoadingIndicator isLoading={isLoading}>
     <LinearGradient
       colors={['#581C87', '#111827', '#1F2937']}
       style={styles.container}
@@ -180,28 +138,25 @@ const LessonListScreen = () => {
       end={{ x: 1, y: 1 }}
     >
       <StatusBar barStyle="light-content" />
-      <SafeAreaView style={styles.safeArea}>
-        {/* Header Background */}
+      <SafeAreaView style={styles.safeArea} edges={["top", "left", "right", "bottom"]}>
         <Animated.View style={[styles.headerBackground, { opacity: headerOpacity }]} />
-        
-        {/* Header */}
         <View style={styles.navigationHeader}>
           <View style={styles.leftSideContainer}>
-            <Image 
-              source={require('../../../my-app-new/assets/IMAGE 2025-05-09 01:31:20.jpg')} 
-              style={styles.logoImage} 
+            <Image
+              source={require('../../../my-app-new/assets/icon.png')}
+              style={styles.logoImage}
             />
             <Text style={styles.brandName}>Memora</Text>
           </View>
-          
+
           <View style={styles.headerTitleContainer}>
             <Text style={styles.headerTitle}>
               {t('lessons.lessonsTitle')}
             </Text>
           </View>
-          
+
           <View style={styles.rightSideContainer}>
-            <TouchableOpacity 
+            <TouchableOpacity
               style={styles.settingsButton}
               onPress={() => navigation.navigate('Settings')}
             >
@@ -210,40 +165,80 @@ const LessonListScreen = () => {
           </View>
         </View>
 
-        <ScrollView 
+        <ScrollView
           style={styles.scrollView}
           showsVerticalScrollIndicator={false}
           onScroll={handleScroll}
           scrollEventThrottle={16}
         >
           <View style={styles.contentContainer}>
-            {/* Информация о прогрессе */}
-            {isPurchased && (
-              <View style={styles.purchasedBadge}>
-                <Ionicons name="checkmark-circle" size={20} color="#10B981" />
-                <Text style={styles.purchasedText}>
-                  {t('paywall.purchased')}
-                </Text>
-              </View>
-            )}
-            
             <View style={styles.lessonsList}>
               {lessons.map((lesson) => {
                 const isSelected = selectedId === lesson.id;
                 const isPressed = pressedId === lesson.id;
                 const isUnlocked = lesson.unlocked;
-                const isCompleted = lesson.progress === 100;
+                const isCompleted = lesson.progress === 100 || lesson.isCompleted;
+
+                if (Platform.OS === 'android') {
+                  const gradientColors: [string, string] = isUnlocked
+                    ? ['#3B82F6', '#1F2937']
+                    : ['#1F2937', '#374151'];
+                  return (
+                    <View
+                      key={lesson.id}
+                      style={[
+                        styles.lessonCardAndroidShadow,
+                        isUnlocked ? styles.unlockedCardAndroid : styles.lockedCardAndroid,
+                        isSelected && styles.selectedCardAndroid,
+                        isPressed && styles.pressedCardAndroid,
+                        isCompleted && styles.completedCardAndroid,
+                      ]}
+                    >
+                      <Pressable
+                        android_ripple={{ borderless: true, radius: 300 }}
+                        onPress={() => handleLessonPress(lesson.id)}
+                        onPressIn={() => setPressedId(lesson.id)}
+                        onPressOut={() => setPressedId(null)}
+                        style={styles.lessonCardAndroidPressable}
+                      >
+                        <LinearGradient
+                          colors={gradientColors}
+                          start={{ x: 0, y: 0 }}
+                          end={{ x: 1, y: 1 }}
+                          style={styles.lessonCardAndroidInner}
+                        >
+                          <View style={styles.lessonContentAndroid}>
+                            <View style={[styles.lessonNumberAndroid, isCompleted && { backgroundColor: '#10B981' }]}>
+                              <Text style={[styles.numberTextAndroid, isCompleted && { color: 'white' }]}>{lesson.id}</Text>
+                            </View>
+                            <Text style={[styles.lessonTitleAndroid, isCompleted && { color: '#10B981' }]}>
+                              {lesson.title}
+                              {isCompleted && ' ✓'}
+                            </Text>
+                            <View style={styles.progressSectionAndroid}>
+                              <View style={styles.progressBarContainerAndroid}>
+                                <View style={[styles.progressBarAndroid, { width: `${lesson.progress}%`, backgroundColor: isCompleted ? '#10B981' : '#3B82F6' }]} />
+                              </View>
+                              <Text style={[styles.progressTextAndroid, isCompleted && { color: '#10B981' }]}>{lesson.progress}%</Text>
+                            </View>
+                          </View>
+                        </LinearGradient>
+                      </Pressable>
+                    </View>
+                  );
+                }
 
                 return (
-                  <Pressable
+                  <TouchableOpacity
                     key={lesson.id}
                     style={[
                       styles.lessonCard,
                       isUnlocked ? styles.unlockedCard : styles.lockedCard,
                       isSelected && styles.selectedCard,
                       isPressed && styles.pressedCard,
-                      (isCompleted || lesson.isCompleted) && styles.completedCard,
+                      isCompleted && styles.completedCard,
                     ]}
+                    activeOpacity={0.8}
                     onPress={() => handleLessonPress(lesson.id)}
                     onPressIn={() => setPressedId(lesson.id)}
                     onPressOut={() => setPressedId(null)}
@@ -254,7 +249,7 @@ const LessonListScreen = () => {
                           styles.lessonNumber,
                           isUnlocked ? styles.unlockedNumber : styles.lockedNumber,
                           isPressed && styles.pressedNumber,
-                          (isCompleted || lesson.isCompleted) && styles.completedNumber,
+                          isCompleted && styles.completedNumber,
                         ]}>
                           {isUnlocked ? (
                             <Text style={styles.numberText}>{lesson.id}</Text>
@@ -266,13 +261,13 @@ const LessonListScreen = () => {
                           styles.lessonTitle,
                           !isUnlocked && styles.lockedText,
                           isPressed && styles.pressedText,
-                          (isCompleted || lesson.isCompleted) && styles.completedText,
+                          isCompleted && styles.completedText,
                         ]}>
                           {lesson.title}
-                          {(isCompleted || lesson.isCompleted) && ' ✓'}
+                          {isCompleted && ' ✓'}
                         </Text>
                       </View>
-                      
+
                       <View style={styles.progressSection}>
                         {renderProgressBar(lesson.progress)}
                         <Text style={[
@@ -284,7 +279,7 @@ const LessonListScreen = () => {
                         </Text>
                       </View>
                     </View>
-                  </Pressable>
+                  </TouchableOpacity>
                 );
               })}
             </View>
@@ -292,6 +287,7 @@ const LessonListScreen = () => {
         </ScrollView>
       </SafeAreaView>
     </LinearGradient>
+    </LoadingIndicator>
   );
 };
 
@@ -363,6 +359,7 @@ const styles = StyleSheet.create({
   contentContainer: {
     padding: 20,
     paddingTop: 0,
+    paddingBottom: Platform.OS === 'android' ? 32 : 0,
   },
   purchasedBadge: {
     flexDirection: 'row',
@@ -388,28 +385,24 @@ const styles = StyleSheet.create({
   },
   lessonCard: {
     borderRadius: 20,
-    marginBottom: 12,
+    marginBottom: 14,
     overflow: 'hidden',
     ...Platform.select({
       ios: {
-        shadowColor: '#000',
-        shadowOffset: { width: 0, height: 4 },
-        shadowOpacity: 0.3,
-        shadowRadius: 8,
-      },
-      android: {
-        elevation: 8,
+        // no shadow for iOS
       },
     }),
   },
   unlockedCard: {
     backgroundColor: 'rgba(59, 130, 246, 0.1)',
     borderColor: '#3B82F6',
+    borderWidth: 0,
   },
   lockedCard: {
     backgroundColor: 'rgba(31, 41, 55, 0.8)',
     borderColor: '#374151',
     opacity: 0.5,
+    borderWidth: 0,
   },
   completedCard: {
     backgroundColor: 'rgba(16, 185, 129, 0.1)',
@@ -428,7 +421,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
-    paddingVertical: 8,
+    paddingVertical: 13,
     paddingHorizontal: 16,
   },
   leftSection: {
@@ -438,22 +431,13 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   lessonNumber: {
-    width: 52,
-    height: 52,
-    borderRadius: 26,
+    width: 54,
+    height: 54,
+    borderRadius: 27,
+    backgroundColor: '#2563EB',
     justifyContent: 'center',
     alignItems: 'center',
-    ...Platform.select({
-      ios: {
-        shadowColor: '#000',
-        shadowOffset: { width: 0, height: 2 },
-        shadowOpacity: 0.3,
-        shadowRadius: 4,
-      },
-      android: {
-        elevation: 6,
-      },
-    }),
+    marginRight: 16,
   },
   unlockedNumber: {
     backgroundColor: '#2563EB',
@@ -470,11 +454,11 @@ const styles = StyleSheet.create({
   },
   numberText: {
     color: 'white',
-    fontSize: 22,
+    fontSize: 23,
     fontWeight: 'bold',
   },
   lessonTitle: {
-    fontSize: 17,
+    fontSize: 18,
     fontWeight: '600',
     color: 'white',
     flex: 1,
@@ -492,22 +476,25 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     gap: 8,
-    minWidth: 120,
+    minWidth: 80,
+    marginLeft: 10,
   },
   progressBarContainer: {
-    width: 80,
-    height: 4,
+    width: 82,
+    height: 4.5,
     backgroundColor: '#374151',
-    borderRadius: 2,
+    borderRadius: 2.25,
     overflow: 'hidden',
+    marginRight: 9,
   },
   progressBar: {
     height: '100%',
-    borderRadius: 2,
+    backgroundColor: '#3B82F6',
+    borderRadius: 2.25,
   },
   progressText: {
     color: 'white',
-    fontSize: 14,
+    fontSize: 15,
     fontWeight: '600',
     minWidth: 40,
     textAlign: 'right',
@@ -522,6 +509,90 @@ const styles = StyleSheet.create({
     fontWeight: '700',
     color: '#3B82F6',
     fontSize: 17,
+  },
+  // --- Android styles ---
+  lessonCardAndroidShadow: {
+    borderRadius: 20,
+    marginBottom: 14,
+    elevation: 8,
+  },
+  lessonCardAndroidPressable: {
+    borderRadius: 20,
+    overflow: 'hidden',
+  },
+  lessonCardAndroidInner: {
+    borderRadius: 20,
+    overflow: 'hidden',
+  },
+  lessonContentAndroid: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingVertical: 13,
+    paddingHorizontal: 16,
+  },
+  lessonNumberAndroid: {
+    width: 54,
+    height: 54,
+    borderRadius: 27,
+    backgroundColor: '#2563EB',
+    justifyContent: 'center',
+    alignItems: 'center',
+    marginRight: 16,
+  },
+  numberTextAndroid: {
+    color: 'white',
+    fontSize: 23,
+    fontWeight: 'bold',
+  },
+  lessonTitleAndroid: {
+    fontSize: 18,
+    fontWeight: '600',
+    color: 'white',
+    flex: 1,
+  },
+  progressSectionAndroid: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    minWidth: 80,
+    marginLeft: 10,
+  },
+  progressBarContainerAndroid: {
+    width: 82,
+    height: 4.5,
+    backgroundColor: '#374151',
+    borderRadius: 2.25,
+    overflow: 'hidden',
+    marginRight: 9,
+  },
+  progressBarAndroid: {
+    height: '100%',
+    backgroundColor: '#3B82F6',
+    borderRadius: 2.25,
+  },
+  progressTextAndroid: {
+    color: 'white',
+    fontSize: 15,
+    fontWeight: '600',
+    minWidth: 40,
+    textAlign: 'right',
+  },
+  lockedCardAndroid: {
+    opacity: 0.5,
+  },
+  unlockedCardAndroid: {
+    opacity: 1,
+  },
+  completedCardAndroid: {
+    backgroundColor: 'rgba(16, 185, 129, 0.1)',
+  },
+  selectedCardAndroid: {
+    borderColor: '#ffffff',
+    transform: [{ scale: 1.02 }],
+  },
+  pressedCardAndroid: {
+    borderColor: '#60A5FA',
+    backgroundColor: 'rgba(59, 130, 246, 0.2)',
+    transform: [{ scale: 0.98 }],
   },
 });
 

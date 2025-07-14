@@ -4,7 +4,6 @@ import {
   Text,
   StyleSheet,
   TouchableOpacity,
-  SafeAreaView,
   StatusBar,
   Animated,
   Platform,
@@ -14,7 +13,8 @@ import {
   Alert,
   NativeSyntheticEvent,
   NativeScrollEvent,
-  KeyboardAvoidingView
+  KeyboardAvoidingView,
+  FlatList,
 } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { LinearGradient } from 'expo-linear-gradient';
@@ -25,6 +25,7 @@ import { useTranslation } from '../../localization';
 import RepetitionCountModal from '../../components/RepetitionCountModal';
 import { lessonService } from '../../services/lessonService';
 import { useRoute, RouteProp } from '@react-navigation/native';
+import { SafeAreaView } from 'react-native-safe-area-context';
 
 type Props = NativeStackScreenProps<MainStackParamList, 'Words'>;
 
@@ -44,6 +45,111 @@ interface WordItem {
 // Define the WordsScreenRouteProp type if you need it
 type WordsScreenRouteProp = RouteProp<MainStackParamList, 'Words'>;
 
+// Добавить маппинг языка
+const languageMap = { ru: 'russian', es: 'spanish', fr: 'french', de: 'german' };
+
+// Skeleton component for loading state
+const WordSkeletonCard = () => (
+    <View style={styles.wordCardSkeleton}>
+        <View style={styles.skeletonLeft}>
+            <View style={[styles.skeletonLine, { width: '60%' }]} />
+            <View style={[styles.skeletonLine, { width: '40%', marginTop: 8 }]} />
+        </View>
+        <View style={styles.skeletonRight}>
+            <View style={styles.skeletonProgressBar} />
+            <View style={[styles.skeletonLine, { width: 50, height: 14, marginTop: 8 }]} />
+        </View>
+    </View>
+);
+
+interface WordCardProps {
+  word: WordItem;
+  onPress: (wordId: number) => void;
+  targetRepetitions: number;
+  renderMasteryBar: (mastery: number) => React.ReactNode;
+  t: (key: string) => string;
+  numericLessonId: number;
+}
+
+// Memoized WordCard component for performance
+const WordCard = React.memo<WordCardProps>(({ word, onPress, targetRepetitions, renderMasteryBar, t, numericLessonId }) => {
+  if (Platform.OS === 'android') {
+    return (
+      <TouchableOpacity
+        style={styles.wordCardAndroidShadow}
+        onPress={() => onPress(word.number)}
+        activeOpacity={0.85}
+      >
+        <LinearGradient
+          colors={['#3B82F6', '#1F2937']}
+          start={{ x: 0, y: 0 }}
+          end={{ x: 1, y: 1 }}
+          style={styles.wordCardAndroidInner}
+        >
+          <View style={styles.wordContentAndroid}>
+            <View style={styles.leftSectionAndroid}>
+              <View style={styles.wordRowAndroid}>
+                <Text style={styles.englishWordAndroid}>{word.english}</Text>
+                <Text style={styles.translationWordAndroid}>{word.translation}</Text>
+              </View>
+              {numericLessonId === 1 && word.isIrregularVerb ? (
+                <Text style={styles.exampleTextAndroid}>{t('words.irregularVerb')}</Text>
+              ) : null}
+            </View>
+            <View style={styles.rightSectionAndroid}>
+              <View style={styles.masterySectionAndroid}>
+                {renderMasteryBar(word.mastery || 0)}
+                <Text style={styles.masteryTextAndroid}>
+                  {word.repetitions}/{targetRepetitions}
+                </Text>
+              </View>
+              <Ionicons 
+                name="chevron-forward" 
+                size={20} 
+                color="#D1D5DB" 
+                style={styles.arrowIconAndroid}
+              />
+            </View>
+          </View>
+        </LinearGradient>
+      </TouchableOpacity>
+    );
+  }
+  // iOS: keep as is
+  return (
+  <TouchableOpacity
+    style={styles.wordCard}
+    onPress={() => onPress(word.number)}
+  >
+    <View style={styles.wordContent}>
+      <View style={styles.leftSection}>
+        <View style={styles.wordRow}>
+          <Text style={styles.englishWord}>{word.english}</Text>
+          <Text style={styles.translationWord}>{word.translation}</Text>
+        </View>
+        {numericLessonId === 1 && word.isIrregularVerb ? (
+          <Text style={styles.exampleText}>{t('words.irregularVerb')}</Text>
+        ) : null}
+      </View>
+      <View style={styles.rightSection}>
+        <View style={styles.masterySection}>
+          {renderMasteryBar(word.mastery || 0)}
+          <Text style={styles.masteryText}>
+            {word.repetitions}/{targetRepetitions}
+          </Text>
+        </View>
+        <Ionicons 
+          name="chevron-forward" 
+          size={20} 
+          color="#D1D5DB" 
+          style={styles.arrowIcon}
+        />
+      </View>
+    </View>
+  </TouchableOpacity>
+  );
+});
+
 const WordsScreen: React.FC<Props> = ({ navigation, route }) => {
   const { lessonId, wordListType = 'firstList' } = route.params;
   const scrollY = useRef(new Animated.Value(0)).current;
@@ -54,6 +160,7 @@ const WordsScreen: React.FC<Props> = ({ navigation, route }) => {
   const [customRepetitions, setCustomRepetitions] = useState<string>('');
   const [isCustomSelected, setIsCustomSelected] = useState<boolean>(false);
   const { t, language } = useTranslation();
+  const mappedLanguage = languageMap[language] || 'english';
 
   // Use the existing route params directly:
   const numericLessonId = parseInt(lessonId.toString(), 10);
@@ -101,7 +208,7 @@ const WordsScreen: React.FC<Props> = ({ navigation, route }) => {
           const formattedWords = filteredWords.map((word: any) => {
             console.log('Formatting word:', word);
             // Get translation based on selected language
-            const translation = word[currentLanguage.toLowerCase()] || word.russian;
+            const translation = word[mappedLanguage] || word.english;
             
             // Only show "неправильный глагол" label for lesson 1
             const showIrregularVerbLabel = numericLessonId === 1 && word.listSource === 'secondList';
@@ -402,16 +509,47 @@ const WordsScreen: React.FC<Props> = ({ navigation, route }) => {
     saveTargetRepetitions(value);
   };
 
-  // Отображение загрузки
+  // Отображение загрузки со скелетоном
   if (loading) {
     return (
       <LinearGradient
         colors={['#581C87', '#111827', '#1F2937']}
-        style={[styles.container, styles.loadingContainer]}
+        style={styles.container}
         start={{ x: 0, y: 0 }}
         end={{ x: 1, y: 1 }}
       >
-        <Text style={styles.loadingText}>Loading words...</Text>
+        <SafeAreaView style={styles.safeArea} edges={["top", "left", "right", "bottom"]}>
+          {/* Header Background */}
+          <Animated.View style={[styles.headerBackground, { opacity: headerOpacity }]} />
+          
+          {/* Header */}
+          <View style={styles.navigationHeader}>
+            <TouchableOpacity style={styles.backButton} onPress={() => navigation.goBack()}>
+              <Ionicons name="chevron-back" size={28} color="#fff" />
+            </TouchableOpacity>
+            <View style={styles.headerTitleContainer}>
+              <Text style={styles.headerTitle}>{`${t('lessons.words')}`}</Text>
+            </View>
+            <TouchableOpacity style={styles.settingsButton} onPress={() => setShowRepetitionModal(true)}>
+              <Ionicons name="repeat" size={24} color="#D1D5DB" />
+            </TouchableOpacity>
+          </View>
+
+          <ScrollView
+            style={styles.scrollView}
+            showsVerticalScrollIndicator={false}
+          >
+            <View style={styles.contentContainer}>
+              <View style={styles.repetitionInfo}>
+                <Text style={styles.repetitionText}>
+                  {t('words.pressTheButton')} <Ionicons name="repeat" size={18} color="#D1D5DB" />
+                </Text>
+              </View>
+              {/* Skeleton Cards */}
+              {Array.from({ length: 8 }).map((_, index) => <WordSkeletonCard key={index} />)}
+            </View>
+          </ScrollView>
+        </SafeAreaView>
       </LinearGradient>
     );
   }
@@ -427,7 +565,7 @@ const WordsScreen: React.FC<Props> = ({ navigation, route }) => {
     }
     // If we're on the irregular verbs screen of lesson 1
     else if (numericLessonId === 1 && wordListType === 'secondList') {
-      return getIrregularVerbsTranslation(language) + (wordsData.length > 0 ? ` (${wordsData.length})` : '');
+      return t('words.irregularVerbsSection') + (wordsData.length > 0 ? ` (${wordsData.length})` : '');
     }
     // Otherwise it's regular words
     else {
@@ -450,21 +588,6 @@ const WordsScreen: React.FC<Props> = ({ navigation, route }) => {
     }
   };
 
-  const getIrregularVerbsTranslation = (language: string): string => {
-    switch (language) {
-      case 'russian':
-        return 'Неправильные глаголы';
-      case 'spanish':
-        return 'Verbos Irregulares';
-      case 'french':
-        return 'Verbes Irréguliers';
-      case 'german':
-        return 'Unregelmäßige Verben';
-      default:
-        return 'Irregular Verbs';
-    }
-  };
-
   const getPastParticipleTranslation = (language: string): string => {
     switch (language) {
       case 'russian':
@@ -480,21 +603,6 @@ const WordsScreen: React.FC<Props> = ({ navigation, route }) => {
     }
   };
 
-  const getRepeatButtonHintText = (lang?: string): string => {
-    switch (lang) {
-      case 'russian':
-        return "Нажмите кнопку";
-      case 'spanish':
-        return "Presiona el botón";
-      case 'french':
-        return "Appuyez sur le bouton";
-      case 'german':
-        return "Drücken Sie die Taste";
-      default:
-        return "Press the button";
-    }
-  };
-
   return (
     <LinearGradient
       colors={['#581C87', '#111827', '#1F2937']}
@@ -503,7 +611,7 @@ const WordsScreen: React.FC<Props> = ({ navigation, route }) => {
       end={{ x: 1, y: 1 }}
     >
       <StatusBar barStyle="light-content" />
-      <SafeAreaView style={styles.safeArea}>
+      <SafeAreaView style={styles.safeArea} edges={["top", "left", "right", "bottom"]}>
         {/* Header Background */}
         <Animated.View style={[styles.headerBackground, { opacity: headerOpacity }]} />
         
@@ -528,63 +636,37 @@ const WordsScreen: React.FC<Props> = ({ navigation, route }) => {
           </TouchableOpacity>
         </View>
 
-        <ScrollView 
+        <FlatList
+          data={wordsData}
           style={styles.scrollView}
+          contentContainerStyle={styles.contentContainer}
           showsVerticalScrollIndicator={false}
           onScroll={handleScroll}
           scrollEventThrottle={16}
-        >
-          <View style={styles.contentContainer}>
+          keyExtractor={(item) => item.number.toString()}
+          ListHeaderComponent={
             <View style={styles.repetitionInfo}>
               <Text style={styles.repetitionText}>
-                {getRepeatButtonHintText(language)} <Ionicons name="repeat" size={18} color="#D1D5DB" />
+                {t('words.pressTheButton')} <Ionicons name="repeat" size={18} color="#D1D5DB" />
               </Text>
             </View>
-            
-            {wordsData.length === 0 ? (
-              <View style={styles.noWordsContainer}>
-                <Text style={styles.noWordsText}>No words available for this lesson</Text>
-              </View>
-            ) : (
-              <View style={styles.wordsList}>
-                {wordsData.map((word) => (
-                  <TouchableOpacity
-                    key={word.number}
-                    style={styles.wordCard}
-                    onPress={() => handleWordPress(word.number)}
-                  >
-                    <View style={styles.wordContent}>
-                      <View style={styles.leftSection}>
-                        <View style={styles.wordRow}>
-                          <Text style={styles.englishWord}>{word.english}</Text>
-                          <Text style={styles.translationWord}>{word.translation}</Text>
-                        </View>
-                        {/* Only show "неправильный глагол" for lesson 1 */}
-                        {numericLessonId === 1 && word.isIrregularVerb ? (
-                          <Text style={styles.exampleText}>{t('words.irregularVerb')}</Text>
-                        ) : null}
-                      </View>
-                      <View style={styles.rightSection}>
-                        <View style={styles.masterySection}>
-                          {renderMasteryBar(word.mastery || 0)}
-                          <Text style={styles.masteryText}>
-                            {word.repetitions}/{targetRepetitions}
-                          </Text>
-                        </View>
-                        <Ionicons 
-                          name="chevron-forward" 
-                          size={20} 
-                          color="#D1D5DB" 
-                          style={styles.arrowIcon}
-                        />
-                      </View>
-                    </View>
-                  </TouchableOpacity>
-                ))}
-              </View>
-            )}
-          </View>
-        </ScrollView>
+          }
+          renderItem={({ item }) => (
+            <WordCard
+              word={item}
+              onPress={handleWordPress}
+              targetRepetitions={targetRepetitions}
+              renderMasteryBar={renderMasteryBar}
+              t={t}
+              numericLessonId={numericLessonId}
+            />
+          )}
+          ListEmptyComponent={
+            <View style={styles.noWordsContainer}>
+              <Text style={styles.noWordsText}>No words available for this lesson</Text>
+            </View>
+          }
+        />
         <RepetitionCountModal
           visible={showRepetitionModal}
           onClose={() => setShowRepetitionModal(false)}
@@ -894,6 +976,90 @@ const styles = StyleSheet.create({
     fontSize: 14,
     color: '#9CA3AF',
     fontStyle: 'italic',
+  },
+  // --- Android styles for word cards ---
+  wordCardAndroidShadow: {
+    borderRadius: 20,
+    marginBottom: 12,
+    elevation: 8,
+  },
+  wordCardAndroidInner: {
+    borderRadius: 20,
+    overflow: 'hidden',
+  },
+  wordContentAndroid: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    gap: 12,
+    padding: 16,
+  },
+  leftSectionAndroid: {
+    gap: 8,
+    flex: 1,
+  },
+  rightSectionAndroid: {
+    alignItems: 'flex-end',
+    gap: 8,
+  },
+  wordRowAndroid: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 12,
+  },
+  englishWordAndroid: {
+    fontSize: 18,
+    fontWeight: '600',
+    color: 'white',
+  },
+  translationWordAndroid: {
+    fontSize: 16,
+    color: '#D1D5DB',
+  },
+  exampleTextAndroid: {
+    fontSize: 14,
+    color: '#9CA3AF',
+    fontStyle: 'italic',
+  },
+  masterySectionAndroid: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 8,
+  },
+  masteryTextAndroid: {
+    color: 'white',
+    fontSize: 14,
+    fontWeight: '600',
+    minWidth: 45,
+    textAlign: 'right',
+  },
+  arrowIconAndroid: {
+    marginTop: 8,
+  },
+  wordCardSkeleton: {
+    backgroundColor: 'rgba(59, 130, 246, 0.1)',
+    borderRadius: 20,
+    padding: 16,
+    marginBottom: 12,
+    flexDirection: 'row',
+    alignItems: 'center',
+  },
+  skeletonLeft: {
+    flex: 1,
+  },
+  skeletonRight: {
+      alignItems: 'flex-end',
+  },
+  skeletonLine: {
+    backgroundColor: 'rgba(255, 255, 255, 0.1)',
+    height: 18,
+    borderRadius: 4,
+  },
+  skeletonProgressBar: {
+    width: 80,
+    height: 4,
+    backgroundColor: 'rgba(255, 255, 255, 0.1)',
+    borderRadius: 2,
   },
 });
 

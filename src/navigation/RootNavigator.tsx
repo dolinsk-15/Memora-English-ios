@@ -8,7 +8,7 @@ import { ActivityIndicator, View } from 'react-native';
 import MainNavigator from './MainNavigator';
 import AuthNavigator from './AuthNavigator';
 import { LocalizationProvider, useLocalization } from '../contexts/LocalizationContext';
-import SuperwallService from '../services/SuperwallService';
+// import SuperwallService from '../services/SuperwallService';
 import { RootNavigationProvider } from '../contexts/RootNavigationContext';
 
 const Stack = createNativeStackNavigator<RootStackParamList>();
@@ -67,7 +67,7 @@ const RootNavigationStack = () => {
 };
 
 // Основной компонент-навигатор, который предоставляет контекст локализации
-const RootNavigator = () => {
+const RootNavigator = ({ onReady }: { onReady?: () => void }) => {
   const navigationRef = useRef<NavigationContainerRef<RootStackParamList>>(null);
   const [isNavigationReady, setIsNavigationReady] = useState(false);
 
@@ -75,6 +75,10 @@ const RootNavigator = () => {
   const onNavigationReady = () => {
     setIsNavigationReady(true);
     console.log('Navigation is ready');
+    // Вызываем callback, если он передан
+    if (onReady) {
+      onReady();
+    }
   };
 
   return (

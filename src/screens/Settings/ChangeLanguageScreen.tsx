@@ -4,10 +4,10 @@ import {
   Text,
   StyleSheet,
   TouchableOpacity,
-  SafeAreaView,
   StatusBar,
   ScrollView,
-  Alert
+  Alert,
+  Platform
 } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { LinearGradient } from 'expo-linear-gradient';
@@ -17,6 +17,7 @@ import { MainStackParamList } from '../../navigation/types';
 import { languageOptions, useLocalization } from '../../contexts/LocalizationContext';
 import { useTranslation } from '../../localization';
 import { CommonActions } from '@react-navigation/native';
+import { SafeAreaView } from 'react-native-safe-area-context';
 
 type ChangeLanguageScreenNavigationProp = NativeStackNavigationProp<MainStackParamList, 'ChangeLanguage'>;
 
@@ -85,7 +86,7 @@ const ChangeLanguageScreen: React.FC = () => {
       end={{ x: 1, y: 1 }}
     >
       <StatusBar barStyle="light-content" />
-      <SafeAreaView style={styles.safeArea}>
+      <SafeAreaView style={styles.safeArea} edges={["top", "left", "right", "bottom"]}>
         <View style={styles.navigationHeader}>
           <TouchableOpacity
             style={styles.backButton}
@@ -119,6 +120,64 @@ const ChangeLanguageScreen: React.FC = () => {
                 const isPressed = pressedId === language.id;
                 const isCurrent = currentLanguage === language.id;
 
+                if (Platform.OS === 'android') {
+                  return (
+                    <LinearGradient
+                      key={language.id}
+                      colors={['#3B82F6', '#1F2937']}
+                      start={{ x: 0, y: 0 }}
+                      end={{ x: 1, y: 1 }}
+                      style={[
+                        styles.languageCardAndroid,
+                        isSelected && styles.selectedCard,
+                        isPressed && styles.pressedCard,
+                        isCurrent && styles.currentCard,
+                      ]}
+                    >
+                      <TouchableOpacity
+                        style={{ flex: 1 }}
+                        onPress={() => handleLanguageSelect(language.id)}
+                        onPressIn={() => setPressedId(language.id)}
+                        onPressOut={() => setPressedId(null)}
+                        activeOpacity={0.85}
+                      >
+                        <View style={styles.languageContent}>
+                          <View style={styles.leftSection}>
+                            <View style={[
+                              styles.languageIcon,
+                              isPressed && styles.pressedIcon,
+                              isCurrent && styles.currentIcon,
+                            ]}>
+                              <Text style={styles.iconText}>
+                                {language.name.charAt(0)}
+                              </Text>
+                            </View>
+                            <View style={styles.languageNames}>
+                              <Text style={[
+                                styles.languageName,
+                                isPressed && styles.pressedText
+                              ]}>
+                                {language.name}
+                              </Text>
+                              <Text style={[
+                                styles.nativeName,
+                                isPressed && styles.pressedText
+                              ]}>
+                                {language.nativeName}
+                              </Text>
+                            </View>
+                          </View>
+                          {isCurrent && (
+                            <View style={styles.checkmark}>
+                              <Ionicons name="checkmark-circle" size={24} color="#3B82F6" />
+                            </View>
+                          )}
+                        </View>
+                      </TouchableOpacity>
+                    </LinearGradient>
+                  );
+                }
+                // iOS: keep as is
                 return (
                   <TouchableOpacity
                     key={language.id}
@@ -246,6 +305,17 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     marginBottom: 12,
     overflow: 'hidden',
+    ...Platform.select({
+      ios: {
+        shadowColor: '#000',
+        shadowOffset: { width: 0, height: 4 },
+        shadowOpacity: 0.3,
+        shadowRadius: 8,
+      },
+      android: {
+        elevation: 8,
+      },
+    }),
   },
   selectedCard: {
     borderColor: '#ffffff',
@@ -311,6 +381,12 @@ const styles = StyleSheet.create({
   },
   checkmark: {
     marginLeft: 16,
+  },
+  languageCardAndroid: {
+    borderRadius: 20,
+    marginBottom: 12,
+    elevation: 8,
+    overflow: 'hidden',
   },
 });
 

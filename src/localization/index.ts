@@ -15,16 +15,16 @@ interface TranslationType {
 const DEBUG_TRANSLATIONS = false;
 
 const translations = {
-  russian,
-  spanish,
-  french,
-  german
+  ru: russian,
+  es: spanish,
+  fr: french,
+  de: german
 };
 
 export const getTranslation = (language: SupportedLanguage) => {
   if (!translations[language]) {
-    console.warn(`Missing translations for language: ${language}, falling back to russian`);
-    return translations.russian;
+    console.warn(`Missing translations for language: ${language}, falling back to ru`);
+    return translations.ru;
   }
   return translations[language];
 };

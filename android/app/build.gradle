@@ -87,9 +87,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace 'com.thenizhlo.myapp'
+    namespace 'com.anonymous.myapp'
     defaultConfig {
-        applicationId 'com.thenizhlo.myapp'
+        applicationId 'com.anonymous.myapp'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

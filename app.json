@@ -1,34 +1,64 @@
 {
   "expo": {
+    "name": "Memora English",
+    "slug": "my-app-new",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./my-app-new/assets/icon.png",
+    "userInterfaceStyle": "light",
     "newArchEnabled": true,
+    "splash": {
+      "image": "./my-app-new/assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#111827"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.memora.myapp",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false,
+        "CFBundleLocalizations": ["en", "fr", "ru", "es"],
+        "CFBundleDevelopmentRegion": "Base"
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./my-app-new/assets/adaptive-icon.png",
+        "backgroundColor": "#5c39c9"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.anonymous.myapp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
     "plugins": [
       "expo-localization",
       [
         "expo-build-properties",
         {
           "android": {
-            "minSdkVersion": 26
+            "minSdkVersion": 26,
+            "supportsScreens": {
+              "small": true,
+              "normal": true,
+              "large": false,
+              "xlarge": false
+            }
+          },
+          "ios": {
+            "infoPlist": {
+              "CFBundleLocalizations": ["en", "fr", "ru", "es"],
+              "CFBundleDevelopmentRegion": "Base"
+            }
           }
         }
       ]
     ],
     "extra": {
       "eas": {
-        "projectId": "ff27cb80-aad7-4fbf-b727-6f664f034234"
+        "projectId": "07af34ec-68d4-4d38-a621-0946726a8191"
       }
-    },
-    "owner": "thenizhlo",
-    "ios": {
-      "bundleIdentifier": "com.thenizhlo.my-app"
-    },
-    "android": {
-      "package": "com.thenizhlo.myapp"
     }
-  },
-  "ios": {
-    "bundleIdentifier": "com.anonymous.my-app"
-  },
-  "android": {
-    "package": "com.anonymous.myapp"
   }
 }

@@ -5,7 +5,6 @@ import {
   StyleSheet, 
   TouchableOpacity, 
   ScrollView, 
-  SafeAreaView,
   StatusBar,
   Animated,
   Platform,
@@ -20,12 +19,14 @@ import { Ionicons, AntDesign } from '@expo/vector-icons';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { useTranslation } from '../../localization';
 import { useLocalization } from '../../contexts/LocalizationContext';
+import { SafeAreaView } from 'react-native-safe-area-context';
+import SuperwallService from '../../services/SuperwallService';
 
 type SettingsScreenNavigationProp = NativeStackNavigationProp<MainStackParamList, 'Settings'>;
 
 // URL для Privacy Policy и Terms of Service
-const PRIVACY_POLICY_URL = 'https://www.example.com/privacy-policy';
-const TERMS_OF_SERVICE_URL = 'https://www.example.com/terms-of-service';
+const PRIVACY_POLICY_URL = 'https://memoraprivacypolicy.carrd.co/';
+const TERMS_OF_SERVICE_URL = 'https://www.apple.com/legal/internet-services/itunes/dev/stdeula/';
 const APP_STORE_URL = Platform.OS === 'ios' 
   ? 'https://apps.apple.com/app/id[ВАШЕ_APP_ID]' 
   : 'market://details?id=[ВАШЕ_PACKAGE_NAME]';
@@ -138,7 +139,7 @@ const SettingsScreen = () => {
       end={{ x: 1, y: 1 }}
     >
       <StatusBar barStyle="light-content" />
-      <SafeAreaView style={styles.safeArea}>
+      <SafeAreaView style={styles.safeArea} edges={["top", "left", "right", "bottom"]}>
         {/* Header Background */}
         <Animated.View style={[styles.headerBackground, { opacity: headerOpacity }]} />
         
@@ -165,10 +166,60 @@ const SettingsScreen = () => {
           }}
           scrollEventThrottle={16}
         >
-          <TouchableOpacity 
-            style={styles.button}
-            onPress={handleChangeLanguage}
-          >
+          {Platform.OS === 'android' ? (
+            <>
+              <LinearGradient
+                colors={['#3B82F6', '#1F2937']}
+                start={{ x: 0, y: 0 }}
+                end={{ x: 1, y: 1 }}
+                style={styles.settingsCardAndroid}
+              >
+                <TouchableOpacity style={{ flex: 1 }} onPress={handleChangeLanguage} activeOpacity={0.85}>
+                  <View style={styles.cardContentAndroid}>
+                    <View style={styles.iconCircleAndroid}><Ionicons name="language" size={24} color="#fff" /></View>
+                    <Text style={styles.cardTextAndroid}>{t('settings.changeLanguage')}</Text>
+                    <Ionicons name="chevron-forward" size={22} color="#D1D5DB" />
+                  </View>
+                </TouchableOpacity>
+              </LinearGradient>
+
+              <LinearGradient colors={['#3B82F6', '#1F2937']} start={{ x: 0, y: 0 }} end={{ x: 1, y: 1 }} style={styles.settingsCardAndroid}>
+                <TouchableOpacity style={{ flex: 1 }} onPress={() => handleOpenURL(PRIVACY_POLICY_URL)} activeOpacity={0.85}>
+                  <View style={styles.cardContentAndroid}>
+                    <View style={styles.iconCircleAndroid}><Ionicons name="shield-checkmark-outline" size={24} color="#fff" /></View>
+                    <Text style={styles.cardTextAndroid}>{t('settings.privacyPolicy')}</Text>
+                    <Ionicons name="chevron-forward" size={22} color="#D1D5DB" />
+                  </View>
+                </TouchableOpacity>
+              </LinearGradient>
+
+              <LinearGradient
+                colors={['#10B981', '#1F2937']}
+                start={{ x: 0, y: 0 }}
+                end={{ x: 1, y: 1 }}
+                style={styles.settingsCardAndroid}
+              >
+                {/* Restore Purchases button removed */}
+              </LinearGradient>
+
+              <LinearGradient
+                colors={['#EF4444', '#1F2937']}
+                start={{ x: 0, y: 0 }}
+                end={{ x: 1, y: 1 }}
+                style={[styles.settingsCardAndroid, styles.dangerCardAndroid]}
+              >
+                <TouchableOpacity style={{ flex: 1 }} onPress={handleResetProgress} activeOpacity={0.85}>
+                  <View style={styles.cardContentAndroid}>
+                    <View style={[styles.iconCircleAndroid, styles.dangerIconCircleAndroid]}><Ionicons name="refresh-circle" size={24} color="#fff" /></View>
+                    <Text style={[styles.cardTextAndroid, styles.dangerCardTextAndroid]}>{t('settings.resetProgress')}</Text>
+                    <Ionicons name="alert-circle" size={22} color="#fff" />
+                  </View>
+                </TouchableOpacity>
+              </LinearGradient>
+            </>
+          ) : (
+            <>
+              <TouchableOpacity style={styles.button} onPress={handleChangeLanguage}>
             <View style={styles.buttonContent}>
               <Ionicons name="language" size={24} color="#60A5FA" style={styles.buttonIcon} />
               <Text style={styles.buttonText}>{t('settings.changeLanguage')}</Text>
@@ -176,59 +227,33 @@ const SettingsScreen = () => {
             <Ionicons name="chevron-forward" size={20} color="#60A5FA" />
           </TouchableOpacity>
 
-          <TouchableOpacity 
-            style={styles.button}
-            onPress={() => handleOpenURL(PRIVACY_POLICY_URL)}
-          >
-            <View style={styles.buttonContent}>
-              <Ionicons name="shield-checkmark" size={24} color="#60A5FA" style={styles.buttonIcon} />
-              <Text style={styles.buttonText}>{t('settings.privacyPolicy')}</Text>
-            </View>
-            <Ionicons name="open-outline" size={20} color="#60A5FA" />
-          </TouchableOpacity>
+              <TouchableOpacity style={styles.button} onPress={() => handleOpenURL(PRIVACY_POLICY_URL)}>
+                <View style={styles.buttonContent}>
+                  <Ionicons name="shield-checkmark-outline" size={24} color="#60A5FA" style={styles.buttonIcon} />
+                  <Text style={styles.buttonText}>{t('settings.privacyPolicy')}</Text>
+                </View>
+                <Ionicons name="chevron-forward" size={20} color="#60A5FA" />
+              </TouchableOpacity>
+              
+              {Platform.OS === 'ios' && (
+                <TouchableOpacity style={styles.button} onPress={() => handleOpenURL(TERMS_OF_SERVICE_URL)}>
+                  <View style={styles.buttonContent}>
+                    <Ionicons name="document-text-outline" size={24} color="#60A5FA" style={styles.buttonIcon} />
+                    <Text style={styles.buttonText}>{t('settings.termsOfService')}</Text>
+                  </View>
+                  <Ionicons name="chevron-forward" size={20} color="#60A5FA" />
+                </TouchableOpacity>
+              )}
 
-          <TouchableOpacity 
-            style={styles.button}
-            onPress={() => handleOpenURL(TERMS_OF_SERVICE_URL)}
-          >
-            <View style={styles.buttonContent}>
-              <Ionicons name="document-text" size={24} color="#60A5FA" style={styles.buttonIcon} />
-              <Text style={styles.buttonText}>{t('settings.termsOfService')}</Text>
-            </View>
-            <Ionicons name="open-outline" size={20} color="#60A5FA" />
-          </TouchableOpacity>
-
-          <TouchableOpacity 
-            style={[styles.button, styles.dangerButton]} 
-            onPress={handleResetProgress}
-          >
+              <TouchableOpacity style={[styles.button, styles.dangerButton]} onPress={handleResetProgress}>
             <View style={styles.buttonContent}>
               <Ionicons name="refresh-circle" size={24} color="#EF4444" style={styles.buttonIcon} />
               <Text style={[styles.buttonText, styles.dangerButtonText]}>{t('settings.resetProgress')}</Text>
             </View>
             <Ionicons name="alert-circle" size={20} color="#EF4444" />
           </TouchableOpacity>
-          
-          {/* Rate App Button */}
-          <View style={styles.rateAppContainer}>
-            <TouchableOpacity 
-              style={styles.rateAppButton} 
-              onPress={handleRateApp}
-            >
-              <LinearGradient
-                colors={['#4ade80', '#22c55e']}
-                style={styles.rateAppGradient}
-                start={{ x: 0, y: 0 }}
-                end={{ x: 1, y: 0 }}
-              >
-                <AntDesign name="heart" size={24} color="#fff" style={styles.rateAppIcon} />
-                <Text style={styles.rateAppText}>{t('settings.rateApp')}</Text>
-              </LinearGradient>
-            </TouchableOpacity>
-            <Text style={styles.rateAppDescription}>
-              {t('settings.rateAppDescription')}
-            </Text>
-          </View>
+            </>
+          )}
         </ScrollView>
       </SafeAreaView>
     </LinearGradient>
@@ -325,50 +350,56 @@ const styles = StyleSheet.create({
   dangerButtonText: {
     color: '#EF4444',
   },
-  rateAppContainer: {
-    marginTop: 40,
-    marginBottom: 30,
-    alignItems: 'center',
-  },
-  rateAppButton: {
-    width: '100%',
-    borderRadius: 30,
+  buttonAndroid: {
+    borderRadius: 16,
+    marginTop: 12,
+    marginBottom: 0,
+    elevation: 8,
     overflow: 'hidden',
-    ...Platform.select({
-      ios: {
-        shadowColor: '#22c55e',
-        shadowOffset: { width: 0, height: 4 },
-        shadowOpacity: 0.4,
-        shadowRadius: 10,
-      },
-      android: {
-        elevation: 8,
-      },
-    }),
   },
-  rateAppGradient: {
+  dangerButtonAndroid: {
+    marginTop: 30,
+    marginBottom: 24,
+  },
+  settingsCardAndroid: {
+    borderRadius: 24,
+    marginTop: 18,
+    marginBottom: 0,
+    elevation: 10,
+    overflow: 'hidden',
+    paddingVertical: 0,
+    paddingHorizontal: 0,
+      },
+  cardContentAndroid: {
     flexDirection: 'row',
     alignItems: 'center',
+    paddingVertical: 22,
+    paddingHorizontal: 20,
+    gap: 18,
+  },
+  iconCircleAndroid: {
+    width: 44,
+    height: 44,
+    borderRadius: 22,
+    backgroundColor: '#2563EB',
     justifyContent: 'center',
-    paddingVertical: 16,
-    paddingHorizontal: 20,
+    alignItems: 'center',
   },
-  rateAppText: {
+  cardTextAndroid: {
+    flex: 1,
     fontSize: 18,
+    color: 'white',
+    fontWeight: '600',
+  },
+  dangerCardAndroid: {
+    marginTop: 28,
+    backgroundColor: 'transparent',
+  },
+  dangerIconCircleAndroid: {
+    backgroundColor: '#EF4444',
+  },
+  dangerCardTextAndroid: {
     color: '#fff',
-    fontWeight: '700',
-    letterSpacing: 0.5,
-  },
-  rateAppIcon: {
-    marginRight: 10,
-  },
-  rateAppDescription: {
-    marginTop: 12,
-    fontSize: 14,
-    color: 'rgba(255, 255, 255, 0.7)',
-    textAlign: 'center',
-    paddingHorizontal: 20,
-    fontStyle: 'italic',
   },
 });
 

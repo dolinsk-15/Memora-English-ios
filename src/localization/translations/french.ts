@@ -107,7 +107,10 @@ export default {
   },
   words: {
     irregularVerb: "verbe irrégulier",
-    irregularVerbsSection: "Verbes irréguliers",
+    irregularVerbsSection: "Verbes Irréguliers",
+    phrasalVerbsSection: "Verbes à Particule",
+    pastParticipleSection: "Participe Passé",
+    pressTheButton: "Appuyez sur le bouton",
     repeatButtonHint: "Appuyez sur le bouton"
   },
   exam: {
@@ -122,7 +125,8 @@ export default {
     completed: "Examen terminé",
     yourScore: "Votre score : {{score}}%",
     successMessage: "Vous avez réussi l'examen.",
-    noSentences: "Aucune phrase disponible pour cette leçon"
+    noSentences: "Aucune phrase disponible pour cette leçon",
+    tryAgain: "Réessayer"
   },
   repeat: {
     words: "Répéter les mots",

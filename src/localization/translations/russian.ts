@@ -149,6 +149,9 @@ export default {
   words: {
     irregularVerb: "неправильный глагол",
     irregularVerbsSection: "Неправильные глаголы",
+    phrasalVerbsSection: "Фразовые глаголы",
+    pastParticipleSection: "Третья форма глагола",
+    pressTheButton: "Нажмите кнопку",
     repeatButtonHint: "Нажмите кнопку"
   },
   exam: {
@@ -163,6 +166,7 @@ export default {
     correctAnswer: "Правильный ответ",
     completed: "Экзамен завершен",
     yourScore: "Ваш результат: {{score}}%",
-    noSentences: "Нет предложений для экзамена"
+    noSentences: "Нет предложений для экзамена",
+    tryAgain: "Попробовать снова"
   }
 }; 

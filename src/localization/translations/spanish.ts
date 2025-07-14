@@ -148,6 +148,9 @@ export default {
   words: {
     irregularVerb: "verbo irregular",
     irregularVerbsSection: "Verbos irregulares",
+    phrasalVerbsSection: "Verbos Frasales",
+    pastParticipleSection: "Participio Pasado",
+    pressTheButton: "Presiona el botón",
     repeatButtonHint: "Presiona el botón"
   },
   exam: {
@@ -162,7 +165,8 @@ export default {
     completed: "Examen completado",
     yourScore: "Tu puntuación: {{score}}%",
     successMessage: "Has aprobado el examen.",
-    noSentences: "No hay frases disponibles para esta lección"
+    noSentences: "No hay frases disponibles para esta lección",
+    tryAgain: "Intentar de nuevo"
   },
   repetitions: {
     nextItem: "Siguiente elemento",

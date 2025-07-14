@@ -5,11 +5,11 @@ import {
   StyleSheet, 
   TouchableOpacity, 
   ScrollView, 
-  SafeAreaView,
   StatusBar,
   Platform,
   Alert
 } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
 import { useNavigation, useRoute, RouteProp } from '@react-navigation/native';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { MainStackParamList } from '../../navigation/types';
@@ -396,13 +396,9 @@ const LessonDetailScreen = () => {
   const activities = [
     { name: 'description', screen: 'Description' as LessonActivityScreen },
     { name: 'words', screen: 'Words' as LessonActivityScreen },
-    // Only show IrregularVerbs for lesson 1
     ...(lessonId === 1 ? [{ name: 'irregularVerbs', screen: 'IrregularVerbs' as LessonActivityScreen }] : []),
-    // Only show PhrasalVerbs for lesson 16
     ...(lessonId === 16 ? [{ name: 'phrasalVerbs', screen: 'PhrasalVerbs' as LessonActivityScreen }] : []),
-    // Only show PastParticiple for lesson 14
     ...(lessonId === 14 ? [{ name: 'pastParticiple', screen: 'PastParticiple' as LessonActivityScreen }] : []),
-    // Don't show Sentences for lesson 18
     ...(lessonId !== 18 ? [{ name: 'sentences', screen: 'Sentences' as LessonActivityScreen }] : []),
     { name: 'exam', screen: 'Exam' as LessonActivityScreen },
   ] as const;
@@ -456,7 +452,7 @@ const LessonDetailScreen = () => {
       end={{ x: 1, y: 1 }}
     >
       <StatusBar barStyle="light-content" />
-      <SafeAreaView style={styles.safeArea}>
+      <SafeAreaView style={styles.safeArea} edges={["top", "left", "right", "bottom"]}>
         <View style={styles.navigationHeader}>
           <TouchableOpacity
             style={styles.backButton}
@@ -507,57 +503,94 @@ const LessonDetailScreen = () => {
               <Text style={styles.completedText}>
                 {t('lessons.lessonCompleted', { lessonId })}
               </Text>
-              
-              {/* Не показываем кнопку перехода к следующему уроку, если это последний урок */}
-              {lessonId < 18 && (
-                <TouchableOpacity
-                  style={styles.nextLessonButton}
-                  onPress={handleNextLesson}
-                >
-                  <Text style={styles.nextLessonButtonText}>
-                    {t('lessons.goToNextLesson', { lessonId: lessonId + 1 })} →
-                  </Text>
-                </TouchableOpacity>
-              )}
             </View>
           )}
           
           <Text style={styles.subtitle}>{t('lessons.chooseActivity')}:</Text>
           
-          {activities.map((activity) => (
-            <TouchableOpacity
-              key={activity.screen}
-              style={styles.activityButton}
-              onPress={() => navigateToLessonActivity(activity.screen, lessonId)}
-            >
-              <Text style={styles.activityButtonText}>
-                {activity.name === 'exam' 
-                  ? t('lessons.exam') 
-                  : activity.name === 'irregularVerbs'
-                    ? getIrregularVerbsTranslation(language)
-                    : activity.name === 'phrasalVerbs'
-                      ? getPhrasalVerbsTranslation(language)
-                      : activity.name === 'pastParticiple'
-                        ? getPastParticipleTranslation(language)
-                        : t(`lessons.${activity.name.toLowerCase()}`)}
-              </Text>
-              
-              {/* Показать прогресс-бар только для экзамена */}
-              {activity.name === 'exam' && (
-                <View style={styles.examProgressContainer}>
-                  <View style={styles.examProgressBarContainer}>
+          {activities.map((activity) => {
+            if (Platform.OS === 'android') {
+              return (
+                <View
+                  key={activity.screen}
+                  style={styles.activityCardAndroidShadow}
+                >
+                  <TouchableOpacity
+                    style={styles.activityCardAndroidPressable}
+                    activeOpacity={0.8}
+                    onPress={() => navigateToLessonActivity(activity.screen, lessonId)}
+                  >
                     <LinearGradient
-                      colors={['#3B82F6', '#06B6D4']}
+                      colors={['#3B82F6', '#1F2937']}
                       start={{ x: 0, y: 0 }}
-                      end={{ x: 1, y: 0 }}
-                      style={[styles.examProgressBar, { width: `${lessonProgress}%` }]}
-                    />
-                  </View>
-                  <Text style={styles.examProgressText}>{lessonProgress}%</Text>
+                      end={{ x: 1, y: 1 }}
+                      style={styles.activityCardAndroidInner}
+                    >
+                      <View style={styles.activityContentAndroid}>
+                        <Text style={styles.activityButtonTextAndroid}>
+                          {activity.name === 'exam'
+                            ? t('lessons.exam')
+                            : activity.name === 'irregularVerbs'
+                              ? t('words.irregularVerbsSection')
+                              : activity.name === 'phrasalVerbs'
+                                ? t('words.phrasalVerbsSection')
+                                : activity.name === 'pastParticiple'
+                                  ? t('words.pastParticipleSection')
+                                  : t(`lessons.${activity.name.toLowerCase()}`)}
+                        </Text>
+                        {activity.name === 'exam' && (
+                          <View style={styles.examProgressContainer}>
+                            <View style={styles.examProgressBarContainer}>
+                              <LinearGradient
+                                colors={['#3B82F6', '#06B6D4']}
+                                start={{ x: 0, y: 0 }}
+                                end={{ x: 1, y: 0 }}
+                                style={[styles.examProgressBar, { width: `${lessonProgress}%` }]}
+                              />
+                            </View>
+                            <Text style={styles.examProgressText}>{lessonProgress}%</Text>
+                          </View>
+                        )}
+                      </View>
+                    </LinearGradient>
+                  </TouchableOpacity>
                 </View>
-              )}
-            </TouchableOpacity>
-          ))}
+              );
+            }
+            // iOS: keep as is
+            return (
+              <TouchableOpacity
+                key={activity.screen}
+                style={styles.activityButton}
+                onPress={() => navigateToLessonActivity(activity.screen, lessonId)}
+              >
+                <Text style={styles.activityButtonText}>
+                  {activity.name === 'exam'
+                    ? t('lessons.exam')
+                    : activity.name === 'irregularVerbs'
+                      ? t('words.irregularVerbsSection')
+                      : activity.name === 'phrasalVerbs'
+                        ? t('words.phrasalVerbsSection')
+                        : activity.name === 'pastParticiple'
+                          ? t('words.pastParticipleSection')
+                          : t(`lessons.${activity.name.toLowerCase()}`)}
+                </Text>
+                {activity.name === 'exam' && (
+                  <View style={styles.examProgressContainer}>
+                    <View style={styles.examProgressBarContainer}>
+                      <LinearGradient
+                        colors={['#3B82F6', '#06B6D4']}
+                        start={{ x: 0, y: 0 }}
+                        end={{ x: 1, y: 0 }}
+                        style={[styles.examProgressBar, { width: `${lessonProgress}%` }]}
+                      />
+                    </View>
+                    <Text style={styles.examProgressText}>{lessonProgress}%</Text>
+                  </View>
+                )}
+              </TouchableOpacity>
+            );
+          })}
         </ScrollView>
       </SafeAreaView>
     </LinearGradient>
@@ -657,23 +690,14 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     borderColor: 'rgba(16, 185, 129, 0.3)',
     alignItems: 'center',
+    justifyContent: 'center',
+    minHeight: 70,
   },
   completedText: {
     fontSize: 18,
     fontWeight: '600',
     color: '#10B981',
-    marginBottom: 12,
-  },
-  nextLessonButton: {
-    backgroundColor: '#10B981',
-    paddingVertical: 10,
-    paddingHorizontal: 20,
-    borderRadius: 10,
-  },
-  nextLessonButtonText: {
-    color: 'white',
-    fontWeight: '600',
-    fontSize: 16,
+    textAlign: 'center',
   },
   subtitle: {
     fontSize: 20,
@@ -730,6 +754,32 @@ const styles = StyleSheet.create({
     fontWeight: '600',
     width: 40,
     textAlign: 'right',
+  },
+  // --- Android styles for activity cards ---
+  activityCardAndroidShadow: {
+    borderRadius: 20,
+    marginBottom: 14,
+    elevation: 8,
+  },
+  activityCardAndroidPressable: {
+    borderRadius: 20,
+    overflow: 'hidden',
+  },
+  activityCardAndroidInner: {
+    borderRadius: 20,
+    overflow: 'hidden',
+  },
+  activityContentAndroid: {
+    flexDirection: 'column',
+    justifyContent: 'center',
+    paddingVertical: 13,
+    paddingHorizontal: 16,
+  },
+  activityButtonTextAndroid: {
+    fontSize: 18,
+    fontWeight: '500',
+    color: 'white',
+    marginBottom: 4,
   },
 });
 
