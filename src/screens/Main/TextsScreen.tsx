@@ -18,14 +18,14 @@
 // import { Ionicons } from '@expo/vector-icons';
 // import { LinearGradient } from 'expo-linear-gradient';
 // import type { NativeStackScreenProps } from '@react-navigation/native-stack';
-// import { MainStackParamList } from '../../navigation/types';
+// import { LessonsStackParamList } from '../../navigation/LessonsStackNavigator';
 // import AsyncStorage from '@react-native-async-storage/async-storage';
 
 // import { getUserDbId } from '../../utils/userUtils';
 // import { useTranslation } from '../../localization';
 // import RepetitionCountModal from '../../components/RepetitionCountModal';
 
-// type Props = NativeStackScreenProps<MainStackParamList, 'Texts'>;
+// type Props = NativeStackScreenProps<LessonsStackParamList, 'Texts'>;
 
 // interface TextItem {
 //   id: number;

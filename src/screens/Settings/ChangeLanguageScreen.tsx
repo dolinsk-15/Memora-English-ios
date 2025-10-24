@@ -13,13 +13,13 @@ import { Ionicons } from '@expo/vector-icons';
 import { LinearGradient } from 'expo-linear-gradient';
 import { useNavigation } from '@react-navigation/native';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
-import { MainStackParamList } from '../../navigation/types';
+import { LessonsStackParamList } from '../../navigation/LessonsStackNavigator';
 import { languageOptions, useLocalization } from '../../contexts/LocalizationContext';
 import { useTranslation } from '../../localization';
 import { CommonActions } from '@react-navigation/native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
-type ChangeLanguageScreenNavigationProp = NativeStackNavigationProp<MainStackParamList, 'ChangeLanguage'>;
+type ChangeLanguageScreenNavigationProp = NativeStackNavigationProp<LessonsStackParamList, 'ChangeLanguage'>;
 
 const ChangeLanguageScreen: React.FC = () => {
   const navigation = useNavigation<ChangeLanguageScreenNavigationProp>();
@@ -86,7 +86,7 @@ const ChangeLanguageScreen: React.FC = () => {
       end={{ x: 1, y: 1 }}
     >
       <StatusBar barStyle="light-content" />
-      <SafeAreaView style={styles.safeArea} edges={["top", "left", "right", "bottom"]}>
+      <SafeAreaView style={styles.safeArea} edges={["top", "left", "right"]}>
         <View style={styles.navigationHeader}>
           <TouchableOpacity
             style={styles.backButton}
@@ -115,7 +115,7 @@ const ChangeLanguageScreen: React.FC = () => {
               </Text>
             </View>
             <View style={styles.languageList}>
-              {languageOptions.map((language) => {
+              {languageOptions.filter(l => l.id !== 'en').map((language) => {
                 const isSelected = selectedId === language.id;
                 const isPressed = pressedId === language.id;
                 const isCurrent = currentLanguage === language.id;

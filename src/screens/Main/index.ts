@@ -7,3 +7,5 @@ export { default as RepeatCountingScreen } from './RepeatCountingScreen';
 export { default as LessonDetailScreen } from './LessonDetailScreen';
 export { default as LessonListScreen } from './LessonListScreen';
 export { default as ExamScreen } from './ExamScreen'; 
+export { default as ProfileScreen } from './ProfileScreen';
+export { default as StreakScreen } from './StreakScreen'; 

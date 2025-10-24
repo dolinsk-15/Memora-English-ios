@@ -12,15 +12,15 @@ import {
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { useNavigation, useRoute, RouteProp } from '@react-navigation/native';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
-import { MainStackParamList } from '../../navigation/types';
+import { LessonsStackParamList } from '../../navigation/LessonsStackNavigator';
 import { LinearGradient } from 'expo-linear-gradient';
 import { Ionicons } from '@expo/vector-icons';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { useTranslation } from '../../localization';
 import { lessonService } from '../../services/lessonService';
 
-type LessonDetailScreenNavigationProp = NativeStackNavigationProp<MainStackParamList, 'LessonDetail'>;
-type LessonDetailScreenRouteProp = RouteProp<MainStackParamList, 'LessonDetail'>;
+type LessonDetailScreenNavigationProp = NativeStackNavigationProp<LessonsStackParamList, 'LessonDetail'>;
+type LessonDetailScreenRouteProp = RouteProp<LessonsStackParamList, 'LessonDetail'>;
 
 type LessonActivityScreen = 'Description' | 'Words' | 'IrregularVerbs' | 'PhrasalVerbs' | 'PastParticiple' | 'Sentences' | 'Exam';
 
@@ -350,7 +350,7 @@ const LessonDetailScreen = () => {
       const examProgress = await AsyncStorage.getItem(`examProgress_lesson${lessonId}`);
       const examProgressValue = examProgress ? parseInt(examProgress) : 0;
       
-      // Устанавливаем прогресс урока равным прогрессу экзамена (НЕ меняем на 100%)
+      // ВАЖНО: прогресс урока всегда зеркалит прогресс экзамена
       await AsyncStorage.setItem(`lessonProgress_${lessonId}`, examProgressValue.toString());
       setLessonProgress(examProgressValue);
       setIsLessonComplete(examProgressValue >= 90); // Урок считается завершенным при достижении 90% в экзамене
@@ -394,20 +394,39 @@ const LessonDetailScreen = () => {
   };
 
   const activities = [
-    { name: 'description', screen: 'Description' as LessonActivityScreen },
-    { name: 'words', screen: 'Words' as LessonActivityScreen },
-    ...(lessonId === 1 ? [{ name: 'irregularVerbs', screen: 'IrregularVerbs' as LessonActivityScreen }] : []),
-    ...(lessonId === 16 ? [{ name: 'phrasalVerbs', screen: 'PhrasalVerbs' as LessonActivityScreen }] : []),
-    ...(lessonId === 14 ? [{ name: 'pastParticiple', screen: 'PastParticiple' as LessonActivityScreen }] : []),
-    ...(lessonId !== 18 ? [{ name: 'sentences', screen: 'Sentences' as LessonActivityScreen }] : []),
-    { name: 'exam', screen: 'Exam' as LessonActivityScreen },
+    { name: 'description', screen: 'Description' as LessonActivityScreen, icon: 'information-circle-outline' as const, iconBackgroundColor: '#007AFF' },
+    { name: 'words', screen: 'Words' as LessonActivityScreen, icon: 'list-outline' as const, iconBackgroundColor: '#34C759' },
+    ...(lessonId === 1 ? [{ name: 'irregularVerbs', screen: 'IrregularVerbs' as LessonActivityScreen, icon: 'swap-horizontal-outline' as const, iconBackgroundColor: '#AF52DE' }] : []),
+    ...(lessonId === 16 ? [{ name: 'phrasalVerbs', screen: 'PhrasalVerbs' as LessonActivityScreen, icon: 'extension-puzzle-outline' as const, iconBackgroundColor: '#FF9500' }] : []),
+    ...(lessonId === 14 ? [{ name: 'pastParticiple', screen: 'PastParticiple' as LessonActivityScreen, icon: 'checkmark-done-circle-outline' as const, iconBackgroundColor: '#5856D6' }] : []),
+    ...(lessonId !== 18 ? [{ name: 'sentences', screen: 'Sentences' as LessonActivityScreen, icon: 'chatbubbles-outline' as const, iconBackgroundColor: '#5AC8FA' }] : []),
+    { name: 'exam', screen: 'Exam' as LessonActivityScreen, icon: 'school-outline' as const, iconBackgroundColor: '#8E8E93' },
   ] as const;
 
   // Создаём функцию для типизированной навигации
   const navigateToLessonActivity = (screen: string, lessonId: number) => {
+    // Проверяем, просмотрено ли описание
+    if (!lessonStats.descriptionViewed && screen !== 'Description') {
+      Alert.alert(
+        t('lessons.openDescriptionFirst'),
+        '',
+        [{ text: 'OK' }]
+      );
+      return;
+    }
+
     switch (screen) {
       case 'Description':
-        navigation.navigate('Description', { lessonId });
+        navigation.navigate('Description', { 
+          lessonId,
+          onDescriptionViewed: async () => {
+            // Обновляем состояние сразу при открытии Description
+            setLessonStats(prev => ({ ...prev, descriptionViewed: true }));
+            // Перезагружаем статистику
+            const stats = await getLessonStats();
+            setLessonStats(stats);
+          }
+        });
         break;
       case 'Words':
         navigation.navigate('Words', { 
@@ -452,7 +471,7 @@ const LessonDetailScreen = () => {
       end={{ x: 1, y: 1 }}
     >
       <StatusBar barStyle="light-content" />
-      <SafeAreaView style={styles.safeArea} edges={["top", "left", "right", "bottom"]}>
+      <SafeAreaView style={styles.safeArea} edges={["top", "left", "right"]}>
         <View style={styles.navigationHeader}>
           <TouchableOpacity
             style={styles.backButton}
@@ -509,25 +528,34 @@ const LessonDetailScreen = () => {
           <Text style={styles.subtitle}>{t('lessons.chooseActivity')}:</Text>
           
           {activities.map((activity) => {
+            const isLocked = !lessonStats.descriptionViewed && activity.name !== 'description';
+            
             if (Platform.OS === 'android') {
               return (
                 <View
                   key={activity.screen}
-                  style={styles.activityCardAndroidShadow}
+                  style={[
+                    styles.activityCardAndroidShadow,
+                    isLocked && styles.lockedCardShadow
+                  ]}
                 >
                   <TouchableOpacity
                     style={styles.activityCardAndroidPressable}
-                    activeOpacity={0.8}
+                    activeOpacity={isLocked ? 1 : 0.8}
                     onPress={() => navigateToLessonActivity(activity.screen, lessonId)}
                   >
                     <LinearGradient
-                      colors={['#3B82F6', '#1F2937']}
+                      colors={isLocked ? ['#374151', '#1F2937'] : ['#581C87', '#111827', '#1F2937']}
                       start={{ x: 0, y: 0 }}
                       end={{ x: 1, y: 1 }}
                       style={styles.activityCardAndroidInner}
                     >
-                      <View style={styles.activityContentAndroid}>
-                        <Text style={styles.activityButtonTextAndroid}>
+                      <View style={[styles.activityContentAndroid, isLocked && styles.lockedContent]}>
+                        <View style={[styles.iconWrapper, { backgroundColor: isLocked ? '#6B7280' : activity.iconBackgroundColor }]}>
+                          <Ionicons name={activity.icon} size={24} color={isLocked ? '#9CA3AF' : '#fff'} />
+                        </View>
+                        <View style={styles.activityTextContainer}>
+                          <Text style={[styles.activityButtonTextAndroid, isLocked && styles.lockedText]}>
                           {activity.name === 'exam'
                             ? t('lessons.exam')
                             : activity.name === 'irregularVerbs'
@@ -551,6 +579,7 @@ const LessonDetailScreen = () => {
                             <Text style={styles.examProgressText}>{lessonProgress}%</Text>
                           </View>
                         )}
+                        </View>
                       </View>
                     </LinearGradient>
                   </TouchableOpacity>
@@ -561,10 +590,19 @@ const LessonDetailScreen = () => {
             return (
               <TouchableOpacity
                 key={activity.screen}
-                style={styles.activityButton}
+                style={[
+                  styles.activityButton,
+                  isLocked && styles.lockedButton
+                ]}
+                activeOpacity={isLocked ? 1 : 0.7}
                 onPress={() => navigateToLessonActivity(activity.screen, lessonId)}
               >
-                <Text style={styles.activityButtonText}>
+                <View style={[styles.activityContent, isLocked && styles.lockedContent]}>
+                  <View style={[styles.iconWrapper, { backgroundColor: isLocked ? '#6B7280' : activity.iconBackgroundColor }]}>
+                    <Ionicons name={activity.icon} size={24} color={isLocked ? '#9CA3AF' : '#fff'} />
+                  </View>
+                  <View style={styles.activityTextContainer}>
+                    <Text style={[styles.activityButtonText, isLocked && styles.lockedText]}>
                   {activity.name === 'exam'
                     ? t('lessons.exam')
                     : activity.name === 'irregularVerbs'
@@ -588,6 +626,8 @@ const LessonDetailScreen = () => {
                     <Text style={styles.examProgressText}>{lessonProgress}%</Text>
                   </View>
                 )}
+                  </View>
+                </View>
               </TouchableOpacity>
             );
           })}
@@ -724,6 +764,21 @@ const styles = StyleSheet.create({
       },
     }),
   },
+  activityContent: {
+    flexDirection: 'row',
+    alignItems: 'center',
+  },
+  iconWrapper: {
+    width: 40,
+    height: 40,
+    borderRadius: 10,
+    justifyContent: 'center',
+    alignItems: 'center',
+    marginRight: 15,
+  },
+  activityTextContainer: {
+    flex: 1,
+  },
   activityButtonText: {
     fontSize: 18,
     fontWeight: '500',
@@ -770,8 +825,8 @@ const styles = StyleSheet.create({
     overflow: 'hidden',
   },
   activityContentAndroid: {
-    flexDirection: 'column',
-    justifyContent: 'center',
+    flexDirection: 'row',
+    alignItems: 'center',
     paddingVertical: 13,
     paddingHorizontal: 16,
   },
@@ -779,7 +834,19 @@ const styles = StyleSheet.create({
     fontSize: 18,
     fontWeight: '500',
     color: 'white',
-    marginBottom: 4,
+  },
+  lockedButton: {
+    backgroundColor: 'rgba(55, 65, 81, 0.3)',
+    borderColor: 'rgba(107, 114, 128, 0.3)',
+  },
+  lockedCardShadow: {
+    elevation: 2,
+  },
+  lockedContent: {
+    opacity: 0.5,
+  },
+  lockedText: {
+    color: '#9CA3AF',
   },
 });
 

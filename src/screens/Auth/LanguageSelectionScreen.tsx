@@ -78,6 +78,9 @@ const LanguageSelectionScreen: React.FC = () => {
   const [pressedId, setPressedId] = useState<string | null>(null);
   const scrollY = useRef(new Animated.Value(0)).current;
   const { setLanguage, refreshUI } = useLocalization();
+  // Плавный переход после выбора языка
+  const screenFade = useRef(new Animated.Value(1)).current;
+  const screenShift = useRef(new Animated.Value(0)).current;
 
   const headerOpacity = scrollY.interpolate({
     inputRange: [0, 100],
@@ -92,10 +95,19 @@ const LanguageSelectionScreen: React.FC = () => {
 
   const handleLanguageSelect = async (languageId: string) => {
     setSelectedId(languageId);
-    
     try {
       await setLanguage(languageId as any);
       refreshUI();
+      // Плавно скрываем текущий экран и только затем переходим дальше
+      Animated.parallel([
+        Animated.timing(screenFade, { toValue: 0, duration: 220, useNativeDriver: true }),
+        Animated.timing(screenShift, { toValue: -8, duration: 220, useNativeDriver: true }),
+      ]).start(() => {
+        try {
+          // Переходим в основное приложение (экран уроков)
+          signIn();
+        } catch {}
+      });
     } catch (error) {
       console.error('Error selecting language:', error);
     }
@@ -109,16 +121,16 @@ const LanguageSelectionScreen: React.FC = () => {
       end={{ x: 1, y: 1 }}
     >
       <StatusBar barStyle="light-content" />
-      <SafeAreaView style={styles.safeArea} edges={["top", "left", "right", "bottom"]}>
+      <SafeAreaView style={styles.safeArea} edges={["top", "left", "right"]}>
         {/* Header Background */}
         <Animated.View style={[styles.headerBackground, { opacity: headerOpacity }]} />
-
-        <ScrollView 
-          style={styles.scrollView}
-          showsVerticalScrollIndicator={false}
-          onScroll={handleScroll}
-          scrollEventThrottle={16}
-        >
+        <Animated.View style={{ flex: 1, opacity: screenFade, transform: [{ translateY: screenShift }] }}>
+          <ScrollView 
+            style={styles.scrollView}
+            showsVerticalScrollIndicator={false}
+            onScroll={handleScroll}
+            scrollEventThrottle={16}
+          >
           <View style={styles.contentContainer}>
             <View style={styles.languageList}>
               {languages.map((language) => {
@@ -241,7 +253,8 @@ const LanguageSelectionScreen: React.FC = () => {
               })}
             </View>
           </View>
-        </ScrollView>
+          </ScrollView>
+        </Animated.View>
       </SafeAreaView>
     </LinearGradient>
   );

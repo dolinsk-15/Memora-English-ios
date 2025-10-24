@@ -1,4 +1,4 @@
-import React, { useState, useRef } from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 import { 
   View, 
   Text, 
@@ -9,11 +9,11 @@ import {
   Animated,
   Platform,
   Alert,
-  Linking
+  Linking,
+  Share,
 } from 'react-native';
-import { useNavigation } from '@react-navigation/native';
+import { useNavigation, useFocusEffect } from '@react-navigation/native';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
-import { MainStackParamList } from '../../navigation/types';
 import { LinearGradient } from 'expo-linear-gradient';
 import { Ionicons, AntDesign } from '@expo/vector-icons';
 import AsyncStorage from '@react-native-async-storage/async-storage';
@@ -21,21 +21,31 @@ import { useTranslation } from '../../localization';
 import { useLocalization } from '../../contexts/LocalizationContext';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import SuperwallService from '../../services/SuperwallService';
+import { SettingsStackParamList } from '../../navigation/SettingsStackNavigator';
 
-type SettingsScreenNavigationProp = NativeStackNavigationProp<MainStackParamList, 'Settings'>;
+type SettingsScreenNavigationProp = NativeStackNavigationProp<SettingsStackParamList, 'Settings'>;
 
 // URL для Privacy Policy и Terms of Service
 const PRIVACY_POLICY_URL = 'https://memoraprivacypolicy.carrd.co/';
 const TERMS_OF_SERVICE_URL = 'https://www.apple.com/legal/internet-services/itunes/dev/stdeula/';
-const APP_STORE_URL = Platform.OS === 'ios' 
-  ? 'https://apps.apple.com/app/id[ВАШЕ_APP_ID]' 
-  : 'market://details?id=[ВАШЕ_PACKAGE_NAME]';
+// iOS App Store данные (предоставлено пользователем)
+const APPLE_ID = '6746395095';
+// Публичная страница приложения (для шаринга) — универсальная без кода страны
+const APP_PUBLIC_URL = `https://apps.apple.com/app/id${APPLE_ID}`;
+// Прямая ссылка на форму отзыва
+const RATE_REVIEW_URL = `itms-apps://itunes.apple.com/app/id${APPLE_ID}?action=write-review`;
+// Веб‑fallback для формы отзыва
+const RATE_REVIEW_WEB_URL = `https://apps.apple.com/app/id${APPLE_ID}?action=write-review`;
 
 const SettingsScreen = () => {
   const navigation = useNavigation<SettingsScreenNavigationProp>();
+  // Флаг, чтобы не анимировать возврат из вложенных экранов (например, ChangeLanguage)
+  const skipNextFocusAnimRef = useRef(false);
   const { resetProgress } = useLocalization();
   const { t } = useTranslation();
   const scrollY = useRef(new Animated.Value(0)).current;
+  const navState = (navigation as any).getState?.();
+  const isRoot = !navState || navState.index === 0; // hide back on root of Settings stack
 
   // Функция для сброса прогресса при нажатии на соответствующую кнопку
   const handleResetProgress = async () => {
@@ -58,7 +68,19 @@ const SettingsScreen = () => {
                 Alert.alert(
                   t('common.success'),
                   t('settings.resetProgressSuccess'),
-                  [{ text: 'OK', onPress: () => navigation.navigate('LessonList') }]
+                  [{ 
+                    text: 'OK', 
+                    onPress: () => {
+                      // Сбрасываем навигацию на корень и открываем вкладку уроков
+                      const rootNav: any = navigation.getParent?.()?.getParent?.();
+                      if (rootNav?.reset) {
+                        rootNav.reset({
+                          index: 0,
+                          routes: [{ name: 'TabNavigator' as never }],
+                        });
+                      }
+                    } 
+                  }]
                 );
               } catch (error) {
                 console.error('Error resetting progress:', error);
@@ -78,6 +100,8 @@ const SettingsScreen = () => {
 
   // Обработчик нажатия на "Change Learning Language"
   const handleChangeLanguage = () => {
+    // Чтобы не было моргания при возврате со вложенного экрана
+    skipNextFocusAnimRef.current = true;
     navigation.navigate('ChangeLanguage');
   };
 
@@ -106,15 +130,17 @@ const SettingsScreen = () => {
   // Обработчик для кнопки Rate App
   const handleRateApp = async () => {
     try {
-      const supported = await Linking.canOpenURL(APP_STORE_URL);
-      
+      const supported = await Linking.canOpenURL(RATE_REVIEW_URL);
       if (supported) {
-        await Linking.openURL(APP_STORE_URL);
+        await Linking.openURL(RATE_REVIEW_URL);
       } else {
-        Alert.alert(
-          t('common.error'),
-          t('settings.cannotOpenAppStore')
-        );
+        // Падаем на веб‑ссылку, если deeplink недоступен
+        const webSupported = await Linking.canOpenURL(RATE_REVIEW_WEB_URL);
+        if (webSupported) {
+          await Linking.openURL(RATE_REVIEW_WEB_URL);
+        } else {
+          Alert.alert(t('common.error'), t('settings.cannotOpenAppStore'));
+        }
       }
     } catch (error) {
       console.error('Error opening App Store:', error);
@@ -125,11 +151,58 @@ const SettingsScreen = () => {
     }
   };
 
+  // Обработчик для кнопки Поделиться приложением
+  const handleShareApp = async () => {
+    try {
+      if (Platform.OS === 'ios') {
+        // На iOS, если передать и message, и url, шаринг покажет "2 Links".
+        await Share.share({ url: APP_PUBLIC_URL });
+      } else {
+        await Share.share({
+          message: APP_PUBLIC_URL,
+          title: 'Share App',
+        });
+      }
+    } catch (error) {
+      console.error('Error sharing app:', error);
+      Alert.alert(t('common.error'), t('settings.urlError'));
+    }
+  };
+
   const headerOpacity = scrollY.interpolate({
     inputRange: [0, 100],
     outputRange: [0, 1],
     extrapolate: 'clamp',
   });
+
+  // Fast fade-in animation for content
+  const contentOpacity = useRef(new Animated.Value(0)).current;
+  const contentTranslateY = useRef(new Animated.Value(8)).current;
+  const animateIn = () => {
+    Animated.parallel([
+      Animated.timing(contentOpacity, { toValue: 1, duration: 220, useNativeDriver: true }),
+      Animated.timing(contentTranslateY, { toValue: 0, duration: 220, useNativeDriver: true })
+    ]).start();
+  };
+
+  useEffect(() => {
+    contentOpacity.setValue(0);
+    contentTranslateY.setValue(8);
+    animateIn();
+  }, []);
+
+  // Плавная анимация при фокусе вкладки, но без моргания при возврате из вложенных экранов
+  useFocusEffect(
+    React.useCallback(() => {
+      if (skipNextFocusAnimRef.current) {
+        skipNextFocusAnimRef.current = false;
+        return;
+      }
+      contentOpacity.setValue(0);
+      contentTranslateY.setValue(8);
+      animateIn();
+    }, [])
+  );
 
   return (
     <LinearGradient
@@ -139,26 +212,30 @@ const SettingsScreen = () => {
       end={{ x: 1, y: 1 }}
     >
       <StatusBar barStyle="light-content" />
-      <SafeAreaView style={styles.safeArea} edges={["top", "left", "right", "bottom"]}>
+      <SafeAreaView style={styles.safeArea} edges={["top", "left", "right"]}>
         {/* Header Background */}
         <Animated.View style={[styles.headerBackground, { opacity: headerOpacity }]} />
         
         {/* Header */}
         <View style={styles.navigationHeader}>
+          {!isRoot ? (
           <TouchableOpacity
             style={styles.backButton}
             onPress={() => navigation.goBack()}
           >
             <Ionicons name="chevron-back" size={28} color="#fff" />
           </TouchableOpacity>
+          ) : (
+            <View style={styles.backButton} />
+          )}
           <View style={styles.headerTitleContainer}>
             <Text style={styles.headerTitle}>{t('settings.title')}</Text>
           </View>
           <View style={styles.placeholderButton} />
         </View>
 
-        <ScrollView 
-          style={styles.content}
+        <Animated.ScrollView 
+          style={[styles.content, { opacity: contentOpacity, transform: [{ translateY: contentTranslateY }] }]}
           showsVerticalScrollIndicator={false}
           onScroll={(event) => {
             const offsetY = event.nativeEvent.contentOffset.y;
@@ -219,42 +296,118 @@ const SettingsScreen = () => {
             </>
           ) : (
             <>
+              {/* 1) Изменить язык */}
               <TouchableOpacity style={styles.button} onPress={handleChangeLanguage}>
             <View style={styles.buttonContent}>
               <Ionicons name="language" size={24} color="#60A5FA" style={styles.buttonIcon} />
-              <Text style={styles.buttonText}>{t('settings.changeLanguage')}</Text>
+              <Text
+                style={styles.buttonText}
+                numberOfLines={1}
+                ellipsizeMode="tail"
+                adjustsFontSizeToFit
+                minimumFontScale={0.85}
+                maxFontSizeMultiplier={1.1}
+              >
+                {t('settings.changeLanguage')}
+              </Text>
             </View>
             <Ionicons name="chevron-forward" size={20} color="#60A5FA" />
           </TouchableOpacity>
 
+              {/* 2) Поделиться приложением */}
+              <TouchableOpacity style={styles.button} onPress={handleShareApp}>
+                <View style={styles.buttonContent}>
+                  <Ionicons name="share-social-outline" size={24} color="#EF4444" style={styles.buttonIcon} />
+                  <Text
+                    style={styles.buttonText}
+                    numberOfLines={1}
+                    ellipsizeMode="tail"
+                    adjustsFontSizeToFit
+                    minimumFontScale={0.85}
+                    maxFontSizeMultiplier={1.1}
+                  >
+                    {t('settings.shareApp')}
+                  </Text>
+                </View>
+                <Ionicons name="chevron-forward" size={20} color="#60A5FA" />
+              </TouchableOpacity>
+
+              {/* 3) Оставить отзыв */}
+              <TouchableOpacity style={styles.button} onPress={handleRateApp}>
+                <View style={styles.buttonContent}>
+                  <Ionicons name="star-outline" size={24} color="#EF4444" style={styles.buttonIcon} />
+                  <Text
+                    style={styles.buttonText}
+                    numberOfLines={1}
+                    ellipsizeMode="tail"
+                    adjustsFontSizeToFit
+                    minimumFontScale={0.85}
+                    maxFontSizeMultiplier={1.1}
+                  >
+                    {t('settings.rateApp')}
+                  </Text>
+                </View>
+                <Ionicons name="chevron-forward" size={20} color="#60A5FA" />
+              </TouchableOpacity>
+
+              {/* 4) Политика конфиденциальности */}
               <TouchableOpacity style={styles.button} onPress={() => handleOpenURL(PRIVACY_POLICY_URL)}>
                 <View style={styles.buttonContent}>
                   <Ionicons name="shield-checkmark-outline" size={24} color="#60A5FA" style={styles.buttonIcon} />
-                  <Text style={styles.buttonText}>{t('settings.privacyPolicy')}</Text>
+                  <Text
+                    style={styles.buttonText}
+                    numberOfLines={1}
+                    ellipsizeMode="tail"
+                    adjustsFontSizeToFit
+                    minimumFontScale={0.85}
+                    maxFontSizeMultiplier={1.1}
+                  >
+                    {t('settings.privacyPolicy')}
+                  </Text>
                 </View>
                 <Ionicons name="chevron-forward" size={20} color="#60A5FA" />
               </TouchableOpacity>
               
+              {/* 5) Условия использования */}
               {Platform.OS === 'ios' && (
                 <TouchableOpacity style={styles.button} onPress={() => handleOpenURL(TERMS_OF_SERVICE_URL)}>
                   <View style={styles.buttonContent}>
                     <Ionicons name="document-text-outline" size={24} color="#60A5FA" style={styles.buttonIcon} />
-                    <Text style={styles.buttonText}>{t('settings.termsOfService')}</Text>
+                    <Text
+                      style={styles.buttonText}
+                      numberOfLines={1}
+                      ellipsizeMode="tail"
+                      adjustsFontSizeToFit
+                      minimumFontScale={0.85}
+                      maxFontSizeMultiplier={1.1}
+                    >
+                      {t('settings.termsOfService')}
+                    </Text>
                   </View>
                   <Ionicons name="chevron-forward" size={20} color="#60A5FA" />
                 </TouchableOpacity>
               )}
 
+              {/* 6) Сбросить прогресс */}
               <TouchableOpacity style={[styles.button, styles.dangerButton]} onPress={handleResetProgress}>
             <View style={styles.buttonContent}>
               <Ionicons name="refresh-circle" size={24} color="#EF4444" style={styles.buttonIcon} />
-              <Text style={[styles.buttonText, styles.dangerButtonText]}>{t('settings.resetProgress')}</Text>
+              <Text
+                style={[styles.buttonText, styles.dangerButtonText]}
+                numberOfLines={1}
+                ellipsizeMode="tail"
+                adjustsFontSizeToFit
+                minimumFontScale={0.85}
+                maxFontSizeMultiplier={1.1}
+              >
+                {t('settings.resetProgress')}
+              </Text>
             </View>
             <Ionicons name="alert-circle" size={20} color="#EF4444" />
           </TouchableOpacity>
             </>
           )}
-        </ScrollView>
+        </Animated.ScrollView>
       </SafeAreaView>
     </LinearGradient>
   );
@@ -332,11 +485,13 @@ const styles = StyleSheet.create({
   buttonContent: {
     flexDirection: 'row',
     alignItems: 'center',
+    flex: 1,
   },
   buttonIcon: {
     marginRight: 12,
   },
   buttonText: {
+    flexShrink: 1,
     fontSize: 17,
     color: '#60A5FA',
     fontWeight: '500',

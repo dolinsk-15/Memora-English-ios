@@ -9,19 +9,22 @@ import {
   Alert,
   Animated,
   Platform,
-  TouchableWithoutFeedback
+  TouchableWithoutFeedback,
+  ScrollView,
 } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { LinearGradient } from 'expo-linear-gradient';
 import type { NativeStackScreenProps } from '@react-navigation/native-stack';
-import { MainStackParamList } from '../../navigation/types';
+import { LessonsStackParamList } from '../../navigation/LessonsStackNavigator';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { useTranslation } from '../../localization';
 import { lessonService } from '../../services/lessonService';
 import * as Speech from 'expo-speech';
 import { SafeAreaView } from 'react-native-safe-area-context';
+import streakService from '../../services/streakService';
+import { useStreakAnimation } from '../../contexts/StreakAnimationContext';
 
-type Props = NativeStackScreenProps<MainStackParamList, 'Exam'>;
+type Props = NativeStackScreenProps<LessonsStackParamList, 'Exam'>;
 
 interface ExamSentence {
   id: number;
@@ -58,6 +61,7 @@ const languageMap = { ru: 'russian', es: 'spanish', fr: 'french', de: 'german' }
 const ExamScreen: React.FC<Props> = ({ navigation, route }) => {
   const { lessonId } = route.params;
   const { t, language } = useTranslation();
+  const { trigger } = useStreakAnimation();
   const mappedLanguage = languageMap[language] || 'english';
   
   // Состояние экзамена
@@ -115,15 +119,14 @@ const ExamScreen: React.FC<Props> = ({ navigation, route }) => {
           // Убеждаемся, что прогресс не превышает 100%
           const progress = Math.min(100, parseInt(savedProgress, 10));
           setExamProgress(progress);
+          // ВАЖНО: всегда зеркалим прогресс урока с прогрессом экзамена
+          await AsyncStorage.setItem(`lessonProgress_${lessonId}`, progress.toString());
           
           if (progress >= 90) {
             setIsCompleted(true);
             
             // Убедимся, что следующий урок разблокирован
             await AsyncStorage.setItem(`next_lesson_${lessonId}_unlocked`, 'true');
-            
-            // Устанавливаем прогресс урока на 100%
-            await AsyncStorage.setItem(`lessonProgress_${lessonId}`, '100');
             
             // Отмечаем урок как завершенный
             await AsyncStorage.setItem(`lesson_${lessonId}_completed`, 'true');
@@ -431,7 +434,7 @@ const ExamScreen: React.FC<Props> = ({ navigation, route }) => {
   }, []);
 
   // Now update the checkAnswer function to use text-to-speech
-  const checkAnswer = () => {
+  const checkAnswer = async () => {
     const currentSentence = sentences[currentSentenceIndex];
     
     // Verification code (unchanged)
@@ -463,6 +466,17 @@ const ExamScreen: React.FC<Props> = ({ navigation, route }) => {
     
     setIsCorrect(isAnswerCorrect);
     setAttempts(attempts + 1);
+    
+    // Count correct exam answers toward streak as "sentence" completions
+    if (isAnswerCorrect) {
+      const streakResult = await streakService.trackCompletedSentence();
+      if (streakResult && streakResult.streakIncreased) {
+        console.log('📱 ExamScreen: Triggering streak animation', streakResult);
+        trigger(streakResult.newStreak);
+      } else {
+        console.log('📱 ExamScreen: No streak increase', streakResult);
+      }
+    }
     
     // Animate result display
     Animated.timing(resultOpacity, {
@@ -520,7 +534,10 @@ const ExamScreen: React.FC<Props> = ({ navigation, route }) => {
     
     // Set and save new progress
     setExamProgress(newProgress);
+    // Сохраняем прогресс экзамена
     AsyncStorage.setItem(`examProgress_lesson${lessonId}`, newProgress.toString());
+    // ВАЖНО: прогресс урока = прогресс экзамена
+    AsyncStorage.setItem(`lessonProgress_${lessonId}`, newProgress.toString());
     
     // Save current score
     AsyncStorage.setItem(`examScore_lesson${lessonId}`, currentScore.toString());
@@ -648,7 +665,7 @@ const ExamScreen: React.FC<Props> = ({ navigation, route }) => {
       end={{ x: 1, y: 1 }}
     >
       <StatusBar barStyle="light-content" />
-      <SafeAreaView style={styles.safeArea} edges={["top", "left", "right", "bottom"]}>
+      <SafeAreaView style={styles.safeArea} edges={["top", "left", "right"]}>
         {/* Добавляем TouchableWithoutFeedback для обработки нажатий на весь экран */}
         <TouchableWithoutFeedback 
           onPress={() => {
@@ -681,7 +698,6 @@ const ExamScreen: React.FC<Props> = ({ navigation, route }) => {
             
             {/* Progress Bar */}
             <View style={styles.progressContainer}>
-              <Text style={styles.progressText}>{t('exam.currentResult')}: </Text>
               <View style={styles.progressBarContainer}>
                 <LinearGradient
                   colors={['#10B981', '#059669']}
@@ -757,9 +773,12 @@ const ExamScreen: React.FC<Props> = ({ navigation, route }) => {
               )}
             </Animated.View>
             
-            {/* Available Words */}
+            {/* Available Words (scrollable area, сохраняем раскладку и отступы) */}
             <View style={styles.availableWordsContainer}>
-              <View style={styles.availableWordsWrap}>
+              <ScrollView
+                contentContainerStyle={styles.availableWordsWrap}
+                showsVerticalScrollIndicator={false}
+              >
                 {availableWords.map((item, idx) => (
                   <TouchableOpacity
                     key={`available-${item.index}-${idx}`}
@@ -770,7 +789,7 @@ const ExamScreen: React.FC<Props> = ({ navigation, route }) => {
                     <Text style={styles.wordText}>{item.word}</Text>
                   </TouchableOpacity>
                 ))}
-              </View>
+              </ScrollView>
             </View>
             
             {/* Action Buttons */}
@@ -921,7 +940,9 @@ const styles = StyleSheet.create({
     backgroundColor: 'rgba(55, 65, 81, 0.3)',
     borderRadius: 16,
     padding: 16,
-    margin: 16,
+    marginHorizontal: 16,
+    marginTop: 16,
+    marginBottom: 2,
     minHeight: 100,
     justifyContent: 'center',
   },
@@ -973,7 +994,9 @@ const styles = StyleSheet.create({
   },
   availableWordsContainer: {
     flex: 1,
-    margin: 16,
+    marginHorizontal: 16,
+    marginTop: 2,
+    marginBottom: 16,
   },
   availableWordsWrap: {
     flexDirection: 'row',
@@ -1028,6 +1051,7 @@ const styles = StyleSheet.create({
   },
   fullScreenContainer: {
     flex: 1,
+    paddingBottom: 100,
   },
 });
 

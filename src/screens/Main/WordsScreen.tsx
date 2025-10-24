@@ -1,4 +1,4 @@
-import React, { useRef, useState, useEffect } from 'react';
+import React, { useRef, useState, useEffect, useCallback } from 'react';
 import {
   View,
   Text,
@@ -19,15 +19,15 @@ import {
 import { Ionicons } from '@expo/vector-icons';
 import { LinearGradient } from 'expo-linear-gradient';
 import type { NativeStackScreenProps } from '@react-navigation/native-stack';
-import { MainStackParamList } from '../../navigation/types';
+import { LessonsStackParamList } from '../../navigation/LessonsStackNavigator';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { useTranslation } from '../../localization';
 import RepetitionCountModal from '../../components/RepetitionCountModal';
 import { lessonService } from '../../services/lessonService';
-import { useRoute, RouteProp } from '@react-navigation/native';
+import { useRoute, RouteProp, useFocusEffect } from '@react-navigation/native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
-type Props = NativeStackScreenProps<MainStackParamList, 'Words'>;
+type Props = NativeStackScreenProps<LessonsStackParamList, 'Words'>;
 
 interface WordItem {
   id?: number;
@@ -43,10 +43,10 @@ interface WordItem {
 }
 
 // Define the WordsScreenRouteProp type if you need it
-type WordsScreenRouteProp = RouteProp<MainStackParamList, 'Words'>;
+type WordsScreenRouteProp = RouteProp<LessonsStackParamList, 'Words'>;
 
 // Добавить маппинг языка
-const languageMap = { ru: 'russian', es: 'spanish', fr: 'french', de: 'german' };
+const languageMap = { en: 'english', ru: 'russian', es: 'spanish', fr: 'french', de: 'german' };
 
 // Skeleton component for loading state
 const WordSkeletonCard = () => (
@@ -64,22 +64,16 @@ const WordSkeletonCard = () => (
 
 interface WordCardProps {
   word: WordItem;
-  onPress: (wordId: number) => void;
-  targetRepetitions: number;
   renderMasteryBar: (mastery: number) => React.ReactNode;
   t: (key: string) => string;
   numericLessonId: number;
 }
 
 // Memoized WordCard component for performance
-const WordCard = React.memo<WordCardProps>(({ word, onPress, targetRepetitions, renderMasteryBar, t, numericLessonId }) => {
+const WordCard = React.memo<WordCardProps>(({ word, renderMasteryBar, t, numericLessonId }) => {
   if (Platform.OS === 'android') {
     return (
-      <TouchableOpacity
-        style={styles.wordCardAndroidShadow}
-        onPress={() => onPress(word.number)}
-        activeOpacity={0.85}
-      >
+      <View style={styles.wordCardAndroidShadow}>
         <LinearGradient
           colors={['#3B82F6', '#1F2937']}
           start={{ x: 0, y: 0 }}
@@ -100,27 +94,18 @@ const WordCard = React.memo<WordCardProps>(({ word, onPress, targetRepetitions, 
               <View style={styles.masterySectionAndroid}>
                 {renderMasteryBar(word.mastery || 0)}
                 <Text style={styles.masteryTextAndroid}>
-                  {word.repetitions}/{targetRepetitions}
+                  {Math.round(word.mastery || 0)}%
                 </Text>
               </View>
-              <Ionicons 
-                name="chevron-forward" 
-                size={20} 
-                color="#D1D5DB" 
-                style={styles.arrowIconAndroid}
-              />
             </View>
           </View>
         </LinearGradient>
-      </TouchableOpacity>
+      </View>
     );
   }
   // iOS: keep as is
   return (
-  <TouchableOpacity
-    style={styles.wordCard}
-    onPress={() => onPress(word.number)}
-  >
+  <View style={styles.wordCard}>
     <View style={styles.wordContent}>
       <View style={styles.leftSection}>
         <View style={styles.wordRow}>
@@ -135,18 +120,12 @@ const WordCard = React.memo<WordCardProps>(({ word, onPress, targetRepetitions, 
         <View style={styles.masterySection}>
           {renderMasteryBar(word.mastery || 0)}
           <Text style={styles.masteryText}>
-            {word.repetitions}/{targetRepetitions}
+            {Math.round(word.mastery || 0)}%
           </Text>
         </View>
-        <Ionicons 
-          name="chevron-forward" 
-          size={20} 
-          color="#D1D5DB" 
-          style={styles.arrowIcon}
-        />
       </View>
     </View>
-  </TouchableOpacity>
+  </View>
   );
 });
 
@@ -185,18 +164,15 @@ const WordsScreen: React.FC<Props> = ({ navigation, route }) => {
         const vocabularyData = await lessonService.getLessonVocabulary(numericLessonId);
         
         if (vocabularyData && 
-            vocabularyData.allWords && 
-            vocabularyData.allWords.length > 0) {
+            (vocabularyData.firstList || vocabularyData.secondList)) {
           
-          console.log("Processing words, total:", vocabularyData.allWords.length);
+          console.log("Processing words, total:", (vocabularyData.allWords || []).length);
           console.log("Current wordListType:", wordListType);
           
-          // Filter words based on wordListType parameter
-          const filteredWords = vocabularyData.allWords.filter((word: any) => {
-            // If we're on the Irregular Verbs screen, show only secondList
-            // If we're on the regular Words screen, show only firstList
-            return word.listSource === wordListType;
-          });
+          // Берём нужный список напрямую (надёжнее, чем фильтровать allWords)
+          const filteredWords = wordListType === 'secondList'
+            ? (vocabularyData.secondList || [])
+            : (vocabularyData.firstList || []);
           
           console.log("Filtered words count:", filteredWords.length);
           
@@ -337,39 +313,61 @@ const WordsScreen: React.FC<Props> = ({ navigation, route }) => {
   // Модифицированная функция loadSavedProgress
   const loadSavedProgress = async (currentTarget?: number) => {
     try {
-      // Важно! Получаем актуальное значение targetRepetitions из AsyncStorage
-      let repetitionTarget = currentTarget;
+      // Сначала пытаемся загрузить прогресс из нового формата (LearnWordsScreen)
+      const learnProgressFirstList = await AsyncStorage.getItem(`learnWordsProgress_lesson${lessonId}_firstList`);
+      const learnProgressSecondList = await AsyncStorage.getItem(`learnWordsProgress_lesson${lessonId}_secondList`);
       
-      if (!repetitionTarget) {
-        const savedTarget = await AsyncStorage.getItem(`targetRepetitions_lesson${lessonId}`);
-        repetitionTarget = savedTarget ? parseInt(savedTarget, 10) : targetRepetitions;
+      const learnProgress: {[wordId: number]: any} = {};
+      
+      if (learnProgressFirstList) {
+        const parsedFirst = JSON.parse(learnProgressFirstList);
+        Object.assign(learnProgress, parsedFirst);
       }
       
-      // Загружаем прогресс из AsyncStorage
-      const savedProgress = await AsyncStorage.getItem(`wordRepetitions_lesson${lessonId}`);
+      if (learnProgressSecondList) {
+        const parsedSecond = JSON.parse(learnProgressSecondList);
+        Object.assign(learnProgress, parsedSecond);
+      }
       
-      if (savedProgress) {
-        const parsedProgress = JSON.parse(savedProgress);
-        console.log('Loaded progress:', parsedProgress, 'Target:', repetitionTarget);
-        
-        // Обновляем состояние с новым прогрессом
+      // Если есть прогресс из нового формата
+      if (Object.keys(learnProgress).length > 0) {
         setWordsData(currentWords => 
           currentWords.map(word => {
-            const progress = parsedProgress[word.number] || { repetitions: 0 };
-            
-            // Используем обновленное значение targetRepetitions для вычисления mastery
-            return {
-              ...word,
-              repetitions: progress.repetitions,
-              // Важно! Всегда используем актуальное значение для вычисления прогресса
-              mastery: (progress.repetitions / repetitionTarget) * 100
-            };
+            const wordProgress = learnProgress[word.number];
+            if (wordProgress && wordProgress.totalProgress !== undefined) {
+              return {
+                ...word,
+                mastery: wordProgress.totalProgress, // Используем totalProgress напрямую (0-100%)
+                repetitions: Math.floor((wordProgress.totalProgress / 100) * 10) // Для обратной совместимости
+              };
+            }
+            return word;
           })
         );
+      } else {
+        // Если нет прогресса из нового формата, загружаем старый формат
+        const savedProgress = await AsyncStorage.getItem(`wordRepetitions_lesson${lessonId}`);
         
-        // Обновляем значение targetRepetitions в состоянии компонента
-        if (repetitionTarget !== targetRepetitions) {
-          setTargetRepetitions(repetitionTarget);
+        if (savedProgress) {
+          const parsedProgress = JSON.parse(savedProgress);
+          console.log('Loaded progress (old format):', parsedProgress);
+          
+          setWordsData(currentWords => 
+            currentWords.map(word => {
+              const progress = parsedProgress[word.number] || { repetitions: 0 };
+              
+              // Если есть totalProgress, используем его, иначе конвертируем из repetitions
+              const mastery = progress.totalProgress !== undefined 
+                ? progress.totalProgress 
+                : (progress.repetitions / 10) * 100;
+              
+              return {
+                ...word,
+                repetitions: progress.repetitions || 0,
+                mastery: mastery
+              };
+            })
+          );
         }
       }
     } catch (error) {
@@ -437,7 +435,11 @@ const WordsScreen: React.FC<Props> = ({ navigation, route }) => {
         lessonId,
         itemId: selectedWord.number,
         itemType: 'word',
-        targetRepetitions
+        targetRepetitions,
+        onProgressUpdate: () => {
+          // Обновляем прогресс сразу при изменении
+          loadSavedProgress();
+        }
       });
     } else {
       console.error('Word not found:', wordId);
@@ -518,7 +520,7 @@ const WordsScreen: React.FC<Props> = ({ navigation, route }) => {
         start={{ x: 0, y: 0 }}
         end={{ x: 1, y: 1 }}
       >
-        <SafeAreaView style={styles.safeArea} edges={["top", "left", "right", "bottom"]}>
+        <SafeAreaView style={styles.safeArea} edges={["top", "left", "right"]}>
           {/* Header Background */}
           <Animated.View style={[styles.headerBackground, { opacity: headerOpacity }]} />
           
@@ -530,9 +532,7 @@ const WordsScreen: React.FC<Props> = ({ navigation, route }) => {
             <View style={styles.headerTitleContainer}>
               <Text style={styles.headerTitle}>{`${t('lessons.words')}`}</Text>
             </View>
-            <TouchableOpacity style={styles.settingsButton} onPress={() => setShowRepetitionModal(true)}>
-              <Ionicons name="repeat" size={24} color="#D1D5DB" />
-            </TouchableOpacity>
+            <View style={styles.placeholderButton} />
           </View>
 
           <ScrollView
@@ -540,11 +540,6 @@ const WordsScreen: React.FC<Props> = ({ navigation, route }) => {
             showsVerticalScrollIndicator={false}
           >
             <View style={styles.contentContainer}>
-              <View style={styles.repetitionInfo}>
-                <Text style={styles.repetitionText}>
-                  {t('words.pressTheButton')} <Ionicons name="repeat" size={18} color="#D1D5DB" />
-                </Text>
-              </View>
               {/* Skeleton Cards */}
               {Array.from({ length: 8 }).map((_, index) => <WordSkeletonCard key={index} />)}
             </View>
@@ -555,22 +550,20 @@ const WordsScreen: React.FC<Props> = ({ navigation, route }) => {
   }
 
   const getScreenTitle = () => {
-    // If we're on the Past Participle screen of lesson 14
+    // Урок 14: третья форма глагола (локализовано через i18n ключ)
     if (numericLessonId === 14 && wordListType === 'secondList') {
-      return getPastParticipleTranslation(language) + (wordsData.length > 0 ? ` (${wordsData.length})` : '');
+      return `${t('words.pastParticipleSection')}${wordsData.length > 0 ? ` (${wordsData.length})` : ''}`;
     }
-    // If we're on the phrasal verbs screen of lesson 16
-    else if (numericLessonId === 16 && wordListType === 'secondList') {
-      return getPhrasalVerbsTranslation(language) + (wordsData.length > 0 ? ` (${wordsData.length})` : '');
+    // Урок 16: фразовые глаголы (локализовано через i18n ключ)
+    if (numericLessonId === 16 && wordListType === 'secondList') {
+      return `${t('words.phrasalVerbsSection')}${wordsData.length > 0 ? ` (${wordsData.length})` : ''}`;
     }
-    // If we're on the irregular verbs screen of lesson 1
-    else if (numericLessonId === 1 && wordListType === 'secondList') {
-      return t('words.irregularVerbsSection') + (wordsData.length > 0 ? ` (${wordsData.length})` : '');
+    // Урок 1: неправильные глаголы
+    if (numericLessonId === 1 && wordListType === 'secondList') {
+      return `${t('words.irregularVerbsSection')}${wordsData.length > 0 ? ` (${wordsData.length})` : ''}`;
     }
-    // Otherwise it's regular words
-    else {
-      return `${t('lessons.words')} (${wordsData.length})`;
-    }
+    // Обычные слова
+    return `${t('lessons.words')} (${wordsData.length})`;
   };
 
   const getPhrasalVerbsTranslation = (language: string): string => {
@@ -611,7 +604,7 @@ const WordsScreen: React.FC<Props> = ({ navigation, route }) => {
       end={{ x: 1, y: 1 }}
     >
       <StatusBar barStyle="light-content" />
-      <SafeAreaView style={styles.safeArea} edges={["top", "left", "right", "bottom"]}>
+      <SafeAreaView style={styles.safeArea} edges={["top", "left", "right"]}>
         {/* Header Background */}
         <Animated.View style={[styles.headerBackground, { opacity: headerOpacity }]} />
         
@@ -629,10 +622,35 @@ const WordsScreen: React.FC<Props> = ({ navigation, route }) => {
             </Text>
           </View>
           <TouchableOpacity
-            style={styles.settingsButton}
-            onPress={() => setShowRepetitionModal(true)}
+            style={styles.resetButton}
+            onPress={async () => {
+              Alert.alert(
+                t('words.resetWordsTitle'),
+                t('words.resetWordsMessage'),
+                [
+                  { text: t('common.cancel'), style: 'cancel' },
+                  {
+                    text: t('words.resetButton'),
+                    style: 'destructive',
+                    onPress: async () => {
+                      try {
+                        await AsyncStorage.removeItem(`learnWordsProgress_lesson${numericLessonId}_${wordListType}`);
+                        await AsyncStorage.removeItem(`learnWordsSession_lesson${numericLessonId}_${wordListType}`);
+                        await AsyncStorage.removeItem(`learnWordsStats_lesson${numericLessonId}_${wordListType}`);
+                        // Обновляем локальное состояние списка
+                        setWordsData(prev => prev.map(w => ({ ...w, repetitions: 0, mastery: 0 })));
+                      } catch (e) {
+                        console.error('Error resetting progress from WordsScreen:', e);
+                      }
+                    }
+                  }
+                ]
+              );
+            }}
+            hitSlop={{ top: 8, bottom: 8, left: 8, right: 8 }}
           >
-            <Ionicons name="repeat" size={24} color="#D1D5DB" />
+            <Ionicons name="refresh" size={18} color="#EF4444" style={{ marginRight: 6 }} />
+            <Text style={styles.resetButtonText}>{t('words.resetShort')}</Text>
           </TouchableOpacity>
         </View>
 
@@ -644,18 +662,10 @@ const WordsScreen: React.FC<Props> = ({ navigation, route }) => {
           onScroll={handleScroll}
           scrollEventThrottle={16}
           keyExtractor={(item) => item.number.toString()}
-          ListHeaderComponent={
-            <View style={styles.repetitionInfo}>
-              <Text style={styles.repetitionText}>
-                {t('words.pressTheButton')} <Ionicons name="repeat" size={18} color="#D1D5DB" />
-              </Text>
-            </View>
-          }
+          ListHeaderComponent={null}
           renderItem={({ item }) => (
             <WordCard
               word={item}
-              onPress={handleWordPress}
-              targetRepetitions={targetRepetitions}
               renderMasteryBar={renderMasteryBar}
               t={t}
               numericLessonId={numericLessonId}
@@ -675,6 +685,29 @@ const WordsScreen: React.FC<Props> = ({ navigation, route }) => {
           itemType="word"
         />
       </SafeAreaView>
+      <View style={styles.actionButtonContainer}>
+        <TouchableOpacity 
+          style={styles.actionButtonLearn}
+          onPress={() => {
+            const hasWords = wordsData && wordsData.length > 0;
+            const allLearned = hasWords && wordsData.every(w => Math.round(w.mastery || 0) >= 100);
+            if (allLearned) {
+              Alert.alert(
+                'Все слова изучены',
+                'Чтобы учить заново — сбросьте прогресс слов.',
+                [{ text: 'OK' }]
+              );
+              return;
+            }
+            navigation.navigate('LearnWords', { 
+              lessonId: numericLessonId,
+              wordListType 
+            });
+          }}
+        >
+          <Text style={styles.actionButtonText}>{t('words.learn')}</Text>
+        </TouchableOpacity>
+      </View>
     </LinearGradient>
   );
 };
@@ -699,7 +732,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'space-between',
-    paddingHorizontal: 8,
+    paddingHorizontal: 20,
     height: 44,
     zIndex: 2,
   },
@@ -733,6 +766,7 @@ const styles = StyleSheet.create({
   contentContainer: {
     padding: 20,
     paddingTop: 20,
+    paddingBottom: 170,
   },
   repetitionInfo: {
     marginBottom: 20,
@@ -753,7 +787,9 @@ const styles = StyleSheet.create({
   wordCard: {
     backgroundColor: 'rgba(59, 130, 246, 0.1)',
     borderRadius: 20,
-    padding: 16,
+    paddingHorizontal: 16,
+    paddingVertical: 22,
+    minHeight: 72,
     marginBottom: 12,
     ...Platform.select({
       ios: {
@@ -779,12 +815,14 @@ const styles = StyleSheet.create({
   },
   rightSection: {
     alignItems: 'flex-end',
+    justifyContent: 'center',
     gap: 8,
   },
   wordRow: {
     flexDirection: 'row',
     alignItems: 'center',
     gap: 12,
+    flexWrap: 'wrap',
   },
   englishWord: {
     fontSize: 18,
@@ -794,6 +832,8 @@ const styles = StyleSheet.create({
   translationWord: {
     fontSize: 16,
     color: '#D1D5DB',
+    width: '100%',
+    marginTop: 2,
   },
   exampleText: {
     fontSize: 14,
@@ -824,7 +864,6 @@ const styles = StyleSheet.create({
     textAlign: 'right',
   },
   arrowIcon: {
-    marginTop: 8,
   },
   // Modal styles
   modalOverlay: {
@@ -992,7 +1031,9 @@ const styles = StyleSheet.create({
     justifyContent: 'space-between',
     alignItems: 'center',
     gap: 12,
-    padding: 16,
+    paddingHorizontal: 16,
+    paddingVertical: 22,
+    minHeight: 72,
   },
   leftSectionAndroid: {
     gap: 8,
@@ -1000,12 +1041,14 @@ const styles = StyleSheet.create({
   },
   rightSectionAndroid: {
     alignItems: 'flex-end',
+    justifyContent: 'center',
     gap: 8,
   },
   wordRowAndroid: {
     flexDirection: 'row',
     alignItems: 'center',
     gap: 12,
+    flexWrap: 'wrap',
   },
   englishWordAndroid: {
     fontSize: 18,
@@ -1015,6 +1058,8 @@ const styles = StyleSheet.create({
   translationWordAndroid: {
     fontSize: 16,
     color: '#D1D5DB',
+    width: '100%',
+    marginTop: 2,
   },
   exampleTextAndroid: {
     fontSize: 14,
@@ -1034,7 +1079,49 @@ const styles = StyleSheet.create({
     textAlign: 'right',
   },
   arrowIconAndroid: {
-    marginTop: 8,
+  },
+  actionButtonContainer: {
+    position: 'absolute',
+    bottom: 110,
+    left: 20,
+    right: 20,
+    flexDirection: 'row',
+    gap: 20,
+  },
+  actionButtonLearn: {
+    flex: 1,
+    backgroundColor: '#10B981',
+    borderRadius: 12,
+    paddingVertical: 16,
+    alignItems: 'center',
+    shadowColor: '#000',
+    shadowOffset: {
+      width: 0,
+      height: 5,
+    },
+    shadowOpacity: 0.3,
+    shadowRadius: 5,
+    elevation: 10,
+  },
+  actionButtonRepeat: {
+    flex: 1,
+    backgroundColor: '#3B82F6',
+    borderRadius: 12,
+    paddingVertical: 16,
+    alignItems: 'center',
+    shadowColor: '#000',
+    shadowOffset: {
+      width: 0,
+      height: 5,
+    },
+    shadowOpacity: 0.3,
+    shadowRadius: 5,
+    elevation: 10,
+  },
+  actionButtonText: {
+    color: 'white',
+    fontSize: 16,
+    fontWeight: '600',
   },
   wordCardSkeleton: {
     backgroundColor: 'rgba(59, 130, 246, 0.1)',
@@ -1060,6 +1147,21 @@ const styles = StyleSheet.create({
     height: 4,
     backgroundColor: 'rgba(255, 255, 255, 0.1)',
     borderRadius: 2,
+  },
+  resetButton: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    height: 32,
+    paddingHorizontal: 10,
+    borderRadius: 16,
+    borderWidth: 1,
+    borderColor: '#EF4444',
+    backgroundColor: 'rgba(239, 68, 68, 0.15)',
+  },
+  resetButtonText: {
+    color: '#EF4444',
+    fontSize: 14,
+    fontWeight: '600',
   },
 });
 

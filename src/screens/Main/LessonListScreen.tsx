@@ -12,29 +12,63 @@ import {
   NativeSyntheticEvent,
   NativeScrollEvent,
   Image,
+  Alert,
+  Dimensions,
 } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { LinearGradient } from 'expo-linear-gradient';
-import { useNavigation } from '@react-navigation/native';
+import { useNavigation, useFocusEffect } from '@react-navigation/native';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
-import { MainStackParamList } from '../../navigation/types';
+import { LessonsStackParamList } from '../../navigation/LessonsStackNavigator';
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import SuperwallService from '../../services/SuperwallService';
+// Superwall removed. Use internal PaywallFlow only.
 import { useTranslation } from '../../localization';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { usePremium } from '../../contexts/PremiumContext';
 import LoadingIndicator from '../../components/LoadingIndicator';
+import { lessonService } from '../../services/lessonService';
+
+type LessonActivity = {
+  id: string;
+  title: string;
+  icon: string;
+  progress: number;
+  unlocked: boolean;
+  screen: keyof LessonsStackParamList;
+  params?: any;
+};
 
 const LessonListScreen = () => {
-  const navigation = useNavigation<NativeStackNavigationProp<MainStackParamList, 'LessonList'>>();
+  const navigation = useNavigation<NativeStackNavigationProp<LessonsStackParamList, 'LessonList'>>();
   const { t, language } = useTranslation();
   const { isPro, setPro, isLoading } = usePremium();
   const [selectedId, setSelectedId] = useState<number | null>(null);
   const [pressedId, setPressedId] = useState<number | null>(null);
   const scrollY = useRef(new Animated.Value(0)).current;
+  // Плавное появление контента экрана
+  const contentOpacity = useRef(new Animated.Value(0)).current;
+  const contentTranslateY = useRef(new Animated.Value(8)).current;
+  const animateIn = () => {
+    Animated.parallel([
+      Animated.timing(contentOpacity, { toValue: 1, duration: 220, useNativeDriver: true }),
+      Animated.timing(contentTranslateY, { toValue: 0, duration: 220, useNativeDriver: true })
+    ]).start();
+  };
 
   // Состояние уроков (с прогрессом)
   const [lessons, setLessons] = useState<any[]>([]);
+  const [lessonActivities, setLessonActivities] = useState<{[lessonId: number]: LessonActivity[]}>({});
+  
+  // State for tracking viewed activities
+  const [viewedActivities, setViewedActivities] = useState<{[key: string]: boolean}>({});
+  
+  // State for tracking collapsed lessons
+  const [collapsedLessons, setCollapsedLessons] = useState<{[lessonId: number]: boolean}>({});
+  
+  // Animation refs for pulsing
+  const pulseAnims = useRef<{[key: string]: Animated.Value}>({}).current;
+  // Отключаем пульсацию кнопок активностей
+  const ENABLE_ACTIVITY_PULSE = false;
 
   // Helper для глубокого сравнения массивов уроков (по ключевым полям)
   const lessonsEqual = (a: any[], b: any[]) => {
@@ -49,6 +83,114 @@ const LessonListScreen = () => {
     return true;
   };
 
+  // Load viewed activities state
+  const loadViewedActivities = async () => {
+    try {
+      const saved = await AsyncStorage.getItem('viewedActivities');
+      if (saved) {
+        setViewedActivities(JSON.parse(saved));
+      }
+    } catch (error) {
+      console.error('Error loading viewed activities:', error);
+    }
+  };
+
+  // Save viewed activity
+  const markActivityAsViewed = async (lessonId: number, activityId: string) => {
+    const key = `${lessonId}_${activityId}`;
+    const newViewedActivities = { ...viewedActivities, [key]: true };
+    setViewedActivities(newViewedActivities);
+    try {
+      await AsyncStorage.setItem('viewedActivities', JSON.stringify(newViewedActivities));
+    } catch (error) {
+      console.error('Error saving viewed activities:', error);
+    }
+  };
+
+  // Загружаем активности для урока
+  const loadLessonActivities = async (lessonId: number): Promise<LessonActivity[]> => {
+    try {
+      // Загружаем прогресс слов и предложений
+      const wordsProgress = await AsyncStorage.getItem(`lesson_${lessonId}_words_progress`);
+      const sentencesProgress = await AsyncStorage.getItem(`lesson_${lessonId}_sentences_progress`);
+      const examProgress = await AsyncStorage.getItem(`lesson_${lessonId}_exam_progress`);
+      const descriptionViewed = await AsyncStorage.getItem(`lesson_${lessonId}_description_viewed`);
+      
+      // Базовые активности для всех уроков
+      const activities: LessonActivity[] = [
+        {
+          id: 'description',
+          title: t('lessons.description'),
+          icon: 'information-circle',
+          progress: descriptionViewed === 'true' ? 100 : 0,
+          unlocked: true,
+          screen: 'Description',
+          params: { lessonId }
+        },
+        {
+          id: 'words',
+          title: t('lessons.words'),
+          icon: 'list',
+          progress: wordsProgress ? parseInt(wordsProgress, 10) : 0,
+          unlocked: true,
+          screen: 'Words',
+          params: { lessonId }
+        }
+      ];
+
+      // Добавляем специальные разделы для конкретных уроков
+      if (lessonId === 1) {
+        activities.push({
+          id: 'irregular-verbs',
+          title: t('words.irregularVerbsSection'),
+          icon: 'refresh',
+          progress: 0,
+          unlocked: true,
+          screen: 'Words',
+          params: { lessonId, wordListType: 'secondList' }
+        });
+      } else if (lessonId === 14) {
+        activities.push({
+          id: 'third-form',
+          title: t('words.pastParticipleSection'),
+          icon: 'library',
+          progress: 0,
+          unlocked: true,
+          screen: 'Words',
+          params: { lessonId, wordListType: 'secondList' }
+        });
+      } else if (lessonId === 16) {
+        activities.push({
+          id: 'phrasal-verbs',
+          title: t('words.phrasalVerbsSection'),
+          icon: 'link',
+          progress: 0,
+          unlocked: true,
+          screen: 'Words',
+          params: { lessonId, wordListType: 'secondList' }
+        });
+      }
+
+      // Добавляем "Продолжить урок" в конце (кроме урока 18)
+      if (lessonId !== 18) {
+        activities.push({
+          id: 'exam',
+          title: t('lessons.exam'),
+          icon: 'school',
+          progress: examProgress ? parseInt(examProgress, 10) : 0,
+          unlocked: true,
+          screen: 'Exam',
+          params: { lessonId }
+        });
+      }
+
+      return activities;
+    } catch (error) {
+      console.error('Error loading lesson activities:', error);
+      return [];
+    }
+  };
+
   // Загружаем уроки и прогресс
   useEffect(() => {
     if (isLoading) return; // Ждём определения статуса подписки
@@ -59,9 +201,17 @@ const LessonListScreen = () => {
           id: i + 1,
           title: `${t('lessons.lessonTitle')} ${i + 1}`,
           progress: 0,
-          unlocked: i === 0 || isPro,
+          // Реальная логика разблокировки устанавливается ниже
+          unlocked: i === 0,
           isCompleted: false,
         }));
+
+        // Попытка загрузить офлайн-кэш разблокированных уроков
+        let cachedUnlocked: Record<string, boolean> | null = null;
+        try {
+          const raw = await AsyncStorage.getItem('lastUnlockedLessons');
+          if (raw) cachedUnlocked = JSON.parse(raw);
+        } catch {}
 
         for (let i = 0; i < newLessons.length; i++) {
           const lessonId = i + 1;
@@ -72,45 +222,267 @@ const LessonListScreen = () => {
             const progress = parseInt(savedProgress, 10);
             if (!isNaN(progress)) newLessons[i].progress = progress;
           }
-          if (isCompleted === 'true') newLessons[i].isCompleted = true;
-          if (isPro) newLessons[i].unlocked = true;
+
+          // Специальная логика прогресса для урока 18: только по выученным словам
+          if (lessonId === 18) {
+            try {
+              const vocabulary = await lessonService.getLessonVocabulary(18);
+              const totalWords = (vocabulary?.allWords || []).length;
+              let learnedCount = 0;
+              if (totalWords > 0) {
+                const progressFirst = await AsyncStorage.getItem('learnWordsProgress_lesson18_firstList');
+                const progressSecond = await AsyncStorage.getItem('learnWordsProgress_lesson18_secondList');
+                const merged: any = {};
+                if (progressFirst) Object.assign(merged, JSON.parse(progressFirst));
+                if (progressSecond) Object.assign(merged, JSON.parse(progressSecond));
+                learnedCount = Object.values(merged).filter((p: any) => p && p.totalProgress >= 100).length;
+                const pct = Math.min(100, Math.round((learnedCount / totalWords) * 100));
+                newLessons[i].progress = pct;
+              }
+            } catch (e) {
+              console.warn('Lesson 18 progress calc failed:', e);
+            }
+          }
+
+          newLessons[i].isCompleted = isCompleted === 'true';
+
+          // Разблокировка уроков: первый всегда открыт; остальные — только при активной подписке и 90%+ в предыдущем
+          if (lessonId === 1) {
+            newLessons[i].unlocked = true;
+          } else if (typeof navigator !== 'undefined' && (navigator as any).onLine === false && cachedUnlocked) {
+            // Офлайн: используем последнее сохранённое состояние
+            newLessons[i].unlocked = Boolean(cachedUnlocked[String(lessonId)]);
+          } else if (!isPro) {
+            newLessons[i].unlocked = false;
+          } else {
+            const prevCompleted = await AsyncStorage.getItem(`lesson_${lessonId - 1}_completed`);
+            newLessons[i].unlocked = prevCompleted === 'true';
+          }
         }
 
-        if (!lessonsEqual(lessons, newLessons)) {
-          setLessons(newLessons);
+        // Сравниваем и обновляем состояние только при изменениях
+        setLessons(prev => (lessonsEqual(prev, newLessons) ? prev : newLessons));
+
+        // Сохраняем текущее состояние разблокировки для офлайн-старта
+        try {
+          const map: Record<string, boolean> = {};
+          newLessons.forEach(l => { map[String(l.id)] = Boolean(l.unlocked); });
+          await AsyncStorage.setItem('lastUnlockedLessons', JSON.stringify(map));
+        } catch (e) {
+          console.warn('Failed to cache lastUnlockedLessons', e);
         }
-      } catch (err) {
-        console.error('LessonListScreen loadData error:', err);
+
+        // Загружаем активности для всех разблокированных уроков
+        const activitiesByLesson: { [lessonId: number]: LessonActivity[] } = {};
+        for (const lesson of newLessons) {
+          if (lesson.unlocked) {
+            activitiesByLesson[lesson.id] = await loadLessonActivities(lesson.id);
+        }
+        }
+        setLessonActivities(activitiesByLesson);
+      } catch (error) {
+        console.error('Error loading lessons and progress:', error);
       }
     };
 
     loadData();
+
     const unsubscribe = navigation.addListener('focus', loadData);
     return () => unsubscribe();
   }, [navigation, t, language, isPro, isLoading]);
+
+  // Загружаем отметки просмотренных активностей один раз
+  useEffect(() => {
+    loadViewedActivities();
+  }, []);
+
+  // Избегаем двойной анимации со сплэшем: при первом открытии экрана появление без screen‑fade,
+  // при последующих фокусах — обычная короткая анимация
+  // На экране "Уроки" не делаем дополнительный fade-in: он уже был после сплэша (App-level).
+  // Всегда показываем контент сразу без анимации, чтобы исключить двойной эффект.
+  useEffect(() => {
+    contentOpacity.setValue(1);
+    contentTranslateY.setValue(0);
+  }, []);
+  
+  // Start pulse animations for activities (отключено)
+  useEffect(() => {
+    if (!ENABLE_ACTIVITY_PULSE) return;
+    // Clear all animations first
+    Object.keys(pulseAnims).forEach(key => {
+      if (pulseAnims[key]) {
+        pulseAnims[key].stopAnimation();
+      }
+    });
+    lessons.forEach(lesson => {
+      if (lesson.unlocked && lessonActivities[lesson.id]) {
+        lessonActivities[lesson.id].forEach((activity, index) => {
+          const key = `${lesson.id}_${activity.id}`;
+          if (shouldActivityPulse(lesson.id, activity, index)) {
+            const anim = createPulseAnimation(key);
+            anim.start();
+          }
+        });
+      }
+    });
+  }, [lessons, lessonActivities, viewedActivities]);
+
+  // Автоматическое сворачивание завершенных уроков
+  useEffect(() => {
+    if (!lessons.length) return;
+
+    const updatedCollapsedLessons: {[lessonId: number]: boolean} = {};
+    
+    lessons.forEach(lesson => {
+      // Автоматически сворачиваем уроки с прогрессом ≥90%
+      if (lesson.progress >= 90) {
+        updatedCollapsedLessons[lesson.id] = true;
+      }
+    });
+
+    // Обновляем состояние только если есть изменения
+    setCollapsedLessons(prev => {
+      const hasChanges = Object.keys(updatedCollapsedLessons).some(
+        lessonId => prev[parseInt(lessonId)] !== updatedCollapsedLessons[parseInt(lessonId)]
+      );
+      
+      if (hasChanges) {
+        console.log('🔄 Auto-collapsing completed lessons:', updatedCollapsedLessons);
+        return { ...prev, ...updatedCollapsedLessons };
+      }
+      
+      return prev;
+    });
+  }, [lessons]);
+
+  // Create pulse animation for activity
+  const createPulseAnimation = (key: string) => {
+    if (!pulseAnims[key]) {
+      pulseAnims[key] = new Animated.Value(1);
+    }
+    
+    const anim = Animated.loop(
+      Animated.sequence([
+        Animated.timing(pulseAnims[key], {
+          toValue: 0.9,
+          duration: 1000,
+          useNativeDriver: true,
+        }),
+        Animated.timing(pulseAnims[key], {
+          toValue: 1,
+          duration: 1000,
+          useNativeDriver: true,
+        }),
+      ])
+    );
+    
+    return anim;
+  };
+
+  // Получить цвет активности по ID
+  const getActivityColor = (activityId: string): string => {
+    switch (activityId) {
+      case 'description':
+        return '#3B82F6'; // Синий
+      case 'words':
+        return '#10B981'; // Зеленый
+      case 'irregular-verbs':
+        return '#8B5CF6'; // Фиолетовый
+      case 'third-form':
+        return '#F59E0B'; // Оранжевый
+      case 'phrasal-verbs':
+        return '#EC4899'; // Розовый
+      case 'exam':
+        return '#EF4444'; // Красный
+      default:
+        return '#6B7280'; // Серый по умолчанию
+    }
+  };
+
+  // Determine if activity should pulse
+  const shouldActivityPulse = (lessonId: number, activity: LessonActivity, index: number) => {
+    const key = `${lessonId}_${activity.id}`;
+    const isViewed = viewedActivities[key];
+    
+    // If already viewed, don't pulse
+    if (isViewed) return false;
+    
+    // For exam, pulse if progress < 90%
+    if (activity.id === 'exam') {
+      return activity.progress < 90;
+    }
+    
+    // For other activities, check if previous activities are viewed
+    const activities = lessonActivities[lessonId];
+    if (!activities) return false;
+    
+    // Check if all previous activities are viewed
+    for (let i = 0; i < index; i++) {
+      const prevKey = `${lessonId}_${activities[i].id}`;
+      if (!viewedActivities[prevKey]) {
+        return false; // Previous activity not viewed, so don't pulse this one
+      }
+    }
+    
+    return true; // All previous viewed, so pulse this one
+  };
 
   const handleLessonPress = async (lessonId: number) => {
     try {
       const lesson = lessons.find(l => l.id === lessonId);
       if (!lesson) return;
   
-      // Если нет подписки и это не первый урок — показываем Paywall
+      // Нет подписки и это не первый урок → показываем Paywall
       if (!isPro && lessonId > 1) {
-        await SuperwallService.showPaywall('campaign_trigger');
+        navigation.getParent()?.getParent()?.navigate('PaywallFlow' as never);
         return;
       }
   
-      navigation.navigate('LessonDetail', { lessonId });
-    } catch (error) {
-      console.error('LessonListScreen: Error handling lesson press:', error);
+      // Подписка есть, но урок ещё заблокирован → подсказка о 90%
+      if (isPro && !lesson.unlocked) {
+        Alert.alert(
+          t('lessons.lessonsTitle'),
+          t('lessons.examInfo')
+        );
+        return;
+      }
+
+      // Если урок завершен (≥90%), переключаем состояние сворачивания
+      if (lesson.progress >= 90) {
+        setCollapsedLessons(prev => ({
+          ...prev,
+          [lessonId]: !prev[lessonId]
+        }));
+        return;
+      }
+
+      // Если открыт: загружаем активности (если не загружены)
+      if (!lessonActivities[lessonId]) {
+        const activities = await loadLessonActivities(lessonId);
+        setLessonActivities(prev => ({
+          ...prev,
+          [lessonId]: activities
+        }));
+      }
+    } catch (err) {
+      console.error('handleLessonPress error:', err);
     }
+  };
+
+  // Обработчик нажатия на активность
+  const handleActivityPress = async (activity: LessonActivity, lessonId?: number) => {
+    if (lessonId) {
+      await markActivityAsViewed(lessonId, activity.id);
+    }
+    
+    navigation.navigate(activity.screen, activity.params);
   };
   
 
   const renderProgressBar = (progress: number) => (
     <View style={styles.progressBarContainer}>
       <LinearGradient
-        colors={['#3B82F6', '#06B6D4']}
+        colors={['#10B981', '#059669']}
         start={{ x: 0, y: 0 }}
         end={{ x: 1, y: 0 }}
         style={[styles.progressBar, { width: `${progress}%` }]}
@@ -138,7 +510,7 @@ const LessonListScreen = () => {
       end={{ x: 1, y: 1 }}
     >
       <StatusBar barStyle="light-content" />
-      <SafeAreaView style={styles.safeArea} edges={["top", "left", "right", "bottom"]}>
+      <SafeAreaView style={styles.safeArea} edges={["top", "left", "right"]}>
         <Animated.View style={[styles.headerBackground, { opacity: headerOpacity }]} />
         <View style={styles.navigationHeader}>
           <View style={styles.leftSideContainer}>
@@ -146,32 +518,32 @@ const LessonListScreen = () => {
               source={require('../../../my-app-new/assets/icon.png')}
               style={styles.logoImage}
             />
-            <Text style={styles.brandName}>Memora</Text>
-          </View>
-
-          <View style={styles.headerTitleContainer}>
-            <Text style={styles.headerTitle}>
-              {t('lessons.lessonsTitle')}
+            <Text
+              style={styles.brandName}
+              numberOfLines={1}
+              adjustsFontSizeToFit
+              minimumFontScale={0.85}
+              maxFontSizeMultiplier={1.1}
+            >
+              Memora English
             </Text>
           </View>
 
-          <View style={styles.rightSideContainer}>
-            <TouchableOpacity
-              style={styles.settingsButton}
-              onPress={() => navigation.navigate('Settings')}
-            >
-              <Ionicons name="settings-outline" size={24} color="#D1D5DB" />
-            </TouchableOpacity>
+          <View style={styles.headerTitleContainer}>
+            <View />
           </View>
+
+          <View style={styles.rightSideContainer} />
         </View>
 
-        <ScrollView
-          style={styles.scrollView}
+                 <Animated.ScrollView
+           style={[styles.scrollView, { opacity: contentOpacity, transform: [{ translateY: contentTranslateY }] }]}
+           contentContainerStyle={styles.contentContainer}
           showsVerticalScrollIndicator={false}
           onScroll={handleScroll}
           scrollEventThrottle={16}
         >
-          <View style={styles.contentContainer}>
+                     <View>
             <View style={styles.lessonsList}>
               {lessons.map((lesson) => {
                 const isSelected = selectedId === lesson.id;
@@ -180,60 +552,222 @@ const LessonListScreen = () => {
                 const isCompleted = lesson.progress === 100 || lesson.isCompleted;
 
                 if (Platform.OS === 'android') {
-                  const gradientColors: [string, string] = isUnlocked
-                    ? ['#3B82F6', '#1F2937']
-                    : ['#1F2937', '#374151'];
+                  const gradientColors: [string, string] = ['#3B82F6', '#1F2937'];
+
                   return (
-                    <View
-                      key={lesson.id}
-                      style={[
-                        styles.lessonCardAndroidShadow,
-                        isUnlocked ? styles.unlockedCardAndroid : styles.lockedCardAndroid,
-                        isSelected && styles.selectedCardAndroid,
-                        isPressed && styles.pressedCardAndroid,
-                        isCompleted && styles.completedCardAndroid,
-                      ]}
-                    >
+                    <View key={lesson.id}>
                       <Pressable
-                        android_ripple={{ borderless: true, radius: 300 }}
+                      style={[
+                          styles.lessonCard,
+                          styles.unlockedCard,
+                          isSelected && styles.selectedCard,
+                          isPressed && styles.pressedCard,
+                          isCompleted && styles.completedCard,
+                      ]}
                         onPress={() => handleLessonPress(lesson.id)}
                         onPressIn={() => setPressedId(lesson.id)}
                         onPressOut={() => setPressedId(null)}
-                        style={styles.lessonCardAndroidPressable}
                       >
                         <LinearGradient
                           colors={gradientColors}
                           start={{ x: 0, y: 0 }}
                           end={{ x: 1, y: 1 }}
-                          style={styles.lessonCardAndroidInner}
+                          style={styles.gradientOverlay}
                         >
-                          <View style={styles.lessonContentAndroid}>
-                            <View style={[styles.lessonNumberAndroid, isCompleted && { backgroundColor: '#10B981' }]}>
-                              <Text style={[styles.numberTextAndroid, isCompleted && { color: 'white' }]}>{lesson.id}</Text>
+                          <View style={styles.lessonContent}>
+                            <View style={styles.leftSection}>
+                              <View style={[
+                                styles.lessonNumber,
+                                styles.unlockedNumber,
+                                isPressed && styles.pressedNumber,
+                                isCompleted && styles.completedNumber,
+                              ]}>
+                                {isUnlocked ? (
+                                  <Text style={styles.numberText}>{lesson.id}</Text>
+                                ) : (
+                                  isPro ? (
+                                    <Ionicons name="lock-closed" size={20} color="#9CA3AF" />
+                                  ) : (
+                                    <Ionicons name="close-circle" size={36} color="#EF4444" />
+                                  )
+                                )}
                             </View>
-                            <Text style={[styles.lessonTitleAndroid, isCompleted && { color: '#10B981' }]}>
+                              <Text style={[
+                                styles.lessonTitle,
+                                isPressed && styles.pressedText,
+                                isCompleted && styles.completedText,
+                              ]}>
                               {lesson.title}
                               {isCompleted && ' ✓'}
                             </Text>
-                            <View style={styles.progressSectionAndroid}>
-                              <View style={styles.progressBarContainerAndroid}>
-                                <View style={[styles.progressBarAndroid, { width: `${lesson.progress}%`, backgroundColor: isCompleted ? '#10B981' : '#3B82F6' }]} />
                               </View>
-                              <Text style={[styles.progressTextAndroid, isCompleted && { color: '#10B981' }]}>{lesson.progress}%</Text>
+
+                            <View style={styles.progressSection}>
+                              {renderProgressBar(lesson.progress)}
+                              <Text style={[
+                                styles.progressText,
+                                isPressed && styles.pressedText
+                              ]}>
+                                {lesson.progress}%
+                              </Text>
                             </View>
                           </View>
                         </LinearGradient>
                       </Pressable>
+
+                      {/* Render activities if lesson is unlocked and not collapsed (or lesson progress < 90%) */}
+                      {isUnlocked && lessonActivities[lesson.id] && (lesson.progress < 90 || !collapsedLessons[lesson.id]) && (
+                        <View style={styles.activitiesContainer}>
+                            {/* Activity 1: Объяснение */}
+                            {lessonActivities[lesson.id][0] && (
+                              <Animated.View style={{
+                                transform: [{
+                                  scale: shouldActivityPulse(lesson.id, lessonActivities[lesson.id][0], 0) 
+                                    ? pulseAnims[`${lesson.id}_${lessonActivities[lesson.id][0].id}`] || 1
+                                    : 1
+                                }]
+                              }}>
+                                <TouchableOpacity
+                                  style={styles.activityCard}
+                                  onPress={() => handleActivityPress(lessonActivities[lesson.id][0], lesson.id)}
+                                >
+                                  <View style={styles.activityContent}>
+                                    <View style={[styles.activityIcon, { backgroundColor: getActivityColor(lessonActivities[lesson.id][0].id) }]}>
+                                      <Ionicons 
+                                        name={lessonActivities[lesson.id][0].icon as any} 
+                                        size={22} 
+                                        color="white" 
+                                      />
+                                    </View>
+                                    <Text style={styles.activityTitle}>
+                                      {lessonActivities[lesson.id][0].title}
+                                    </Text>
+                                  </View>
+                                </TouchableOpacity>
+                              </Animated.View>
+                            )}
+
+                            {/* Activity 2: Слова */}
+                            {lessonActivities[lesson.id][1] && (
+                              <Animated.View style={{
+                                transform: [{
+                                  scale: shouldActivityPulse(lesson.id, lessonActivities[lesson.id][1], 1) 
+                                    ? pulseAnims[`${lesson.id}_${lessonActivities[lesson.id][1].id}`] || 1
+                                    : 1
+                                }]
+                              }}>
+                                <TouchableOpacity
+                                  style={styles.activityCard}
+                                  onPress={() => handleActivityPress(lessonActivities[lesson.id][1], lesson.id)}
+                                >
+                                  <View style={styles.activityContent}>
+                                    <View style={[styles.activityIcon, { backgroundColor: getActivityColor(lessonActivities[lesson.id][1].id) }]}>
+                                      <Ionicons 
+                                        name={lessonActivities[lesson.id][1].icon as any} 
+                                        size={22} 
+                                        color="white" 
+                                      />
+                                    </View>
+                                    <Text style={styles.activityTitle}>
+                                      {lessonActivities[lesson.id][1].title}
+                                    </Text>
+                                  </View>
+                                </TouchableOpacity>
+                              </Animated.View>
+                            )}
+
+                            {/* Activity 3: спец-раздел (показываем, только если это не exam) */}
+                            {lessonActivities[lesson.id][2] && lessonActivities[lesson.id][2].id !== 'exam' && (
+                              <Animated.View style={{
+                                transform: [{
+                                  scale: shouldActivityPulse(lesson.id, lessonActivities[lesson.id][2], 2) 
+                                    ? pulseAnims[`${lesson.id}_${lessonActivities[lesson.id][2].id}`] || 1
+                                    : 1
+                                }]
+                              }}>
+                                <TouchableOpacity
+                                  style={styles.activityCard}
+                                  onPress={() => handleActivityPress(lessonActivities[lesson.id][2], lesson.id)}
+                                >
+                                  <View style={styles.activityContent}>
+                                    <View style={[styles.activityIcon, { backgroundColor: getActivityColor(lessonActivities[lesson.id][2].id) }]}>
+                                      <Ionicons 
+                                        name={lessonActivities[lesson.id][2].icon as any} 
+                                        size={22} 
+                                        color="white" 
+                                      />
+                                    </View>
+                                    <Text style={styles.activityTitle}>
+                                      {lessonActivities[lesson.id][2].title}
+                                    </Text>
+                                  </View>
+                                </TouchableOpacity>
+                              </Animated.View>
+                            )}
+
+                            {/* Activity 4: Предложения (hidden per request)
+                            {lessonActivities[lesson.id][3] && (
+                              <TouchableOpacity
+                                style={styles.activityCard}
+                                onPress={() => handleActivityPress(lessonActivities[lesson.id][3], lesson.id)}
+                              >
+                                <View style={styles.activityContent}>
+                                  <View style={[styles.activityIcon, { backgroundColor: '#F59E0B' }]}>
+                                    <Ionicons 
+                                      name={lessonActivities[lesson.id][3].icon as any} 
+                                      size={22} 
+                                      color="white" 
+                                    />
+                                  </View>
+                                  <Text style={styles.activityTitle}>
+                                    {lessonActivities[lesson.id][3].title}
+                                  </Text>
+                                </View>
+                              </TouchableOpacity>
+                            )}
+                            */}
+
+                            {/* Activity 5: Экзамен (рендерим только если последний — exam) */}
+                            {lessonActivities[lesson.id].length > 0 && lessonActivities[lesson.id][lessonActivities[lesson.id].length - 1].id === 'exam' && (
+                              <Animated.View style={{
+                                transform: [{
+                                  scale: shouldActivityPulse(lesson.id, lessonActivities[lesson.id][lessonActivities[lesson.id].length - 1], 3) 
+                                    ? pulseAnims[`${lesson.id}_${lessonActivities[lesson.id][lessonActivities[lesson.id].length - 1].id}`] || 1
+                                    : 1
+                                }]
+                              }}>
+                                <TouchableOpacity
+                                  style={styles.activityCard}
+                                  onPress={() => handleActivityPress(lessonActivities[lesson.id][lessonActivities[lesson.id].length - 1], lesson.id)}
+                                >
+                                  <View style={styles.activityContent}>
+                                    <View style={[styles.activityIcon, { backgroundColor: getActivityColor(lessonActivities[lesson.id][lessonActivities[lesson.id].length - 1].id) }]}>
+                                      <Ionicons 
+                                        name={lessonActivities[lesson.id][lessonActivities[lesson.id].length - 1].icon as any} 
+                                        size={22} 
+                                        color="white" 
+                                      />
+                                    </View>
+                                    <Text style={styles.activityTitle}>
+                                      {lessonActivities[lesson.id][lessonActivities[lesson.id].length - 1].title}
+                                    </Text>
+                                  </View>
+                                </TouchableOpacity>
+                              </Animated.View>
+                            )}
+
+                          </View>
+                      )}
                     </View>
                   );
                 }
 
                 return (
+                  <View key={lesson.id}>
                   <TouchableOpacity
-                    key={lesson.id}
                     style={[
                       styles.lessonCard,
-                      isUnlocked ? styles.unlockedCard : styles.lockedCard,
+                        styles.unlockedCard,
                       isSelected && styles.selectedCard,
                       isPressed && styles.pressedCard,
                       isCompleted && styles.completedCard,
@@ -245,24 +779,33 @@ const LessonListScreen = () => {
                   >
                     <View style={styles.lessonContent}>
                       <View style={styles.leftSection}>
-                        <View style={[
+                        <View style={[ 
                           styles.lessonNumber,
-                          isUnlocked ? styles.unlockedNumber : styles.lockedNumber,
+                            styles.unlockedNumber,
                           isPressed && styles.pressedNumber,
                           isCompleted && styles.completedNumber,
                         ]}>
                           {isUnlocked ? (
                             <Text style={styles.numberText}>{lesson.id}</Text>
                           ) : (
+                              isPro ? (
                             <Ionicons name="lock-closed" size={20} color="#9CA3AF" />
+                              ) : (
+                                <View style={styles.fullRedCircle}>
+                                  <Ionicons name="close" size={22} color="#FFFFFF" />
+                                </View>
+                              )
                           )}
                         </View>
-                        <Text style={[
-                          styles.lessonTitle,
-                          !isUnlocked && styles.lockedText,
-                          isPressed && styles.pressedText,
-                          isCompleted && styles.completedText,
-                        ]}>
+                        <Text
+                          style={[
+                            styles.lessonTitle,
+                            isPressed && styles.pressedText,
+                            isCompleted && styles.completedText,
+                          ]}
+                          numberOfLines={1}
+                          ellipsizeMode="tail"
+                        >
                           {lesson.title}
                           {isCompleted && ' ✓'}
                         </Text>
@@ -272,7 +815,6 @@ const LessonListScreen = () => {
                         {renderProgressBar(lesson.progress)}
                         <Text style={[
                           styles.progressText,
-                          !isUnlocked && styles.lockedText,
                           isPressed && styles.pressedText
                         ]}>
                           {lesson.progress}%
@@ -280,11 +822,156 @@ const LessonListScreen = () => {
                       </View>
                     </View>
                   </TouchableOpacity>
+
+                    {/* Render activities if lesson is unlocked and not collapsed (or lesson progress < 90%) */}
+                    {isUnlocked && lessonActivities[lesson.id] && (lesson.progress < 90 || !collapsedLessons[lesson.id]) && (
+                          <View style={styles.activitiesContainer}>
+                            {/* Activity 1: Объяснение */}
+                            {lessonActivities[lesson.id][0] && (
+                              <Animated.View style={{
+                                transform: [{
+                                  scale: shouldActivityPulse(lesson.id, lessonActivities[lesson.id][0], 0) 
+                                    ? pulseAnims[`${lesson.id}_${lessonActivities[lesson.id][0].id}`] || 1
+                                    : 1
+                                }]
+                              }}>
+                                <TouchableOpacity
+                                  style={styles.activityCard}
+                                  onPress={() => handleActivityPress(lessonActivities[lesson.id][0], lesson.id)}
+                                >
+                                  <View style={styles.activityContent}>
+                                    <View style={[styles.activityIcon, { backgroundColor: getActivityColor(lessonActivities[lesson.id][0].id) }]}>
+                                      <Ionicons 
+                                        name={lessonActivities[lesson.id][0].icon as any} 
+                                        size={22} 
+                                        color="white" 
+                                      />
+                                    </View>
+                                    <Text style={styles.activityTitle}>
+                                      {lessonActivities[lesson.id][0].title}
+                                    </Text>
+                                  </View>
+                                </TouchableOpacity>
+                              </Animated.View>
+                            )}
+
+                            {/* Activity 2: Слова */}
+                            {lessonActivities[lesson.id][1] && (
+                              <Animated.View style={{
+                                transform: [{
+                                  scale: shouldActivityPulse(lesson.id, lessonActivities[lesson.id][1], 1) 
+                                    ? pulseAnims[`${lesson.id}_${lessonActivities[lesson.id][1].id}`] || 1
+                                    : 1
+                                }]
+                              }}>
+                                <TouchableOpacity
+                                  style={styles.activityCard}
+                                  onPress={() => handleActivityPress(lessonActivities[lesson.id][1], lesson.id)}
+                                >
+                                  <View style={styles.activityContent}>
+                                    <View style={[styles.activityIcon, { backgroundColor: getActivityColor(lessonActivities[lesson.id][1].id) }]}>
+                                      <Ionicons 
+                                        name={lessonActivities[lesson.id][1].icon as any} 
+                                        size={22} 
+                                        color="white" 
+                                      />
+                                    </View>
+                                    <Text style={styles.activityTitle}>
+                                      {lessonActivities[lesson.id][1].title}
+                                    </Text>
+                                  </View>
+                                </TouchableOpacity>
+                              </Animated.View>
+                            )}
+
+                            {/* Activity 3: спец-раздел (показываем, только если это не exam) */}
+                            {lessonActivities[lesson.id][2] && lessonActivities[lesson.id][2].id !== 'exam' && (
+                              <Animated.View style={{
+                                transform: [{
+                                  scale: shouldActivityPulse(lesson.id, lessonActivities[lesson.id][2], 2) 
+                                    ? pulseAnims[`${lesson.id}_${lessonActivities[lesson.id][2].id}`] || 1
+                                    : 1
+                                }]
+                              }}>
+                                <TouchableOpacity
+                                  style={styles.activityCard}
+                                  onPress={() => handleActivityPress(lessonActivities[lesson.id][2], lesson.id)}
+                                >
+                                  <View style={styles.activityContent}>
+                                    <View style={[styles.activityIcon, { backgroundColor: getActivityColor(lessonActivities[lesson.id][2].id) }]}>
+                                      <Ionicons 
+                                        name={lessonActivities[lesson.id][2].icon as any} 
+                                        size={22} 
+                                        color="white" 
+                                      />
+                                    </View>
+                                    <Text style={styles.activityTitle}>
+                                      {lessonActivities[lesson.id][2].title}
+                                    </Text>
+                                  </View>
+                                </TouchableOpacity>
+                              </Animated.View>
+                            )}
+
+                            {/* Activity 4: Предложения (hidden per request)
+                            {lessonActivities[lesson.id][3] && (
+                              <TouchableOpacity
+                                style={styles.activityCard}
+                                onPress={() => handleActivityPress(lessonActivities[lesson.id][3], lesson.id)}
+                              >
+                                <View style={styles.activityContent}>
+                                  <View style={[styles.activityIcon, { backgroundColor: '#F59E0B' }]}>
+                                    <Ionicons 
+                                      name={lessonActivities[lesson.id][3].icon as any} 
+                                      size={22} 
+                                      color="white" 
+                                    />
+                                  </View>
+                                  <Text style={styles.activityTitle}>
+                                    {lessonActivities[lesson.id][3].title}
+                                  </Text>
+                                </View>
+                              </TouchableOpacity>
+                            )}
+                            */}
+
+                            {/* Activity 5: Экзамен (рендерим только если последний — exam) */}
+                            {lessonActivities[lesson.id].length > 0 && lessonActivities[lesson.id][lessonActivities[lesson.id].length - 1].id === 'exam' && (
+                              <Animated.View style={{
+                                transform: [{
+                                  scale: shouldActivityPulse(lesson.id, lessonActivities[lesson.id][lessonActivities[lesson.id].length - 1], 3) 
+                                    ? pulseAnims[`${lesson.id}_${lessonActivities[lesson.id][lessonActivities[lesson.id].length - 1].id}`] || 1
+                                    : 1
+                                }]
+                              }}>
+                                <TouchableOpacity
+                                  style={styles.activityCard}
+                                  onPress={() => handleActivityPress(lessonActivities[lesson.id][lessonActivities[lesson.id].length - 1], lesson.id)}
+                                >
+                                  <View style={styles.activityContent}>
+                                    <View style={[styles.activityIcon, { backgroundColor: getActivityColor(lessonActivities[lesson.id][lessonActivities[lesson.id].length - 1].id) }]}>
+                                      <Ionicons 
+                                        name={lessonActivities[lesson.id][lessonActivities[lesson.id].length - 1].icon as any} 
+                                        size={22} 
+                                        color="white" 
+                                      />
+                                    </View>
+                                    <Text style={styles.activityTitle}>
+                                      {lessonActivities[lesson.id][lessonActivities[lesson.id].length - 1].title}
+                                    </Text>
+                                  </View>
+                                </TouchableOpacity>
+                              </Animated.View>
+                            )}
+
+                          </View>
+                    )}
+                  </View>
                 );
               })}
             </View>
           </View>
-        </ScrollView>
+        </Animated.ScrollView>
       </SafeAreaView>
     </LinearGradient>
     </LoadingIndicator>
@@ -304,7 +991,7 @@ const styles = StyleSheet.create({
     left: 0,
     right: 0,
     height: Platform.OS === 'ios' ? 100 : 80,
-    backgroundColor: '#581C87',
+    backgroundColor: 'transparent',
     zIndex: 1,
   },
   navigationHeader: {
@@ -359,7 +1046,7 @@ const styles = StyleSheet.create({
   contentContainer: {
     padding: 20,
     paddingTop: 0,
-    paddingBottom: Platform.OS === 'android' ? 32 : 0,
+    paddingBottom: 100,
   },
   purchasedBadge: {
     flexDirection: 'row',
@@ -387,9 +1074,18 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     marginBottom: 14,
     overflow: 'hidden',
+    backgroundColor: 'rgba(31, 41, 55, 0.8)',
+    borderWidth: 0,
+    borderColor: '#374151',
     ...Platform.select({
       ios: {
-        // no shadow for iOS
+        shadowColor: '#0f172a',
+        shadowOffset: { width: 0, height: 8 },
+        shadowOpacity: 0.18,
+        shadowRadius: 16,
+      },
+      android: {
+        elevation: 8,
       },
     }),
   },
@@ -427,7 +1123,7 @@ const styles = StyleSheet.create({
   leftSection: {
     flexDirection: 'row',
     alignItems: 'center',
-    gap: 16,
+    gap: 6,
     flex: 1,
   },
   lessonNumber: {
@@ -437,7 +1133,15 @@ const styles = StyleSheet.create({
     backgroundColor: '#2563EB',
     justifyContent: 'center',
     alignItems: 'center',
-    marginRight: 16,
+    marginRight: 6,
+  },
+  fullRedCircle: {
+    width: 54,
+    height: 54,
+    borderRadius: 27,
+    backgroundColor: '#EF4444',
+    justifyContent: 'center',
+    alignItems: 'center',
   },
   unlockedNumber: {
     backgroundColor: '#2563EB',
@@ -462,6 +1166,7 @@ const styles = StyleSheet.create({
     fontWeight: '600',
     color: 'white',
     flex: 1,
+    flexShrink: 1,
   },
   completedText: {
     color: '#10B981',
@@ -475,28 +1180,27 @@ const styles = StyleSheet.create({
   progressSection: {
     flexDirection: 'row',
     alignItems: 'center',
-    gap: 8,
+    gap: 2,
     minWidth: 80,
-    marginLeft: 10,
+    marginLeft: 6,
   },
   progressBarContainer: {
-    width: 82,
-    height: 4.5,
+    width: 80,
+    height: 8,
     backgroundColor: '#374151',
-    borderRadius: 2.25,
+    borderRadius: 5,
     overflow: 'hidden',
-    marginRight: 9,
+    marginRight: 4,
   },
   progressBar: {
     height: '100%',
-    backgroundColor: '#3B82F6',
-    borderRadius: 2.25,
+    borderRadius: 5,
   },
   progressText: {
     color: 'white',
     fontSize: 15,
     fontWeight: '600',
-    minWidth: 40,
+    minWidth: 36,
     textAlign: 'right',
   },
   logoImage: {
@@ -509,6 +1213,7 @@ const styles = StyleSheet.create({
     fontWeight: '700',
     color: '#3B82F6',
     fontSize: 17,
+    maxWidth: 180, // чтобы не уезжало под правый край на iPhone X
   },
   // --- Android styles ---
   lessonCardAndroidShadow: {
@@ -554,15 +1259,15 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     minWidth: 80,
-    marginLeft: 10,
+    marginLeft: 6,
   },
   progressBarContainerAndroid: {
-    width: 82,
+    width: 80,
     height: 4.5,
     backgroundColor: '#374151',
     borderRadius: 2.25,
     overflow: 'hidden',
-    marginRight: 9,
+    marginRight: 4,
   },
   progressBarAndroid: {
     height: '100%',
@@ -573,7 +1278,7 @@ const styles = StyleSheet.create({
     color: 'white',
     fontSize: 15,
     fontWeight: '600',
-    minWidth: 40,
+    minWidth: 36,
     textAlign: 'right',
   },
   lockedCardAndroid: {
@@ -593,6 +1298,56 @@ const styles = StyleSheet.create({
     borderColor: '#60A5FA',
     backgroundColor: 'rgba(59, 130, 246, 0.2)',
     transform: [{ scale: 0.98 }],
+  },
+  gradientOverlay: {
+    position: 'absolute',
+    top: 0,
+    left: 0,
+    right: 0,
+    bottom: 0,
+    borderRadius: 20,
+  },
+  activitiesContainer: {
+    marginTop: 24,
+    marginBottom: 24,
+    paddingHorizontal: 20,
+    gap: 12,
+  },
+  activityCard: {
+    backgroundColor: 'rgba(255, 255, 255, 0.05)',
+    borderRadius: 16,
+    borderWidth: 1,
+    borderColor: 'rgba(255, 255, 255, 0.1)',
+    ...Platform.select({
+      ios: {
+        shadowColor: '#0f172a',
+        shadowOffset: { width: 0, height: 6 },
+        shadowOpacity: 0.14,
+        shadowRadius: 12,
+      },
+      android: {
+        elevation: 6,
+      },
+    }),
+  },
+  activityContent: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    padding: 12,
+  },
+  activityIcon: {
+    width: 42,
+    height: 42,
+    borderRadius: 12,
+    justifyContent: 'center',
+    alignItems: 'center',
+    marginRight: 15,
+  },
+  activityTitle: {
+    fontSize: 16,
+    fontWeight: '600',
+    color: 'white',
+    flex: 1,
   },
 });
 

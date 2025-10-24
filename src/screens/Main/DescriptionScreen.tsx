@@ -14,7 +14,7 @@ import {
 import { Ionicons } from '@expo/vector-icons';
 import { LinearGradient } from 'expo-linear-gradient';
 import type { NativeStackScreenProps } from '@react-navigation/native-stack';
-import { MainStackParamList } from '../../navigation/types';
+import { LessonsStackParamList } from '../../navigation/LessonsStackNavigator';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { useLocalization } from '../../contexts/LocalizationContext';
@@ -104,9 +104,9 @@ interface LessonData {
   // Другие поля
 }
 
-type Props = NativeStackScreenProps<MainStackParamList, 'Description'>;
+type Props = NativeStackScreenProps<LessonsStackParamList, 'Description'>;
 type Language = 'english' | 'russian' | 'spanish' | 'french' | 'german';
-type SupportedLanguage = 'ru' | 'es' | 'fr' | 'de';
+type SupportedLanguage = 'en' | 'ru' | 'es' | 'fr' | 'de';
 
 const DescriptionScreen: React.FC<Props> = ({ navigation, route }) => {
   const { lessonId } = route.params;
@@ -170,7 +170,8 @@ const DescriptionScreen: React.FC<Props> = ({ navigation, route }) => {
     };
     
     // Map the language from LocalizationContext to our Language type
-    const languageMap: Record<SupportedLanguage, Language> = {
+    const languageMap: Record<string, Language> = {
+      'en': 'english',
       'ru': 'russian',
       'es': 'spanish',
       'fr': 'french',
@@ -186,17 +187,23 @@ const DescriptionScreen: React.FC<Props> = ({ navigation, route }) => {
     const markAsViewed = async () => {
       try {
         await AsyncStorage.setItem(`description_viewed_lesson${lessonId}`, 'true');
+        // Вызываем callback с небольшой задержкой, чтобы пользователь успел перейти на экран
+        if (route.params?.onDescriptionViewed) {
+          setTimeout(() => {
+            route.params?.onDescriptionViewed?.();
+          }, 500);
+        }
       } catch (error) {
         console.error('Error marking description as viewed:', error);
       }
     };
     
     markAsViewed();
-  }, [lessonId]);
+  }, [lessonId, route.params]);
 
   const headerOpacity = scrollY.interpolate({
     inputRange: [0, 100],
-    outputRange: [0, 1],
+    outputRange: [1, 1], // Start with opacity 1
     extrapolate: 'clamp',
   });
 
@@ -296,25 +303,54 @@ const DescriptionScreen: React.FC<Props> = ({ navigation, route }) => {
   const renderBulletList = (items: string[], index: number) => {
     return (
       <View key={index} style={styles.listContainer}>
-        {items.map((item, itemIndex) => (
-          <View key={itemIndex} style={styles.bulletListItem}>
-            <Text style={styles.bulletPoint}>•</Text>
-            <Text style={styles.listItemText}>
-              {item.split(/(\*\*[^*]+\*\*)|(\bto be\b)|(\bas\b)|(\bam\b)/).map((part, partIndex) => {
-                // Bold text marked with ** markers
-                if (part && part.startsWith('**') && part.endsWith('**')) {
-                  return <Text key={partIndex} style={{ fontWeight: 'bold' }}>{part.slice(2, -2)}</Text>;
-                }
-                // Bold "to be", "as", or "am" when they appear as standalone words
-                else if (part === 'to be' || part === 'as' || part === 'am') {
-                  return <Text key={partIndex} style={{ fontWeight: 'bold' }}>{part}</Text>;
-                }
-                // Regular text
-                return part ? <Text key={partIndex}>{part}</Text> : null;
-              })}
-            </Text>
-          </View>
-        ))}
+        {items.map((item, itemIndex) => {
+          // Подсветка ярлыков на всех языках
+          // RU: Вопрос/Утверждение/Отрицание
+          // ES: Pregunta/Afirmación/Negación
+          // FR: Question/Affirmation/Négation
+          // DE: Frage/Aussage/Verneinung
+          // EN: Question/Affirmative/Negative
+          const labels = [
+            'Вопрос', 'Утверждение', 'Отрицание',
+            'Pregunta', 'Afirmación', 'Negación',
+            'Question', 'Affirmation', 'Négation',
+            'Frage', 'Aussage', 'Verneinung',
+            'Affirmative', 'Negative'
+          ];
+          // Во французском часто ставят пробел/неразрывный пробел перед двоеточием.
+          // Разрешаем обычный пробел, NBSP (\u00A0) и узкий NBSP (\u202F) перед двоеточием.
+          const labelRegex = new RegExp(`^(${labels.join('|')})[\u00A0\u202F\\s]*:\\s*`, 'i');
+          const labelMatch = item.match(labelRegex);
+          const remainingText = labelMatch ? item.slice(labelMatch[0].length) : item;
+          return (
+            <View key={itemIndex} style={styles.bulletListItem}>
+              <Text style={styles.bulletPoint}>•</Text>
+              <Text style={styles.listItemText}>
+                {labelMatch && (
+                  <Text style={styles.labelHighlight}>{`${labelMatch[1]}: `}</Text>
+                )}
+                {remainingText
+                  .split(/(\*\*[^*]+\*\*)|(\bto be\b)|(\bas\b)|(\bam\b)/)
+                  .map((part, partIndex) => {
+                    if (part && part.startsWith('**') && part.endsWith('**')) {
+                      return (
+                        <Text key={partIndex} style={{ fontWeight: 'bold' }}>
+                          {part.slice(2, -2)}
+                        </Text>
+                      );
+                    } else if (part === 'to be' || part === 'as' || part === 'am') {
+                      return (
+                        <Text key={partIndex} style={{ fontWeight: 'bold' }}>
+                          {part}
+                        </Text>
+                      );
+                    }
+                    return part ? <Text key={partIndex}>{part}</Text> : null;
+                  })}
+              </Text>
+            </View>
+          );
+        })}
       </View>
     );
   };
@@ -410,7 +446,8 @@ const DescriptionScreen: React.FC<Props> = ({ navigation, route }) => {
   // Рендеринг описания
   const renderDescription = () => {
     // Map the language from LocalizationContext to our Language type
-    const languageMap: Record<SupportedLanguage, Language> = {
+    const languageMap: Record<string, Language> = {
+      'en': 'english',
       'ru': 'russian',
       'es': 'spanish',
       'fr': 'french',
@@ -446,13 +483,13 @@ const DescriptionScreen: React.FC<Props> = ({ navigation, route }) => {
 
   return (
     <LinearGradient
-      colors={['#581C87', '#581C87', '#111827']}
+      colors={['#581C87', '#111827', '#1F2937']}
       style={styles.container}
       start={{ x: 0, y: 0 }}
-      end={{ x: 0, y: 0.2 }}
+      end={{ x: 1, y: 1 }}
     >
       <StatusBar barStyle="light-content" />
-      <SafeAreaView style={styles.safeArea} edges={["top", "left", "right", "bottom"]}>
+      <SafeAreaView style={styles.safeArea} edges={["top", "left", "right"]}>
         {/* Header Background */}
         <Animated.View style={[styles.headerBackground, { opacity: headerOpacity }]} />
         
@@ -499,7 +536,7 @@ const styles = StyleSheet.create({
     left: 0,
     right: 0,
     height: Platform.OS === 'ios' ? 100 : 80,
-    backgroundColor: '#581C87',
+    backgroundColor: 'transparent',
     zIndex: 1,
   },
   navigationHeader: {
@@ -534,10 +571,11 @@ const styles = StyleSheet.create({
   },
   scrollView: {
     flex: 1,
-    backgroundColor: '#f5f5f5',
+    backgroundColor: 'transparent',
   },
   contentContainer: {
     padding: 16,
+    paddingBottom: 100,
   },
   descriptionContainer: {
     backgroundColor: 'white',
@@ -672,6 +710,10 @@ const styles = StyleSheet.create({
     color: '#333',
     flex: 1,
     lineHeight: 22,
+  },
+  labelHighlight: {
+    color: '#8B5CF6',
+    fontWeight: 'bold',
   },
   descriptionText: {
     fontSize: 16,

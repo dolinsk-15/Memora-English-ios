@@ -2,7 +2,7 @@
   "expo": {
     "name": "Memora English",
     "slug": "my-app-new",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "orientation": "portrait",
     "icon": "./my-app-new/assets/icon.png",
     "userInterfaceStyle": "light",
@@ -17,7 +17,7 @@
       "bundleIdentifier": "com.memora.myapp",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false,
-        "CFBundleLocalizations": ["en", "fr", "ru", "es"],
+        "CFBundleLocalizations": ["en", "fr", "ru", "es", "de"],
         "CFBundleDevelopmentRegion": "Base"
       }
     },
@@ -34,6 +34,8 @@
     },
     "plugins": [
       "expo-localization",
+      "expo-notifications",
+      "./plugins/withLocalizedInfoPlist",
       [
         "expo-build-properties",
         {
@@ -48,7 +50,7 @@
           },
           "ios": {
             "infoPlist": {
-              "CFBundleLocalizations": ["en", "fr", "ru", "es"],
+              "CFBundleLocalizations": ["en", "fr", "ru", "es", "de"],
               "CFBundleDevelopmentRegion": "Base"
             }
           }
@@ -58,7 +60,12 @@
     "extra": {
       "eas": {
         "projectId": "07af34ec-68d4-4d38-a621-0946726a8191"
-      }
+      },
+      "IAP_PRODUCTS": {
+        "WEEKLY": "weekly",
+        "YEARLY": "yearly"
+      },
+      "IAP_SHARED_SECRET": "ebe3cfdb3fcb45e88d39b77fa204b185"
     }
   }
 }

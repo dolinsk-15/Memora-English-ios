@@ -1,12 +1,10 @@
 import React, { createContext, useContext, useState, useEffect, ReactNode } from 'react';
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import { View, Platform } from 'react-native';
+import { View } from 'react-native';
 import { i18n } from '../localization';
-import Superwall, { SuperwallOptions } from '@superwall/react-native-superwall';
-import SuperwallService from '../services/SuperwallService';
 
 // Поддерживаемые языки приложения в формате ISO 639-1
-export type SupportedLanguage = 'ru' | 'es' | 'fr' | 'de';
+export type SupportedLanguage = 'en' | 'ru' | 'es' | 'fr' | 'de';
 
 export interface LanguageOption {
   id: SupportedLanguage;
@@ -16,6 +14,7 @@ export interface LanguageOption {
 }
 
 export const languageOptions: LanguageOption[] = [
+  { id: 'en', name: 'English', nativeName: 'English' },
   { id: 'ru', name: 'Russian', nativeName: 'Русский' },
   { id: 'es', name: 'Spanish', nativeName: 'Español' },
   { id: 'fr', name: 'French', nativeName: 'Français' },
@@ -52,7 +51,7 @@ export const LocalizationProvider: React.FC<{ children: React.ReactNode }> = ({ 
   const [isLanguageSelected, setIsLanguageSelected] = useState<boolean>(false);
   const [refreshTrigger, setRefreshTrigger] = useState(0);
   const [isLoading, setIsLoading] = useState(true);
-  const [isSuperwallConfigured, setIsSuperwallConfigured] = useState(false);
+  const [isSuperwallConfigured] = useState(false);
 
   useEffect(() => {
     const initializeUser = async () => {
@@ -69,8 +68,7 @@ export const LocalizationProvider: React.FC<{ children: React.ReactNode }> = ({ 
           setLanguageState(storedLanguage as SupportedLanguage);
           setIsLanguageSelected(true);
           i18n.changeLanguage(storedLanguage);
-          // Конфигурируем Superwall только если язык уже выбран
-          configureSuperwall(storedLanguage as SupportedLanguage);
+          // Superwall больше не используется
         } else {
           setIsLanguageSelected(false);
         }
@@ -82,48 +80,6 @@ export const LocalizationProvider: React.FC<{ children: React.ReactNode }> = ({ 
     };
     initializeUser();
   }, []);
-
-  // Функция для конфигурации Superwall
-  const configureSuperwall = async (lang: SupportedLanguage) => {
-    try {
-      console.log(`[LocalizationContext] Starting Superwall configuration with locale: ${lang}`);
-      
-      // Force complete reset of Superwall
-      try {
-        console.log('[LocalizationContext] Forcing complete Superwall reset...');
-        if (typeof Superwall.shared.reset === 'function') {
-          Superwall.shared.reset();
-        }
-        // Add a small delay to ensure reset is complete
-        await new Promise(resolve => setTimeout(resolve, 100));
-      } catch (resetError) {
-        console.warn('[LocalizationContext] Failed to reset Superwall state:', resetError);
-      }
-
-      const apiKey = Platform.OS === 'ios'
-        ? 'pk_7bada5a2e111237e170524320d8090d8a8d3d03a19c4e5d4'
-        : 'pk_eadb79180723f2d5c819c5a58fb1192d22e3035d414a8a6c';
-      
-      const options = new SuperwallOptions();
-      options.localeIdentifier = lang;
-      
-      console.log(`[LocalizationContext] Configuring Superwall with options:`, {
-        localeIdentifier: options.localeIdentifier,
-        platform: Platform.OS
-      });
-
-      // Force new configuration
-      Superwall.configure({ apiKey, options });
-      setIsSuperwallConfigured(true);
-      console.log(`[LocalizationContext] Superwall successfully configured with locale: ${lang}`);
-      
-      // Initialize SuperwallService after configuration
-      await SuperwallService.initialize();
-    } catch (error) {
-      console.error('[LocalizationContext] Error configuring Superwall:', error);
-      setIsSuperwallConfigured(false);
-    }
-  };
 
   // Функция для принудительного обновления UI
   const refreshUI = () => {
@@ -145,17 +101,12 @@ export const LocalizationProvider: React.FC<{ children: React.ReactNode }> = ({ 
       // Обновляем i18n
       i18n.changeLanguage(newLanguage);
       
-      // Переконфигурируем Superwall
-      console.log(`[LocalizationContext] Re-initializing Superwall with new locale: ${newLanguage}`);
-      await configureSuperwall(newLanguage);
-      
       // Обновляем UI
       refreshUI();
       
       console.log(`[LocalizationContext] Language successfully set to: ${newLanguage}`);
       console.log(`[LocalizationContext] Current state after update:`, {
-        language: newLanguage,
-        isSuperwallConfigured
+        language: newLanguage
       });
     } catch (error) {
       console.error('[LocalizationContext] Error setting language:', error);
