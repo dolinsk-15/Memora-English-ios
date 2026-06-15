@@ -2,6 +2,7 @@ import russian from './translations/russian';
 import spanish from './translations/spanish';
 import french from './translations/french';
 import german from './translations/german';
+import english from './translations/english';
 import { SupportedLanguage } from '../contexts/LocalizationContext';
 import { useLocalization } from '../contexts/LocalizationContext';
 
@@ -15,6 +16,7 @@ interface TranslationType {
 const DEBUG_TRANSLATIONS = false;
 
 const translations = {
+  en: english,
   ru: russian,
   es: spanish,
   fr: french,

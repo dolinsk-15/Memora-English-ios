@@ -70,6 +70,37 @@ export class SubscriptionDebugger {
       console.error('❌ Error clearing data:', error);
     }
   }
+
+  // Новая функция для очистки sandbox покупок
+  static async clearSandboxPurchases() {
+    console.log('🧹 Clearing sandbox purchases...');
+    
+    try {
+      // Импортируем необходимые функции
+      const { getAvailablePurchases, finishTransaction } = require('react-native-iap');
+      
+      // Получаем все доступные покупки
+      const purchases = await getAvailablePurchases();
+      console.log(`📦 Found ${purchases.length} purchases to clear:`, purchases.map(p => p.transactionId));
+      
+      // Завершаем все транзакции (это должно их "потребить")
+      for (const purchase of purchases) {
+        try {
+          await finishTransaction({ purchase, isConsumable: false });
+          console.log(`✅ Finished transaction: ${purchase.transactionId}`);
+        } catch (error) {
+          console.warn(`⚠️ Failed to finish transaction ${purchase.transactionId}:`, error);
+        }
+      }
+      
+      // Очищаем локальные данные
+      await this.clearAllSubscriptionData();
+      
+      console.log('✅ Sandbox purchases cleared');
+    } catch (error) {
+      console.error('❌ Error clearing sandbox purchases:', error);
+    }
+  }
   
   static async simulateSubscriptionChange() {
     console.log('🎭 Simulating subscription change...');

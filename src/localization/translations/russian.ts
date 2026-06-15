@@ -1,4 +1,7 @@
 export default {
+  app: {
+    checkingSubscription: "Проверка подписки...",
+  },
   common: {
     back: "Назад",
     next: "Далее",
@@ -20,7 +23,7 @@ export default {
   lessons: {
     lessonTitle: "Урок",
     lessonsTitle: "Уроки",
-    description: "Описание",
+    description: "Как учить?",
     words: "Слова",
     sentences: "Предложения",
     texts: "Тексты",
@@ -43,14 +46,72 @@ export default {
     completeFirstLesson: "Сначала завершите первый урок",
     lessonCompleted: "Урок {{lessonId}} завершен! 🎉",
     goToNextLesson: "Перейти к уроку {{lessonId}}",
-    exam: "Экзамен",
+    openDescriptionFirst: "Откройте раздел «Объяснение урока», чтобы открылись все остальные разделы.",
+    exam: "Продолжить урок",
     examInfo: "Вам необходимо набрать минимум 90% для разблокировки следующего урока.",
     examPassed: "Вы успешно сдали экзамен! Следующий урок разблокирован.",
     submitExam: "Сдать экзамен",
+    activityLocked: "Активность заблокирована",
+    completeDescription: "Сначала просмотрите объяснение урока",
     resetExam: "Сбросить экзамен",
     currentScore: "Текущий результат:",
   },
   paywall: {
+    // Onboarding 1
+    onboarding1Title: "Предлагаем тебе\n7 дней бесплатно,\nчтобы опробовать\nнаше приложение",
+    onboarding1Subtitle: "Сейчас платить не нужно",
+    onboarding1Button: "Попробовать бесплатно",
+    
+    // Onboarding 2  
+    onboarding2Title: "Вы можете отключить\nподписку в период\nбесплатных 7 дней,\nесли она вам\nне понравится",
+    onboarding2Subtitle: "Никаких скрытых платежей",
+    onboarding2Button: "Попробовать бесплатно",
+    
+    // Main paywall
+    mainTitle: "Разблокируйте все уроки",
+    mainSubtitle: "Получите полный доступ к изучению языка",
+    
+    // Features
+    benefitLessons: "18 уроков — доступ ко всем обучающим материалам",
+    benefitCoverage: "Слова, покрывающие 90% повседневной речи",
+    benefitGrammar: "Простой и понятный разбор грамматики с примерами",
+    benefitTrainers: "Тренажёры для изучения слов",
+    
+    // Subscription options
+    weeklyTitle: "Недельная",
+    weeklyPeriod: "в неделю",
+    yearlyTitle: "Годовая", 
+    yearlyPeriod: "в год",
+    yearlyDiscount: "в неделю",
+    savingsText: "Экономия",
+    freeTrialText: "7 дней бесплатно",
+    
+    // Buttons and links
+    purchaseButton: "Оформить подписку",
+    cancelAnytime: "Можно отменить в любое время",
+    loadingPrices: "Загрузка цен...",
+    termsLink: "Условия использования",
+    restoreLink: "Восстановить покупки",
+    privacyLink: "Политика конфиденциальности",
+    
+    // Demo alerts
+    demoModeTitle: "Демо режим",
+    demoModeMessage: "В демо режиме покупка недоступна.",
+    demoRestoreMessage: "В демо режиме восстановление покупок недоступно.",
+    demoSelectedSubscription: "Выбрана подписка",
+    demoPrice: "Цена",
+    okButton: "OK",
+    termsContent: "Здесь будут условия использования приложения.",
+    privacyContent: "Здесь будет политика конфиденциальности.",
+    // Restore flow texts
+    restoreSuccessTitle: "Готово!",
+    restoreSuccess: "Подписка восстановлена",
+    noPurchasesTitle: "Нет покупок",
+    noPurchasesMessage: "Не найдено покупок для восстановления",
+    errorTitle: "Ошибка",
+    restoreFailed: "Не удалось восстановить покупки",
+    
+    // Legacy (keeping for compatibility)
     unlockTitle: "Разблокируйте все уроки",
     unlockDescription: "Получите доступ ко всем урокам и начните говорить на английском уже сегодня!",
     continueButton: "Продолжить обучение",
@@ -58,11 +119,42 @@ export default {
     purchased: "Куплено",
     purchaseSuccess: "Покупка успешна! Наслаждайтесь всеми уроками.",
     purchaseError: "Ошибка при совершении покупки. Пожалуйста, попробуйте снова.",
-    restoreSuccess: "Покупки успешно восстановлены!",
-    restoreError: "Не удалось восстановить покупки.",
-    feature1: "Полный доступ ко всем урокам",
-    feature2: "Неограниченная практика словарного запаса",
-    feature3: "Продвинутые грамматические упражнения"
+    restoreSuccessLegacy: "Покупки успешно восстановлены!",
+    restoreErrorLegacy: "Не удалось восстановить покупки.",
+    feature1Legacy: "Полный доступ ко всем урокам",
+    feature2Legacy: "Неограниченная практика словарного запаса",
+    feature3Legacy: "Продвинутые грамматические упражнения"
+  },
+  profile: {
+    title: "Профиль",
+    currentStreak: "Текущая серия",
+    day: "день",
+    days: "дней",
+    longestStreak: "Максимальная серия",
+    todayProgress: "Прогресс за сегодня",
+    wordsToday: "Слов сегодня",
+    sentencesToday: "Предложений сегодня",
+    dailyGoal: "Ежедневная цель",
+    goalCompleted: "Цель выполнена!",
+    lifetimeStats: "Общая статистика",
+    activity: "Активность",
+    learnedWords: "Заучено слов",
+    completedLessons: "Пройдено уроков",
+    motivation: "Прежде чем листать Reels, уделите 3 минуты обучению. Это примерно как 3 Reels. Не сдавайтесь. Пусть Всевышний облегчит ваше обучение.",
+    totalWords: "Всего слов",
+    totalSentences: "Всего предложений",
+  },
+  tabs: {
+    profile: "Профиль",
+    streak: "Серия",
+    lessons: "Уроки",
+  },
+  streak: {
+    startToday: "Начните свою серию сегодня!",
+    greatStart: "Отличное начало! Продолжайте в том же духе!",
+    keepGoing: "Продолжайте! Вы на правильном пути!",
+    impressive: "Впечатляюще! Вы формируете привычку!",
+    amazing: "Невероятно! Вы настоящий чемпион!",
   },
   settings: {
     title: "Настройки",
@@ -70,6 +162,7 @@ export default {
     resetProgress: "Сбросить прогресс",
     privacyPolicy: "Политика конфиденциальности",
     termsOfService: "Условия использования",
+    shareApp: "Поделиться приложением",
     resetProgressWarning: "Вы уверены, что хотите сбросить весь прогресс? Это действие нельзя отменить.",
     changeLanguageWarning: "При смене языка весь прогресс будет сброшен. Продолжить?",
     changeLanguageWarningShort: "Смена языка приведет к сбросу всего прогресса",
@@ -82,6 +175,9 @@ export default {
     rateAppDescription: "Если обучение действительно помогает — дайте знать в отзыве.",
     cannotOpenAppStore: "Невозможно открыть App Store",
     appStoreError: "Ошибка при открытии App Store",
+  },
+  notifications: {
+    dailyReminder: "Пора уделить 3 минуты английскому",
   },
   repetition: {
     nextItem: "Следующий элемент",
@@ -110,6 +206,15 @@ export default {
     endOfList: "Конец списка",
     endOfListMessage: "Вы достигли конца списка. Хотите начать сначала?",
     startOver: "Начать сначала"
+  },
+  learn: {
+    enterEnglishWord: "Введите английское слово:",
+    learnedCounter: "Выучено: {{learned}}/{{total}} слов",
+    allWordsLearnedTitle: "Все слова изучены!",
+    allWordsLearnedMessage: "Поздравляем! Вы изучили все {{total}} слов из этого урока!",
+    retry: "Повторить",
+    skip: "Пропустить",
+    next: "Далее",
   },
   repeat: {
     words: "Повторение слов",
@@ -147,17 +252,23 @@ export default {
     enterNumber: "Введите число"
   },
   words: {
+    learn: "Учить",
+    repeat: "Повторить",
     irregularVerb: "неправильный глагол",
     irregularVerbsSection: "Неправильные глаголы",
     phrasalVerbsSection: "Фразовые глаголы",
     pastParticipleSection: "Третья форма глагола",
+    resetWordsTitle: "Сброс прогресса слов",
+    resetWordsMessage: "Вы уверены, что хотите сбросить весь прогресс слов?",
+    resetShort: "Сброс",
+    resetButton: "Сбросить",
     pressTheButton: "Нажмите кнопку",
     repeatButtonHint: "Нажмите кнопку"
   },
   exam: {
-    title: "Экзамен",
+    title: "Продолжить урок",
     currentResult: "Текущий результат",
-    successMessage: "Вы успешно сдали экзамен!",
+    successMessage: "Вы успешно прошли урок",
     check: "Проверить",
     next: "Следующее",
     finish: "Завершить",

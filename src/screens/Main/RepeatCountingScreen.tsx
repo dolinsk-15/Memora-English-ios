@@ -15,15 +15,17 @@ import { Ionicons } from '@expo/vector-icons';
 import { LinearGradient } from 'expo-linear-gradient';
 import { useNavigation, useRoute, RouteProp } from '@react-navigation/native';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
-import { MainStackParamList } from '../../navigation/types';
+import { LessonsStackParamList } from '../../navigation/LessonsStackNavigator';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { lessonService } from '../../services/lessonService';
 import { useTranslation } from '../../localization';
 import * as Speech from 'expo-speech';
 import { SafeAreaView } from 'react-native-safe-area-context';
+import streakService from '../../services/streakService';
+import { useStreakAnimation } from '../../contexts/StreakAnimationContext';
 
-type RepeatCountingScreenNavigationProp = NativeStackNavigationProp<MainStackParamList, 'RepeatCounting'>;
-type RepeatCountingScreenRouteProp = RouteProp<MainStackParamList, 'RepeatCounting'>;
+type RepeatCountingScreenNavigationProp = NativeStackNavigationProp<LessonsStackParamList, 'RepeatCounting'>;
+type RepeatCountingScreenRouteProp = RouteProp<LessonsStackParamList, 'RepeatCounting'>;
 
 interface WordPair {
   id: number;
@@ -79,7 +81,10 @@ const languageMap = { ru: 'russian', es: 'spanish', fr: 'french', de: 'german' }
 const RepeatCountingScreen = () => {
   const navigation = useNavigation<RepeatCountingScreenNavigationProp>();
   const route = useRoute<RepeatCountingScreenRouteProp>();
-  const { lessonId, itemId, itemType, targetRepetitions = 10 } = route.params;
+  const { lessonId, itemId, itemType, targetRepetitions = 10, onProgressUpdate } = route.params;
+  const { trigger } = useStreakAnimation();
+  
+  console.log('📱 RepeatCountingScreen: trigger function available:', typeof trigger);
   
   const { t, language } = useTranslation();
   const mappedLanguage = languageMap[language] || 'english';
@@ -394,7 +399,11 @@ const RepeatCountingScreen = () => {
       });
       
       // 3. Calculate progress as percentage of total elements
-      const progress = Math.round((completedElements / totalElements) * 100);
+      const calculatedProgress = Math.round((completedElements / totalElements) * 100);
+      
+      // Но прогресс урока должен дублировать прогресс экзамена, если он существует
+      const savedExamProgress = await AsyncStorage.getItem(`examProgress_lesson${lessonId}`);
+      const progress = savedExamProgress ? Math.min(100, parseInt(savedExamProgress, 10)) : calculatedProgress;
       
       // Debug info
       console.log(`Lesson ${lessonId} progress calculation:`, {
@@ -563,9 +572,30 @@ const RepeatCountingScreen = () => {
         // Обновляем общий прогресс урока
         await calculateLessonProgress();
         
+        // Вызываем callback для обновления прогресса в родительском экране
+        if (onProgressUpdate) {
+          onProgressUpdate();
+        }
+        
         // Проверяем, достигли ли целевого количества повторений
         if (newCount >= localTargetRepetitions) {
           setIsCompleted(true);
+          
+          // Трекаем завершение в StreakService
+          let streakResult = null;
+          if (itemType === 'word') {
+            streakResult = await streakService.trackCompletedWord();
+          } else if (itemType === 'sentence') {
+            streakResult = await streakService.trackCompletedSentence();
+          }
+          
+          // Показываем анимацию, если streak увеличился
+          if (streakResult && streakResult.streakIncreased) {
+            console.log('📱 RepeatCountingScreen: Triggering streak animation', streakResult);
+            trigger(streakResult.newStreak);
+          } else {
+            console.log('📱 RepeatCountingScreen: No streak increase', streakResult);
+          }
         }
       } catch (error) {
         console.error('Error saving repetition count:', error);
@@ -1113,7 +1143,7 @@ const RepeatCountingScreen = () => {
       end={{ x: 1, y: 1 }}
     >
       <StatusBar barStyle="light-content" />
-      <SafeAreaView style={styles.safeArea} edges={["top", "left", "right", "bottom"]}>
+      <SafeAreaView style={styles.safeArea} edges={["top", "left", "right"]}>
         {/* Header with correct translation */}
         <View style={[styles.navigationHeader, styles.headerWithBackground]}>
           <TouchableOpacity

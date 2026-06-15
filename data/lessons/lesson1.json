@@ -8,7 +8,7 @@
     "german": "Lektion 1"
   },
   "description": {
-    "english": "In this lesson, you will learn essential vocabulary and grammar concepts that form the foundation of English language learning. We'll cover basic sentence structures, common expressions, and practical examples that you can use in everyday conversations.",
+    "english": "In the first lesson, we will learn to conjugate English verbs in three simple tenses: Present, Future, and Past.",
     "russian": "На первом уроке мы научимся спрягать английские глаголы в трёх простых временах: настоящее, будущее, прошедшее.",
     "spanish": "En la primera lección, aprenderemos a conjugar verbos ingleses en tres tiempos simples: presente, futuro y pasado.",
     "french": "Dans la première leçon, nous apprendrons à conjuguer les verbes anglais dans trois temps simples : présent, futur, passé.",
@@ -20,208 +20,112 @@
       "sections": [
         {
           "type": "warning",
-          "content": "Чтобы перейти к следующему уроку, необходимо набрать не менее 90% в экзамене текущего урока. Иначе следующий урок может быть не до конца понятным."
+          "content": "Чтобы перейти к следующему уроку, необходимо набрать не менее 90% в разделе «Продолжить урок». Иначе следующий урок может быть не до конца понятным."
         },
         {
           "type": "text",
-          "content": "В каждом уроке есть разделы описание, слова к уроку, предложения и **экзамен**. Основное изучение проходит в разделе **экзамен**. Советуется побольше практиковать в разделе **экзамен**."
-        },
-        {
-          "type": "text",
-          "content": "В английском языке есть 3 простых времени: будущее (Future), настоящее (Present) и прошедшее (Past)."
+          "content": "В каждом уроке есть разделы «Как учить?», слова к уроку и **«Продолжить урок»**. Основное изучение проходит в разделе **«Продолжить урок»**."
         },
         {
           "type": "heading",
-          "content": "1. Будущее время (Future Simple)"
+          "content": "1. Future Simple — будущее время"
         },
         {
           "type": "text",
-          "content": "В будущем времени используется вспомогательный глагол 'will'. Он ставится перед основным глаголом, чтобы показать, что действие произойдет в будущем."
-        },
-        {
-          "type": "heading",
-          "content": "Формула:"
+          "content": "Как образуется: Берём **will** + глагол в начальной форме."
         },
         {
           "type": "bullet_list",
           "items": [
-            "Вопрос: Will + подлежащее + глагол?",
-            "Утверждение: Подлежащее + will + глагол",
-            "Отрицание: Подлежащее + will not + глагол"
+            "Вопрос: если **will** ставим впереди предложения — это вопрос.\n👉 Will you play? — Ты будешь играть?",
+            "Утверждение: **will** стоит после подлежащего.\n👉 I will play. — Я буду играть.",
+            "Отрицание: **will** + **not**.\n👉 I will not play. — Я не буду играть."
           ]
+        },
+        {
+          "type": "heading",
+          "content": "2. Present Simple — настоящее время"
+        },
+        {
+          "type": "text",
+          "content": "Как образуется:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Вопрос: Чтобы задать вопрос используем **Do** или **Does**. С **I, you, we, they** используем **Do**, а с **he, she, it** используем **Does**.\n👉 Do you play? — Ты играешь?\n👉 Does she play? — Она играет? (здесь используем does, потому что есть she; с he, she, it всегда используем does)",
+            "Утверждение: Чтобы сделать утверждение ставим подлежащее + глагол.\n👉 I play football. — Я играю в футбол.\n👉 She plays football. — Она играет в футбол. (в этом случае к play добавляется \"s\" в конце. В утверждении с **he, she, it** к глаголу в конце добавляется \"s\" или \"es\")",
+            "Отрицание: Для отрицания к **Do** или **Does** добавляем **not** (с **he, she, it** — **does not**).\n👉 I do not play. — Я не играю.\n👉 She does not play. — Она не играет."
+          ]
+        },
+
+        {
+          "type": "heading",
+          "content": "3. Past Simple — прошедшее время"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Вопрос: В прошедшем времени мы используем **did**. Чтобы задать вопрос, **did** ставится впереди предложения.\n👉 Did you play? — Ты играл?\n👉 Did she go? — Она пошла?",
+            "Утверждение: в утверждении в прошедшем времени есть два типа глаголов — правильные и неправильные. У правильных глаголов к форме добавляется окончание **-ed**. Например: 👉 I played football — Я играл в футбол. Слово played — правильный глагол, потому что есть окончание -ed. У неправильных глаголов -ed не добавляется, используется другая форма. Например: 👉 She went home — Она пошла домой. Слово went — неправильная форма глагола go. Такие неправильные глаголы нужно выучить.",
+            "Отрицание: для отрицания мы к did просто добавляем not (did not)\n👉 I did not play - я не играл\n👉 she did not go - она не пошла"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "⚡ Важно: Did никогда не используется в утверждениях. Пример: I did played — неправильно. Правильно: I played."
+        },
+        {
+          "type": "heading",
+          "content": "Итоговое правило"
+        },
+        {
+          "type": "text",
+          "content": "Будущее"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Вопрос: Will спереди — (Will you go? — Ты пойдёшь?)",
+            "Утверждение: Will вторым словом — (I will go — Я пойду)",
+            "Отрицание: Will + not — (I will not go — Я не пойду)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Настоящее"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Вопрос: Do/Does спереди — (Do you play? — Ты играешь? / Does he play? — Он играет?)",
+            "Утверждение: просто глагол — (I play — Я играю / She plays — Она играет)",
+            "Отрицание: Do/Does + not — (I do not play — Я не играю / She does not play — Она не играет)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Прошедшее"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Вопрос: Did спереди — (Did you go? — Ты пошёл?)",
+            "Утверждение: глагол во 2‑й форме — (I went — Я пошёл)",
+            "Отрицание: Did + not + база — (I didn't go — Я не пошёл)"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Таблица‑схема"
         },
         {
           "type": "table",
-          "headers": ["Вопрос", "Утверждение", "Отрицание"],
+          "headers": ["Время", "Вопрос", "Утверждение", "Отрицание"],
           "rows": [
-            ["Will I love?  Я буду любить?", "I will love  Я буду любить", "I will not love  Я не буду любить"],
-            ["Will you love?  Ты будешь любить?", "You will love  Ты будешь любить", "You will not love  Ты не будешь любить"],
-            ["Will we love?  Мы будем любить?", "We will love  Мы будем любить", "We will not love  Мы не будем любить"],
-            ["Will they love?  Они будут любить?", "They will love  Они будут любить", "They will not love  Они не будут любить"],
-            ["Will he love?  Он будет любить?", "He will love  Он будет любить", "He will not love  Он не будет любить"],
-            ["Will she love?  Она будет любить?", "She will love  Она будет любить", "She will not love  Она не будет любить"]
-          ]
-        },
-        {
-          "type": "heading",
-          "content": "Примеры:"
-        },
-        {
-          "type": "bullet_list",
-          "items": [
-            "Will I love? — Я буду любить?\nI will love. — Я буду любить.\nI will not love. — Я не буду любить.",
-            "Will she love? — Она будет любить?\nShe will love. — Она будет любить.\nShe will not love. — Она не будет любить."
-          ]
-        },
-        {
-          "type": "heading",
-          "content": "2. Настоящее время (Present Simple)"
-        },
-        {
-          "type": "text",
-          "content": "В настоящем времени используются вспомогательные глаголы 'do' и 'does'. 'Does' используется с he, she, it. В утвердительных предложениях глагол получает окончание -s для he, she, it."
-        },
-        {
-          "type": "heading",
-          "content": "Формула:"
-        },
-        {
-          "type": "bullet_list",
-          "items": [
-            "Вопрос: Do/Does + подлежащее + глагол?",
-            "Утверждение: Подлежащее + глагол (+s для he/she/it)",
-            "Отрицание: Подлежащее + do not/does not + глагол"
-          ]
-        },
-        {
-          "type": "table",
-          "headers": ["Вопрос", "Утверждение", "Отрицание"],
-          "rows": [
-            ["Do I love?  Я люблю?", "I love  Я люблю", "I do not love  Я не люблю"],
-            ["Do you love?  Ты любишь?", "You love  Ты любишь", "You do not love  Ты не любишь"],
-            ["Do we love?  Мы любим?", "We love  Мы любим", "We do not love  Мы не любим"],
-            ["Do they love?  Они любят?", "They love  Они любят", "They do not love  Они не любят"],
-            ["Does he love?  Он любит?", "He loves  Он любит", "He does not love  Он не любит"],
-            ["Does she love?  Она любит?", "She loves  Она любит", "She does not love  Она не любит"]
-          ]
-        },
-        {
-          "type": "heading",
-          "content": "Примеры:"
-        },
-        {
-          "type": "bullet_list",
-          "items": [
-            "Do I love? — Я люблю?\nI love. — Я люблю.\nI do not love. — Я не люблю.",
-            "Does she love? — Она любит?\nShe loves. — Она любит.\nShe does not love. — Она не любит."
-          ]
-        },
-        {
-          "type": "heading",
-          "content": "3. Прошедшее время (Past Simple)"
-        },
-        {
-          "type": "text",
-          "content": "В прошедшем времени используется вспомогательный глагол 'did'. Глагол всегда в прошедшей форме, которая для правильных глаголов образуется добавлением -ed."
-        },
-        {
-          "type": "heading",
-          "content": "Формула:"
-        },
-        {
-          "type": "bullet_list",
-          "items": [
-            "Вопрос: Did + подлежащее + глагол?",
-            "Утверждение: Подлежащее + глагол в прошедшей форме",
-            "Отрицание: Подлежащее + did not + глагол"
-          ]
-        },
-        {
-          "type": "table",
-          "headers": ["Вопрос", "Утверждение", "Отрицание"],
-          "rows": [
-            ["Did I love?  Я любил?", "I loved  Я любил", "I did not love  Я не любил"],
-            ["Did you love?  Ты любил?", "You loved  Ты любил", "You did not love  Ты не любил"],
-            ["Did we love?  Мы любили?", "We loved  Мы любили", "We did not love  Мы не любили"],
-            ["Did they love?  Они любили?", "They loved  Они любили", "They did not love  Они не любили"],
-            ["Did he love?  Он любил?", "He loved  Он любил", "He did not love  Он не любил"],
-            ["Did she love?  Она любила?", "She loved  Она любила", "She did not love  Она не любила"]
-          ]
-        },
-        {
-          "type": "heading",
-          "content": "Важно: два типа глаголов"
-        },
-        {
-          "type": "text",
-          "content": "а) Правильные глаголы — добавляют -ed:"
-        },
-        {
-          "type": "bullet_list",
-          "items": [
-            "work → worked",
-            "love → loved",
-            "play → played"
-          ]
-        },
-        {
-          "type": "heading",
-          "content": "Примеры:"
-        },
-        {
-          "type": "bullet_list",
-          "items": [
-            "Did I love? — Я любил?\nI loved. — Я любил.\nI did not love. — Я не любил."
-          ]
-        },
-        {
-          "type": "text",
-          "content": "б) Неправильные глаголы — меняются по-своему, без -ed. В этом уроке есть раздел \"Правильные и неправильные глаголы\", где вы можете учить неправильные глаголы."
-        },
-        {
-          "type": "text",
-          "content": "Их нужно учить наизусть. Примеры:"
-        },
-        {
-          "type": "table",
-          "headers": ["Инфинитив (начальная форма)", "Прошедшая форма"],
-          "rows": [
-            ["go (идти)", "went"],
-            ["have (иметь)", "had"],
-            ["see (видеть)", "saw"],
-            ["do (делать)", "did"],
-            ["eat (есть)", "ate"]
-          ]
-        },
-        {
-          "type": "text",
-          "content": "Примеры с неправильными глаголами:"
-        },
-        {
-          "type": "bullet_list",
-          "items": [
-            "Did I go to school? — Я пошёл в школу?\nI went to school. — Я пошёл в школу.\nI did not go to school. — Я не пошёл в школу.",
-            "Did she have a cat? — У неё была кошка?\nShe had a cat. — У неё была кошка.\nShe did not have a cat. — У неё не было кошки."
-          ]
-        },
-        {
-          "type": "text",
-          "content": "Важно: в вопросах и отрицаниях с did глагол всегда в начальной форме!"
-        },
-        {
-          "type": "heading",
-          "content": "Как запомнить легко:"
-        },
-        {
-          "type": "bullet_list",
-          "items": [
-            "Will — всегда для будущего.",
-            "Do/Does — для настоящего.",
-            "Did — для прошлого.",
-            "Do not/Does not/Did not — для отрицаний.",
-            "У he/she/it в настоящем времени глагол получает окончание -s: loves, speaks, works.",
-            "В прошедшем времени правильные глаголы +ed, неправильные — особая форма (went, had и т.д.)",
-            "В вопросах и отрицаниях с did всегда используем начальную форму глагола, даже если он неправильный."
+            ["Будущее", "Will you play?\nБудешь ты играть?", "I will play.\nЯ буду играть.", "I will not play.\nЯ не буду играть."],
+            ["Настоящее", "Do you play?\nТы играешь?", "I play.\nЯ играю.", "I do not play.\nЯ не играю."],
+            ["Прошедшее", "Did you play?\nТы играл?", "I played.\nЯ играл.", "I did not play.\nЯ не играл."]
           ]
         }
       ]
@@ -231,11 +135,11 @@
       "sections": [
         {
           "type": "warning",
-          "content": "For the next lesson, you need to score at least 90% on the current lesson exam. Otherwise, the next lesson may not be completely understandable."
+          "content": "To unlock the next lesson, you need to score at least 90% in the **Continue Lesson** section. Otherwise, the next lesson may not be completely understandable."
         },
         {
           "type": "text",
-          "content": "Each lesson has sections: description, vocabulary for the lesson, sentences, and **exam**. The main learning takes place in the **exam** section. It is recommended to practice more in the **exam** section."
+          "content": "Each lesson has sections: **How to learn?**, the lesson vocabulary, and **Continue Lesson**. The main practice happens in **Continue Lesson**."
         },
         {
           "type": "text",
@@ -333,7 +237,7 @@
         },
         {
           "type": "text",
-          "content": "In the past tense, we use the auxiliary verb 'did'. The verb is always in the past form, which for regular verbs is formed by adding -ed."
+          "content": "In Past Simple, affirmative sentences use the past form of the verb (for regular verbs, that’s the -ed form). In questions and negatives, we use **did** and keep the verb in its **base form**."
         },
         {
           "type": "heading",
@@ -442,208 +346,111 @@
       "sections": [
         {
           "type": "warning",
-          "content": "Para pasar a la siguiente lección, es necesario obtener al menos el 90% en el examen de la lección actual. De lo contrario, la siguiente lección puede no ser completamente comprensible."
+          "content": "Para pasar a la siguiente lección, es necesario obtener al menos el 90% en la sección «Continuar la lección». De lo contrario, la siguiente lección puede no ser completamente comprensible."
         },
         {
           "type": "text",
-          "content": "Cada lección tiene secciones: descripción, vocabulario para la lección, oraciones y **examen**. El aprendizaje principal se realiza en la sección de **examen**. Se recomienda practicar más en la sección de **examen**."
-        },
-        {
-          "type": "text",
-          "content": "En inglés hay 3 tiempos simples: futuro (Future), presente (Present) y pasado (Past)."
+          "content": "En cada lección hay secciones: «¿Cómo estudiar?», vocabulario y **«Continuar la lección»**. El aprendizaje principal ocurre en **«Continuar la lección»**."
         },
         {
           "type": "heading",
-          "content": "1. Tiempo futuro (Future Simple)"
+          "content": "1. Futuro simple (Future Simple)"
         },
         {
           "type": "text",
-          "content": "En el tiempo futuro, usamos el verbo auxiliar 'will'. Se coloca antes del verbo principal para indicar que la acción ocurrirá en el futuro."
-        },
-        {
-          "type": "heading",
-          "content": "Fórmula:"
+          "content": "Cómo se forma: **will** + verbo en forma base."
         },
         {
           "type": "bullet_list",
           "items": [
-            "Pregunta: Will + sujeto + verbo?",
-            "Afirmación: Sujeto + will + verbo",
-            "Negación: Sujeto + will not + verbo"
+            "Pregunta: si **will** va al inicio, es pregunta.\n👉 Will you play? — ¿Jugarás?",
+            "Afirmación: **will** va después del sujeto.\n👉 I will play. — Jugaré.",
+            "Negación: **will + not**.\n👉 I will not play. — No jugaré."
           ]
+        },
+        {
+          "type": "heading",
+          "content": "2. Presente simple (Present Simple)"
+        },
+        {
+          "type": "text",
+          "content": "Cómo se forma:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Pregunta: Para hacer una pregunta usamos **Do** o **Does**. Con **I, you, we, they** usamos **Do**; con **he, she, it** usamos **Does**.\n👉 Do you play? — ¿Juegas?\n👉 Does she play? — ¿Juega ella? (usamos does porque hay she; con he, she, it siempre usamos does)",
+            "Afirmación: Para hacer una afirmación ponemos **sujeto + verbo**. Para **he, she, it** añadimos **-s** o **-es** al verbo.\n👉 I play football. — Juego al fútbol.\n👉 She plays football. — Ella juega al fútbol. (a play se añade \"s\" al final)",
+            "Negación: Para negar añadimos **not** a **do/does** (con **he, she, it** — **does not**).\n👉 I do not play. — No juego.\n👉 She does not play. — Ella no juega."
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "3. Pasado simple (Past Simple)"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Pregunta: En pasado usamos **did**. Para preguntar, **did** va al principio.\n👉 Did you play? — ¿Jugaste?\n👉 Did she go? — ¿Ella fue?",
+            "Afirmación: en afirmación en pasado hay dos tipos de verbos: **regulares** e **irregulares**. Los regulares terminan en **-ed**. Ejemplo: 👉 I played football — Jugué al fútbol. \"played\" es regular porque lleva -ed. Los irregulares no llevan -ed; usan otra forma. Ejemplo: 👉 She went home — Ella se fue a casa. \"went\" es la forma irregular de \"go\". Estas formas hay que aprenderlas.",
+            "Negación: añadimos **not** a **did** (did not).\n👉 I did not play — No jugué\n👉 She did not go — Ella no fue"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "⚡ Importante: Did nunca se usa en afirmaciones. Ejemplo: I did played — incorrecto. Correcto: I played."
+        },
+        {
+          "type": "heading",
+          "content": "Regla resumida"
+        },
+        {
+          "type": "text",
+          "content": "Futuro"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Pregunta: Will delante — (Will you go? — ¿Irás?)",
+            "Afirmación: Will en segundo lugar — (I will go — Iré)",
+            "Negación: Will + not — (I will not go — No iré)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Presente"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Pregunta: Do/Does delante — (Do you play? — ¿Juegas? / Does he play? — ¿Juega él?)",
+            "Afirmación: solo verbo — (I play — Juego / She plays — Ella juega)",
+            "Negación: Do/Does + not — (I do not play — No juego / She does not play — Ella no juega)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Pasado"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Pregunta: Did delante — (Did you go? — ¿Fuiste?)",
+            "Afirmación: verbo en 2.ª forma — (I went — Fui)",
+            "Negación: Did + not + base — (I didn't go — No fui)"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Tabla‑esquema"
         },
         {
           "type": "table",
-          "headers": ["Pregunta", "Afirmación", "Negación"],
+          "headers": ["Tiempo", "Pregunta", "Afirmación", "Negación"],
           "rows": [
-            ["Will I love?  ¿Amaré?", "I will love  Amaré", "I will not love  No amaré"],
-            ["Will you love?  ¿Amarás?", "You will love  Amarás", "You will not love  No amarás"],
-            ["Will we love?  ¿Amaremos?", "We will love  Amaremos", "We will not love  No amaremos"],
-            ["Will they love?  ¿Amarán?", "They will love  Amarán", "They will not love  No amarán"],
-            ["Will he love?  ¿Amará él?", "He will love  Él amará", "He will not love  Él no amará"],
-            ["Will she love?  ¿Amará ella?", "She will love  Ella amará", "She will not love  Ella no amará"]
-          ]
-        },
-        {
-          "type": "heading",
-          "content": "Ejemplos:"
-        },
-        {
-          "type": "bullet_list",
-          "items": [
-            "Will I love? — ¿Amaré?\nI will love. — Amaré.\nI will not love. — No amaré.",
-            "Will she love? — ¿Amará ella?\nShe will love. — Ella amará.\nShe will not love. — Ella no amará."
-          ]
-        },
-        {
-          "type": "heading",
-          "content": "2. Tiempo presente (Present Simple)"
-        },
-        {
-          "type": "text",
-          "content": "En el tiempo presente, usamos los verbos auxiliares 'do' y 'does'. 'Does' se usa con he, she, it. En las oraciones afirmativas, el verbo recibe una terminación -s para he, she, it."
-        },
-        {
-          "type": "heading",
-          "content": "Fórmula:"
-        },
-        {
-          "type": "bullet_list",
-          "items": [
-            "Pregunta: Do/Does + sujeto + verbo?",
-            "Afirmación: Sujeto + verbo (+s para he/she/it)",
-            "Negación: Sujeto + do not/does not + verbo"
-          ]
-        },
-        {
-          "type": "table",
-          "headers": ["Pregunta", "Afirmación", "Negación"],
-          "rows": [
-            ["Do I love?  ¿Amo?", "I love  Amo", "I do not love  No amo"],
-            ["Do you love?  ¿Amas?", "You love  Amas", "You do not love  No amas"],
-            ["Do we love?  ¿Amamos?", "We love  Amamos", "We do not love  No amamos"],
-            ["Do they love?  ¿Aman?", "They love  Aman", "They do not love  No aman"],
-            ["Does he love?  ¿Ama él?", "He loves  Él ama", "He does not love  Él no ama"],
-            ["Does she love?  ¿Ama ella?", "She loves  Ella ama", "She does not love  Ella no ama"]
-          ]
-        },
-        {
-          "type": "heading",
-          "content": "Ejemplos:"
-        },
-        {
-          "type": "bullet_list",
-          "items": [
-            "Do I love? — ¿Amo?\nI love. — Amo.\nI do not love. — No amo.",
-            "Does she love? — ¿Ama ella?\nShe loves. — Ella ama.\nShe does not love. — Ella no ama."
-          ]
-        },
-        {
-          "type": "heading",
-          "content": "3. Tiempo pasado (Past Simple)"
-        },
-        {
-          "type": "text",
-          "content": "En el tiempo pasado, usamos el verbo auxiliar 'did'. El verbo siempre está en forma pasada, que para los verbos regulares se forma agregando -ed."
-        },
-        {
-          "type": "heading",
-          "content": "Fórmula:"
-        },
-        {
-          "type": "bullet_list",
-          "items": [
-            "Pregunta: Did + sujeto + verbo?",
-            "Afirmación: Sujeto + forma pasada del verbo",
-            "Negación: Sujeto + did not + verbo"
-          ]
-        },
-        {
-          "type": "table",
-          "headers": ["Pregunta", "Afirmación", "Negación"],
-          "rows": [
-            ["Did I love?  ¿Amé?", "I loved  Amé", "I did not love  No amé"],
-            ["Did you love?  ¿Amaste?", "You loved  Amaste", "You did not love  No amaste"],
-            ["Did we love?  ¿Amamos?", "We loved  Amamos", "We did not love  No amamos"],
-            ["Did they love?  ¿Amaron?", "They loved  Amaron", "They did not love  No amaron"],
-            ["Did he love?  ¿Amó él?", "He loved  Él amó", "He did not love  Él no amó"],
-            ["Did she love?  ¿Amó ella?", "She loved  Ella amó", "She did not love  Ella no amó"]
-          ]
-        },
-        {
-          "type": "heading",
-          "content": "Importante: dos tipos de verbos"
-        },
-        {
-          "type": "text",
-          "content": "a) Verbos regulares — agregan -ed:"
-        },
-        {
-          "type": "bullet_list",
-          "items": [
-            "work → worked",
-            "love → loved",
-            "play → played"
-          ]
-        },
-        {
-          "type": "heading",
-          "content": "Ejemplos:"
-        },
-        {
-          "type": "bullet_list",
-          "items": [
-            "Did I love? — ¿Amé?\nI loved. — Amé.\nI did not love. — No amé."
-          ]
-        },
-        {
-          "type": "text",
-          "content": "b) Verbos irregulares — cambian de forma especial, sin -ed. En esta lección, hay una sección sobre verbos regulares e irregulares donde puedes aprender los verbos irregulares."
-        },
-        {
-          "type": "text",
-          "content": "Hay que memorizarlos. Ejemplos:"
-        },
-        {
-          "type": "table",
-          "headers": ["Infinitivo (forma base)", "Forma pasada"],
-          "rows": [
-            ["go (ir)", "went"],
-            ["have (tener)", "had"],
-            ["see (ver)", "saw"],
-            ["do (hacer)", "did"],
-            ["eat (comer)", "ate"]
-          ]
-        },
-        {
-          "type": "text",
-          "content": "Ejemplos con verbos irregulares:"
-        },
-        {
-          "type": "bullet_list",
-          "items": [
-            "Did I go to school? — ¿Fui a la escuela?\nI went to school. — Fui a la escuela.\nI did not go to school. — No fui a la escuela.",
-            "Did she have a cat? — ¿Tenía ella un gato?\nShe had a cat. — Ella tenía un gato.\nShe did not have a cat. — Ella no tenía un gato."
-          ]
-        },
-        {
-          "type": "text",
-          "content": "¡Importante: en preguntas y negaciones con did, el verbo siempre está en su forma base!"
-        },
-        {
-          "type": "heading",
-          "content": "Forma fácil de recordar:"
-        },
-        {
-          "type": "bullet_list",
-          "items": [
-            "Will — siempre para futuro.",
-            "Do/Does — para presente.",
-            "Did — para pasado.",
-            "Do not/Does not/Did not — para negaciones.",
-            "Para he/she/it en presente, el verbo recibe terminación -s: loves, speaks, works.",
-            "En pasado, verbos regulares +ed, irregulares — forma especial (went, had, etc.)",
-            "En preguntas y negaciones con did, siempre usar forma base del verbo, incluso si es irregular."
+            ["Futuro", "Will you play?\n¿Jugarás?", "I will play.\nJugaré.", "I will not play.\nNo jugaré."],
+            ["Presente", "Do you play?\n¿Juegas?", "I play.\nJuego.", "I do not play.\nNo juego."],
+            ["Pasado", "Did you play?\n¿Jugaste?", "I played.\nJugué.", "I did not play.\nNo jugué."]
           ]
         }
       ]
@@ -653,15 +460,11 @@
       "sections": [
         {
           "type": "warning",
-          "content": "Pour passer à la leçon suivante, il est nécessaire d'obtenir au moins 90% à l'examen de la leçon actuelle. Sinon, la leçon suivante pourrait ne pas être entièrement compréhensible."
+          "content": "Pour passer à la leçon suivante, il faut obtenir au moins 90% dans la section «Continuer la leçon». Sinon, la leçon suivante pourrait ne pas être entièrement compréhensible."
         },
         {
           "type": "text",
-          "content": "Chaque leçon comporte des sections : description, vocabulaire de la leçon, phrases et **examen**. L'apprentissage principal se déroule dans la section **examen**. Il est recommandé de pratiquer davantage dans la section **examen**."
-        },
-        {
-          "type": "text",
-          "content": "Il y a 3 temps simples en anglais : futur (Future), présent (Present) et passé (Past)."
+          "content": "Dans chaque leçon, il y a les sections «Comment apprendre ?», vocabulaire et **«Continuer la leçon»**. L'apprentissage principal a lieu dans **«Continuer la leçon»**."
         },
         {
           "type": "heading",
@@ -669,41 +472,14 @@
         },
         {
           "type": "text",
-          "content": "Au futur, on utilise le verbe auxiliaire 'will'. Il est placé avant le verbe principal pour indiquer que l'action se produira dans le futur."
-        },
-        {
-          "type": "heading",
-          "content": "Formule :"
+          "content": "Comment ça se forme : **will** + verbe à la forme de base."
         },
         {
           "type": "bullet_list",
           "items": [
-            "Question : Will + sujet + verbe ?",
-            "Affirmation : Sujet + will + verbe",
-            "Négation : Sujet + will not + verbe"
-          ]
-        },
-        {
-          "type": "table",
-          "headers": ["Question", "Affirmation", "Négation"],
-          "rows": [
-            ["Will I love?  Est-ce que j'aimerai ?", "I will love  J'aimerai", "I will not love  Je n'aimerai pas"],
-            ["Will you love?  Est-ce que tu aimeras ?", "You will love  Tu aimeras", "You will not love  Tu n'aimeras pas"],
-            ["Will we love?  Est-ce que nous aimerons ?", "We will love  Nous aimerons", "We will not love  Nous n'aimerons pas"],
-            ["Will they love?  Est-ce qu'ils aimeront ?", "They will love  Ils aimeront", "They will not love  Ils n'aimeront pas"],
-            ["Will he love?  Est-ce qu'il aimera ?", "He will love  Il aimera", "He will not love  Il n'aimera pas"],
-            ["Will she love?  Est-ce qu'elle aimera ?", "She will love  Elle aimera", "She will not love  Elle n'aimera pas"]
-          ]
-        },
-        {
-          "type": "heading",
-          "content": "Exemples :"
-        },
-        {
-          "type": "bullet_list",
-          "items": [
-            "Will I love? — Est-ce que j'aimerai ?\nI will love. — J'aimerai.\nI will not love. — Je n'aimerai pas.",
-            "Will she love? — Est-ce qu'elle aimera ?\nShe will love. — Elle aimera.\nShe will not love. — Elle n'aimera pas."
+            "Question : si **will** est au début, c'est une question.\n👉 Will you play? — Joueras‑tu ?",
+            "Affirmation : **will** vient après le sujet.\n👉 I will play. — Je jouerai.",
+            "Négation : **will + not**.\n👉 I will not play. — Je ne jouerai pas."
           ]
         },
         {
@@ -712,41 +488,14 @@
         },
         {
           "type": "text",
-          "content": "Au présent, on utilise les verbes auxiliaires 'do' et 'does'. 'Does' est utilisé avec he, she, it. Dans les phrases affirmatives, le verbe prend une terminaison -s pour he, she, it."
-        },
-        {
-          "type": "heading",
-          "content": "Formule :"
+          "content": "Comment ça se forme :"
         },
         {
           "type": "bullet_list",
           "items": [
-            "Question : Do/Does + sujet + verbe ?",
-            "Affirmation : Sujet + verbe (+s pour he/she/it)",
-            "Négation : Sujet + do not/does not + verbe"
-          ]
-        },
-        {
-          "type": "table",
-          "headers": ["Question", "Affirmation", "Négation"],
-          "rows": [
-            ["Do I love?  Est-ce que j'aime ?", "I love  J'aime", "I do not love  Je n'aime pas"],
-            ["Do you love?  Est-ce que tu aimes ?", "You love  Tu aimes", "You do not love  Tu n'aimes pas"],
-            ["Do we love?  Est-ce que nous aimons ?", "We love  Nous aimons", "We do not love  Nous n'aimons pas"],
-            ["Do they love?  Est-ce qu'ils aiment ?", "They love  Ils aiment", "They do not love  Ils n'aiment pas"],
-            ["Does he love?  Est-ce qu'il aime ?", "He loves  Il aime", "He does not love  Il n'aime pas"],
-            ["Does she love?  Est-ce qu'elle aime ?", "She loves  Elle aime", "She does not love  Elle n'aime pas"]
-          ]
-        },
-        {
-          "type": "heading",
-          "content": "Exemples :"
-        },
-        {
-          "type": "bullet_list",
-          "items": [
-            "Do I love? — Est-ce que j'aime ?\nI love. — J'aime.\nI do not love. — Je n'aime pas.",
-            "Does she love? — Est-ce qu'elle aime ?\nShe loves. — Elle aime.\nShe does not love. — Elle n'aime pas."
+            "Question : pour poser une question, on utilise **Do** ou **Does**. Avec **I, you, we, they** — **Do** ; avec **he, she, it** — **Does**.\n👉 Do you play? — Tu joues ?\n👉 Does she play? — Elle joue ? (ici on utilise does parce qu'il y a she ; avec he, she, it on utilise toujours does)",
+            "Affirmation : pour une phrase affirmative, on met **sujet + verbe**. Pour **he, she, it** on ajoute **-s** ou **-es**.\n👉 I play football. — Je joue au foot.\n👉 She plays football. — Elle joue au foot. (à play on ajoute « s » à la fin)",
+            "Négation : pour la négation, on ajoute **not** à **do/does** (avec **he, she, it** — **does not**).\n👉 I do not play. — Je ne joue pas.\n👉 She does not play. — Elle ne joue pas."
           ]
         },
         {
@@ -754,107 +503,68 @@
           "content": "3. Passé simple (Past Simple)"
         },
         {
+          "type": "bullet_list",
+          "items": [
+            "Question : au passé on utilise **did**. Pour poser une question, **did** se place au début.\n👉 Did you play? — As‑tu joué ?\n👉 Did she go? — Est‑elle allée ?",
+            "Affirmation : en affirmation au passé, il existe deux types de verbes : **réguliers** et **irréguliers**. Les réguliers prennent **-ed**. Exemple : 👉 I played football — J'ai joué au foot. « played » est régulier car il a -ed. Les irréguliers ne prennent pas -ed ; ils ont une autre forme qu'il faut apprendre. Exemple : 👉 She went home — Elle est allée à la maison. « went » est la forme irrégulière de « go ».",
+            "Négation : on ajoute **not** à **did** (did not).\n👉 I did not play — Je n'ai pas joué\n👉 She did not go — Elle n'est pas allée"
+          ]
+        },
+        {
           "type": "text",
-          "content": "Au passé, on utilise le verbe auxiliaire 'did'. Le verbe est toujours à la forme passée, qui pour les verbes réguliers se forme en ajoutant -ed."
+          "content": "⚡ Important : Did ne s'emploie jamais dans les affirmations. Exemple : I did played — incorrect. Correct : I played."
         },
         {
           "type": "heading",
-          "content": "Formule :"
+          "content": "Règle récapitulative"
+        },
+        {
+          "type": "text",
+          "content": "Futur"
         },
         {
           "type": "bullet_list",
           "items": [
-            "Question : Did + sujet + verbe ?",
-            "Affirmation : Sujet + forme passée du verbe",
-            "Négation : Sujet + did not + verbe"
+            "Question : Will devant — (Will you go? — Tu iras ?)",
+            "Affirmation : Will en deuxième position — (I will go — J'irai)",
+            "Négation : Will + not — (I will not go — Je n'irai pas)"
           ]
+        },
+        {
+          "type": "text",
+          "content": "Présent"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Question : Do/Does devant — (Do you play? — Tu joues ? / Does he play? — Est‑ce qu'il joue ?)",
+            "Affirmation : verbe simple — (I play — Je joue / She plays — Elle joue)",
+            "Négation : Do/Does + not — (I do not play — Je ne joue pas / She does not play — Elle ne joue pas)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Passé"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Question : Did devant — (Did you go? — Es‑tu allé ?)",
+            "Affirmation : verbe à la 2e forme — (I went — Je suis allé)",
+            "Négation : Did + not + base — (I didn't go — Je ne suis pas allé)"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Tableau‑schéma"
         },
         {
           "type": "table",
-          "headers": ["Question", "Affirmation", "Négation"],
+          "headers": ["Temps", "Question", "Affirmation", "Négation"],
           "rows": [
-            ["Did I love?  Est-ce que j'ai aimé ?", "I loved  J'ai aimé", "I did not love  Je n'ai pas aimé"],
-            ["Did you love?  Est-ce que tu as aimé ?", "You loved  Tu as aimé", "You did not love  Tu n'as pas aimé"],
-            ["Did we love?  Est-ce que nous avons aimé ?", "We loved  Nous avons aimé", "We did not love  Nous n'avons pas aimé"],
-            ["Did they love?  Est-ce qu'ils ont aimé ?", "They loved  Ils ont aimé", "They did not love  Ils n'ont pas aimé"],
-            ["Did he love?  Est-ce qu'il a aimé ?", "He loved  Il a aimé", "He did not love  Il n'a pas aimé"],
-            ["Did she love?  Est-ce qu'elle a aimé ?", "She loved  Elle a aimé", "She did not love  Elle n'a pas aimé"]
-          ]
-        },
-        {
-          "type": "heading",
-          "content": "Important : deux types de verbes"
-        },
-        {
-          "type": "text",
-          "content": "a) Verbes réguliers — ajoutent -ed :"
-        },
-        {
-          "type": "bullet_list",
-          "items": [
-            "work → worked",
-            "love → loved",
-            "play → played"
-          ]
-        },
-        {
-          "type": "heading",
-          "content": "Exemples :"
-        },
-        {
-          "type": "bullet_list",
-          "items": [
-            "Did I love? — Est-ce que j'ai aimé ?\nI loved. — J'ai aimé.\nI did not love. — Je n'ai pas aimé."
-          ]
-        },
-        {
-          "type": "text",
-          "content": "b) Verbes irréguliers — changent de façon spéciale, sans -ed. Dans cette leçon, il y a une section sur les verbes réguliers et irréguliers où vous pouvez apprendre les verbes irréguliers."
-        },
-        {
-          "type": "text",
-          "content": "Il faut les mémoriser. Exemples :"
-        },
-        {
-          "type": "table",
-          "headers": ["Infinitif (forme de base)", "Forme passée"],
-          "rows": [
-            ["go (aller)", "went"],
-            ["have (avoir)", "had"],
-            ["see (voir)", "saw"],
-            ["do (faire)", "did"],
-            ["eat (manger)", "ate"]
-          ]
-        },
-        {
-          "type": "text",
-          "content": "Exemples avec les verbes irréguliers :"
-        },
-        {
-          "type": "bullet_list",
-          "items": [
-            "Did I go to school? — Suis-je allé à l'école ?\nI went to school. — Je suis allé à l'école.\nI did not go to school. — Je ne suis pas allé à l'école.",
-            "Did she have a cat? — Avait-elle un chat ?\nShe had a cat. — Elle avait un chat.\nShe did not have a cat. — Elle n'avait pas de chat."
-          ]
-        },
-        {
-          "type": "text",
-          "content": "Important : dans les questions et les négations avec did, le verbe est toujours à sa forme de base !"
-        },
-        {
-          "type": "heading",
-          "content": "Façon facile de mémoriser :"
-        },
-        {
-          "type": "bullet_list",
-          "items": [
-            "Will — toujours pour le futur.",
-            "Do/Does — pour le présent.",
-            "Did — pour le passé.",
-            "Do not/Does not/Did not — pour les négations.",
-            "Pour he/she/it au présent, le verbe prend la terminaison -s : loves, speaks, works.",
-            "Au passé, verbes réguliers +ed, irréguliers — forme spéciale (went, had, etc.)",
-            "Dans les questions et négations avec did, toujours utiliser la forme de base du verbe, même s'il est irrégulier."
+            ["Futur", "Will you play?\nJoueras‑tu ?", "I will play.\nJe jouerai.", "I will not play.\nJe ne jouerai pas."],
+            ["Présent", "Do you play?\nTu joues ?", "I play.\nJe joue.", "I do not play.\nJe ne joue pas."],
+            ["Passé", "Did you play?\nAs‑tu joué ?", "I played.\nJ'ai joué.", "I did not play.\nJe n'ai pas joué."]
           ]
         }
       ]
@@ -864,15 +574,11 @@
       "sections": [
         {
           "type": "warning",
-          "content": "Um zur nächsten Lektion überzugehen, müssen Sie mindestens 90% in der Prüfung der aktuellen Lektion erreichen. Andernfalls könnte die nächste Lektion nicht vollständig verständlich sein."
+          "content": "Um zur nächsten Lektion überzugehen, müssen Sie mindestens 90% im Bereich «Lektion fortsetzen» erreichen. Andernfalls könnte die nächste Lektion nicht vollständig verständlich sein."
         },
         {
           "type": "text",
-          "content": "Jede Lektion enthält Abschnitte: Beschreibung, Vokabeln für die Lektion, Sätze und **Prüfung**. Das Hauptlernen findet im Abschnitt **Prüfung** statt. Es wird empfohlen, mehr im Abschnitt **Prüfung** zu üben."
-        },
-        {
-          "type": "text",
-          "content": "Im Englischen gibt es 3 einfache Zeiten: Zukunft (Future), Gegenwart (Present) und Vergangenheit (Past)."
+          "content": "In jeder Lektion gibt es die Bereiche «Wie lernen?», Wortschatz und **«Lektion fortsetzen»**. Das eigentliche Lernen findet in **«Lektion fortsetzen»** statt."
         },
         {
           "type": "heading",
@@ -880,41 +586,14 @@
         },
         {
           "type": "text",
-          "content": "In der Zukunftsform verwenden wir das Hilfsverb 'will'. Es wird vor dem Hauptverb platziert, um anzuzeigen, dass die Handlung in der Zukunft stattfinden wird."
-        },
-        {
-          "type": "heading",
-          "content": "Formel:"
+          "content": "Bildung: **will** + Grundform des Verbs."
         },
         {
           "type": "bullet_list",
           "items": [
-            "Frage: Will + Subjekt + Verb?",
-            "Aussage: Subjekt + will + Verb",
-            "Verneinung: Subjekt + will not + Verb"
-          ]
-        },
-        {
-          "type": "table",
-          "headers": ["Frage", "Aussage", "Verneinung"],
-          "rows": [
-            ["Will I love?  Werde ich lieben?", "I will love  Ich werde lieben", "I will not love  Ich werde nicht lieben"],
-            ["Will you love?  Wirst du lieben?", "You will love  Du wirst lieben", "You will not love  Du wirst nicht lieben"],
-            ["Will we love?  Werden wir lieben?", "We will love  Wir werden lieben", "We will not love  Wir werden nicht lieben"],
-            ["Will they love?  Werden sie lieben?", "They will love  Sie werden lieben", "They will not love  Sie werden nicht lieben"],
-            ["Will he love?  Wird er lieben?", "He will love  Er wird lieben", "He will not love  Er wird nicht lieben"],
-            ["Will she love?  Wird sie lieben?", "She will love  Sie wird lieben", "She will not love  Sie wird nicht lieben"]
-          ]
-        },
-        {
-          "type": "heading",
-          "content": "Beispiele:"
-        },
-        {
-          "type": "bullet_list",
-          "items": [
-            "Will I love? — Werde ich lieben?\nI will love. — Ich werde lieben.\nI will not love. — Ich werde nicht lieben.",
-            "Will she love? — Wird sie lieben?\nShe will love. — Sie wird lieben.\nShe will not love. — Sie wird nicht lieben."
+            "Frage: Steht **will** am Satzanfang, ist es eine Frage.\n👉 Will you play? — Wirst du spielen?",
+            "Aussage: **will** steht nach dem Subjekt.\n👉 I will play. — Ich werde spielen.",
+            "Verneinung: **will + not**.\n👉 I will not play. — Ich werde nicht spielen."
           ]
         },
         {
@@ -923,41 +602,14 @@
         },
         {
           "type": "text",
-          "content": "In der Gegenwartsform verwenden wir die Hilfsverben 'do' und 'does'. 'Does' wird mit he, she, it verwendet. In bejahenden Sätzen erhält das Verb eine -s Endung für he, she, it."
-        },
-        {
-          "type": "heading",
-          "content": "Formel:"
+          "content": "Wie bildet man:"
         },
         {
           "type": "bullet_list",
           "items": [
-            "Frage: Do/Does + Subjekt + Verb?",
-            "Aussage: Subjekt + Verb (+s für he/she/it)",
-            "Verneinung: Subjekt + do not/does not + Verb"
-          ]
-        },
-        {
-          "type": "table",
-          "headers": ["Frage", "Aussage", "Verneinung"],
-          "rows": [
-            ["Do I love?  Liebe ich?", "I love  Ich liebe", "I do not love  Ich liebe nicht"],
-            ["Do you love?  Liebst du?", "You love  Du liebst", "You do not love  Du liebst nicht"],
-            ["Do we love?  Lieben wir?", "We love  Wir lieben", "We do not love  Wir lieben nicht"],
-            ["Do they love?  Lieben sie?", "They love  Sie lieben", "They do not love  Sie lieben nicht"],
-            ["Does he love?  Liebt er?", "He loves  Er liebt", "He does not love  Er liebt nicht"],
-            ["Does she love?  Liebt sie?", "She loves  Sie liebt", "She does not love  Sie liebt nicht"]
-          ]
-        },
-        {
-          "type": "heading",
-          "content": "Beispiele:"
-        },
-        {
-          "type": "bullet_list",
-          "items": [
-            "Do I love? — Liebe ich?\nI love. — Ich liebe.\nI do not love. — Ich liebe nicht.",
-            "Does she love? — Liebt sie?\nShe loves. — Sie liebt.\nShe does not love. — Sie liebt nicht."
+            "Frage: Um eine Frage zu bilden, benutzen wir **Do** oder **Does**. Bei **I, you, we, they** — **Do**, bei **he, she, it** — **Does**.\n👉 Do you play? — Spielst du?\n👉 Does she play? — Spielt sie? (wir verwenden does, weil es she ist; bei he/she/it immer does)",
+            "Aussage: **Subjekt + Verb**. Für **he, she, it** bekommt das Verb **-s/-es**.\n👉 I play football. — Ich spiele Fußball.\n👉 She plays football. — Sie spielt Fußball. (an play hängt ein «s»)",
+            "Verneinung: **do/does + not** + Verb.\n👉 I do not play. — Ich spiele nicht.\n👉 She does not play. — Sie spielt nicht."
           ]
         },
         {
@@ -965,107 +617,68 @@
           "content": "3. Vergangenheit (Past Simple)"
         },
         {
+          "type": "bullet_list",
+          "items": [
+            "Frage: In der Vergangenheit verwenden wir **did**. Um eine Frage zu stellen, steht **did** am Satzanfang.\n👉 Did you play? — Hast du gespielt?\n👉 Did she go? — Ist sie gegangen?",
+            "Aussage: Im Präteritum gibt es zwei Verbtypen: **regelmäßige** (mit **-ed**) und **unregelmäßige**. Beispiel regulär: 👉 I played football — Ich habe Fußball gespielt. «played» ist regelmäßig, weil -ed. Beispiel unregelmäßig: 👉 She went home — Sie ging nach Hause. «went» ist die unregelmäßige Form von «go». Diese Formen muss man lernen.",
+            "Verneinung: **did not** + Grundform.\n👉 I did not play — Ich habe nicht gespielt\n👉 She did not go — Sie ist nicht gegangen"
+          ]
+        },
+        {
           "type": "text",
-          "content": "In der Vergangenheitsform verwenden wir das Hilfsverb 'did'. Das Verb steht immer in der Vergangenheitsform, die für regelmäßige Verben durch Hinzufügen von -ed gebildet wird."
+          "content": "⚡ Wichtig: Did wird in Aussagesätzen nie benutzt. Beispiel: I did played — falsch. Richtig: I played."
         },
         {
           "type": "heading",
-          "content": "Formel:"
+          "content": "Zusammenfassung"
+        },
+        {
+          "type": "text",
+          "content": "Zukunft"
         },
         {
           "type": "bullet_list",
           "items": [
-            "Frage: Did + Subjekt + Verb?",
-            "Aussage: Subjekt + Vergangenheitsform des Verbs",
-            "Verneinung: Subjekt + did not + Verb"
+            "Frage: Will vorne — (Will you go? — Wirst du gehen?)",
+            "Aussage: Will an zweiter Stelle — (I will go — Ich werde gehen)",
+            "Verneinung: Will + not — (I will not go — Ich werde nicht gehen)"
           ]
+        },
+        {
+          "type": "text",
+          "content": "Gegenwart"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Frage: Do/Does vorne — (Do you play? — Spielst du? / Does he play? — Spielt er?)",
+            "Aussage: nur Verb — (I play — Ich spiele / She plays — Sie spielt)",
+            "Verneinung: Do/Does + not — (I do not play — Ich spiele nicht / She does not play — Sie spielt nicht)"
+          ]
+        },
+        {
+          "type": "text",
+          "content": "Vergangenheit"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Frage: Did vorne — (Did you go? — Bist du gegangen?)",
+            "Aussage: Verb in der 2. Form — (I went — Ich bin gegangen)",
+            "Verneinung: Did + not + Grundform — (I didn't go — Ich bin nicht gegangen)"
+          ]
+        },
+        {
+          "type": "heading",
+          "content": "Tabellen‑Übersicht"
         },
         {
           "type": "table",
-          "headers": ["Frage", "Aussage", "Verneinung"],
+          "headers": ["Zeit", "Frage", "Aussage", "Verneinung"],
           "rows": [
-            ["Did I love?  Habe ich geliebt?", "I loved  Ich habe geliebt", "I did not love  Ich habe nicht geliebt"],
-            ["Did you love?  Hast du geliebt?", "You loved  Du hast geliebt", "You did not love  Du hast nicht geliebt"],
-            ["Did we love?  Haben wir geliebt?", "We loved  Wir haben geliebt", "We did not love  Wir haben nicht geliebt"],
-            ["Did they love?  Haben sie geliebt?", "They loved  Sie haben geliebt", "They did not love  Sie haben nicht geliebt"],
-            ["Did he love?  Hat er geliebt?", "He loved  Er hat geliebt", "He did not love  Er hat nicht geliebt"],
-            ["Did she love?  Hat sie geliebt?", "She loved  Sie hat geliebt", "She did not love  Sie hat nicht geliebt"]
-          ]
-        },
-        {
-          "type": "heading",
-          "content": "Wichtig: zwei Arten von Verben"
-        },
-        {
-          "type": "text",
-          "content": "a) Regelmäßige Verben — Endung -ed wird hinzugefügt:"
-        },
-        {
-          "type": "bullet_list",
-          "items": [
-            "work → worked",
-            "love → loved",
-            "play → played"
-          ]
-        },
-        {
-          "type": "heading",
-          "content": "Beispiele:"
-        },
-        {
-          "type": "bullet_list",
-          "items": [
-            "Did I love? — Habe ich geliebt?\nI loved. — Ich habe geliebt.\nI did not love. — Ich habe nicht geliebt."
-          ]
-        },
-        {
-          "type": "text",
-          "content": "b) Unregelmäßige Verben — ändern sich auf besondere Weise, ohne -ed. In dieser Lektion gibt es einen Abschnitt \"Regelmäßige und unregelmäßige Verben\", in dem Sie unregelmäßige Verben lernen können."
-        },
-        {
-          "type": "text",
-          "content": "Diese müssen auswendig gelernt werden. Beispiele:"
-        },
-        {
-          "type": "table",
-          "headers": ["Infinitiv (Grundform)", "Vergangenheitsform"],
-          "rows": [
-            ["go (gehen)", "went"],
-            ["have (haben)", "had"],
-            ["see (sehen)", "saw"],
-            ["do (machen)", "did"],
-            ["eat (essen)", "ate"]
-          ]
-        },
-        {
-          "type": "text",
-          "content": "Beispiele mit unregelmäßigen Verben:"
-        },
-        {
-          "type": "bullet_list",
-          "items": [
-            "Did I go to school? — Bin ich zur Schule gegangen?\nI went to school. — Ich bin zur Schule gegangen.\nI did not go to school. — Ich bin nicht zur Schule gegangen.",
-            "Did she have a cat? — Hatte sie eine Katze?\nShe had a cat. — Sie hatte eine Katze.\nShe did not have a cat. — Sie hatte keine Katze."
-          ]
-        },
-        {
-          "type": "text",
-          "content": "Wichtig: In Fragen und Verneinungen mit did steht das Verb immer in der Grundform!"
-        },
-        {
-          "type": "heading",
-          "content": "Einfache Merkhilfe:"
-        },
-        {
-          "type": "bullet_list",
-          "items": [
-            "Will — immer für die Zukunft.",
-            "Do/Does — für die Gegenwart.",
-            "Did — für die Vergangenheit.",
-            "Do not/Does not/Did not — für Verneinungen.",
-            "Bei he/she/it in der Gegenwart bekommt das Verb die Endung -s: loves, speaks, works.",
-            "In der Vergangenheit: regelmäßige Verben +ed, unregelmäßige — besondere Form (went, had, etc.)",
-            "In Fragen und Verneinungen mit did immer die Grundform des Verbs verwenden, auch bei unregelmäßigen Verben."
+            ["Zukunft", "Will you play?\nWirst du spielen?", "I will play.\nIch werde spielen.", "I will not play.\nIch werde nicht spielen."],
+            ["Gegenwart", "Do you play?\nSpielst du?", "I play.\nIch spiele.", "I do not play.\nIch spiele nicht."],
+            ["Vergangenheit", "Did you play?\nHast du gespielt?", "I played.\nIch habe gespielt.", "I did not play.\nIch habe nicht gespielt."]
           ]
         }
       ]
@@ -3217,4 +2830,5 @@
   }
   
 }
+  
   

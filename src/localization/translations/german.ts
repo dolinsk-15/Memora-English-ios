@@ -1,4 +1,7 @@
 export default {
+  app: {
+    checkingSubscription: 'Abonnement wird überprüft...',
+  },
   common: {
     back: "Zurück",
     next: "Weiter",
@@ -19,7 +22,7 @@ export default {
   lessons: {
     lessonTitle: "Lektion",
     lessonsTitle: "Lektionen",
-    description: "Beschreibung",
+    description: "Wie lernen?",
     words: "Wörter",
     sentences: "Sätze",
     texts: "Texte",
@@ -41,7 +44,8 @@ export default {
     notViewed: "Nicht angesehen",
     lessonCompleted: "Lektion {{lessonId}} abgeschlossen! 🎉",
     goToNextLesson: "Zu Lektion {{lessonId}} gehen",
-    exam: "Prüfung",
+    openDescriptionFirst: "Öffnen Sie den Abschnitt «Lektionserklärung», um alle anderen Abschnitte freizuschalten.",
+    exam: "Lektion fortsetzen",
     examInfo: "Sie benötigen mindestens 90%, um die nächste Lektion freizuschalten.",
     examPassed: "Sie haben die Prüfung bestanden! Die nächste Lektion ist freigeschaltet.",
     submitExam: "Prüfung einreichen",
@@ -49,6 +53,59 @@ export default {
     currentScore: "Aktueller Punktestand:",
   },
   paywall: {
+    // Onboarding 1
+    onboarding1Title: "Wir bieten Ihnen\n7 Tage kostenlos\num unsere App\nauszuprobieren",
+    onboarding1Subtitle: "Jetzt müssen Sie nicht bezahlen",
+    onboarding1Button: "Kostenlos testen",
+    
+    // Onboarding 2  
+    onboarding2Title: "Sie können das\nAbonnement während\nder kostenlosen 7 Tage\nkündigen, wenn es\nIhnen nicht gefällt",
+    onboarding2Subtitle: "Keine versteckten Gebühren",
+    onboarding2Button: "Kostenlos testen",
+    
+    // Main paywall
+    mainTitle: "Alle Lektionen freischalten",
+    mainSubtitle: "Erhalten Sie vollen Zugang zum Sprachenlernen",
+    
+    // Features
+    feature1: "17 Lektionen — Zugang zu allen Lernmaterialien",
+    feature2: "Wörter, die 70% der täglichen Sprache abdecken", 
+    feature3: "Einfache und klare Grammatikanalyse mit Beispielen",
+    feature4: "Trainer zum Üben von Wörtern und Sätzen",
+    feature5: "Prüfung zur Wissenskonsolidierung",
+    
+    // Subscription options
+    monthlyTitle: "Monatlich",
+    monthlyPeriod: "pro Monat",
+    yearlyTitle: "Jährlich", 
+    yearlyPeriod: "pro Jahr",
+    yearlyDiscount: "pro Monat",
+    savingsText: "Ersparnis",
+    freeTrialText: "7 Tage kostenlos",
+    
+    // Buttons and links
+    purchaseButton: "Abonnieren",
+    termsLink: "Nutzungsbedingungen",
+    restoreLink: "Käufe wiederherstellen",
+    privacyLink: "Datenschutzrichtlinie",
+    
+    // Demo alerts
+    demoModeTitle: "Demo-Modus",
+    demoModeMessage: "Kauf ist im Demo-Modus nicht verfügbar.",
+    demoRestoreMessage: "Wiederherstellung von Käufen ist im Demo-Modus nicht verfügbar.",
+    demoSelectedSubscription: "Ausgewähltes Abonnement",
+    demoPrice: "Preis",
+    okButton: "OK",
+    termsContent: "Hier werden die Nutzungsbedingungen der Anwendung stehen.",
+    privacyContent: "Hier wird die Datenschutzrichtlinie stehen.",
+    restoreSuccessTitle: "Fertig",
+    restoreSuccess: "Abonnement wiederhergestellt",
+    noPurchasesTitle: "Keine Käufe",
+    noPurchasesMessage: "Keine Käufe zum Wiederherstellen gefunden",
+    errorTitle: "Fehler",
+    restoreFailed: "Käufe konnten nicht wiederhergestellt werden",
+    
+    // Legacy (keeping for compatibility)
     unlockTitle: "Alle Lektionen freischalten",
     unlockDescription: "Erhalten Sie Zugriff auf alle Lektionen und beginnen Sie noch heute Englisch zu sprechen!",
     continueButton: "Weiter lernen",
@@ -57,7 +114,41 @@ export default {
     purchaseSuccess: "Kauf erfolgreich! Genießen Sie alle Lektionen.",
     purchaseError: "Fehler beim Kauf. Bitte versuchen Sie es erneut.",
     restoreSuccess: "Käufe erfolgreich wiederhergestellt!",
-    restoreError: "Käufe konnten nicht wiederhergestellt werden."
+    restoreError: "Käufe konnten nicht wiederhergestellt werden.",
+    feature1Legacy: "Vollzugang zu allen Lektionen",
+    feature2Legacy: "Unbegrenzte Vokabelpraxis",
+    feature3Legacy: "Erweiterte Grammatikübungen"
+  },
+  profile: {
+    title: "Profil",
+    currentStreak: "Aktuelle Serie",
+    day: "Tag",
+    days: "Tage",
+    longestStreak: "Längste Serie",
+    todayProgress: "Heutiger Fortschritt",
+    wordsToday: "Wörter heute",
+    sentencesToday: "Sätze heute",
+    dailyGoal: "Tagesziel",
+    goalCompleted: "Ziel erreicht!",
+    lifetimeStats: "Gesamtstatistik",
+    activity: "Aktivität",
+    learnedWords: "Gelernte Wörter",
+    completedLessons: "Abgeschlossene Lektionen",
+    motivation: "Bevor du durch die Reels scrollst, nimm dir 3 Minuten zum Lernen. Das entspricht 3 Reels. Gib nicht auf. Möge Gott dir das Lernen erleichtern.",
+    totalWords: "Wörter gesamt",
+    totalSentences: "Sätze gesamt",
+  },
+  tabs: {
+    profile: "Profil",
+    streak: "Serie",
+    lessons: "Lektionen",
+  },
+  streak: {
+    startToday: "Beginnen Sie Ihre Serie heute!",
+    greatStart: "Großartiger Start! Machen Sie weiter so!",
+    keepGoing: "Machen Sie weiter! Sie sind auf dem richtigen Weg!",
+    impressive: "Beeindruckend! Sie bilden eine Gewohnheit!",
+    amazing: "Unglaublich! Sie sind ein wahrer Champion!",
   },
   settings: {
     title: "Einstellungen",
@@ -65,6 +156,7 @@ export default {
     resetProgress: "Fortschritt zurücksetzen",
     privacyPolicy: "Datenschutzrichtlinie",
     termsOfService: "Nutzungsbedingungen",
+    shareApp: "App teilen",
     resetProgressWarning: "Sind Sie sicher, dass Sie den gesamten Fortschritt zurücksetzen möchten? Diese Aktion kann nicht rückgängig gemacht werden.",
     changeLanguageWarning: "Wenn Sie die Sprache ändern, wird Ihr gesamter Fortschritt zurückgesetzt. Fortfahren?",
     changeLanguageWarningShort: "Wenn Sie die Sprache ändern, wird Ihr gesamter Fortschritt zurückgesetzt",
@@ -77,6 +169,45 @@ export default {
     rateAppDescription: "Wenn das Lernen wirklich hilft — lassen Sie es uns in einer Bewertung wissen.",
     cannotOpenAppStore: "App Store kann nicht geöffnet werden",
     appStoreError: "Fehler beim Öffnen des App Stores",
+  },
+  paywall: {
+    weeklyTitle: "Wöchentlich",
+    weeklyPeriod: "pro Woche",
+    yearlyTitle: "Jährlich",
+    yearlyPeriod: "pro Jahr",
+    savingsText: "Ersparnis",
+    freeTrialText: "7 Tage gratis",
+    purchaseButton: "Abonnieren",
+    cancelAnytime: "Jederzeit kündbar",
+    loadingPrices: "Preise werden geladen...",
+    termsLink: "Nutzungsbedingungen",
+    privacyLink: "Datenschutzrichtlinie",
+    restoreLink: "Käufe wiederherstellen",
+    okButton: "OK",
+    termsContent: "Die Nutzungsbedingungen werden hier bereitgestellt.",
+    privacyContent: "Die Datenschutzrichtlinie wird hier bereitgestellt.",
+    mainTitle: "Alle Lektionen freischalten",
+    mainSubtitle: "Voller Zugang zum Sprachenlernen",
+    benefitLessons: "18 Lektionen — Zugriff auf alle Lernmaterialien",
+    benefitCoverage: "Wörter, die 90% der Alltagssprache abdecken",
+    benefitGrammar: "Einfache und klare Grammatik mit Beispielen",
+    benefitTrainers: "Trainer zum Wortlernen",
+    // Restore flow texts
+    restoreSuccessTitle: "Fertig",
+    restoreSuccess: "Abonnement wiederhergestellt",
+    noPurchasesTitle: "Keine Käufe",
+    noPurchasesMessage: "Keine Käufe zum Wiederherstellen gefunden",
+    errorTitle: "Fehler",
+    restoreFailed: "Käufe konnten nicht wiederhergestellt werden",
+    onboarding1Title: "Wir bieten Ihnen\n7 Tage kostenlos\num unsere App\nauszuprobieren",
+    onboarding1Subtitle: "Jetzt müssen Sie nicht bezahlen",
+    onboarding1Button: "Kostenlos testen",
+    onboarding2Title: "Sie können das\nAbonnement während\nder kostenlosen 7 Tage\nkündigen, wenn es\nIhnen nicht gefällt",
+    onboarding2Subtitle: "Keine versteckten Gebühren",
+    onboarding2Button: "Kostenlos testen",
+  },
+  notifications: {
+    dailyReminder: "Zeit, dem Englisch 3 Minuten zu widmen",
   },
   repetitions: {
     nextItem: "Nächstes Element",
@@ -101,16 +232,31 @@ export default {
     invalidInput: "Ungültige Eingabe",
     enterPositiveNumber: "Bitte geben Sie eine positive Zahl ein"
   },
+  learn: {
+    enterEnglishWord: "Geben Sie das englische Wort ein:",
+    learnedCounter: "Gelernt: {{learned}}/{{total}} Wörter",
+    allWordsLearnedTitle: "Alle Wörter gelernt!",
+    allWordsLearnedMessage: "Glückwunsch! Sie haben alle {{total}} Wörter in dieser Lektion gelernt!",
+    retry: "Wiederholen",
+    skip: "Überspringen",
+    next: "Weiter",
+  },
   words: {
+    learn: "Lernen",
+    repeat: "Wiederholen",
     irregularVerb: "unregelmäßiges Verb",
     irregularVerbsSection: "Unregelmäßige Verben",
-    phrasalVerbsSection: "Phrasal Verben",
+    phrasalVerbsSection: "Phrasalverben",
     pastParticipleSection: "Partizip Perfekt",
+    resetWordsTitle: "Wortfortschritt zurücksetzen",
+    resetWordsMessage: "Sind Sie sicher, dass Sie den gesamten Wortfortschritt zurücksetzen möchten?",
+    resetShort: "Zurücksetzen",
+    resetButton: "Zurücksetzen",
     pressTheButton: "Drücken Sie die Taste",
     repeatButtonHint: "Drücken Sie die Taste"
   },
   exam: {
-    title: "Prüfung",
+    title: "Lektion fortsetzen",
     currentResult: "Aktuelles Ergebnis",
     check: "Überprüfen",
     next: "Weiter",
@@ -120,7 +266,7 @@ export default {
     correctAnswer: "Richtige Antwort",
     completed: "Prüfung abgeschlossen",
     yourScore: "Deine Punktzahl: {{score}}%",
-    successMessage: "Du hast die Prüfung bestanden!",
+    successMessage: "Du hast die Lektion abgeschlossen.",
     noSentences: "Keine Sätze für diese Lektion verfügbar",
     tryAgain: "Erneut versuchen"
   },

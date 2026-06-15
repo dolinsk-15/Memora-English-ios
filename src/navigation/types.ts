@@ -1,27 +1,9 @@
 export type MainStackParamList = {
-  LessonList: undefined;
-  LessonDetail: { lessonId: number };
-  Description: { lessonId: number };
-  Words: {
-    lessonId: number;
-    wordListType?: 'firstList' | 'secondList';
-  };
-  Sentences: { lessonId: number };
-  Texts: { lessonId: number };
-  Exam: { lessonId: number };
-  RepeatCounting: { 
-    lessonId: number;
-    itemId?: number;
-    itemType?: 'word' | 'sentence' | 'text';
-    targetRepetitions?: number;
-    textData?: {
-      english: string;
-      translated: string;
-    };
-  };
-  Settings: undefined;
+  TabNavigator: undefined;
+  Profile: undefined;
+  Streak: undefined;
   Paywall: undefined;
-  ChangeLanguage: undefined;
+  PaywallFlow: undefined;
 };
 
 export type AuthStackParamList = {

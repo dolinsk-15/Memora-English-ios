@@ -10,6 +10,8 @@ import AuthNavigator from './AuthNavigator';
 import { LocalizationProvider, useLocalization } from '../contexts/LocalizationContext';
 // import SuperwallService from '../services/SuperwallService';
 import { RootNavigationProvider } from '../contexts/RootNavigationContext';
+import StreakAnimation from '../components/StreakAnimation';
+import { StreakAnimationProvider, useStreakAnimation } from '../contexts/StreakAnimationContext';
 
 const Stack = createNativeStackNavigator<RootStackParamList>();
 
@@ -70,6 +72,10 @@ const RootNavigationStack = () => {
 const RootNavigator = ({ onReady }: { onReady?: () => void }) => {
   const navigationRef = useRef<NavigationContainerRef<RootStackParamList>>(null);
   const [isNavigationReady, setIsNavigationReady] = useState(false);
+  const [streakAnimation, setStreakAnimation] = useState<{visible: boolean; newStreak: number}>({
+    visible: false,
+    newStreak: 0
+  });
 
   // Метод, вызываемый когда навигация готова
   const onNavigationReady = () => {
@@ -81,19 +87,43 @@ const RootNavigator = ({ onReady }: { onReady?: () => void }) => {
     }
   };
 
+  const showStreakAnimation = (newStreak: number) => {
+    setStreakAnimation({ visible: true, newStreak });
+  };
+
+  const hideStreakAnimation = () => {
+    setStreakAnimation({ visible: false, newStreak: 0 });
+  };
+
   return (
     <LocalizationProvider>
       <NavigationContainer 
         ref={navigationRef}
         onReady={onNavigationReady}
       >
+        <StreakAnimationProvider>
         {navigationRef.current ? (
           <RootNavigationProvider navigation={navigationRef.current}>
+              <View style={{ flex: 1 }}>
             <RootNavigationStack />
+                <StreakAnimation
+                  visible={streakAnimation.visible}
+                  newStreak={streakAnimation.newStreak}
+                  onAnimationComplete={() => setStreakAnimation({ visible: false, newStreak: 0 })}
+                />
+              </View>
           </RootNavigationProvider>
         ) : (
+            <View style={{ flex: 1 }}>
           <RootNavigationStack />
+              <StreakAnimation
+                visible={streakAnimation.visible}
+                newStreak={streakAnimation.newStreak}
+                onAnimationComplete={() => setStreakAnimation({ visible: false, newStreak: 0 })}
+              />
+            </View>
         )}
+        </StreakAnimationProvider>
       </NavigationContainer>
     </LocalizationProvider>
   );

@@ -19,14 +19,14 @@ import {
 import { Ionicons } from '@expo/vector-icons';
 import { LinearGradient } from 'expo-linear-gradient';
 import type { NativeStackScreenProps } from '@react-navigation/native-stack';
-import { MainStackParamList } from '../../navigation/types';
+import { LessonsStackParamList } from '../../navigation/LessonsStackNavigator';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { useTranslation } from '../../localization';
 import RepetitionCountModal from '../../components/RepetitionCountModal';
 import { lessonService } from '../../services/lessonService';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
-type Props = NativeStackScreenProps<MainStackParamList, 'Sentences'>;
+type Props = NativeStackScreenProps<LessonsStackParamList, 'Sentences'>;
 
 interface SentenceItem {
   id: number;
@@ -317,7 +317,11 @@ const SentencesScreen: React.FC<Props> = ({ navigation, route }) => {
       lessonId,
       itemId: sentenceId,
       itemType: 'sentence',
-      targetRepetitions
+      targetRepetitions,
+      onProgressUpdate: () => {
+        // Обновляем прогресс сразу при изменении
+        loadSavedProgress();
+      }
     });
   };
 
@@ -344,7 +348,7 @@ const SentencesScreen: React.FC<Props> = ({ navigation, route }) => {
         start={{ x: 0, y: 0 }}
         end={{ x: 1, y: 1 }}
       >
-        <SafeAreaView style={styles.safeArea} edges={["top", "left", "right", "bottom"]}>
+        <SafeAreaView style={styles.safeArea} edges={["top", "left", "right"]}>
             {/* Header */}
             <View style={styles.navigationHeader}>
                 <TouchableOpacity style={styles.backButton} onPress={() => navigation.goBack()}>
@@ -379,7 +383,7 @@ const SentencesScreen: React.FC<Props> = ({ navigation, route }) => {
       end={{ x: 1, y: 1 }}
     >
       <StatusBar barStyle="light-content" />
-      <SafeAreaView style={styles.safeArea} edges={["top", "left", "right", "bottom"]}>
+      <SafeAreaView style={styles.safeArea} edges={["top", "left", "right"]}>
         {/* Header Background */}
         <Animated.View style={[styles.headerBackground, { opacity: headerOpacity }]} />
         

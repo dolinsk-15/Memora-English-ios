@@ -3,10 +3,10 @@ import { View, StyleSheet, TouchableOpacity, Text } from 'react-native';
 import WordCard from '../components/WordCard';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { useNavigation, useRoute, RouteProp } from '@react-navigation/native';
-import { MainStackParamList } from '../src/navigation/types';
+import { LessonsStackParamList } from '../s../navigation/LessonsStackNavigator';
 
 // Определяем тип для параметров маршрута
-type RepeatCountingRouteProp = RouteProp<MainStackParamList, 'RepeatCounting'>;
+type RepeatCountingRouteProp = RouteProp<LessonsStackParamList, 'RepeatCounting'>;
 
 const RepeatWordsScreen = () => {
   const route = useRoute<RepeatCountingRouteProp>();
