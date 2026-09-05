@@ -42,7 +42,7 @@
 		E21000012C00000D /* WordReviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordReviewView.swift; sourceTree = "<group>"; };
 		E21000012C00000E /* ExamView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExamView.swift; sourceTree = "<group>"; };
 		E21000012C00000F /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
-		E21000012C000010 /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Localizable.strings; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		E21000012C000012 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		E21000012C000011 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -238,6 +238,7 @@
 		E21000012C000010 /* Localizable.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
+				E21000012C000012 /* en */,
 				E21000012C000011 /* ru */,
 			);
 			name = Localizable.strings;
