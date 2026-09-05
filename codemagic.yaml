@@ -1,0 +1,43 @@
+workflows:
+  ios-simulator-build:
+    name: iOS Simulator Build
+    instance_type: mac_mini_m2
+    max_build_duration: 60
+    environment:
+      xcode: latest
+      vars:
+        XCODE_PROJECT: MemoraEnglish/MemoraEnglish.xcodeproj
+        XCODE_SCHEME: MemoraEnglish
+    scripts:
+      - name: Set up local properties
+        script: |
+          echo "Building MemoraEnglish for iOS Simulator"
+          echo "Project: $XCODE_PROJECT"
+          echo "Scheme: $XCODE_SCHEME"
+      
+      - name: Build for iOS Simulator
+        script: |
+          set -o pipefail
+          xcodebuild \
+            -project "$XCODE_PROJECT" \
+            -scheme "$XCODE_SCHEME" \
+            -sdk iphonesimulator \
+            -destination "generic/platform=iOS Simulator" \
+            -configuration Debug \
+            CODE_SIGNING_ALLOWED=NO \
+            clean build 2>&1 | tee xcodebuild.log
+      
+      - name: Find built app
+        script: |
+          APP_PATH=$(find ~/Library/Developer/Xcode/DerivedData -name "*.app" -type d | head -1)
+          if [ -n "$APP_PATH" ]; then
+            echo "Found app at: $APP_PATH"
+            cp -r "$APP_PATH" "$CM_BUILD_DIR/"
+          else
+            echo "App bundle not found in DerivedData, checking build output..."
+          fi
+    
+    artifacts:
+      - xcodebuild.log
+      - "**/*.app"
+      - ~/Library/Developer/Xcode/DerivedData/**/Build/Products/**/*.app
